@@ -70,7 +70,7 @@ export default function App() {
     setImportStatus("Importando…");
     try {
       const counts = await importWorkbook(file);
-      setImportStatus(`${counts.masters + counts.tfg + counts.tasks + counts.documents} registros locales`);
+      setImportStatus(`${counts.tasks} tareas · ${counts.masters} másteres · ${counts.tfg} TFG`);
     } catch (caught) {
       setImportStatus(caught instanceof Error ? caught.message : "No se pudo leer el Excel");
     }

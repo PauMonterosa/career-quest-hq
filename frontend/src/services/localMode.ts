@@ -3,11 +3,24 @@ import type { Agent, TaskResponse } from "../types";
 
 type Row = Record<string, unknown>;
 type LocalData = { masters: Row[]; tfg: Row[]; tasks: Row[]; emails: Row[]; documents: Row[]; importedAt?: string };
+type DataTarget = Exclude<keyof LocalData, "importedAt">;
 
 const STORAGE_KEY = "career-quest-hq-data-v1";
 const normalize = (value: unknown) => String(value ?? "").normalize("NFD").replace(/[\u0300-\u036f]/g, "")
   .toLowerCase().replace(/[^a-z0-9]+/g, "_").replace(/^_|_$/g, "");
 const value = (row: Row, keys: string[]) => keys.map(normalize).map(key => row[key]).find(item => item !== "" && item != null);
+
+function detectTarget(sheetName: string, headers: string[]): DataTarget | null {
+  const name = normalize(sheetName);
+  const headerSet = new Set(headers);
+  const has = (...candidates: string[]) => candidates.some(candidate => headerSet.has(normalize(candidate)));
+  if (/mapa.*master|master.*mapa/.test(name) || (has("programa") && has("universitat", "universidad"))) return "masters";
+  if (/tfg/.test(name) || (has("possible_tfg", "posible_tfg") && has("centre", "centro"))) return "tfg";
+  if (/pla.*accio|accion|tasques|tareas/.test(name) || (has("tasca", "tarea") && has("estat", "estado", "status"))) return "tasks";
+  if (/correu|email|mail/.test(name) || has("assumpte", "asunto", "destinatari", "destinatario")) return "emails";
+  if (/document|portfolio/.test(name) || (has("document", "fitxer", "archivo") && has("estat", "estado", "status"))) return "documents";
+  return null;
+}
 
 const DEFAULT_AGENTS: Agent[] = [
   ["atlas", "ATLAS", "Master Programme Scout", "Analytical explorer", "masters_archive", "#4b8cff", "map"],
@@ -33,12 +46,12 @@ export async function importWorkbook(file: File) {
   const result: LocalData = { masters: [], tfg: [], tasks: [], emails: [], documents: [], importedAt: new Date().toISOString() };
   const sheets = await readXlsxFile(file);
   for (const sheet of sheets) {
-    const target = ({ mapa_masters: "masters", tfg_barcelona: "tfg", pla_d_accio: "tasks", correus: "emails", documents: "documents" } as const)[normalize(sheet.sheet) as "mapa_masters"];
-    if (!target) continue;
     const rows = sheet.data;
     const headerIndex = rows.findIndex(row => row.filter(cell => cell != null && cell !== "").length >= 2);
     if (headerIndex < 0) continue;
     const headers = rows[headerIndex].map((cell, index) => normalize(cell) || `column_${index + 1}`);
+    const target = detectTarget(sheet.sheet, headers);
+    if (!target) continue;
     result[target] = rows.slice(headerIndex + 1).filter(row => row.some(cell => cell != null && cell !== "")).map(row =>
       Object.fromEntries(headers.map((header, index) => [header, row[index] instanceof Date ? (row[index] as Date).toISOString() : row[index]])));
   }
@@ -47,7 +60,13 @@ export async function importWorkbook(file: File) {
     throw new Error("El libro se abrió, pero no contiene las hojas esperadas: mapa_masters, tfg_barcelona, pla_d_accio, correus o documents.");
   }
   localStorage.setItem(STORAGE_KEY, JSON.stringify(result));
-  return { masters: result.masters.length, tfg: result.tfg.length, tasks: result.tasks.length, documents: result.documents.length };
+  return {
+    masters: result.masters.length,
+    tfg: result.tfg.length,
+    tasks: result.tasks.length,
+    emails: result.emails.length,
+    documents: result.documents.length,
+  };
 }
 
 let localTaskId = 10_000;
