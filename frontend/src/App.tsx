@@ -71,8 +71,8 @@ export default function App() {
     try {
       const counts = await importWorkbook(file);
       setImportStatus(`${counts.masters + counts.tfg + counts.tasks + counts.documents} registros locales`);
-    } catch {
-      setImportStatus("No se pudo leer el Excel");
+    } catch (caught) {
+      setImportStatus(caught instanceof Error ? caught.message : "No se pudo leer el Excel");
     }
   }
 

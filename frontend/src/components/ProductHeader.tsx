@@ -15,7 +15,7 @@ export function ProductHeader({ activeTasks, approvals, onImport, importStatus }
     </div>
     <nav className="header-actions" aria-label="Herramientas">
       <label className="import-button" title="Importar Excel">
-        <input type="file" accept=".xlsx" onChange={event => {
+        <input type="file" accept=".xlsx,.xlsm,application/vnd.openxmlformats-officedocument.spreadsheetml.sheet,application/vnd.ms-excel.sheet.macroEnabled.12" onChange={event => {
           const file = event.target.files?.[0]; if (file) void onImport(file); event.target.value = "";
         }} />
         <span aria-hidden="true">⇧</span><b>Importar Excel</b>

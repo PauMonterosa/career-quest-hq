@@ -27,6 +27,9 @@ export function localData(): LocalData {
 }
 
 export async function importWorkbook(file: File) {
+  if (!/\.(xlsx|xlsm)$/i.test(file.name)) {
+    throw new Error("Formato no compatible. Selecciona un archivo .xlsx o .xlsm.");
+  }
   const result: LocalData = { masters: [], tfg: [], tasks: [], emails: [], documents: [], importedAt: new Date().toISOString() };
   const sheets = await readXlsxFile(file);
   for (const sheet of sheets) {
@@ -38,6 +41,10 @@ export async function importWorkbook(file: File) {
     const headers = rows[headerIndex].map((cell, index) => normalize(cell) || `column_${index + 1}`);
     result[target] = rows.slice(headerIndex + 1).filter(row => row.some(cell => cell != null && cell !== "")).map(row =>
       Object.fromEntries(headers.map((header, index) => [header, row[index] instanceof Date ? (row[index] as Date).toISOString() : row[index]])));
+  }
+  const total = result.masters.length + result.tfg.length + result.tasks.length + result.emails.length + result.documents.length;
+  if (total === 0) {
+    throw new Error("El libro se abrió, pero no contiene las hojas esperadas: mapa_masters, tfg_barcelona, pla_d_accio, correus o documents.");
   }
   localStorage.setItem(STORAGE_KEY, JSON.stringify(result));
   return { masters: result.masters.length, tfg: result.tfg.length, tasks: result.tasks.length, documents: result.documents.length };
