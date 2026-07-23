@@ -7,6 +7,7 @@ import { ResultDrawer } from "./components/ResultDrawer";
 import { ResultToast } from "./components/ResultToast";
 import { clearMapFeedback, focusAgent, gameEvents, moveAgent, setVisualStatus, showAgentDialogue, syncAgents } from "./game/events";
 import type { Agent, TaskResponse } from "./types";
+import { importWorkbook } from "./services/localMode";
 
 const destinations: Record<string, string> = {
   atlas: "masters_archive", nova: "tfg_laboratory", echo: "mail_room",
@@ -42,6 +43,7 @@ export default function App() {
   const [error, setError] = useState<string | null>(null);
   const [drawerOpen, setDrawerOpen] = useState(false);
   const [toastVisible, setToastVisible] = useState(false);
+  const [importStatus, setImportStatus] = useState("Modo local disponible");
   const selected = agents.find(agent => agent.id === selectedId) ?? null;
 
   useEffect(() => {
@@ -62,6 +64,16 @@ export default function App() {
   function select(agent: Agent) {
     setSelectedId(agent.id); setResult(null); setDrawerOpen(false); setToastVisible(false); clearMapFeedback(); focusAgent(agent.id);
     showAgentDialogue(agent.id, agentGreetings[agent.id] ?? "Selecciona una misión para empezar.", "mission");
+  }
+
+  async function handleImport(file: File) {
+    setImportStatus("Importando…");
+    try {
+      const counts = await importWorkbook(file);
+      setImportStatus(`${counts.masters + counts.tfg + counts.tasks + counts.documents} registros locales`);
+    } catch {
+      setImportStatus("No se pudo leer el Excel");
+    }
   }
 
   async function run(skill: string) {
@@ -89,7 +101,8 @@ export default function App() {
 
   return <main className="app-shell">
     <ProductHeader activeTasks={agents.filter(agent => ["walking", "working"].includes(agent.status)).length}
-      approvals={agents.filter(agent => agent.status === "waiting_approval").length} />
+      approvals={agents.filter(agent => agent.status === "waiting_approval").length}
+      onImport={handleImport} importStatus={importStatus} />
     <section className="main-workspace">
       <section className="hq-column" aria-label="Mundo Career Quest">
         <div className="hq-heading"><div><span>HQ WORLD · FLOOR 01</span><h1>Tu futuro, convertido en misiones.</h1></div><p>Selecciona un agente o pulsa sobre el suelo para explorar.</p></div>

@@ -2,24 +2,23 @@
   "name": "Career Quest HQ",
   "short_name": "Career Quest",
   "description": "Tu centro de mando visual para másteres, TFG, tareas y portfolio.",
-  "start_url": "/",
+  "start_url": "./",
   "display": "standalone",
   "background_color": "#0d0e16",
   "theme_color": "#17151a",
   "orientation": "any",
   "icons": [
     {
-      "src": "/icons/icon-192.png",
+      "src": "icons/icon-192.png",
       "sizes": "192x192",
       "type": "image/png",
       "purpose": "any"
     },
     {
-      "src": "/icons/icon-512.png",
+      "src": "icons/icon-512.png",
       "sizes": "512x512",
       "type": "image/png",
       "purpose": "any maskable"
     }
   ]
 }
-

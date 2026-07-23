@@ -19,7 +19,7 @@ export function ResultDrawer({ agent, result, open, onToggle }: {
   const items = Array.isArray(output.items) ? output.items as Array<Record<string, unknown>> : [];
   return <section className={`result-drawer ${open ? "drawer-open" : ""}`} aria-label="Resultado actual">
     <button className="drawer-summary" onClick={onToggle} aria-expanded={open}>
-      <img src={`/assets/agents/${agent.id}.png`} alt="" />
+      <img src={`${import.meta.env.BASE_URL}assets/agents/${agent.id}.png`} alt="" />
       <span><small>RESULTADO ACTUAL</small><strong>{String(output.title ?? "Resultado del agente")}</strong></span>
       <AgentStatusBadge status={result.status} />
       <i aria-hidden="true">{open ? "⌄" : "⌃"}</i>
@@ -40,7 +40,7 @@ export function ResultDrawer({ agent, result, open, onToggle }: {
       {result.requires_approval && <div className="approval-panel"><strong>Revisión necesaria</strong><p>Nada se enviará ni publicará sin tu aprobación.</p><button>Revisar borrador</button></div>}
       {result.skill === "build_weekly_plan" && <div className="calendar-export">
         <div><strong>Programar en calendario</strong><p>Descarga las tareas fechadas en un archivo compatible con Google Calendar, Outlook y Apple Calendar.</p></div>
-        <a href={api.calendarUrl()} download>Descargar .ics</a>
+        <button type="button" onClick={() => void api.downloadCalendar()}>Descargar .ics</button>
       </div>}
       <footer className="drawer-audit"><span>Tarea #{result.task_id}</span><span>{result.is_mock ? "Análisis local" : "Ejecución real auditada"}</span></footer>
     </div>}

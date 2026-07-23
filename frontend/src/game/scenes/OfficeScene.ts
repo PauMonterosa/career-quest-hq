@@ -63,9 +63,9 @@ export class OfficeScene extends Phaser.Scene {
   constructor() { super("office"); }
 
   preload() {
-    this.load.image("career-hq-v4", "/assets/career-quest-hq-isometric-v4-clean.png");
+    this.load.image("career-hq-v4", `${import.meta.env.BASE_URL}assets/career-quest-hq-isometric-v4-clean.png`);
     ["atlas", "nova", "echo", "chronos", "pixel"].forEach(agentId =>
-      this.load.image(`agent-${agentId}`, `/assets/agents/${agentId}.png`));
+      this.load.image(`agent-${agentId}`, `${import.meta.env.BASE_URL}assets/agents/${agentId}.png`));
   }
 
   create() {
