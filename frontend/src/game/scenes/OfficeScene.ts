@@ -546,7 +546,15 @@ export class OfficeScene extends Phaser.Scene {
     this.setStatus(agentId, "walking");
     if (this.selectedAgent === agentId) this.destinationMarker?.setPosition(target.x, target.y + 6).setVisible(true).setDepth(target.y + 30);
     const duration = Phaser.Math.Clamp(Phaser.Math.Distance.Between(avatar.x, avatar.y, target.x, target.y) * 5, 650, 1900);
-    this.tweens.add({ targets: parts.sprite, y: 22, angle: 1.6, duration: 150, yoyo: true, repeat: -1 });
+    if (agentId === "brasa") {
+      this.tweens.add({
+        targets: parts.sprite,
+        x: 4, y: 20, angle: 5, scaleX: 1.04, scaleY: 0.96,
+        duration: 190, ease: "Sine.InOut", yoyo: true, repeat: -1,
+      });
+    } else {
+      this.tweens.add({ targets: parts.sprite, y: 22, angle: 1.6, duration: 150, yoyo: true, repeat: -1 });
+    }
     this.tweens.add({
       targets: avatar, x: target.x, y: target.y, duration, ease: "Linear",
       onUpdate: () => {
@@ -555,7 +563,7 @@ export class OfficeScene extends Phaser.Scene {
       },
       onComplete: () => {
         this.tweens.killTweensOf(parts.sprite);
-        parts.sprite.setY(27).setAngle(0);
+        parts.sprite.setPosition(0, 27).setAngle(0).setScale(1);
         this.moving.delete(agentId);
         if (this.selectedAgent === agentId) this.destinationMarker?.setVisible(false);
         if (mission) this.setStatus(agentId, "working");
