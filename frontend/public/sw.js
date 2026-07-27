@@ -1,4 +1,4 @@
-const CACHE = "career-quest-hq-v2";
+const CACHE = "career-quest-hq-v3";
 const base = new URL(self.registration.scope).pathname;
 const asset = path => `${base}${path}`;
 const APP_SHELL = [base, asset("manifest.webmanifest"), asset("icons/icon-192.png"), asset("icons/icon-512.png")];

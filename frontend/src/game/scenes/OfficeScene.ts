@@ -20,10 +20,12 @@ const stationTiles: Record<string, { point: Point; label: string; action: string
   tfg_laboratory: { point: { x: 246, y: 462 }, label: "TFG LABORATORY", action: "ANALYSING SAMPLES", sitting: true },
   mail_room: { point: { x: 455, y: 469 }, label: "MAIL ROOM", action: "DRAFTING EMAIL", sitting: true },
   portfolio_workshop: { point: { x: 667, y: 461 }, label: "PORTFOLIO WORKSHOP", action: "BUILDING PORTFOLIO", sitting: true },
+  food_kitchen: { point: { x: 805, y: 500 }, label: "FOODTRUCK CANTEEN", action: "COORDINATING MEALS", sitting: false },
 };
 const startTiles: Record<string, Point> = {
   chronos: { x: 515, y: 351 }, atlas: { x: 414, y: 341 }, nova: { x: 366, y: 420 },
   echo: { x: 488, y: 422 }, pixel: { x: 574, y: 422 },
+  brasa: { x: 770, y: 455 },
 };
 const NAV_NODES: Record<string, Point> = {
   control: { x: 341, y: 279 }, controlDoor: { x: 392, y: 322 },
@@ -32,6 +34,7 @@ const NAV_NODES: Record<string, Point> = {
   labDoor: { x: 352, y: 398 }, lab: { x: 246, y: 462 },
   mailDoor: { x: 430, y: 407 }, mail: { x: 455, y: 469 },
   workshopDoor: { x: 552, y: 398 }, workshop: { x: 667, y: 461 },
+  canteenDoor: { x: 742, y: 444 }, canteen: { x: 805, y: 500 },
 };
 const NAV_EDGES: Record<string, string[]> = {
   control: ["controlDoor"], controlDoor: ["control", "upperLanding"],
@@ -40,11 +43,13 @@ const NAV_EDGES: Record<string, string[]> = {
   lowerLanding: ["upperLanding", "labDoor", "mailDoor", "workshopDoor"],
   labDoor: ["lowerLanding", "lab"], lab: ["labDoor"],
   mailDoor: ["lowerLanding", "mail"], mail: ["mailDoor"],
-  workshopDoor: ["lowerLanding", "workshop"], workshop: ["workshopDoor"],
+  workshopDoor: ["lowerLanding", "workshop"], workshop: ["workshopDoor", "canteenDoor"],
+  canteenDoor: ["workshop", "canteen"], canteen: ["canteenDoor"],
 };
 const AGENT_EFFECTS: Record<string, string> = {
   atlas: "◆  ◆  ◆", nova: "✦  +  ✦", echo: "✉  ···  ➜", chronos: "◷  03:14", pixel: "⚙  ✦  ⚙",
 };
+AGENT_EFFECTS.brasa = "♨  ·  ♨";
 
 export class OfficeScene extends Phaser.Scene {
   private avatars = new Map<string, Phaser.GameObjects.Container>();
@@ -64,13 +69,14 @@ export class OfficeScene extends Phaser.Scene {
 
   preload() {
     this.load.image("career-hq-v4", `${import.meta.env.BASE_URL}assets/career-quest-hq-isometric-v4-clean.png`);
-    ["atlas", "nova", "echo", "chronos", "pixel"].forEach(agentId =>
+    ["atlas", "nova", "echo", "chronos", "pixel", "brasa"].forEach(agentId =>
       this.load.image(`agent-${agentId}`, `${import.meta.env.BASE_URL}assets/agents/${agentId}.png`));
   }
 
   create() {
     this.cameras.main.setBackgroundColor("#472b38");
     this.add.image(450, 310, "career-hq-v4").setDisplaySize(900, 505).setDepth(-500);
+    this.drawCanteenPortal();
     this.selectionRing = this.add.ellipse(0, 0, 38, 17).setStrokeStyle(2, 0xffdc74).setFillStyle(0xffdc74, 0.16).setDepth(700);
     this.destinationMarker = this.add.polygon(0, 0, [0, -8, 16, 0, 0, 8, -16, 0], 0xffdc74, 0.34).setVisible(false).setDepth(20);
     this.createResultHud();
@@ -155,6 +161,24 @@ export class OfficeScene extends Phaser.Scene {
     this.add.text(452, 373, "CENTRAL STAIRS", {
       fontFamily: "monospace", fontSize: "7px", color: "#ffd990", backgroundColor: "#2b1712bb", padding: { x: 4, y: 2 },
     }).setOrigin(0.5).setDepth(92);
+  }
+
+  private drawCanteenPortal() {
+    const g = this.add.graphics().setDepth(85);
+    g.fillStyle(0x251713, 0.86).lineStyle(3, 0xe0a05b, 0.92);
+    g.fillRoundedRect(744, 414, 146, 112, 12).strokeRoundedRect(744, 414, 146, 112, 12);
+    g.fillStyle(0x315f5c, 1).lineStyle(2, 0x173b3a, 1);
+    g.fillRoundedRect(757, 453, 120, 53, 7).strokeRoundedRect(757, 453, 120, 53, 7);
+    g.fillStyle(0xd07a49, 1).fillRect(752, 448, 130, 10);
+    g.fillStyle(0x25252a, 1).lineStyle(2, 0xf1c676, 1).fillEllipse(804, 448, 42, 14).strokeEllipse(804, 448, 42, 14);
+    g.fillStyle(0x75402f, 1).fillRect(784, 428, 40, 19);
+    g.lineStyle(3, 0xf3d8aa, 0.75).lineBetween(794, 426, 790, 416).lineBetween(805, 426, 809, 413).lineBetween(816, 426, 820, 417);
+    this.add.text(817, 471, "06\nCANTEEN", {
+      fontFamily: "monospace", fontSize: "9px", fontStyle: "bold", align: "center", color: "#ffe5a6",
+    }).setOrigin(0.5).setDepth(90);
+    this.add.text(817, 516, "FOODTRUCK PORTAL", {
+      fontFamily: "monospace", fontSize: "7px", color: "#7ee0c2", backgroundColor: "#241411dd", padding: { x: 5, y: 2 },
+    }).setOrigin(0.5).setDepth(91);
   }
 
   private drawBackdrop() {
@@ -429,6 +453,10 @@ export class OfficeScene extends Phaser.Scene {
       [-9, 0, 9].forEach(x => g.lineBetween(x, -11, x, 11));
       g.lineBetween(-18, 0, 18, 0);
       g.lineStyle(3, 0x7f6a76).lineBetween(-7, 11, -11, 18).lineBetween(7, 11, 11, 18);
+    } else if (agentId === "brasa") {
+      g.fillStyle(0x5f3c32).lineStyle(2, 0xf0be73).fillEllipse(0, 5, 30, 14).strokeEllipse(0, 5, 30, 14);
+      g.fillStyle(0xc4663f).fillRect(-13, -2, 26, 8);
+      g.lineStyle(2, 0xf7dfb0, 0.9).lineBetween(-7, -5, -10, -16).lineBetween(1, -5, 4, -18).lineBetween(9, -5, 12, -15);
     } else {
       g.fillStyle(0x74c8da).lineStyle(2, 0x263c4e).fillCircle(0, 0, 10).strokeCircle(0, 0, 10);
       g.lineBetween(7, 7, 15, 15);
@@ -518,7 +546,15 @@ export class OfficeScene extends Phaser.Scene {
     this.setStatus(agentId, "walking");
     if (this.selectedAgent === agentId) this.destinationMarker?.setPosition(target.x, target.y + 6).setVisible(true).setDepth(target.y + 30);
     const duration = Phaser.Math.Clamp(Phaser.Math.Distance.Between(avatar.x, avatar.y, target.x, target.y) * 5, 650, 1900);
-    this.tweens.add({ targets: parts.sprite, y: 22, angle: 1.6, duration: 150, yoyo: true, repeat: -1 });
+    if (agentId === "brasa") {
+      this.tweens.add({
+        targets: parts.sprite,
+        x: 4, y: 20, angle: 5, scaleX: 1.04, scaleY: 0.96,
+        duration: 190, ease: "Sine.InOut", yoyo: true, repeat: -1,
+      });
+    } else {
+      this.tweens.add({ targets: parts.sprite, y: 22, angle: 1.6, duration: 150, yoyo: true, repeat: -1 });
+    }
     this.tweens.add({
       targets: avatar, x: target.x, y: target.y, duration, ease: "Linear",
       onUpdate: () => {
@@ -527,7 +563,7 @@ export class OfficeScene extends Phaser.Scene {
       },
       onComplete: () => {
         this.tweens.killTweensOf(parts.sprite);
-        parts.sprite.setY(27).setAngle(0);
+        parts.sprite.setPosition(0, 27).setAngle(0).setScale(1);
         this.moving.delete(agentId);
         if (this.selectedAgent === agentId) this.destinationMarker?.setVisible(false);
         if (mission) this.setStatus(agentId, "working");
@@ -549,6 +585,7 @@ export class OfficeScene extends Phaser.Scene {
       chronos: { x: 21, y: -8, angle: 3, scale: 1.1, duration: 510 },
       pixel: { x: 25, y: -10, angle: 6, scale: 1.08, duration: 720 },
       atlas: { x: 28, y: -10, angle: 12, scale: 1.08, duration: 560 },
+      brasa: { x: 25, y: -8, angle: -5, scale: 1.08, duration: 480 },
     }[agentId] ?? { x: 22, y: -10, angle: 4, scale: 1.08, duration: 520 };
     this.tweens.add({
       targets: parts.sprite,
@@ -570,6 +607,8 @@ export class OfficeScene extends Phaser.Scene {
       this.tweens.add({ targets: parts.prop, scaleX: 0.82, duration: 260, yoyo: true, repeat: -1, repeatDelay: 700 });
     } else if (agentId === "pixel") {
       this.tweens.add({ targets: parts.effect, angle: 360, duration: 2200, repeat: -1 });
+    } else if (agentId === "brasa") {
+      this.tweens.add({ targets: parts.effect, y: -42, alpha: 0.25, duration: 900, yoyo: true, repeat: -1 });
     }
   }
 
@@ -623,6 +662,7 @@ export class OfficeScene extends Phaser.Scene {
       new Phaser.Geom.Rectangle(365, 370, 190, 145),
       new Phaser.Geom.Rectangle(555, 366, 205, 145),
       new Phaser.Geom.Rectangle(350, 310, 210, 105),
+      new Phaser.Geom.Rectangle(740, 410, 155, 120),
     ];
     return walkableRooms.some(room => Phaser.Geom.Rectangle.Contains(room, x, y));
   }
