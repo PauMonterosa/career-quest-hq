@@ -5,6 +5,7 @@ import socket
 from html.parser import HTMLParser
 from typing import Any
 from urllib.parse import urlparse
+from urllib.parse import urljoin
 import httpx
 
 MAX_RESPONSE_BYTES = 2_000_000
@@ -22,12 +23,18 @@ class TextExtractor(HTMLParser):
         self.title_parts: list[str] = []
         self.skip_depth = 0
         self.in_title = False
+        self.links: list[dict[str, str]] = []
 
     def handle_starttag(self, tag: str, attrs: list[tuple[str, str | None]]) -> None:
         if tag in {"script", "style", "noscript", "svg"}:
             self.skip_depth += 1
         if tag == "title":
             self.in_title = True
+        if tag == "a":
+            attributes = dict(attrs)
+            href = attributes.get("href")
+            if href:
+                self.links.append({"url": href, "label": attributes.get("title") or ""})
 
     def handle_endtag(self, tag: str) -> None:
         if tag in {"script", "style", "noscript", "svg"} and self.skip_depth:
@@ -127,8 +134,10 @@ def fetch_official_source(url: str, client: httpx.Client | None = None, resolve_
                     raise ValueError("Official page exceeds the 2 MB research limit")
                 chunks.append(chunk)
             raw = b"".join(chunks)
-            encoding = response.encoding or "utf-8"
-            html = raw.decode(encoding, errors="replace")
+            try:
+                html = raw.decode("utf-8")
+            except UnicodeDecodeError:
+                html = raw.decode(response.encoding or "utf-8", errors="replace")
             parser = TextExtractor()
             parser.feed(html)
             return {
@@ -139,8 +148,11 @@ def fetch_official_source(url: str, client: httpx.Client | None = None, resolve_
                 "content_hash": hashlib.sha256(raw).hexdigest(),
                 "signals": extract_signals(parser.text),
                 "text_length": len(parser.text),
+                "links": [
+                    {"url": urljoin(str(response.url), link["url"]), "label": link["label"]}
+                    for link in parser.links[:500]
+                ],
             }
     finally:
         if owns_client:
             active_client.close()
-

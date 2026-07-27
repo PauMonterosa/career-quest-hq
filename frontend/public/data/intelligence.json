@@ -1,0 +1,908 @@
+{
+  "generated_at": "2026-07-27T18:30:29.110544+00:00",
+  "summary": {
+    "targets": 8,
+    "verified": 8,
+    "discoveries": 24,
+    "changes": 2
+  },
+  "changes": [
+    {
+      "agent": "atlas",
+      "entity": "i-MESC",
+      "url": "https://i-mesc.eu/",
+      "message": "La página oficial cambió desde la última revisión."
+    },
+    {
+      "agent": "nova",
+      "entity": "ICMAB Nanopto",
+      "url": "https://nanopto.icmab.es/index.php/research/organic-solar-cells",
+      "message": "La página oficial cambió desde la última revisión."
+    }
+  ],
+  "discoveries": [
+    {
+      "agent": "atlas",
+      "kind": "master",
+      "entity": "i-MESC",
+      "url": "https://i-mesc.eu/application/admission-criteria",
+      "title": "Admission criteria - i-MESC an Erasmus Mundus Joint Master",
+      "signals": {
+        "deadlines": [
+          "on Completeness All the documents must be provided. Each application that is not complete after the deadline or does not respect the instructions listed is automatically considered as ineligible, and does not reach the Stage 2 of the Selection Process, the academic assessment. Respect of",
+          "e, and does not reach the Stage 2 of the Selection Process, the academic assessment. Respect of the deadline The application and the required attachments must be submitted before the indicated deadline. The online tool will be automatically closed after the deadline. The i-MESC Consortiu",
+          "of the deadline The application and the required attachments must be submitted before the indicated deadline. The online tool will be automatically closed after the deadline. The i-MESC Consortium will allow no change in any applications once the deadline is passed. Learning Outcomes The"
+        ],
+        "admission": [
+          "Admission criteria - i-MESC an Erasmus Mundus Joint Master Accéder au contenu menu mobile The course Overview Consortium & Universities Curriculum Mobility scheme Fees The Team Professors A",
+          "2026 (31 students) Class #19 2023-2025 (17 students) Class #18 2022-2024 (34 students) Alumni Apply Admission criteria Apply as a student As a scholar Scholarships For students For scholars Gallery Login Home Apply Admission criteria Admission criteria Partagez sur facebook Partagez sur t",
+          "ria Apply as a student As a scholar Scholarships For students For scholars Gallery Login Home Apply Admission criteria Admission criteria Partagez sur facebook Partagez sur twitter Eligibility criteria Nationality Students from all over the world can apply for the i-MESC EMJM. Students wi"
+        ],
+        "fees_funding": [
+          "der au contenu menu mobile The course Overview Consortium & Universities Curriculum Mobility scheme Fees The Team Professors Administrative Associated partners (research centers and industry) Students Resources Class #21 2025-2027 (32 students) Class #20 2024-2026 (31 students) Clas",
+          "f origin 3 15 Our Partners The course Overview Consortium & Universities Curriculum Mobility scheme Fees The Team Professors Administrative Associated partners (research centers and industry) Students Resources Class #21 2025-2027 (32 students) Class #20 2024-2026 (31 students) Clas",
+          "s#22 are now closed. Apply The course Overview Consortium & Universities Curriculum Mobility scheme Fees The Team Professors Administrative Associated partners (research centers and industry) Students Resources Class #21 2025-2027 (32 students) Class #20 2024-2026 (31 students) Clas"
+        ],
+        "research": [
+          "niversities Curriculum Mobility scheme Fees The Team Professors Administrative Associated partners (research centers and industry) Students Resources Class #21 2025-2027 (32 students) Class #20 2024-2026 (31 students) Class #19 2023-2025 (17 students) Class #18 2022-2024 (34 students) Al"
+        ],
+        "people_contact": [
+          "menu mobile The course Overview Consortium & Universities Curriculum Mobility scheme Fees The Team Professors Administrative Associated partners (research centers and industry) Students Resources Class #21 2025-2027 (32 students) Class #20 2024-2026 (31 students) Class #19 2023-2025 (17",
+          "Our Partners The course Overview Consortium & Universities Curriculum Mobility scheme Fees The Team Professors Administrative Associated partners (research centers and industry) Students Resources Class #21 2025-2027 (32 students) Class #20 2024-2026 (31 students) Class #19 2023-2025 (17",
+          "losed. Apply The course Overview Consortium & Universities Curriculum Mobility scheme Fees The Team Professors Administrative Associated partners (research centers and industry) Students Resources Class #21 2025-2027 (32 students) Class #20 2024-2026 (31 students) Class #19 2023-2025 (17"
+        ]
+      },
+      "content_hash": "968d3cc423ea7c087b3a3f677e7896eb4951abc9fffb3e76d61762b3d36d216f"
+    },
+    {
+      "agent": "atlas",
+      "kind": "master",
+      "entity": "i-MESC",
+      "url": "https://i-mesc.eu/application/scholar",
+      "title": "As a scholar - i-MESC an Erasmus Mundus Joint Master",
+      "signals": {
+        "deadlines": [
+          "2024-2026 (31 students) Class #19 2023-2025 (17 students) Class #18 2022-2024 (34 students) Alumni Apply Admission criteria Apply as a student As a scholar Scholarships For students For scholars Gallery Login Home Apply As a scholar As a scholar Partagez sur facebook Partagez sur twi",
+          "Class #19 2023-2025 (17 students) Class #18 2022-2024 (34 students) Alumni Apply Admission criteria Apply as a student As a scholar Scholarships For students For scholars Gallery Login Home Apply As a scholar As a scholar Partagez sur facebook Partagez sur twitter CALL FOR SCHOLARS CL",
+          "criteria Apply as a student As a scholar Scholarships For students For scholars Gallery Login Home Apply As a scholar As a scholar Partagez sur facebook Partagez sur twitter CALL FOR SCHOLARS CLASS21 Through this call, the i-MESC Consortium can award EMJM grant up to 3 visting schola"
+        ],
+        "admission": [
+          "2026 (31 students) Class #19 2023-2025 (17 students) Class #18 2022-2024 (34 students) Alumni Apply Admission criteria Apply as a student As a scholar Scholarships For students For scholars Gallery Login Home Apply As a scholar As a scholar Partagez sur facebook Partagez sur twitter CALL",
+          "2026 (31 students) Class #19 2023-2025 (17 students) Class #18 2022-2024 (34 students) Alumni Apply Admission criteria Apply as a student As a scholar Scholarships For students For scholars FAQ Contact Us LinkedIn i-MESC Privacy policy I would like to apply to i-MESC Class#22 (2026-2028)",
+          "2026 (31 students) Class #19 2023-2025 (17 students) Class #18 2022-2024 (34 students) Alumni Apply Admission criteria Apply as a student As a scholar Scholarships For students For scholars Gallery Login fermer"
+        ],
+        "fees_funding": [
+          "der au contenu menu mobile The course Overview Consortium & Universities Curriculum Mobility scheme Fees The Team Professors Administrative Associated partners (research centers and industry) Students Resources Class #21 2025-2027 (32 students) Class #20 2024-2026 (31 students) Clas",
+          "de Toulouse. Our Partners The course Overview Consortium & Universities Curriculum Mobility scheme Fees The Team Professors Administrative Associated partners (research centers and industry) Students Resources Class #21 2025-2027 (32 students) Class #20 2024-2026 (31 students) Clas",
+          "s#22 are now closed. Apply The course Overview Consortium & Universities Curriculum Mobility scheme Fees The Team Professors Administrative Associated partners (research centers and industry) Students Resources Class #21 2025-2027 (32 students) Class #20 2024-2026 (31 students) Clas"
+        ],
+        "research": [
+          "niversities Curriculum Mobility scheme Fees The Team Professors Administrative Associated partners (research centers and industry) Students Resources Class #21 2025-2027 (32 students) Class #20 2024-2026 (31 students) Class #19 2023-2025 (17 students) Class #18 2022-2024 (34 students) Al",
+          "s must be submitted for the 30th of November 2025 at the latest . Scholars Objectives Collaborative research work within i-MESC laboratories Give seminars and/or lectures to i-MESC students Advice students on professional scientific career Application process In order to understand your",
+          "ith the required documents listed below: Your career Copy of passport CV in extended format List of publication Certificate of current employment Copy of last diploma Statement letter Indicating the proposed work to be done within MESC+ Select one or several Scholars objectives Preferred lo"
+        ],
+        "people_contact": [
+          "menu mobile The course Overview Consortium & Universities Curriculum Mobility scheme Fees The Team Professors Administrative Associated partners (research centers and industry) Students Resources Class #21 2025-2027 (32 students) Class #20 2024-2026 (31 students) Class #19 2023-2025 (17",
+          "Our Partners The course Overview Consortium & Universities Curriculum Mobility scheme Fees The Team Professors Administrative Associated partners (research centers and industry) Students Resources Class #21 2025-2027 (32 students) Class #20 2024-2026 (31 students) Class #19 2023-2025 (17",
+          "losed. Apply The course Overview Consortium & Universities Curriculum Mobility scheme Fees The Team Professors Administrative Associated partners (research centers and industry) Students Resources Class #21 2025-2027 (32 students) Class #20 2024-2026 (31 students) Class #19 2023-2025 (17"
+        ]
+      },
+      "content_hash": "a74906f0c4f1dc4a06d372127288131aae3e5d19fdfff1326f8640dd38b14a52"
+    },
+    {
+      "agent": "atlas",
+      "kind": "master",
+      "entity": "i-MESC",
+      "url": "https://i-mesc.eu/application/student",
+      "title": "Apply as a student - i-MESC an Erasmus Mundus Joint Master",
+      "signals": {
+        "deadlines": [
+          "Apply as a student - i-MESC an Erasmus Mundus Joint Master Accéder au contenu menu mobile The course Overview Consortium & Universities Curriculum Mobility scheme Fees The Team Professo",
+          "2024-2026 (31 students) Class #19 2023-2025 (17 students) Class #18 2022-2024 (34 students) Alumni Apply Admission criteria Apply as a student As a scholar Scholarships For students For scholars Gallery Login Home Apply Apply as a student Apply as a student Partagez sur facebook Part",
+          "Class #19 2023-2025 (17 students) Class #18 2022-2024 (34 students) Alumni Apply Admission criteria Apply as a student As a scholar Scholarships For students For scholars Gallery Login Home Apply Apply as a student Apply as a student Partagez sur facebook Partagez sur twitter IMPORTAN"
+        ],
+        "admission": [
+          "2026 (31 students) Class #19 2023-2025 (17 students) Class #18 2022-2024 (34 students) Alumni Apply Admission criteria Apply as a student As a scholar Scholarships For students For scholars Gallery Login Home Apply Apply as a student Apply as a student Partagez sur facebook Partagez sur t",
+          "ormation before starting your application (Guide for applicants 2025 - FAQ - Apply as a student and Admission criteria pages). When you apply to join i-MESC, you apply automatically for an EMJM or an industrial scholarship granted by our associated partners (ALISTORE-ERI, CIC ENERGIGUNE,",
+          "format (coming soon) Template for recommendation letters 2025 Frequently asked questions (FAQ) Fees Admission criteria Appeal procedure Selection process timetable (Intake 2026) Please note that these dates are given as an indication only, and might be slightly modified. Opening of online"
+        ],
+        "fees_funding": [
+          "der au contenu menu mobile The course Overview Consortium & Universities Curriculum Mobility scheme Fees The Team Professors Administrative Associated partners (research centers and industry) Students Resources Class #21 2025-2027 (32 students) Class #20 2024-2026 (31 students) Clas",
+          "ible format (coming soon) Template for recommendation letters 2025 Frequently asked questions (FAQ) Fees Admission criteria Appeal procedure Selection process timetable (Intake 2026) Please note that these dates are given as an indication only, and might be slightly modified. Openin",
+          "Visa process: Our Partners The course Overview Consortium & Universities Curriculum Mobility scheme Fees The Team Professors Administrative Associated partners (research centers and industry) Students Resources Class #21 2025-2027 (32 students) Class #20 2024-2026 (31 students) Clas"
+        ],
+        "research": [
+          "niversities Curriculum Mobility scheme Fees The Team Professors Administrative Associated partners (research centers and industry) Students Resources Class #21 2025-2027 (32 students) Class #20 2024-2026 (31 students) Class #19 2023-2025 (17 students) Class #18 2022-2024 (34 students) Al"
+        ],
+        "people_contact": [
+          "menu mobile The course Overview Consortium & Universities Curriculum Mobility scheme Fees The Team Professors Administrative Associated partners (research centers and industry) Students Resources Class #21 2025-2027 (32 students) Class #20 2024-2026 (31 students) Class #19 2023-2025 (17",
+          "Our Partners The course Overview Consortium & Universities Curriculum Mobility scheme Fees The Team Professors Administrative Associated partners (research centers and industry) Students Resources Class #21 2025-2027 (32 students) Class #20 2024-2026 (31 students) Class #19 2023-2025 (17",
+          "losed. Apply The course Overview Consortium & Universities Curriculum Mobility scheme Fees The Team Professors Administrative Associated partners (research centers and industry) Students Resources Class #21 2025-2027 (32 students) Class #20 2024-2026 (31 students) Class #19 2023-2025 (17"
+        ]
+      },
+      "content_hash": "1d191b6dd64cc02e05c6fe016128bbb27a475a823a3af07a8ea6e424c9a474ac"
+    },
+    {
+      "agent": "atlas",
+      "kind": "master",
+      "entity": "i-MESC",
+      "url": "https://i-mesc.eu/for-students",
+      "title": "For students - i-MESC an Erasmus Mundus Joint Master",
+      "signals": {
+        "deadlines": [
+          "2024-2026 (31 students) Class #19 2023-2025 (17 students) Class #18 2022-2024 (34 students) Alumni Apply Admission criteria Apply as a student As a scholar Scholarships For students For scholars Gallery Login Home Scholarships For students For students Partagez sur facebook Partagez",
+          "Class #19 2023-2025 (17 students) Class #18 2022-2024 (34 students) Alumni Apply Admission criteria Apply as a student As a scholar Scholarships For students For scholars Gallery Login Home Scholarships For students For students Partagez sur facebook Partagez sur twitter Erasmus Mundu",
+          "2024-2026 (31 students) Class #19 2023-2025 (17 students) Class #18 2022-2024 (34 students) Alumni Apply Admission criteria Apply as a student As a scholar Scholarships For students For scholars FAQ Contact Us LinkedIn i-MESC Privacy policy I would like to apply to i-MESC Class#22 (2"
+        ],
+        "admission": [
+          "2026 (31 students) Class #19 2023-2025 (17 students) Class #18 2022-2024 (34 students) Alumni Apply Admission criteria Apply as a student As a scholar Scholarships For students For scholars Gallery Login Home Scholarships For students For students Partagez sur facebook Partagez sur twitte",
+          "2026 (31 students) Class #19 2023-2025 (17 students) Class #18 2022-2024 (34 students) Alumni Apply Admission criteria Apply as a student As a scholar Scholarships For students For scholars FAQ Contact Us LinkedIn i-MESC Privacy policy I would like to apply to i-MESC Class#22 (2026-2028)",
+          "2026 (31 students) Class #19 2023-2025 (17 students) Class #18 2022-2024 (34 students) Alumni Apply Admission criteria Apply as a student As a scholar Scholarships For students For scholars Gallery Login fermer"
+        ],
+        "fees_funding": [
+          "der au contenu menu mobile The course Overview Consortium & Universities Curriculum Mobility scheme Fees The Team Professors Administrative Associated partners (research centers and industry) Students Resources Class #21 2025-2027 (32 students) Class #20 2024-2026 (31 students) Clas",
+          "of 24 months. Our Partners The course Overview Consortium & Universities Curriculum Mobility scheme Fees The Team Professors Administrative Associated partners (research centers and industry) Students Resources Class #21 2025-2027 (32 students) Class #20 2024-2026 (31 students) Clas",
+          "s#22 are now closed. Apply The course Overview Consortium & Universities Curriculum Mobility scheme Fees The Team Professors Administrative Associated partners (research centers and industry) Students Resources Class #21 2025-2027 (32 students) Class #20 2024-2026 (31 students) Clas"
+        ],
+        "research": [
+          "niversities Curriculum Mobility scheme Fees The Team Professors Administrative Associated partners (research centers and industry) Students Resources Class #21 2025-2027 (32 students) Class #20 2024-2026 (31 students) Class #19 2023-2025 (17 students) Class #18 2022-2024 (34 students) Al"
+        ],
+        "people_contact": [
+          "menu mobile The course Overview Consortium & Universities Curriculum Mobility scheme Fees The Team Professors Administrative Associated partners (research centers and industry) Students Resources Class #21 2025-2027 (32 students) Class #20 2024-2026 (31 students) Class #19 2023-2025 (17",
+          "Our Partners The course Overview Consortium & Universities Curriculum Mobility scheme Fees The Team Professors Administrative Associated partners (research centers and industry) Students Resources Class #21 2025-2027 (32 students) Class #20 2024-2026 (31 students) Class #19 2023-2025 (17",
+          "losed. Apply The course Overview Consortium & Universities Curriculum Mobility scheme Fees The Team Professors Administrative Associated partners (research centers and industry) Students Resources Class #21 2025-2027 (32 students) Class #20 2024-2026 (31 students) Class #19 2023-2025 (17"
+        ]
+      },
+      "content_hash": "44d0c08a220baaafff53a4dbb4640b15aa317c0ae125c5cd937d8f25e97ea4d6"
+    },
+    {
+      "agent": "atlas",
+      "kind": "master",
+      "entity": "Politecnico di Milano Materials",
+      "url": "https://www.polimi.it/en/students/tuition-fees-scholarships-and-financial-aid",
+      "title": "Tuition fees, scholarships and financial aid - polimi",
+      "signals": {
+        "deadlines": [
+          "and OFA Didactic Activities and Degree Examination Language requirements Special cases Calendar and deadlines Certificates and forms Contacts Student Ombuds Office Associations and cultural activities Opportunities International Mobility Italian National Erasmus Mobility More resources A",
+          ", scholarships and financial aid Student contribution Tuition fees Calculate the cost and check the deadlines to be up to date with your enrolment Explore Extraordinary Grants Benefits for students who are in a difficult situation Explore Scholarships and graduation awards University Fin",
+          "Passion in action Moocs - Polimi Open Knowledge Towards your future career Language courses How to apply More Other resources Schools WeBeep Polimi Learning Innovation Libreria Zero Degree programme Search a Lecturer Search a course Documents about didactic PhD Explore our offer of P"
+        ],
+        "admission": [
+          "al activities Opportunities International Mobility Italian National Erasmus Mobility More resources Admission to laurea magistrale Health service and medical emergency Explore information for Alumni Learn more Alumni Community The initiatives Contacts and FAQs Visit Alumni website Go Expl",
+          "al activities Opportunities International Mobility Italian National Erasmus Mobility More resources Admission to laurea magistrale Health service and medical emergency Alumni Alumni Community The initiatives Contacts and FAQs Visit Alumni website Go Faculty and Researchers Scientific rigo",
+          "holarships and financial aid Study Plan and OFA Didactic Activities and Degree Examination Language requirements Special cases Calendar and deadlines Certificates and forms Contacts Student Ombuds Office Associations and cultural activities Opportunities International Mobility Italian Natio"
+        ],
+        "fees_funding": [
+          "Tuition fees, scholarships and financial aid - polimi Skip to main content Skip to page footer IT EN Access Online services Support Polimi Skip to Content (Press Enter) The Politecnico Ex",
+          "inclusion Sport and leisure Explore information for Students Learn more Notices After the enrolment Tuition fees, scholarships and financial aid Study Plan and OFA Didactic Activities and Degree Examination Language requirements Special cases Calendar and deadlines Certificates and form",
+          "d benefits Equal opportunities and inclusion Sport and leisure Students Notices After the enrolment Tuition fees, scholarships and financial aid Study Plan and OFA Didactic Activities and Degree Examination Language requirements Special cases Calendar and deadlines Certificates and form"
+        ],
+        "research": [
+          "es PhD School FAQs contacts and PhD Welcome Handbook PhD News Visit the news PhD Programmes Explore Research Explore our Research Learn more News How we do research at Politecnico Research projects Il PNRR e il Politecnico Partnerships with companies (JRP) Technology Transfer Polimi Inno",
+          "ntacts and PhD Welcome Handbook PhD News Visit the news PhD Programmes Explore Research Explore our Research Learn more News How we do research at Politecnico Research projects Il PNRR e il Politecnico Partnerships with companies (JRP) Technology Transfer Polimi Innovators Departments La",
+          "News Visit the news PhD Programmes Explore Research Explore our Research Learn more News How we do research at Politecnico Research projects Il PNRR e il Politecnico Partnerships with companies (JRP) Technology Transfer Polimi Innovators Departments Laboratories Contacts Focus on Polimi"
+        ],
+        "people_contact": [
+          "national dimension Learning development Welfare Sustainability and inclusion Hospitality and living Professors Tenure-track researchers Visiting professors Call for expression of interest Other resources Integrity and beyond Intranet di Ateneo Normativa di Ateneo Explore information for S",
+          "re Sustainability and inclusion Hospitality and living Professors Tenure-track researchers Visiting professors Call for expression of interest Other resources Integrity and beyond Intranet di Ateneo Normativa di Ateneo Explore information for Staff Learn more Sustainability and inclusion",
+          "national dimension Learning development Welfare Sustainability and inclusion Hospitality and living Professors Tenure-track researchers Visiting professors Call for expression of interest Other resources Integrity and beyond Intranet di Ateneo Normativa di Ateneo Staff Sustainability and"
+        ]
+      },
+      "content_hash": "5df35fa7a347e8e83aae42fd8b6a5de97620db97075d54d34c6574be83bc1089"
+    },
+    {
+      "agent": "atlas",
+      "kind": "master",
+      "entity": "Politecnico di Milano Materials",
+      "url": "https://www.polimi.it/en/prospective-students/how-much-does-it-cost",
+      "title": "Fees - polimi",
+      "signals": {
+        "deadlines": [
+          "and OFA Didactic Activities and Degree Examination Language requirements Special cases Calendar and deadlines Certificates and forms Contacts Student Ombuds Office Associations and cultural activities Opportunities International Mobility Italian National Erasmus Mobility More resources A",
+          "Passion in action Moocs - Polimi Open Knowledge Towards your future career Language courses How to apply More Other resources Schools WeBeep Polimi Learning Innovation Libreria Zero Degree programme Search a Lecturer Search a course Documents about didactic PhD Explore our offer of P",
+          "co di Milano Programmes Tools for your study choice Student life Toward the world of careers How to apply Costs and scholarships Transfers and other specific cases Contacts Apply to Polimi as Exchange student (incoming) Explore Services and opportunities Webinars about the tests of En"
+        ],
+        "admission": [
+          "al activities Opportunities International Mobility Italian National Erasmus Mobility More resources Admission to laurea magistrale Health service and medical emergency Explore information for Alumni Learn more Alumni Community The initiatives Contacts and FAQs Visit Alumni website Go Expl",
+          "al activities Opportunities International Mobility Italian National Erasmus Mobility More resources Admission to laurea magistrale Health service and medical emergency Alumni Alumni Community The initiatives Contacts and FAQs Visit Alumni website Go Faculty and Researchers Scientific rigo",
+          "efits to reduce the cost of studies. University fees Fees for Degree programmes University fees for admission to Laurea (equivalent to BSc) programmes, to Laurea Magistrale (equivalent to MSc) programmes and to Single-cycle programmes More Fees for Curricular integrations and single cours"
+        ],
+        "fees_funding": [
+          "inclusion Sport and leisure Explore information for Students Learn more Notices After the enrolment Tuition fees, scholarships and financial aid Study Plan and OFA Didactic Activities and Degree Examination Language requirements Special cases Calendar and deadlines Certificates and form",
+          "d benefits Equal opportunities and inclusion Sport and leisure Students Notices After the enrolment Tuition fees, scholarships and financial aid Study Plan and OFA Didactic Activities and Degree Examination Language requirements Special cases Calendar and deadlines Certificates and form",
+          "students Costs and scholarships The cost of studies In this section you can find all details about tuition fees for Bachelor of Science degrees, Master of Science degrees, single-cycle Master's degree and single courses. The Polytecnico provides scholarships and benefits to reduce the"
+        ],
+        "research": [
+          "es PhD School FAQs contacts and PhD Welcome Handbook PhD News Visit the news PhD Programmes Explore Research Explore our Research Learn more News How we do research at Politecnico Research projects Il PNRR e il Politecnico Partnerships with companies (JRP) Technology Transfer Polimi Inno",
+          "ntacts and PhD Welcome Handbook PhD News Visit the news PhD Programmes Explore Research Explore our Research Learn more News How we do research at Politecnico Research projects Il PNRR e il Politecnico Partnerships with companies (JRP) Technology Transfer Polimi Innovators Departments La",
+          "News Visit the news PhD Programmes Explore Research Explore our Research Learn more News How we do research at Politecnico Research projects Il PNRR e il Politecnico Partnerships with companies (JRP) Technology Transfer Polimi Innovators Departments Laboratories Contacts Focus on Polimi"
+        ],
+        "people_contact": [
+          "national dimension Learning development Welfare Sustainability and inclusion Hospitality and living Professors Tenure-track researchers Visiting professors Call for expression of interest Other resources Integrity and beyond Intranet di Ateneo Normativa di Ateneo Explore information for S",
+          "re Sustainability and inclusion Hospitality and living Professors Tenure-track researchers Visiting professors Call for expression of interest Other resources Integrity and beyond Intranet di Ateneo Normativa di Ateneo Explore information for Staff Learn more Sustainability and inclusion",
+          "national dimension Learning development Welfare Sustainability and inclusion Hospitality and living Professors Tenure-track researchers Visiting professors Call for expression of interest Other resources Integrity and beyond Intranet di Ateneo Normativa di Ateneo Staff Sustainability and"
+        ]
+      },
+      "content_hash": "b68cd9691b9c537fe0ca5bc1377a9c79030a562045fbb7ed1ca45b82a5cca11e"
+    },
+    {
+      "agent": "atlas",
+      "kind": "master",
+      "entity": "Politecnico di Milano Materials",
+      "url": "https://www.polimi.it/en/prospective-students/how-much-does-it-cost/laurea-laurea-magistrale-and-single-cycle-programmes",
+      "title": "Laurea, Laurea Magistrale and Single-cycle programmes - polimi",
+      "signals": {
+        "deadlines": [
+          "and OFA Didactic Activities and Degree Examination Language requirements Special cases Calendar and deadlines Certificates and forms Contacts Student Ombuds Office Associations and cultural activities Opportunities International Mobility Italian National Erasmus Mobility More resources A",
+          "Passion in action Moocs - Polimi Open Knowledge Towards your future career Language courses How to apply More Other resources Schools WeBeep Polimi Learning Innovation Libreria Zero Degree programme Search a Lecturer Search a course Documents about didactic PhD Explore our offer of P",
+          "co di Milano Programmes Tools for your study choice Student life Toward the world of careers How to apply Costs and scholarships Transfers and other specific cases Contacts Apply to Polimi as Exchange student (incoming) Explore Services and opportunities Webinars about the tests of En"
+        ],
+        "admission": [
+          "al activities Opportunities International Mobility Italian National Erasmus Mobility More resources Admission to laurea magistrale Health service and medical emergency Explore information for Alumni Learn more Alumni Community The initiatives Contacts and FAQs Visit Alumni website Go Expl",
+          "al activities Opportunities International Mobility Italian National Erasmus Mobility More resources Admission to laurea magistrale Health service and medical emergency Alumni Alumni Community The initiatives Contacts and FAQs Visit Alumni website Go Faculty and Researchers Scientific rigo",
+          "nature of the Dichiarazione Sostitutiva Unica (DSU) in the Online Services , in the reserved area ( Admission applications > ISEE entry for enrolment ) Timing: enter the date at least 10 working days before the enrolment date, so that you do not have to pay the first instalment. This adva"
+        ],
+        "fees_funding": [
+          "inclusion Sport and leisure Explore information for Students Learn more Notices After the enrolment Tuition fees, scholarships and financial aid Study Plan and OFA Didactic Activities and Degree Examination Language requirements Special cases Calendar and deadlines Certificates and form",
+          "d benefits Equal opportunities and inclusion Sport and leisure Students Notices After the enrolment Tuition fees, scholarships and financial aid Study Plan and OFA Didactic Activities and Degree Examination Language requirements Special cases Calendar and deadlines Certificates and form",
+          "programmes Costs and scholarships Degree courses, master's degrees, five-year single-cycle courses Tuition fees Fee amount for one academic year You are a future student of the 2026/2027 academic year Second instalment of the 2026/2027 academic year Financial aid for disability Deducti"
+        ],
+        "research": [
+          "es PhD School FAQs contacts and PhD Welcome Handbook PhD News Visit the news PhD Programmes Explore Research Explore our Research Learn more News How we do research at Politecnico Research projects Il PNRR e il Politecnico Partnerships with companies (JRP) Technology Transfer Polimi Inno",
+          "ntacts and PhD Welcome Handbook PhD News Visit the news PhD Programmes Explore Research Explore our Research Learn more News How we do research at Politecnico Research projects Il PNRR e il Politecnico Partnerships with companies (JRP) Technology Transfer Polimi Innovators Departments La",
+          "News Visit the news PhD Programmes Explore Research Explore our Research Learn more News How we do research at Politecnico Research projects Il PNRR e il Politecnico Partnerships with companies (JRP) Technology Transfer Polimi Innovators Departments Laboratories Contacts Focus on Polimi"
+        ],
+        "people_contact": [
+          "national dimension Learning development Welfare Sustainability and inclusion Hospitality and living Professors Tenure-track researchers Visiting professors Call for expression of interest Other resources Integrity and beyond Intranet di Ateneo Normativa di Ateneo Explore information for S",
+          "re Sustainability and inclusion Hospitality and living Professors Tenure-track researchers Visiting professors Call for expression of interest Other resources Integrity and beyond Intranet di Ateneo Normativa di Ateneo Explore information for Staff Learn more Sustainability and inclusion",
+          "national dimension Learning development Welfare Sustainability and inclusion Hospitality and living Professors Tenure-track researchers Visiting professors Call for expression of interest Other resources Integrity and beyond Intranet di Ateneo Normativa di Ateneo Staff Sustainability and"
+        ]
+      },
+      "content_hash": "023f03b0ff811a1b0f61ea41f9dff7bc5821b3b9cc2d73d5a1c37ba1bcce3865"
+    },
+    {
+      "agent": "atlas",
+      "kind": "master",
+      "entity": "Politecnico di Milano Materials",
+      "url": "https://www.polimi.it/en/prospective-students/how-to-apply/admission-to-laurea-magistrale",
+      "title": "Laurea Magistrale Programmes (equivalent to Master of Science) - polimi",
+      "signals": {
+        "deadlines": [
+          "and OFA Didactic Activities and Degree Examination Language requirements Special cases Calendar and deadlines Certificates and forms Contacts Student Ombuds Office Associations and cultural activities Opportunities International Mobility Italian National Erasmus Mobility More resources A",
+          "Passion in action Moocs - Polimi Open Knowledge Towards your future career Language courses How to apply More Other resources Schools WeBeep Polimi Learning Innovation Libreria Zero Degree programme Search a Lecturer Search a course Documents about didactic PhD Explore our offer of P",
+          "co di Milano Programmes Tools for your study choice Student life Toward the world of careers How to apply Costs and scholarships Transfers and other specific cases Contacts Apply to Polimi as Exchange student (incoming) Explore Services and opportunities Webinars about the tests of En"
+        ],
+        "admission": [
+          "al activities Opportunities International Mobility Italian National Erasmus Mobility More resources Admission to laurea magistrale Health service and medical emergency Explore information for Alumni Learn more Alumni Community The initiatives Contacts and FAQs Visit Alumni website Go Expl",
+          "al activities Opportunities International Mobility Italian National Erasmus Mobility More resources Admission to laurea magistrale Health service and medical emergency Alumni Alumni Community The initiatives Contacts and FAQs Visit Alumni website Go Faculty and Researchers Scientific rigo",
+          "ourney into the research world Go Work with us You are here: Home Prospective students How to apply Admission to laurea magistrale How to apply Admission to Master of Science programmes A.Y. 2026/2027 Information for Students with an Italian qualification More Students with a foreign qual"
+        ],
+        "fees_funding": [
+          "inclusion Sport and leisure Explore information for Students Learn more Notices After the enrolment Tuition fees, scholarships and financial aid Study Plan and OFA Didactic Activities and Degree Examination Language requirements Special cases Calendar and deadlines Certificates and form",
+          "d benefits Equal opportunities and inclusion Sport and leisure Students Notices After the enrolment Tuition fees, scholarships and financial aid Study Plan and OFA Didactic Activities and Degree Examination Language requirements Special cases Calendar and deadlines Certificates and form",
+          "n Sport and leisure Explore information for Students Learn more Notices After the enrolment Tuition fees, scholarships and financial aid Study Plan and OFA Didactic Activities and Degree Examination Language requirements Special cases Calendar and deadlines Certificates and forms Co"
+        ],
+        "research": [
+          "es PhD School FAQs contacts and PhD Welcome Handbook PhD News Visit the news PhD Programmes Explore Research Explore our Research Learn more News How we do research at Politecnico Research projects Il PNRR e il Politecnico Partnerships with companies (JRP) Technology Transfer Polimi Inno",
+          "ntacts and PhD Welcome Handbook PhD News Visit the news PhD Programmes Explore Research Explore our Research Learn more News How we do research at Politecnico Research projects Il PNRR e il Politecnico Partnerships with companies (JRP) Technology Transfer Polimi Innovators Departments La",
+          "News Visit the news PhD Programmes Explore Research Explore our Research Learn more News How we do research at Politecnico Research projects Il PNRR e il Politecnico Partnerships with companies (JRP) Technology Transfer Polimi Innovators Departments Laboratories Contacts Focus on Polimi"
+        ],
+        "people_contact": [
+          "national dimension Learning development Welfare Sustainability and inclusion Hospitality and living Professors Tenure-track researchers Visiting professors Call for expression of interest Other resources Integrity and beyond Intranet di Ateneo Normativa di Ateneo Explore information for S",
+          "re Sustainability and inclusion Hospitality and living Professors Tenure-track researchers Visiting professors Call for expression of interest Other resources Integrity and beyond Intranet di Ateneo Normativa di Ateneo Explore information for Staff Learn more Sustainability and inclusion",
+          "national dimension Learning development Welfare Sustainability and inclusion Hospitality and living Professors Tenure-track researchers Visiting professors Call for expression of interest Other resources Integrity and beyond Intranet di Ateneo Normativa di Ateneo Staff Sustainability and"
+        ]
+      },
+      "content_hash": "71046ed0eed77b055c33971751d7e6c7d19ea263489aa39847062808915cbc15"
+    },
+    {
+      "agent": "atlas",
+      "kind": "master",
+      "entity": "UPC Semiconductor Engineering",
+      "url": "https://www.upc.edu/en/masters/access-admission-enrolment/pre-enrolment",
+      "title": "Pre-enrolment - UPC Universitat Politècnica de Catalunya",
+      "signals": {
+        "deadlines": [
+          "n checked. With the admission confirmation students from outside the EU can begin the procedure for applying for the visa that will cover their stay in the country while they are taking the master’s degree. You will be able to continue the process by following the instructions you wil",
+          "academic record, regardless of the date on the record for the university course qualifying them to apply. The average mark for the academic record will be calculated pursuant to the terms of Royal Decree 1892/2008, of 14 November, which amends Royal Decree 1267/1994, of 10 June, regu"
+        ],
+        "admission": [
+          "C Main navigation BACHELOR'S Bachelor's degrees 2026-2027 Sequential academic programmes Access and admission Enrolment Fees, grants and payment options Academic calendar and academic regulations Languages and certification Mobility and work placement New bachelor's degree fees More infor",
+          "More information MASTER'S Master's degrees 2026-2027 Why take a master's degree at the UPC? Access, admission and enrolment Fees, grants and payment options Academic calendar and academic regulations Languages and certification Mobility and work placement Lifelong learning master's and po",
+          "UPC Schools Schools in the service of learning and research MASTER'S You are here: MASTER'S Access, admission and enrolment Pre-enrolment https://www.upc.edu/en/masters/access-admission-enrolment/pre-enrolment /++theme++homeupc/assets/images/logomark.png Pre-enrolment UPC master's degree"
+        ],
+        "fees_funding": [
+          "CHELOR'S Bachelor's degrees 2026-2027 Sequential academic programmes Access and admission Enrolment Fees, grants and payment options Academic calendar and academic regulations Languages and certification Mobility and work placement New bachelor's degree fees More information MASTER'",
+          "academic regulations Languages and certification Mobility and work placement New bachelor's degree fees More information MASTER'S Master's degrees 2026-2027 Why take a master's degree at the UPC? Access, admission and enrolment Fees, grants and payment options Academic calendar and",
+          "S Master's degrees 2026-2027 Why take a master's degree at the UPC? Access, admission and enrolment Fees, grants and payment options Academic calendar and academic regulations Languages and certification Mobility and work placement Lifelong learning master's and postgraduate studies"
+        ],
+        "research": [
+          "enu Tools Skip to content Skip to menu Information for... International students and academic staff Research career (Talent Hub) Companies Media - Press Room UPC students UPC staff Electronic Headquarters Contact Language: English Català Español English Search... Search in UPC Main navig",
+          "ter's degree and postgraduate University microcedentials Short and specialised courses RDI RDI news Research at the UPC Research support and promotion Transfer, entrepreneurship and innovation at the UPC Transfer, entrepreneurship and innovation support and promotion Services for compani",
+          "tgraduate University microcedentials Short and specialised courses RDI RDI news Research at the UPC Research support and promotion Transfer, entrepreneurship and innovation at the UPC Transfer, entrepreneurship and innovation support and promotion Services for companies Scientific and Te"
+        ],
+        "people_contact": [
+          "rch career (Talent Hub) Companies Media - Press Room UPC students UPC staff Electronic Headquarters Contact Language: English Català Español English Search... Search in UPC Main navigation BACHELOR'S Bachelor's degrees 2026-2027 Sequential academic programmes Access and admission Enrolm",
+          "anding UPCshop, merchandising Press room © UPC Universitat Politècnica de Catalunya - BarcelonaTech Contact Site map Accessibility Disclaimer Privacy settings"
+        ]
+      },
+      "content_hash": "a3c81df83bfe12301696b729efd96589bcba9095d9b71abc833f37de6d1477c2"
+    },
+    {
+      "agent": "atlas",
+      "kind": "master",
+      "entity": "UPC Semiconductor Engineering",
+      "url": "https://www.upc.edu/en/bachelors/access-and-admission",
+      "title": "Access and admission - UPC Universitat Politècnica de Catalunya",
+      "signals": {
+        "admission": [
+          "Access and admission - UPC Universitat Politècnica de Catalunya UPC. Universitat Politècnica de Catalunya Menu Menu Tools Skip to content Skip to menu Information for... International students and aca",
+          "C Main navigation BACHELOR'S Bachelor's degrees 2026-2027 Sequential academic programmes Access and admission Enrolment Fees, grants and payment options Academic calendar and academic regulations Languages and certification Mobility and work placement New bachelor's degree fees More infor",
+          "More information MASTER'S Master's degrees 2026-2027 Why take a master's degree at the UPC? Access, admission and enrolment Fees, grants and payment options Academic calendar and academic regulations Languages and certification Mobility and work placement Lifelong learning master's and po"
+        ],
+        "fees_funding": [
+          "CHELOR'S Bachelor's degrees 2026-2027 Sequential academic programmes Access and admission Enrolment Fees, grants and payment options Academic calendar and academic regulations Languages and certification Mobility and work placement New bachelor's degree fees More information MASTER'",
+          "academic regulations Languages and certification Mobility and work placement New bachelor's degree fees More information MASTER'S Master's degrees 2026-2027 Why take a master's degree at the UPC? Access, admission and enrolment Fees, grants and payment options Academic calendar and",
+          "S Master's degrees 2026-2027 Why take a master's degree at the UPC? Access, admission and enrolment Fees, grants and payment options Academic calendar and academic regulations Languages and certification Mobility and work placement Lifelong learning master's and postgraduate studies"
+        ],
+        "research": [
+          "enu Tools Skip to content Skip to menu Information for... International students and academic staff Research career (Talent Hub) Companies Media - Press Room UPC students UPC staff Electronic Headquarters Contact Language: English Català Español English Search... Search in UPC Main navig",
+          "ter's degree and postgraduate University microcedentials Short and specialised courses RDI RDI news Research at the UPC Research support and promotion Transfer, entrepreneurship and innovation at the UPC Transfer, entrepreneurship and innovation support and promotion Services for compani",
+          "tgraduate University microcedentials Short and specialised courses RDI RDI news Research at the UPC Research support and promotion Transfer, entrepreneurship and innovation at the UPC Transfer, entrepreneurship and innovation support and promotion Services for companies Scientific and Te"
+        ],
+        "people_contact": [
+          "rch career (Talent Hub) Companies Media - Press Room UPC students UPC staff Electronic Headquarters Contact Language: English Català Español English Search... Search in UPC Main navigation BACHELOR'S Bachelor's degrees 2026-2027 Sequential academic programmes Access and admission Enrolm",
+          "anding UPCshop, merchandising Press room © UPC Universitat Politècnica de Catalunya - BarcelonaTech Contact Site map Accessibility Disclaimer Privacy settings"
+        ]
+      },
+      "content_hash": "1e904c9e85b24727b006909bc021ce0ed7db67754c1bbf12d06c0cfbf9944f27"
+    },
+    {
+      "agent": "atlas",
+      "kind": "master",
+      "entity": "UPC Semiconductor Engineering",
+      "url": "https://www.upc.edu/en/bachelors/access-and-admission/access-and-admission",
+      "title": "Access and admission - UPC Universitat Politècnica de Catalunya",
+      "signals": {
+        "admission": [
+          "Access and admission - UPC Universitat Politècnica de Catalunya UPC. Universitat Politècnica de Catalunya Menu Menu Tools Skip to content Skip to menu Information for... International students and aca",
+          "C Main navigation BACHELOR'S Bachelor's degrees 2026-2027 Sequential academic programmes Access and admission Enrolment Fees, grants and payment options Academic calendar and academic regulations Languages and certification Mobility and work placement New bachelor's degree fees More infor",
+          "More information MASTER'S Master's degrees 2026-2027 Why take a master's degree at the UPC? Access, admission and enrolment Fees, grants and payment options Academic calendar and academic regulations Languages and certification Mobility and work placement Lifelong learning master's and po"
+        ],
+        "fees_funding": [
+          "CHELOR'S Bachelor's degrees 2026-2027 Sequential academic programmes Access and admission Enrolment Fees, grants and payment options Academic calendar and academic regulations Languages and certification Mobility and work placement New bachelor's degree fees More information MASTER'",
+          "academic regulations Languages and certification Mobility and work placement New bachelor's degree fees More information MASTER'S Master's degrees 2026-2027 Why take a master's degree at the UPC? Access, admission and enrolment Fees, grants and payment options Academic calendar and",
+          "S Master's degrees 2026-2027 Why take a master's degree at the UPC? Access, admission and enrolment Fees, grants and payment options Academic calendar and academic regulations Languages and certification Mobility and work placement Lifelong learning master's and postgraduate studies"
+        ],
+        "research": [
+          "enu Tools Skip to content Skip to menu Information for... International students and academic staff Research career (Talent Hub) Companies Media - Press Room UPC students UPC staff Electronic Headquarters Contact Language: English Català Español English Search... Search in UPC Main navig",
+          "ter's degree and postgraduate University microcedentials Short and specialised courses RDI RDI news Research at the UPC Research support and promotion Transfer, entrepreneurship and innovation at the UPC Transfer, entrepreneurship and innovation support and promotion Services for compani",
+          "tgraduate University microcedentials Short and specialised courses RDI RDI news Research at the UPC Research support and promotion Transfer, entrepreneurship and innovation at the UPC Transfer, entrepreneurship and innovation support and promotion Services for companies Scientific and Te"
+        ],
+        "people_contact": [
+          "rch career (Talent Hub) Companies Media - Press Room UPC students UPC staff Electronic Headquarters Contact Language: English Català Español English Search... Search in UPC Main navigation BACHELOR'S Bachelor's degrees 2026-2027 Sequential academic programmes Access and admission Enrolm",
+          "anding UPCshop, merchandising Press room © UPC Universitat Politècnica de Catalunya - BarcelonaTech Contact Site map Accessibility Disclaimer Privacy settings"
+        ]
+      },
+      "content_hash": "1e904c9e85b24727b006909bc021ce0ed7db67754c1bbf12d06c0cfbf9944f27"
+    },
+    {
+      "agent": "atlas",
+      "kind": "master",
+      "entity": "UPC Semiconductor Engineering",
+      "url": "https://www.upc.edu/en/masters/access-admission-enrolment",
+      "title": "Access, admission and enrolment - UPC Universitat Politècnica de Catalunya",
+      "signals": {
+        "admission": [
+          "Access, admission and enrolment - UPC Universitat Politècnica de Catalunya UPC. Universitat Politècnica de Catalunya Menu Menu Tools Skip to content Skip to menu Information for... International st",
+          "C Main navigation BACHELOR'S Bachelor's degrees 2026-2027 Sequential academic programmes Access and admission Enrolment Fees, grants and payment options Academic calendar and academic regulations Languages and certification Mobility and work placement New bachelor's degree fees More infor",
+          "More information MASTER'S Master's degrees 2026-2027 Why take a master's degree at the UPC? Access, admission and enrolment Fees, grants and payment options Academic calendar and academic regulations Languages and certification Mobility and work placement Lifelong learning master's and po"
+        ],
+        "fees_funding": [
+          "CHELOR'S Bachelor's degrees 2026-2027 Sequential academic programmes Access and admission Enrolment Fees, grants and payment options Academic calendar and academic regulations Languages and certification Mobility and work placement New bachelor's degree fees More information MASTER'",
+          "academic regulations Languages and certification Mobility and work placement New bachelor's degree fees More information MASTER'S Master's degrees 2026-2027 Why take a master's degree at the UPC? Access, admission and enrolment Fees, grants and payment options Academic calendar and",
+          "S Master's degrees 2026-2027 Why take a master's degree at the UPC? Access, admission and enrolment Fees, grants and payment options Academic calendar and academic regulations Languages and certification Mobility and work placement Lifelong learning master's and postgraduate studies"
+        ],
+        "research": [
+          "enu Tools Skip to content Skip to menu Information for... International students and academic staff Research career (Talent Hub) Companies Media - Press Room UPC students UPC staff Electronic Headquarters Contact Language: English Català Español English Search... Search in UPC Main navig",
+          "ter's degree and postgraduate University microcedentials Short and specialised courses RDI RDI news Research at the UPC Research support and promotion Transfer, entrepreneurship and innovation at the UPC Transfer, entrepreneurship and innovation support and promotion Services for compani",
+          "tgraduate University microcedentials Short and specialised courses RDI RDI news Research at the UPC Research support and promotion Transfer, entrepreneurship and innovation at the UPC Transfer, entrepreneurship and innovation support and promotion Services for companies Scientific and Te"
+        ],
+        "people_contact": [
+          "rch career (Talent Hub) Companies Media - Press Room UPC students UPC staff Electronic Headquarters Contact Language: English Català Español English Search... Search in UPC Main navigation BACHELOR'S Bachelor's degrees 2026-2027 Sequential academic programmes Access and admission Enrolm",
+          "anding UPCshop, merchandising Press room © UPC Universitat Politècnica de Catalunya - BarcelonaTech Contact Site map Accessibility Disclaimer Privacy settings"
+        ]
+      },
+      "content_hash": "ae18744d98918e351181547c7433801c031af5dc2f53f9d5d28ea53dbef143d1"
+    },
+    {
+      "agent": "nova",
+      "kind": "tfg",
+      "entity": "IREC Solar Energy Materials",
+      "url": "https://www.irec.cat/research-transfer/ktt/knowledge-tech-transfer-team",
+      "title": "IREC | Corporate development & technology transfer | Knowledge tech transfer team",
+      "signals": {
+        "fees_funding": [
+          "eam all about? A multidisciplinary team bridging the gap between research and industry. Identifying funding opportunities and fostering new collaborative R&D&i projects. Managing IREC’s IP portfolio and supporting technology and knowledge transfer. Promoting open science practices and m",
+          "hnologies generate tangible value for industry, public bodies and society. Business development and funding: identifying and securing collaborative projects, industrial contracts and funding opportunities that align with IREC’s strategic priorities and strengthen long-term external part",
+          "development and funding: identifying and securing collaborative projects, industrial contracts and funding opportunities that align with IREC’s strategic priorities and strengthen long-term external partnerships. Technology and knowledge transfer: managing IREC’s intellectual property"
+        ],
+        "research": [
+          "identity World-class R&D&I labs PlemCat About us Platform Facilities Call for testing opportunities Research projects Platform Facilities Call for testing opportunities Research projects Events PRIMA About us Pilot plants & facilities Talent Projects & research groups Core partners & sta",
+          "Call for testing opportunities Research projects Platform Facilities Call for testing opportunities Research projects Events PRIMA About us Pilot plants & facilities Talent Projects & research groups Core partners & stakeholders Our activities & services Testing Validation Demonstration",
+          "g opportunities Research projects Events PRIMA About us Pilot plants & facilities Talent Projects & research groups Core partners & stakeholders Our activities & services Testing Validation Demonstration & divulgation Collaborative projects Entrepreneurship & start-ups Training & qualifi"
+        ],
+        "people_contact": [
+          "to market Strategic actions Platforms & associations Projects Publications Open science Facilities People News & outreach News Events Outreach Mad for science Gara-Fecyt Search for... EN Search for... Newsletter Open science Work with us EN Search for... Home About us Mission & vision",
+          "to market Strategic actions Platforms & associations Projects Publications Open science Facilities People News & outreach News Events Outreach Mad for science Gara-Fecyt Meet the KTT Team Home Research & transfer Corporate development & technology transfer Knowledge tech transfer team",
+          "ndates and supporting data management plans across all departments. sgilabert@irec.cat See all IREC people Trustees Supported by Member of Center Awarded by Contact us Barcelona Sant Adrià +34 933 562 615 Carrer Jardins de les Dones de Negre, 1, 2a planta | 08930 Sant Adrià de Besòs (B"
+        ]
+      },
+      "content_hash": "0f3e724d28f501cd7433b4a2525a65ef32e24cfb76e77388e890d51a96395d6e"
+    },
+    {
+      "agent": "nova",
+      "kind": "tfg",
+      "entity": "IREC Solar Energy Materials",
+      "url": "https://www.irec.cat/research-transfer/projects",
+      "title": "IREC | Research & transfer | Projects",
+      "signals": {
+        "research": [
+          "IREC | Research & transfer | Projects Skip to content Newsletter Open science Work with us Home About us Mission & vision Organisation Transparency Institutional information & governance Public p",
+          "identity World-class R&D&I labs PlemCat About us Platform Facilities Call for testing opportunities Research projects Platform Facilities Call for testing opportunities Research projects Events PRIMA About us Pilot plants & facilities Talent Projects & research groups Core partners & sta",
+          "Call for testing opportunities Research projects Platform Facilities Call for testing opportunities Research projects Events PRIMA About us Pilot plants & facilities Talent Projects & research groups Core partners & stakeholders Our activities & services Testing Validation Demonstration"
+        ],
+        "people_contact": [
+          "to market Strategic actions Platforms & associations Projects Publications Open science Facilities People News & outreach News Events Outreach Mad for science Gara-Fecyt Search for... EN Search for... Newsletter Open science Work with us EN Search for... Home About us Mission & vision",
+          "to market Strategic actions Platforms & associations Projects Publications Open science Facilities People News & outreach News Events Outreach Mad for science Gara-Fecyt Competitive research across energy frontiers Home Research & transfer Projects What is Projects all about? Competit",
+          "silient buildings & communities Corporate development & technology transfer Knowledge tech transfer team Portfolio Lab to market Strategic actions Platforms & associations Projects Publications Open science Facilities People News & outreach News Events Outreach Mad for science Gara-F"
+        ]
+      },
+      "content_hash": "bd4a25856d6af284bb99ab046e2b964cf97979b1c591fa4fb7fab3dd316a5ea9"
+    },
+    {
+      "agent": "nova",
+      "kind": "tfg",
+      "entity": "IREC Solar Energy Materials",
+      "url": "https://www.irec.cat/world-class-labs/plemcat/research-projects",
+      "title": "IREC | PlemCat | Research projects",
+      "signals": {
+        "fees_funding": [
+          "esting and research networks to share results and establish best practices, and supports innovation funding through European, national and regional research programmes. Social Interaction and Blue Economy This pillar ensures that floating offshore wind development at PlemCat is socially",
+          "t de Recerca en Energia de Catalunya) under the mandate of the Generalitat de Catalunya and with co-funding from MITECO/IDAE (Ministerio para la Transición Ecológica y el Reto Demográfico) through the RENMARINAS DEMOS programme and the Next Generation EU instrument. The platform operate"
+        ],
+        "research": [
+          "IREC | PlemCat | Research projects Skip to content Newsletter Open science Work with us Home About us Mission & vision Organisation Transparency Institutional information & governance Public procurement &",
+          "identity World-class R&D&I labs PlemCat About us Platform Facilities Call for testing opportunities Research projects Platform Facilities Call for testing opportunities Research projects Events PRIMA About us Pilot plants & facilities Talent Projects & research groups Core partners & sta",
+          "Call for testing opportunities Research projects Platform Facilities Call for testing opportunities Research projects Events PRIMA About us Pilot plants & facilities Talent Projects & research groups Core partners & stakeholders Our activities & services Testing Validation Demonstration"
+        ],
+        "people_contact": [
+          "to market Strategic actions Platforms & associations Projects Publications Open science Facilities People News & outreach News Events Outreach Mad for science Gara-Fecyt Search for... EN CA ES Search for... Newsletter Open science Work with us EN CA ES Search for... Home About us Miss",
+          "to market Strategic actions Platforms & associations Projects Publications Open science Facilities People News & outreach News Events Outreach Mad for science Gara-Fecyt Four pillars: environment, engineering, innovation, and society Home World-class R&D&I labs PlemCat Research projec",
+          "silient buildings & communities Corporate development & technology transfer Knowledge tech transfer team Portfolio Lab to market Strategic actions Platforms & associations Projects Publications Open science Facilities People News & outreach News Events Outreach Mad for science Gara-F"
+        ]
+      },
+      "content_hash": "ed0dd4f043558d37232c0d6f4ac69a9e5a2487bc6a6fe9206c49510a48a05613"
+    },
+    {
+      "agent": "nova",
+      "kind": "tfg",
+      "entity": "IREC Solar Energy Materials",
+      "url": "https://www.irec.cat/world-class-labs/prima/projects-research-groups",
+      "title": "IREC | PRIMA | Projects & research groups",
+      "signals": {
+        "research": [
+          "IREC | PRIMA | Projects & research groups Skip to content Newsletter Open science Work with us Home About us Mission & vision Organisation Transparency Institutional information & governance Public procurement & te",
+          "identity World-class R&D&I labs PlemCat About us Platform Facilities Call for testing opportunities Research projects Platform Facilities Call for testing opportunities Research projects Events PRIMA About us Pilot plants & facilities Talent Projects & research groups Core partners & sta",
+          "Call for testing opportunities Research projects Platform Facilities Call for testing opportunities Research projects Events PRIMA About us Pilot plants & facilities Talent Projects & research groups Core partners & stakeholders Our activities & services Testing Validation Demonstration"
+        ],
+        "people_contact": [
+          "to market Strategic actions Platforms & associations Projects Publications Open science Facilities People News & outreach News Events Outreach Mad for science Gara-Fecyt Search for... EN Search for... Newsletter Open science Work with us EN Search for... Home About us Mission & vision",
+          "to market Strategic actions Platforms & associations Projects Publications Open science Facilities People News & outreach News Events Outreach Mad for science Gara-Fecyt Home World-class R&D&I labs Prima Projects & research groups Trustees Supported by Member of Center Awarded by Cont",
+          "silient buildings & communities Corporate development & technology transfer Knowledge tech transfer team Portfolio Lab to market Strategic actions Platforms & associations Projects Publications Open science Facilities People News & outreach News Events Outreach Mad for science Gara-F"
+        ]
+      },
+      "content_hash": "7bea9a62d64c28e3ccd1ec2184192cc71248048e5f2d5d589be5fc44c4122143"
+    },
+    {
+      "agent": "nova",
+      "kind": "tfg",
+      "entity": "IREC Energy Storage",
+      "url": "https://www.irec.cat/research-transfer/ktt/knowledge-tech-transfer-team",
+      "title": "IREC | Corporate development & technology transfer | Knowledge tech transfer team",
+      "signals": {
+        "fees_funding": [
+          "eam all about? A multidisciplinary team bridging the gap between research and industry. Identifying funding opportunities and fostering new collaborative R&D&i projects. Managing IREC’s IP portfolio and supporting technology and knowledge transfer. Promoting open science practices and m",
+          "hnologies generate tangible value for industry, public bodies and society. Business development and funding: identifying and securing collaborative projects, industrial contracts and funding opportunities that align with IREC’s strategic priorities and strengthen long-term external part",
+          "development and funding: identifying and securing collaborative projects, industrial contracts and funding opportunities that align with IREC’s strategic priorities and strengthen long-term external partnerships. Technology and knowledge transfer: managing IREC’s intellectual property"
+        ],
+        "research": [
+          "identity World-class R&D&I labs PlemCat About us Platform Facilities Call for testing opportunities Research projects Platform Facilities Call for testing opportunities Research projects Events PRIMA About us Pilot plants & facilities Talent Projects & research groups Core partners & sta",
+          "Call for testing opportunities Research projects Platform Facilities Call for testing opportunities Research projects Events PRIMA About us Pilot plants & facilities Talent Projects & research groups Core partners & stakeholders Our activities & services Testing Validation Demonstration",
+          "g opportunities Research projects Events PRIMA About us Pilot plants & facilities Talent Projects & research groups Core partners & stakeholders Our activities & services Testing Validation Demonstration & divulgation Collaborative projects Entrepreneurship & start-ups Training & qualifi"
+        ],
+        "people_contact": [
+          "to market Strategic actions Platforms & associations Projects Publications Open science Facilities People News & outreach News Events Outreach Mad for science Gara-Fecyt Search for... EN Search for... Newsletter Open science Work with us EN Search for... Home About us Mission & vision",
+          "to market Strategic actions Platforms & associations Projects Publications Open science Facilities People News & outreach News Events Outreach Mad for science Gara-Fecyt Meet the KTT Team Home Research & transfer Corporate development & technology transfer Knowledge tech transfer team",
+          "ndates and supporting data management plans across all departments. sgilabert@irec.cat See all IREC people Trustees Supported by Member of Center Awarded by Contact us Barcelona Sant Adrià +34 933 562 615 Carrer Jardins de les Dones de Negre, 1, 2a planta | 08930 Sant Adrià de Besòs (B"
+        ]
+      },
+      "content_hash": "0f3e724d28f501cd7433b4a2525a65ef32e24cfb76e77388e890d51a96395d6e"
+    },
+    {
+      "agent": "nova",
+      "kind": "tfg",
+      "entity": "IREC Energy Storage",
+      "url": "https://www.irec.cat/research-transfer/projects",
+      "title": "IREC | Research & transfer | Projects",
+      "signals": {
+        "research": [
+          "IREC | Research & transfer | Projects Skip to content Newsletter Open science Work with us Home About us Mission & vision Organisation Transparency Institutional information & governance Public p",
+          "identity World-class R&D&I labs PlemCat About us Platform Facilities Call for testing opportunities Research projects Platform Facilities Call for testing opportunities Research projects Events PRIMA About us Pilot plants & facilities Talent Projects & research groups Core partners & sta",
+          "Call for testing opportunities Research projects Platform Facilities Call for testing opportunities Research projects Events PRIMA About us Pilot plants & facilities Talent Projects & research groups Core partners & stakeholders Our activities & services Testing Validation Demonstration"
+        ],
+        "people_contact": [
+          "to market Strategic actions Platforms & associations Projects Publications Open science Facilities People News & outreach News Events Outreach Mad for science Gara-Fecyt Search for... EN Search for... Newsletter Open science Work with us EN Search for... Home About us Mission & vision",
+          "to market Strategic actions Platforms & associations Projects Publications Open science Facilities People News & outreach News Events Outreach Mad for science Gara-Fecyt Competitive research across energy frontiers Home Research & transfer Projects What is Projects all about? Competit",
+          "silient buildings & communities Corporate development & technology transfer Knowledge tech transfer team Portfolio Lab to market Strategic actions Platforms & associations Projects Publications Open science Facilities People News & outreach News Events Outreach Mad for science Gara-F"
+        ]
+      },
+      "content_hash": "bd4a25856d6af284bb99ab046e2b964cf97979b1c591fa4fb7fab3dd316a5ea9"
+    },
+    {
+      "agent": "nova",
+      "kind": "tfg",
+      "entity": "IREC Energy Storage",
+      "url": "https://www.irec.cat/world-class-labs/plemcat/research-projects",
+      "title": "IREC | PlemCat | Research projects",
+      "signals": {
+        "fees_funding": [
+          "esting and research networks to share results and establish best practices, and supports innovation funding through European, national and regional research programmes. Social Interaction and Blue Economy This pillar ensures that floating offshore wind development at PlemCat is socially",
+          "t de Recerca en Energia de Catalunya) under the mandate of the Generalitat de Catalunya and with co-funding from MITECO/IDAE (Ministerio para la Transición Ecológica y el Reto Demográfico) through the RENMARINAS DEMOS programme and the Next Generation EU instrument. The platform operate"
+        ],
+        "research": [
+          "IREC | PlemCat | Research projects Skip to content Newsletter Open science Work with us Home About us Mission & vision Organisation Transparency Institutional information & governance Public procurement &",
+          "identity World-class R&D&I labs PlemCat About us Platform Facilities Call for testing opportunities Research projects Platform Facilities Call for testing opportunities Research projects Events PRIMA About us Pilot plants & facilities Talent Projects & research groups Core partners & sta",
+          "Call for testing opportunities Research projects Platform Facilities Call for testing opportunities Research projects Events PRIMA About us Pilot plants & facilities Talent Projects & research groups Core partners & stakeholders Our activities & services Testing Validation Demonstration"
+        ],
+        "people_contact": [
+          "to market Strategic actions Platforms & associations Projects Publications Open science Facilities People News & outreach News Events Outreach Mad for science Gara-Fecyt Search for... EN CA ES Search for... Newsletter Open science Work with us EN CA ES Search for... Home About us Miss",
+          "to market Strategic actions Platforms & associations Projects Publications Open science Facilities People News & outreach News Events Outreach Mad for science Gara-Fecyt Four pillars: environment, engineering, innovation, and society Home World-class R&D&I labs PlemCat Research projec",
+          "silient buildings & communities Corporate development & technology transfer Knowledge tech transfer team Portfolio Lab to market Strategic actions Platforms & associations Projects Publications Open science Facilities People News & outreach News Events Outreach Mad for science Gara-F"
+        ]
+      },
+      "content_hash": "ed0dd4f043558d37232c0d6f4ac69a9e5a2487bc6a6fe9206c49510a48a05613"
+    },
+    {
+      "agent": "nova",
+      "kind": "tfg",
+      "entity": "IREC Energy Storage",
+      "url": "https://www.irec.cat/world-class-labs/prima/projects-research-groups",
+      "title": "IREC | PRIMA | Projects & research groups",
+      "signals": {
+        "research": [
+          "IREC | PRIMA | Projects & research groups Skip to content Newsletter Open science Work with us Home About us Mission & vision Organisation Transparency Institutional information & governance Public procurement & te",
+          "identity World-class R&D&I labs PlemCat About us Platform Facilities Call for testing opportunities Research projects Platform Facilities Call for testing opportunities Research projects Events PRIMA About us Pilot plants & facilities Talent Projects & research groups Core partners & sta",
+          "Call for testing opportunities Research projects Platform Facilities Call for testing opportunities Research projects Events PRIMA About us Pilot plants & facilities Talent Projects & research groups Core partners & stakeholders Our activities & services Testing Validation Demonstration"
+        ],
+        "people_contact": [
+          "to market Strategic actions Platforms & associations Projects Publications Open science Facilities People News & outreach News Events Outreach Mad for science Gara-Fecyt Search for... EN Search for... Newsletter Open science Work with us EN Search for... Home About us Mission & vision",
+          "to market Strategic actions Platforms & associations Projects Publications Open science Facilities People News & outreach News Events Outreach Mad for science Gara-Fecyt Home World-class R&D&I labs Prima Projects & research groups Trustees Supported by Member of Center Awarded by Cont",
+          "silient buildings & communities Corporate development & technology transfer Knowledge tech transfer team Portfolio Lab to market Strategic actions Platforms & associations Projects Publications Open science Facilities People News & outreach News Events Outreach Mad for science Gara-F"
+        ]
+      },
+      "content_hash": "7bea9a62d64c28e3ccd1ec2184192cc71248048e5f2d5d589be5fc44c4122143"
+    },
+    {
+      "agent": "nova",
+      "kind": "tfg",
+      "entity": "ICMAB Nanopto",
+      "url": "https://nanopto.icmab.es/index.php/people",
+      "title": "People",
+      "signals": {
+        "research": [
+          "People Skip to main content Research Organic-Inorganic Thermoelectrics Photonic Architectures for Light Management Organic Solar Cells Optoelectronics of group-IV semiconductor nanostructures Publications People Equi",
+          "s of group-IV semiconductor nanostructures Publications People Equipment Projects News In the Press Research Organic-Inorganic Thermoelectrics Photonic Architectures for Light Management Organic Solar Cells Optoelectronics of group-IV semiconductor nanostructures Publications People Equi",
+          "IV semiconductor nanostructures Publications People Equipment Projects News In the Press People All Researchers Post-Docs PhD Students Technicians and project managers Afroditi Koutsogianni PhD Students Agustín Mihi Researchers Alejandro R. Goñi Researchers Ana Conde Post-Docs Arianna Qu"
+        ],
+        "people_contact": [
+          "People Skip to main content Research Organic-Inorganic Thermoelectrics Photonic Architectures for Light Management Organic Solar Cells Optoelectronics of group-IV semiconductor nanostruc",
+          "anagement Organic Solar Cells Optoelectronics of group-IV semiconductor nanostructures Publications People Equipment Projects News In the Press Research Organic-Inorganic Thermoelectrics Photonic Architectures for Light Management Organic Solar Cells Optoelectronics of group-IV semicon",
+          "anagement Organic Solar Cells Optoelectronics of group-IV semiconductor nanostructures Publications People Equipment Projects News In the Press People All Researchers Post-Docs PhD Students Technicians and project managers Afroditi Koutsogianni PhD Students Agustín Mihi Researchers Ale"
+        ]
+      },
+      "content_hash": "ebf2cdaf76e7b0234393d0b1e4e25cd23f74cd8178f5327e0244c4dbb31ed3e2"
+    },
+    {
+      "agent": "nova",
+      "kind": "tfg",
+      "entity": "ICMAB Nanopto",
+      "url": "https://nanopto.icmab.es/index.php/projects",
+      "title": "Projects",
+      "signals": {
+        "fees_funding": [
+          "econfigurable) devices. The topic is inspired by a combination of scientific curiosity and a strong feeling of practical urgency, as reflected by the consortium composition of 8 universities, 4 research institutes and 4 companies. The latter jointly cover all major application areas"
+        ],
+        "research": [
+          "Projects Skip to main content Research Organic-Inorganic Thermoelectrics Photonic Architectures for Light Management Organic Solar Cells Optoelectronics of group-IV semiconductor nanostructures Publications People Equi",
+          "s of group-IV semiconductor nanostructures Publications People Equipment Projects News In the Press Research Organic-Inorganic Thermoelectrics Photonic Architectures for Light Management Organic Solar Cells Optoelectronics of group-IV semiconductor nanostructures Publications People Equi",
+          "gustín Mihi RADIANT (Chiral Light Emitting Diodes based in Photonic Architectures) is an innovative research endeavor with a transformative mission: the production of high-performing and cost-efficient chiral LEDs (light-emitting diodes) that harness the optical properties of scalable ch"
+        ],
+        "people_contact": [
+          "anagement Organic Solar Cells Optoelectronics of group-IV semiconductor nanostructures Publications People Equipment Projects News In the Press Research Organic-Inorganic Thermoelectrics Photonic Architectures for Light Management Organic Solar Cells Optoelectronics of group-IV semicon",
+          "anagement Organic Solar Cells Optoelectronics of group-IV semiconductor nanostructures Publications People Equipment Projects News In the Press Projects Finished Projects Active Projects Project RADIANT 'Chiral Light Emitting Diodes based in Photonic Architectures' starting in November",
+          "ncluding thermal, mechanical and biological aspects. Not only allows this to solve urgent problems (contact resistance), it also enables completely new (switchable, reconfigurable) devices. The topic is inspired by a combination of scientific curiosity and a strong feeling of practical"
+        ]
+      },
+      "content_hash": "8aa5b8d2f195218c9fef77f30b96093291134d0bb16486a23e6b24e6c9a9b9f2"
+    },
+    {
+      "agent": "nova",
+      "kind": "tfg",
+      "entity": "ICMAB Nanopto",
+      "url": "https://nanopto.icmab.es/index.php/publications",
+      "title": "Publications",
+      "signals": {
+        "research": [
+          "Publications Skip to main content Research Organic-Inorganic Thermoelectrics Photonic Architectures for Light Management Organic Solar Cells Optoelectronics of group-IV semiconductor nanostructures Publications People Equi",
+          "s of group-IV semiconductor nanostructures Publications People Equipment Projects News In the Press Research Organic-Inorganic Thermoelectrics Photonic Architectures for Light Management Organic Solar Cells Optoelectronics of group-IV semiconductor nanostructures Publications People Equi",
+          "Solar Cells Optoelectronics of group-IV semiconductor nanostructures Publications People Equipment Projects News In the Press Research Organic-Inorganic Thermoelectrics Photonic Architectures for Light Management Organic Solar Cells Optoelectronics of group-IV semiconductor nanostructu"
+        ],
+        "people_contact": [
+          "anagement Organic Solar Cells Optoelectronics of group-IV semiconductor nanostructures Publications People Equipment Projects News In the Press Research Organic-Inorganic Thermoelectrics Photonic Architectures for Light Management Organic Solar Cells Optoelectronics of group-IV semicon",
+          "anagement Organic Solar Cells Optoelectronics of group-IV semiconductor nanostructures Publications People Equipment Projects News In the Press Publications Cargando publicaciones Nanopto..."
+        ]
+      },
+      "content_hash": "f2b62bd15bee3f924246c361c89fd977cf83867bcbef4b9e5f9aaf997071106f"
+    },
+    {
+      "agent": "nova",
+      "kind": "tfg",
+      "entity": "IMB-CNM Research Groups",
+      "url": "https://www.imb-cnm.csic.es/en/research/projects",
+      "title": "Projects | IMB CNM",
+      "signals": {
+        "fees_funding": [
+          "rder Asc Desc HeartNow: Nuevos dispositivos portátiles no invasivos para la rehabilitación cardíaca Funding agency MCIU /AEI /10.13039/501100011033 / FEDER, UE Reference CPP2024-011538 Period 01/12/2025 - 30/11/2028 P.I. at IMB-CNM Sacristan Riquelme, Jordi GreenPoC: Plataforma de Matri",
+          "e Sensores Sostenible que Utiliza Aprendizaje Automático para la Obtención de Imágenes Multiiónicas Funding agency MCIU /AEI /10.13039/501100011033 / FEDER, UE Reference CPP2024-011334 Period 01/12/2025 - 30/11/2028 P.I. at IMB-CNM Martínez Domingo, Carme MAKIT&FUTURE-II: Construccion d",
+          "ruccion de los sensores de strip del itk de atlas e i+d en detectores para los futuros experimentos Funding agency MCIU /AEI /10.13039/501100011033 / FEDER, UE Reference PID2024-156645NB-C22 Period 01/09/2025 - 31/08/2028 P.I. at IMB-CNM Ullán Comes, Miguel / Lozano Fantoba, Manuel AURO"
+        ],
+        "research": [
+          "MB-CNM Director's message Committees and Working Groups Organization Staff List Transparency Portal Research Networking Projects Publications Research Career Research Groups Thematic axes Alignment with EU Chips Act María de Maeztu Unit of Excellence Clean Room Clean Room Virtual Tour In",
+          "orking Groups Organization Staff List Transparency Portal Research Networking Projects Publications Research Career Research Groups Thematic axes Alignment with EU Chips Act María de Maeztu Unit of Excellence Clean Room Clean Room Virtual Tour Integrated Micro and Nanofabrication Clean R",
+          "ganization Staff List Transparency Portal Research Networking Projects Publications Research Career Research Groups Thematic axes Alignment with EU Chips Act María de Maeztu Unit of Excellence Clean Room Clean Room Virtual Tour Integrated Micro and Nanofabrication Clean Room Micronanofab"
+        ],
+        "people_contact": [
+          "Projects | IMB CNM Skip to main content Contact Talent Search Select your language en es ca About the center The IMB-CNM Director's message Committees and Working Groups Organization Staff List Transparency Portal Research Netw",
+          "» About the center Research Clean Room Laboratories Technology Transfer News & Outreach Highlights Contact Talent Search Contracting profile Legal Advice © Copyright 2026. IMB-CNM"
+        ]
+      },
+      "content_hash": "53fd4d77c74ab80cc3c4aa163d1ed1835ac364142a0675fef3afdc71160166a6"
+    }
+  ],
+  "sources": [
+    {
+      "agent": "atlas",
+      "kind": "master",
+      "entity": "i-MESC",
+      "url": "https://i-mesc.eu/",
+      "title": "Home - i-MESC an Erasmus Mundus Joint Master",
+      "status": "verified",
+      "signals": {
+        "deadlines": [
+          "2024-2026 (31 students) Class #19 2023-2025 (17 students) Class #18 2022-2024 (34 students) Alumni Apply Admission criteria Apply as a student As a scholar Scholarships For students For scholars Gallery Login G i v e E n e r g y t o y o u r s t u d i e s Dr. Zifeng LIN visit in Toulo",
+          "Class #19 2023-2025 (17 students) Class #18 2022-2024 (34 students) Alumni Apply Admission criteria Apply as a student As a scholar Scholarships For students For scholars Gallery Login G i v e E n e r g y t o y o u r s t u d i e s Dr. Zifeng LIN visit in Toulouse Dr. Zifeng LIN from S",
+          "2024-2026 (31 students) Class #19 2023-2025 (17 students) Class #18 2022-2024 (34 students) Alumni Apply Admission criteria Apply as a student As a scholar Scholarships For students For scholars FAQ Contact Us LinkedIn i-MESC Privacy policy I would like to apply to i-MESC Class#22 (2"
+        ],
+        "admission": [
+          "2026 (31 students) Class #19 2023-2025 (17 students) Class #18 2022-2024 (34 students) Alumni Apply Admission criteria Apply as a student As a scholar Scholarships For students For scholars Gallery Login G i v e E n e r g y t o y o u r s t u d i e s Dr. Zifeng LIN visit in Toulouse Dr. Zi",
+          "2026 (31 students) Class #19 2023-2025 (17 students) Class #18 2022-2024 (34 students) Alumni Apply Admission criteria Apply as a student As a scholar Scholarships For students For scholars FAQ Contact Us LinkedIn i-MESC Privacy policy I would like to apply to i-MESC Class#22 (2026-2028)",
+          "2026 (31 students) Class #19 2023-2025 (17 students) Class #18 2022-2024 (34 students) Alumni Apply Admission criteria Apply as a student As a scholar Scholarships For students For scholars Gallery Login fermer"
+        ],
+        "fees_funding": [
+          "der au contenu menu mobile The course Overview Consortium & Universities Curriculum Mobility scheme Fees The Team Professors Administrative Associated partners (research centers and industry) Students Resources Class #21 2025-2027 (32 students) Class #20 2024-2026 (31 students) Clas",
+          "Spain More Our Partners The course Overview Consortium & Universities Curriculum Mobility scheme Fees The Team Professors Administrative Associated partners (research centers and industry) Students Resources Class #21 2025-2027 (32 students) Class #20 2024-2026 (31 students) Clas",
+          "s#22 are now closed. Apply The course Overview Consortium & Universities Curriculum Mobility scheme Fees The Team Professors Administrative Associated partners (research centers and industry) Students Resources Class #21 2025-2027 (32 students) Class #20 2024-2026 (31 students) Clas"
+        ],
+        "research": [
+          "niversities Curriculum Mobility scheme Fees The Team Professors Administrative Associated partners (research centers and industry) Students Resources Class #21 2025-2027 (32 students) Class #20 2024-2026 (31 students) Class #19 2023-2025 (17 students) Class #18 2022-2024 (34 students) Al",
+          "divided into four semesters: three semesters of classes (30 ECTS each) plus a fourth semester in a research laboratory in Europe, USA, or Australia for a six months Master’s thesis (30 ECTS). i-MESC students (~36/ year) will be offered, depending on their individual mobility choices, to",
+          "BILITY SCHEME i-MESC is composed of three semesters of classes and a mandatory fourth semester in a research laboratory for the Master thesis. i-MESC students will therefore be offered to study in up to four different countries within 2 years. The team: PROFESSORS Maria Forsyth Deakin Un"
+        ],
+        "people_contact": [
+          "menu mobile The course Overview Consortium & Universities Curriculum Mobility scheme Fees The Team Professors Administrative Associated partners (research centers and industry) Students Resources Class #21 2025-2027 (32 students) Class #20 2024-2026 (31 students) Class #19 2023-2025 (17",
+          "ents will therefore be offered to study in up to four different countries within 2 years. The team: PROFESSORS Maria Forsyth Deakin University Melbourne - Australia More Alejandro A. Franco i-MESC Coordinator - Université Picardie Jules Verne Amiens - France More Iñaki Gandarias Goikoetxe",
+          "Our Partners The course Overview Consortium & Universities Curriculum Mobility scheme Fees The Team Professors Administrative Associated partners (research centers and industry) Students Resources Class #21 2025-2027 (32 students) Class #20 2024-2026 (31 students) Class #19 2023-2025 (17"
+        ]
+      },
+      "content_hash": "b36aa7c4b93eb4ae022d99ca7cdc2b960cceacd547bae37f1a31fe57e908ccb4"
+    },
+    {
+      "agent": "atlas",
+      "kind": "master",
+      "entity": "KU Leuven Nanoscience",
+      "url": "https://onderwijsaanbod.kuleuven.be/opleidingen/e/SC_58449463/diploma_omschrijving",
+      "title": "Master of Nanoscience, Nanotechnology and Nanoengineering (Programme for students started in 2025-2026 or later) (Leuven) | KU Leuven",
+      "status": "verified",
+      "signals": {
+        "deadlines": [
+          "t admission requirements For the most recent – ​​​​​​and only official information – on application deadlines , check the application window for this programme. Apply as non-Flemish degree holder Flemish degree holder Students who obtained a prior degree at an institution of the Flemish",
+          "e events held by KU Leuven, our study programmes, admission requirements, tuition fees, application deadlines, research and more. Keep me informed PDF/print Disclaimer Cookie Settings Privacy Policy Jobs Follow KU Leuven on search New degree programmes for 2027 - 2028 Lifelong learning F",
+          "ts For the most recent – ​​​​​​and only official information – on application deadlines , check the application window for this programme. Apply as non-Flemish degree holder Flemish degree holder Students who obtained a prior degree at an institution of the Flemish Community may be eligible for di"
+        ],
+        "admission": [
+          "nce Apply now Discover the programme keyboard_arrow_down Discover the programme Programme structure Admission requirements Further studies More Objectives Non-binding personal development goals Quality of education Master of Nanoscience, Nanotechnology and Nanoengineering Discover the Mas",
+          "world You have a clear sense of the societal relevance of technology Check the official and current admission requirements Student-exchange opportunities & Internships At the Faculty of Engineering Science, students are given the opportunity to complete one or two semesters abroad within",
+          "rogramme. These courses are intended to complete the student's background, but note that for direct admission to the programme, not more than 16 credits should be needed. Note also that a basic training in bachelor-level chemistry and programming is a pre-requisite to the programme. Core"
+        ],
+        "fees_funding": [
+          "ts for study level and academic content. Check the official and current admission requirements ​​​​ Tuition fees, study costs & scholarships Tuition fees The fees for any individual student are contingent upon their academic programme and the nationality of the student. For the most rec",
+          "Check the official and current admission requirements ​​​​ Tuition fees, study costs & scholarships Tuition fees The fees for any individual student are contingent upon their academic programme and the nationality of the student. For the most recent – and only official – information on",
+          "gramme and the nationality of the student. For the most recent – and only official – information on tuition fees, check the tuition fee calculator . Study costs The study costs consist of the yearly tuition fee on the one hand and degree-specific costs on the other hand. Besides study c"
+        ],
+        "research": [
+          "ptions are available? The Master of Nanoscience, Nanotechnology and Nanoengineering (120 ECTS) is a research-based master’s programme in which you can put a focus on one of the following fields: Nanomaterials and Nanochemistry Nanophysics and Nanoelectronics Engineering Nanobiotechnology",
+          "s in this young and rapidly evolving field. Teaching staff are closely affiliated with cutting-edge research centres such as imec and the Leuven NanoCentre , recognised worldwide as leaders in nanoscience and nanotechnology. The programme combines a strong research orientation with pract",
+          "recognised worldwide as leaders in nanoscience and nanotechnology. The programme combines a strong research orientation with practical, application-focused training, leveraging the research centres’ links with industrial partners. In your master’s thesis, you will have the opportunity t"
+        ],
+        "people_contact": [
+          ". You are excited about fundamental sciences and technological problems and about multidisciplinary teamwork You have a broad scientific interest and are excited about the nano world You have a clear sense of the societal relevance of technology Check the official and current admissi",
+          "Engineering Science website Discover all the programmes of the faculty More on our campus in Leuven Contact Questions about the programme? You can ask about which classes you will take, the subjects you will study, the campus where you will be spending your time and much more. Questions"
+        ]
+      },
+      "content_hash": "1cf7899518874db893d7121cb80f8187b5a5f5d72424461fbbf142bbdd2424fc"
+    },
+    {
+      "agent": "atlas",
+      "kind": "master",
+      "entity": "Politecnico di Milano Materials",
+      "url": "https://www.polimi.it/en/education/laurea-magistrale-programmes/programme-detail/materials-engineering-and-nanotechnology",
+      "title": "Master's Degree in Materials Engineering and Nanotechnology | Politecnico di Milano - polimi",
+      "status": "verified",
+      "signals": {
+        "deadlines": [
+          "and OFA Didactic Activities and Degree Examination Language requirements Special cases Calendar and deadlines Certificates and forms Contacts Student Ombuds Office Associations and cultural activities Opportunities International Mobility Italian National Erasmus Mobility More resources A",
+          "Passion in action Moocs - Polimi Open Knowledge Towards your future career Language courses How to apply More Other resources Schools WeBeep Polimi Learning Innovation Libreria Zero Degree programme Search a Lecturer Search a course Documents about didactic PhD Explore our offer of P",
+          "co di Milano Programmes Tools for your study choice Student life Toward the world of careers How to apply Costs and scholarships Transfers and other specific cases Contacts Apply to Polimi as Exchange student (incoming) Explore Services and opportunities Webinars about the tests of En"
+        ],
+        "admission": [
+          "al activities Opportunities International Mobility Italian National Erasmus Mobility More resources Admission to laurea magistrale Health service and medical emergency Explore information for Alumni Learn more Alumni Community The initiatives Contacts and FAQs Visit Alumni website Go Expl",
+          "al activities Opportunities International Mobility Italian National Erasmus Mobility More resources Admission to laurea magistrale Health service and medical emergency Alumni Alumni Community The initiatives Contacts and FAQs Visit Alumni website Go Faculty and Researchers Scientific rigo",
+          "amme refers to the academic year 2025/26 and may be subject to change in the academic year 2026/27. Eligibility A Bachelor Degree in Industrial Engineering or in other material-related Degrees (e.g. Applied Physics and Chemistry). Mission and goals This Laurea Magistrale (equivalent to Mast"
+        ],
+        "fees_funding": [
+          "inclusion Sport and leisure Explore information for Students Learn more Notices After the enrolment Tuition fees, scholarships and financial aid Study Plan and OFA Didactic Activities and Degree Examination Language requirements Special cases Calendar and deadlines Certificates and form",
+          "d benefits Equal opportunities and inclusion Sport and leisure Students Notices After the enrolment Tuition fees, scholarships and financial aid Study Plan and OFA Didactic Activities and Degree Examination Language requirements Special cases Calendar and deadlines Certificates and form",
+          "n Sport and leisure Explore information for Students Learn more Notices After the enrolment Tuition fees, scholarships and financial aid Study Plan and OFA Didactic Activities and Degree Examination Language requirements Special cases Calendar and deadlines Certificates and forms Co"
+        ],
+        "research": [
+          "es PhD School FAQs contacts and PhD Welcome Handbook PhD News Visit the news PhD Programmes Explore Research Explore our Research Learn more News How we do research at Politecnico Research projects Il PNRR e il Politecnico Partnerships with companies (JRP) Technology Transfer Polimi Inno",
+          "ntacts and PhD Welcome Handbook PhD News Visit the news PhD Programmes Explore Research Explore our Research Learn more News How we do research at Politecnico Research projects Il PNRR e il Politecnico Partnerships with companies (JRP) Technology Transfer Polimi Innovators Departments La",
+          "News Visit the news PhD Programmes Explore Research Explore our Research Learn more News How we do research at Politecnico Research projects Il PNRR e il Politecnico Partnerships with companies (JRP) Technology Transfer Polimi Innovators Departments Laboratories Contacts Focus on Polimi"
+        ],
+        "people_contact": [
+          "national dimension Learning development Welfare Sustainability and inclusion Hospitality and living Professors Tenure-track researchers Visiting professors Call for expression of interest Other resources Integrity and beyond Intranet di Ateneo Normativa di Ateneo Explore information for S",
+          "re Sustainability and inclusion Hospitality and living Professors Tenure-track researchers Visiting professors Call for expression of interest Other resources Integrity and beyond Intranet di Ateneo Normativa di Ateneo Explore information for Staff Learn more Sustainability and inclusion",
+          "national dimension Learning development Welfare Sustainability and inclusion Hospitality and living Professors Tenure-track researchers Visiting professors Call for expression of interest Other resources Integrity and beyond Intranet di Ateneo Normativa di Ateneo Staff Sustainability and"
+        ]
+      },
+      "content_hash": "c3881f14bacf27176990e8943ac336b9a94edc6fc10730382633479d9602bc5c"
+    },
+    {
+      "agent": "atlas",
+      "kind": "master",
+      "entity": "UPC Semiconductor Engineering",
+      "url": "https://www.upc.edu/en/masters/semiconductor-engineering-and-microelectronic-design",
+      "title": "Master's degree in Semiconductor Engineering and Microelectronic Design - UPC Universitat Politècnica de Catalunya",
+      "status": "verified",
+      "signals": {
+        "deadlines": [
+          "ing in the design and manufacture of integrated, digital and analogue circuits, with an emphasis on applying them in memory systems, communication systems, control systems, computing systems, sensors and emerging devices, such as 2D and quantum devices. The aim is thus to cover the cu"
+        ],
+        "admission": [
+          "C Main navigation BACHELOR'S Bachelor's degrees 2026-2027 Sequential academic programmes Access and admission Enrolment Fees, grants and payment options Academic calendar and academic regulations Languages and certification Mobility and work placement New bachelor's degree fees More infor",
+          "More information MASTER'S Master's degrees 2026-2027 Why take a master's degree at the UPC? Access, admission and enrolment Fees, grants and payment options Academic calendar and academic regulations Languages and certification Mobility and work placement Lifelong learning master's and po",
+          "assroom and students’ language rights . Location Barcelona School of Telecommunications Engineering Admission General requirements Academic requirements for admission to master's degrees New intake places 30 Pre-enrolment Pre-enrolment for this master’s degree is currently closed . Use th"
+        ],
+        "fees_funding": [
+          "CHELOR'S Bachelor's degrees 2026-2027 Sequential academic programmes Access and admission Enrolment Fees, grants and payment options Academic calendar and academic regulations Languages and certification Mobility and work placement New bachelor's degree fees More information MASTER'",
+          "academic regulations Languages and certification Mobility and work placement New bachelor's degree fees More information MASTER'S Master's degrees 2026-2027 Why take a master's degree at the UPC? Access, admission and enrolment Fees, grants and payment options Academic calendar and",
+          "S Master's degrees 2026-2027 Why take a master's degree at the UPC? Access, admission and enrolment Fees, grants and payment options Academic calendar and academic regulations Languages and certification Mobility and work placement Lifelong learning master's and postgraduate studies"
+        ],
+        "research": [
+          "enu Tools Skip to content Skip to menu Information for... International students and academic staff Research career (Talent Hub) Companies Media - Press Room UPC students UPC staff Electronic Headquarters Contact Language: English Català Español English Search... Search in UPC Main navig",
+          "ter's degree and postgraduate University microcedentials Short and specialised courses RDI RDI news Research at the UPC Research support and promotion Transfer, entrepreneurship and innovation at the UPC Transfer, entrepreneurship and innovation support and promotion Services for compani",
+          "tgraduate University microcedentials Short and specialised courses RDI RDI news Research at the UPC Research support and promotion Transfer, entrepreneurship and innovation at the UPC Transfer, entrepreneurship and innovation support and promotion Services for companies Scientific and Te"
+        ],
+        "people_contact": [
+          "by the UPC are capacity for innovation and entrepreneurship, sustainability and social commitment, teamwork, proper use of information resources, knowledge of a foreign language (preferably English) and gender perspective. Quality accreditation Check the degree’s main quality indica",
+          "rch career (Talent Hub) Companies Media - Press Room UPC students UPC staff Electronic Headquarters Contact Language: English Català Español English Search... Search in UPC Main navigation BACHELOR'S Bachelor's degrees 2026-2027 Sequential academic programmes Access and admission Enrolm",
+          "anding UPCshop, merchandising Press room © UPC Universitat Politècnica de Catalunya - BarcelonaTech Contact Site map Accessibility Disclaimer Privacy settings"
+        ]
+      },
+      "content_hash": "e6a8eb400177e4ee20107d2bc1a4cb18bc586580b199d3298c0b0f29f7f24979"
+    },
+    {
+      "agent": "nova",
+      "kind": "tfg",
+      "entity": "IREC Solar Energy Materials",
+      "url": "https://www.irec.cat/research-transfer/solar-energy-materials-systems",
+      "title": "IREC | Research & transfer | Solar energy materials & systems",
+      "status": "verified",
+      "signals": {
+        "research": [
+          "IREC | Research & transfer | Solar energy materials & systems Skip to content Newsletter Open science Work with us Home About us Mission & vision Organisation Transparency Institutional informati",
+          "identity World-class R&D&I labs PlemCat About us Platform Facilities Call for testing opportunities Research projects Platform Facilities Call for testing opportunities Research projects Events PRIMA About us Pilot plants & facilities Talent Projects & research groups Core partners & sta",
+          "Call for testing opportunities Research projects Platform Facilities Call for testing opportunities Research projects Events PRIMA About us Pilot plants & facilities Talent Projects & research groups Core partners & stakeholders Our activities & services Testing Validation Demonstration"
+        ],
+        "people_contact": [
+          "to market Strategic actions Platforms & associations Projects Publications Open science Facilities People News & outreach News Events Outreach Mad for science Gara-Fecyt Search for... EN Search for... Newsletter Open science Work with us EN Search for... Home About us Mission & vision",
+          "to market Strategic actions Platforms & associations Projects Publications Open science Facilities People News & outreach News Events Outreach Mad for science Gara-Fecyt Accelerating thin-film photovoltaic innovation through AI-powered materials research Home Research & transfer Solar",
+          "rch contexts (including self-driving laboratory concepts) and industrial and societal applications. People A skilled team dedicated to advancing the energy transition. More info Projects Competitive and industrial projects from lab to real-world scale. More info Publications Peer-revie"
+        ]
+      },
+      "content_hash": "640899e8442cdf425453b5868da35a83639cc5b8b2d025f44e3696f753ec9c5e"
+    },
+    {
+      "agent": "nova",
+      "kind": "tfg",
+      "entity": "IREC Energy Storage",
+      "url": "https://www.irec.cat/research-transfer/energy-storage-harvesting-catalysis",
+      "title": "IREC | Research & transfer | Energy storage, harvesting & catalysis",
+      "status": "verified",
+      "signals": {
+        "research": [
+          "IREC | Research & transfer | Energy storage, harvesting & catalysis Skip to content Newsletter Open science Work with us Home About us Mission & vision Organisation Transparency Institutional inf",
+          "identity World-class R&D&I labs PlemCat About us Platform Facilities Call for testing opportunities Research projects Platform Facilities Call for testing opportunities Research projects Events PRIMA About us Pilot plants & facilities Talent Projects & research groups Core partners & sta",
+          "Call for testing opportunities Research projects Platform Facilities Call for testing opportunities Research projects Events PRIMA About us Pilot plants & facilities Talent Projects & research groups Core partners & stakeholders Our activities & services Testing Validation Demonstration"
+        ],
+        "people_contact": [
+          "to market Strategic actions Platforms & associations Projects Publications Open science Facilities People News & outreach News Events Outreach Mad for science Gara-Fecyt Search for... EN Search for... Newsletter Open science Work with us EN Search for... Home About us Mission & vision",
+          "to market Strategic actions Platforms & associations Projects Publications Open science Facilities People News & outreach News Events Outreach Mad for science Gara-Fecyt Advancing batteries, sustainable fuels and autonomous energy systems for a decarbonised future Home Research & tran",
+          "laboratory advances into viable production processes for renewable and synthetic fuel applications. People A skilled team dedicated to advancing the energy transition. More info Projects Competitive and industrial projects from lab to real-world scale. More info Publications Peer-revie"
+        ]
+      },
+      "content_hash": "dcab62ae5118c04c915680cbad06d386526d1c63c8334072ac97ea8904c03672"
+    },
+    {
+      "agent": "nova",
+      "kind": "tfg",
+      "entity": "ICMAB Nanopto",
+      "url": "https://nanopto.icmab.es/index.php/research/organic-solar-cells",
+      "title": "Organic Solar Cells",
+      "status": "verified",
+      "signals": {
+        "research": [
+          "Organic Solar Cells Skip to main content Research Organic-Inorganic Thermoelectrics Photonic Architectures for Light Management Organic Solar Cells Optoelectronics of group-IV semiconductor nanostructures Publications People Equi",
+          "s of group-IV semiconductor nanostructures Publications People Equipment Projects News In the Press Research Organic-Inorganic Thermoelectrics Photonic Architectures for Light Management Organic Solar Cells Optoelectronics of group-IV semiconductor nanostructures Publications People Equi",
+          "nergy pay back time photovoltaics based on abundant and non-toxic materials. The two pillars of our research are the use of advanced spectroscopic techniques and targeted processing schemes. Our novel processing schemes enable fine control over desired properties, including crystallinity"
+        ],
+        "people_contact": [
+          "anagement Organic Solar Cells Optoelectronics of group-IV semiconductor nanostructures Publications People Equipment Projects News In the Press Research Organic-Inorganic Thermoelectrics Photonic Architectures for Light Management Organic Solar Cells Optoelectronics of group-IV semicon",
+          "anagement Organic Solar Cells Optoelectronics of group-IV semiconductor nanostructures Publications People Equipment Projects News In the Press Organic Solar Cells We aim at producing strong contributions towards the development of cost-efective, low energy pay back time photovoltaics"
+        ]
+      },
+      "content_hash": "0043e221ecb7156896aacadc5d73d2901973881d6735f8be235a88c715e16dac"
+    },
+    {
+      "agent": "nova",
+      "kind": "tfg",
+      "entity": "IMB-CNM Research Groups",
+      "url": "https://www.imb-cnm.csic.es/en/research/research-groups",
+      "title": "Research Groups | IMB CNM",
+      "status": "verified",
+      "signals": {
+        "research": [
+          "Research Groups | IMB CNM Skip to main content Contact Talent Search Select your language en es ca About the center The IMB-CNM Director's message Committees and Working Groups Organizatio",
+          "MB-CNM Director's message Committees and Working Groups Organization Staff List Transparency Portal Research Networking Projects Publications Research Career Research Groups Thematic axes Alignment with EU Chips Act María de Maeztu Unit of Excellence Clean Room Clean Room Virtual Tour In",
+          "orking Groups Organization Staff List Transparency Portal Research Networking Projects Publications Research Career Research Groups Thematic axes Alignment with EU Chips Act María de Maeztu Unit of Excellence Clean Room Clean Room Virtual Tour Integrated Micro and Nanofabrication Clean R"
+        ],
+        "people_contact": [
+          "Research Groups | IMB CNM Skip to main content Contact Talent Search Select your language en es ca About the center The IMB-CNM Director's message Committees and Working Groups Organization Staff List Transparency Portal Research Netw",
+          "B. About the center Research Clean Room Laboratories Technology Transfer News & Outreach Highlights Contact Talent Search Contracting profile Legal Advice © Copyright 2026. IMB-CNM"
+        ]
+      },
+      "content_hash": "b7db3392dbda3619842c1fc3086bb1e4793c1540a82cd63ca6e4fb2c981c4487"
+    }
+  ]
+}

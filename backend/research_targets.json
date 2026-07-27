@@ -1,0 +1,58 @@
+[
+  {
+    "agent": "atlas",
+    "kind": "master",
+    "name": "i-MESC",
+    "url": "https://i-mesc.eu/",
+    "keywords": ["admission", "application", "deadline", "scholarship", "requirements"]
+  },
+  {
+    "agent": "atlas",
+    "kind": "master",
+    "name": "KU Leuven Nanoscience",
+    "url": "https://www.kuleuven.be/programmes/master-nanoscience-nanotechnology-nanoengineering",
+    "keywords": ["admission", "application", "deadline", "tuition", "requirements"]
+  },
+  {
+    "agent": "atlas",
+    "kind": "master",
+    "name": "Politecnico di Milano Materials",
+    "url": "https://www.polimi.it/en/education/laurea-magistrale-programmes/programme-detail/materials-engineering-and-nanotechnology",
+    "keywords": ["admission", "application", "deadline", "fees", "scholarship"]
+  },
+  {
+    "agent": "atlas",
+    "kind": "master",
+    "name": "UPC Semiconductor Engineering",
+    "url": "https://www.upc.edu/en/masters/semiconductor-engineering-and-microelectronic-design",
+    "keywords": ["admission", "pre-enrolment", "deadline", "curriculum", "requirements"]
+  },
+  {
+    "agent": "nova",
+    "kind": "tfg",
+    "name": "IREC Solar Energy Materials",
+    "url": "https://www.irec.cat/research-transfer/solar-energy-materials-systems",
+    "keywords": ["project", "people", "team", "research", "vacancy", "student"]
+  },
+  {
+    "agent": "nova",
+    "kind": "tfg",
+    "name": "IREC Energy Storage",
+    "url": "https://www.irec.cat/research-transfer/energy-storage-harvesting-catalysis",
+    "keywords": ["project", "people", "team", "research", "battery", "student"]
+  },
+  {
+    "agent": "nova",
+    "kind": "tfg",
+    "name": "ICMAB Nanopto",
+    "url": "https://nanopto.icmab.es/index.php/research/organic-solar-cells",
+    "keywords": ["project", "publication", "people", "team", "student", "thesis"]
+  },
+  {
+    "agent": "nova",
+    "kind": "tfg",
+    "name": "IMB-CNM Research Groups",
+    "url": "https://www.imb-cnm.csic.es/en/research/research-groups",
+    "keywords": ["energy", "microelectronics", "project", "people", "student", "thesis"]
+  }
+]

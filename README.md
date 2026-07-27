@@ -104,3 +104,24 @@ npm.cmd run build
 - `POST /agents/{id}/tasks` with `{ "skill": "<allow-listed skill>" }`
 
 See `docs/` for architecture, mapping, roles, safety, and roadmap.
+
+## Live agent radar
+
+The published PWA is not limited to reorganising the imported workbook:
+
+- **ATLAS** reads a daily feed generated from official master-programme sources and discovers relevant pages on the same official domains.
+- **NOVA** monitors research centres for projects, people, publications and possible TFG signals.
+- **CHRONOS** combines private workbook tasks with deadline signals found by the radar and exports calendar events.
+- **ECHO** prepares an actionable Gmail draft, while the user remains responsible for reviewing and sending it.
+- **PIXEL** queries the public GitHub API at run time and audits the user's current repositories.
+
+The scheduled workflow `.github/workflows/refresh-intelligence.yml` runs every day and stores only public-source evidence in `frontend/public/data/intelligence.json`. Private workbook data stays in the browser and is never committed.
+
+Run the radar manually:
+
+```powershell
+Set-Location backend
+.\.venv\Scripts\python.exe scripts\refresh_intelligence.py
+```
+
+Every web finding includes its source URL. External messages and calendar changes require an explicit user action.

@@ -29,6 +29,10 @@ export function ResultDrawer({ agent, result, open, onToggle }: {
         {Object.entries(output.summary as Record<string, unknown>).map(([key, value]) => <div key={key}><b>{String(value)}</b><span>{label(key)}</span></div>)}
       </div>}
       {output.subject ? <article className="drawer-email"><small>ASUNTO</small><strong>{String(output.subject)}</strong><p>{String(output.body ?? "")}</p></article> : null}
+      {output.compose_url ? <div className="approval-panel"><strong>Acción preparada</strong>
+        <p>Se abrirá Gmail con el borrador. Comprueba destinatario y contenido antes de enviarlo.</p>
+        <a href={String(output.compose_url)} target="_blank" rel="noreferrer">Abrir borrador en Gmail ↗</a>
+      </div> : null}
       <div className="drawer-items">{items.slice(0, open ? 8 : 0).map((item, index) => {
         const heading = item.task ?? item.deliverable ?? item.entity ?? item.name ?? item.title ?? `Resultado ${index + 1}`;
         return <article key={`${String(heading)}-${index}`}><strong>{String(heading)}</strong>
@@ -38,6 +42,10 @@ export function ResultDrawer({ agent, result, open, onToggle }: {
         </article>;
       })}</div>
       {result.requires_approval && <div className="approval-panel"><strong>Revisión necesaria</strong><p>Nada se enviará ni publicará sin tu aprobación.</p><button>Revisar borrador</button></div>}
+      {Array.isArray(output.next_actions) && <div className="approval-panel"><strong>Siguientes acciones</strong>
+        {(output.next_actions as unknown[]).map((action, index) => <p key={index}>• {String(action)}</p>)}
+      </div>}
+      {output.note ? <p className="drawer-note">{String(output.note)}</p> : null}
       {result.skill === "build_weekly_plan" && <div className="calendar-export">
         <div><strong>Programar en calendario</strong><p>Descarga las tareas fechadas en un archivo compatible con Google Calendar, Outlook y Apple Calendar.</p></div>
         <button type="button" onClick={() => void api.downloadCalendar()}>Descargar .ics</button>

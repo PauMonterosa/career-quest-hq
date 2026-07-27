@@ -22,7 +22,7 @@ export const api = {
       method: "POST",
       headers: { "Content-Type": "application/json" },
       body: JSON.stringify({ skill }),
-    }).catch(() => Promise.resolve(runLocalTask(agentId, skill))),
+    }).catch(() => runLocalTask(agentId, skill)),
   downloadCalendar: async () => {
     let blob: Blob;
     try {
