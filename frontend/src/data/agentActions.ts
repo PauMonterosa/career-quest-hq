@@ -24,4 +24,8 @@ export const agentActions: Record<string, ActionOption[]> = {
     { skill: "list_portfolio_priorities", title: "Auditar mi GitHub", purpose: "Consulta repositorios, actividad, descripciones y demos.", source: "GitHub en tiempo real", outcome: "Problemas detectados", kind: "web" },
     { skill: "build_portfolio_delivery_plan", title: "Plan de publicación", purpose: "Convierte los fallos encontrados en entregables concretos.", source: "GitHub + portfolio", outcome: "Plan accionable", kind: "auto" },
   ],
+  brasa: [
+    { skill: "review_foodtruck_status", title: "Revisar cocina y compra", purpose: "Lee el menú, presupuesto y lista de compra activos de FoodTruck.", source: "FoodTruck en este dispositivo", outcome: "Plato y compra accionables", kind: "auto" },
+    { skill: "coordinate_busy_week", title: "Coordinar con CHRONOS", purpose: "Adapta la cocina a tu carga real de tareas y propone una alternativa rápida cuando haga falta.", source: "FoodTruck + Excel", outcome: "Plan coordinado", kind: "auto" },
+  ],
 };

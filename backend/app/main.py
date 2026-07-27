@@ -14,6 +14,7 @@ AGENTS = [
     ("echo", "ECHO", "Email and Communication Assistant", "Diplomatic and precise", "mail_room", "#ef5b62", "envelope"),
     ("chronos", "CHRONOS", "Deadline Manager", "Strict but helpful", "control_room", "#f5c84c", "clock"),
     ("pixel", "PIXEL", "Portfolio and Project Coach", "Creative engineer", "portfolio_workshop", "#a775ff", "tools"),
+    ("brasa", "BRASA", "Chef and Provisions Coordinator", "Practical, warm and resourceful", "food_kitchen", "#df774d", "chef_hat"),
 ]
 
 
@@ -21,12 +22,13 @@ def bootstrap() -> None:
     settings.project_root.joinpath("data").mkdir(parents=True, exist_ok=True)
     Base.metadata.create_all(engine)
     with SessionLocal() as db:
-        if not db.scalar(select(Agent).limit(1)):
-            for agent_id, name, role, personality, room, color, accessory in AGENTS:
+        existing = set(db.scalars(select(Agent.id)).all())
+        for agent_id, name, role, personality, room, color, accessory in AGENTS:
+            if agent_id not in existing:
                 db.add(Agent(id=agent_id, name=name, role=role, personality=personality,
                     current_room=room, status="idle", task_queue=[],
                     avatar={"color": color, "accessory": accessory}))
-            db.commit()
+        db.commit()
         if settings.workbook_path and settings.workbook_path.exists():
             from .models import MasterProgramme
             if not db.scalar(select(MasterProgramme).limit(1)):

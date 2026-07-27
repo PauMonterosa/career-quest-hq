@@ -33,6 +33,10 @@ export function ResultDrawer({ agent, result, open, onToggle }: {
         <p>Se abrirá Gmail con el borrador. Comprueba destinatario y contenido antes de enviarlo.</p>
         <a href={String(output.compose_url)} target="_blank" rel="noreferrer">Abrir borrador en Gmail ↗</a>
       </div> : null}
+      {output.external_url ? <div className="calendar-export">
+        <div><strong>Continuar en FoodTruck</strong><p>Abre el plan completo para cambiar el menú, marcar la compra o revisar precios.</p></div>
+        <a href={String(output.external_url)} target="_blank" rel="noreferrer">Abrir FoodTruck ↗</a>
+      </div> : null}
       <div className="drawer-items">{items.slice(0, open ? 8 : 0).map((item, index) => {
         const heading = item.task ?? item.deliverable ?? item.entity ?? item.name ?? item.title ?? `Resultado ${index + 1}`;
         return <article key={`${String(heading)}-${index}`}><strong>{String(heading)}</strong>

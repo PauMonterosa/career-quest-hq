@@ -1,0 +1,9 @@
+.agent-strip {
+  grid-template-columns: repeat(6, 1fr);
+}
+
+@media (max-width: 560px) {
+  .agent-strip {
+    grid-template-columns: repeat(6, minmax(82px, 1fr));
+  }
+}
