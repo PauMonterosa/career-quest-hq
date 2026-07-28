@@ -1,10 +1,10 @@
 {
-  "generated_at": "2026-07-27T18:33:05.758977+00:00",
+  "generated_at": "2026-07-28T07:49:57.469762+00:00",
   "summary": {
     "targets": 8,
     "verified": 8,
     "discoveries": 24,
-    "changes": 2
+    "changes": 3
   },
   "changes": [
     {
@@ -17,6 +17,12 @@
       "agent": "nova",
       "entity": "ICMAB Nanopto",
       "url": "https://nanopto.icmab.es/index.php/research/organic-solar-cells",
+      "message": "La página oficial cambió desde la última revisión."
+    },
+    {
+      "agent": "nova",
+      "entity": "IMB-CNM Research Groups",
+      "url": "https://www.imb-cnm.csic.es/en/research/research-groups",
       "message": "La página oficial cambió desde la última revisión."
     }
   ],
@@ -611,7 +617,7 @@
           "anagement Organic Solar Cells Optoelectronics of group-IV semiconductor nanostructures Publications People Equipment Projects News In the Press People All Researchers Post-Docs PhD Students Technicians and project managers Afroditi Koutsogianni PhD Students Agustín Mihi Researchers Ale"
         ]
       },
-      "content_hash": "76160cd553b02559e13f8b70a93e12e4d45dc6faac66d9b66f6baea4eadc27cd"
+      "content_hash": "8e767e7019821ef1fa5a9242bbbc00bd79688c8c653f1a6202d619c9f7908df9"
     },
     {
       "agent": "nova",
@@ -634,7 +640,7 @@
           "ncluding thermal, mechanical and biological aspects. Not only allows this to solve urgent problems (contact resistance), it also enables completely new (switchable, reconfigurable) devices. The topic is inspired by a combination of scientific curiosity and a strong feeling of practical"
         ]
       },
-      "content_hash": "08bf756a29a291e4578a3ba014247d885c85b1f3164c61f6254189a95e40f4a6"
+      "content_hash": "3cad4904d8685fe2abce48d818e9e0670926cfad5ab84aae7c9f01e25c538efa"
     },
     {
       "agent": "nova",
@@ -653,7 +659,7 @@
           "anagement Organic Solar Cells Optoelectronics of group-IV semiconductor nanostructures Publications People Equipment Projects News In the Press Publications Cargando publicaciones Nanopto..."
         ]
       },
-      "content_hash": "5b383f56de156a4d086950e75516fe1c07bdc833bfdd8b418fb67406c01bc3e6"
+      "content_hash": "773659b5ceb1b37cdf1700b2aeba299afd2594812981052d769f48c7987f9194"
     },
     {
       "agent": "nova",
@@ -677,7 +683,7 @@
           "» About the center Research Clean Room Laboratories Technology Transfer News & Outreach Highlights Contact Talent Search Contracting profile Legal Advice © Copyright 2026. IMB-CNM"
         ]
       },
-      "content_hash": "53fd4d77c74ab80cc3c4aa163d1ed1835ac364142a0675fef3afdc71160166a6"
+      "content_hash": "4ba1972786b4b91805f94eaa9760a644f996cdf4791cac2428dece6e2123c630"
     }
   ],
   "sources": [
@@ -715,7 +721,7 @@
           "Our Partners The course Overview Consortium & Universities Curriculum Mobility scheme Fees The Team Professors Administrative Associated partners (research centers and industry) Students Resources Class #21 2025-2027 (32 students) Class #20 2024-2026 (31 students) Class #19 2023-2025 (17"
         ]
       },
-      "content_hash": "475f5974217a520a190f5c9bce446cb634a5fbf4a64a9fda00f5b6771ae672c1"
+      "content_hash": "d88e8393309d0bf7ac73bbd6fc60355fdf86ce88d98989b0da462e27e248fe75"
     },
     {
       "agent": "atlas",
@@ -882,7 +888,7 @@
           "anagement Organic Solar Cells Optoelectronics of group-IV semiconductor nanostructures Publications People Equipment Projects News In the Press Organic Solar Cells We aim at producing strong contributions towards the development of cost-efective, low energy pay back time photovoltaics"
         ]
       },
-      "content_hash": "ee2cd09b85e52eebf48461b858519b4baef6429694044168eccbdae516478ec9"
+      "content_hash": "506e791bc0f9a2cde23b4e16e947881a4d1a966c2af986aaa679bea167df93e4"
     },
     {
       "agent": "nova",
@@ -902,7 +908,7 @@
           "B. About the center Research Clean Room Laboratories Technology Transfer News & Outreach Highlights Contact Talent Search Contracting profile Legal Advice © Copyright 2026. IMB-CNM"
         ]
       },
-      "content_hash": "b7db3392dbda3619842c1fc3086bb1e4793c1540a82cd63ca6e4fb2c981c4487"
+      "content_hash": "3d21d6c4a126d201084e63fb2a790ab14d795ebcc78d10a80c97bb7aab4329a8"
     }
   ]
 }
