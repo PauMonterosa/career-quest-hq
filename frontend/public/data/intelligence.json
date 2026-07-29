@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-07-28T07:49:57.469762+00:00",
+  "generated_at": "2026-07-29T08:01:15.756618+00:00",
   "summary": {
     "targets": 8,
-    "verified": 8,
-    "discoveries": 24,
+    "verified": 7,
+    "discoveries": 20,
     "changes": 3
   },
   "changes": [
@@ -302,126 +302,6 @@
       "content_hash": "71046ed0eed77b055c33971751d7e6c7d19ea263489aa39847062808915cbc15"
     },
     {
-      "agent": "atlas",
-      "kind": "master",
-      "entity": "UPC Semiconductor Engineering",
-      "url": "https://www.upc.edu/en/masters/access-admission-enrolment/pre-enrolment",
-      "title": "Pre-enrolment - UPC Universitat Politècnica de Catalunya",
-      "signals": {
-        "deadlines": [
-          "n checked. With the admission confirmation students from outside the EU can begin the procedure for applying for the visa that will cover their stay in the country while they are taking the master’s degree. You will be able to continue the process by following the instructions you wil",
-          "academic record, regardless of the date on the record for the university course qualifying them to apply. The average mark for the academic record will be calculated pursuant to the terms of Royal Decree 1892/2008, of 14 November, which amends Royal Decree 1267/1994, of 10 June, regu"
-        ],
-        "admission": [
-          "C Main navigation BACHELOR'S Bachelor's degrees 2026-2027 Sequential academic programmes Access and admission Enrolment Fees, grants and payment options Academic calendar and academic regulations Languages and certification Mobility and work placement New bachelor's degree fees More infor",
-          "More information MASTER'S Master's degrees 2026-2027 Why take a master's degree at the UPC? Access, admission and enrolment Fees, grants and payment options Academic calendar and academic regulations Languages and certification Mobility and work placement Lifelong learning master's and po",
-          "UPC Schools Schools in the service of learning and research MASTER'S You are here: MASTER'S Access, admission and enrolment Pre-enrolment https://www.upc.edu/en/masters/access-admission-enrolment/pre-enrolment /++theme++homeupc/assets/images/logomark.png Pre-enrolment UPC master's degree"
-        ],
-        "fees_funding": [
-          "CHELOR'S Bachelor's degrees 2026-2027 Sequential academic programmes Access and admission Enrolment Fees, grants and payment options Academic calendar and academic regulations Languages and certification Mobility and work placement New bachelor's degree fees More information MASTER'",
-          "academic regulations Languages and certification Mobility and work placement New bachelor's degree fees More information MASTER'S Master's degrees 2026-2027 Why take a master's degree at the UPC? Access, admission and enrolment Fees, grants and payment options Academic calendar and",
-          "S Master's degrees 2026-2027 Why take a master's degree at the UPC? Access, admission and enrolment Fees, grants and payment options Academic calendar and academic regulations Languages and certification Mobility and work placement Lifelong learning master's and postgraduate studies"
-        ],
-        "research": [
-          "enu Tools Skip to content Skip to menu Information for... International students and academic staff Research career (Talent Hub) Companies Media - Press Room UPC students UPC staff Electronic Headquarters Contact Language: English Català Español English Search... Search in UPC Main navig",
-          "ter's degree and postgraduate University microcedentials Short and specialised courses RDI RDI news Research at the UPC Research support and promotion Transfer, entrepreneurship and innovation at the UPC Transfer, entrepreneurship and innovation support and promotion Services for compani",
-          "tgraduate University microcedentials Short and specialised courses RDI RDI news Research at the UPC Research support and promotion Transfer, entrepreneurship and innovation at the UPC Transfer, entrepreneurship and innovation support and promotion Services for companies Scientific and Te"
-        ],
-        "people_contact": [
-          "rch career (Talent Hub) Companies Media - Press Room UPC students UPC staff Electronic Headquarters Contact Language: English Català Español English Search... Search in UPC Main navigation BACHELOR'S Bachelor's degrees 2026-2027 Sequential academic programmes Access and admission Enrolm",
-          "anding UPCshop, merchandising Press room © UPC Universitat Politècnica de Catalunya - BarcelonaTech Contact Site map Accessibility Disclaimer Privacy settings"
-        ]
-      },
-      "content_hash": "a3c81df83bfe12301696b729efd96589bcba9095d9b71abc833f37de6d1477c2"
-    },
-    {
-      "agent": "atlas",
-      "kind": "master",
-      "entity": "UPC Semiconductor Engineering",
-      "url": "https://www.upc.edu/en/bachelors/access-and-admission",
-      "title": "Access and admission - UPC Universitat Politècnica de Catalunya",
-      "signals": {
-        "admission": [
-          "Access and admission - UPC Universitat Politècnica de Catalunya UPC. Universitat Politècnica de Catalunya Menu Menu Tools Skip to content Skip to menu Information for... International students and aca",
-          "C Main navigation BACHELOR'S Bachelor's degrees 2026-2027 Sequential academic programmes Access and admission Enrolment Fees, grants and payment options Academic calendar and academic regulations Languages and certification Mobility and work placement New bachelor's degree fees More infor",
-          "More information MASTER'S Master's degrees 2026-2027 Why take a master's degree at the UPC? Access, admission and enrolment Fees, grants and payment options Academic calendar and academic regulations Languages and certification Mobility and work placement Lifelong learning master's and po"
-        ],
-        "fees_funding": [
-          "CHELOR'S Bachelor's degrees 2026-2027 Sequential academic programmes Access and admission Enrolment Fees, grants and payment options Academic calendar and academic regulations Languages and certification Mobility and work placement New bachelor's degree fees More information MASTER'",
-          "academic regulations Languages and certification Mobility and work placement New bachelor's degree fees More information MASTER'S Master's degrees 2026-2027 Why take a master's degree at the UPC? Access, admission and enrolment Fees, grants and payment options Academic calendar and",
-          "S Master's degrees 2026-2027 Why take a master's degree at the UPC? Access, admission and enrolment Fees, grants and payment options Academic calendar and academic regulations Languages and certification Mobility and work placement Lifelong learning master's and postgraduate studies"
-        ],
-        "research": [
-          "enu Tools Skip to content Skip to menu Information for... International students and academic staff Research career (Talent Hub) Companies Media - Press Room UPC students UPC staff Electronic Headquarters Contact Language: English Català Español English Search... Search in UPC Main navig",
-          "ter's degree and postgraduate University microcedentials Short and specialised courses RDI RDI news Research at the UPC Research support and promotion Transfer, entrepreneurship and innovation at the UPC Transfer, entrepreneurship and innovation support and promotion Services for compani",
-          "tgraduate University microcedentials Short and specialised courses RDI RDI news Research at the UPC Research support and promotion Transfer, entrepreneurship and innovation at the UPC Transfer, entrepreneurship and innovation support and promotion Services for companies Scientific and Te"
-        ],
-        "people_contact": [
-          "rch career (Talent Hub) Companies Media - Press Room UPC students UPC staff Electronic Headquarters Contact Language: English Català Español English Search... Search in UPC Main navigation BACHELOR'S Bachelor's degrees 2026-2027 Sequential academic programmes Access and admission Enrolm",
-          "anding UPCshop, merchandising Press room © UPC Universitat Politècnica de Catalunya - BarcelonaTech Contact Site map Accessibility Disclaimer Privacy settings"
-        ]
-      },
-      "content_hash": "1e904c9e85b24727b006909bc021ce0ed7db67754c1bbf12d06c0cfbf9944f27"
-    },
-    {
-      "agent": "atlas",
-      "kind": "master",
-      "entity": "UPC Semiconductor Engineering",
-      "url": "https://www.upc.edu/en/bachelors/access-and-admission/access-and-admission",
-      "title": "Access and admission - UPC Universitat Politècnica de Catalunya",
-      "signals": {
-        "admission": [
-          "Access and admission - UPC Universitat Politècnica de Catalunya UPC. Universitat Politècnica de Catalunya Menu Menu Tools Skip to content Skip to menu Information for... International students and aca",
-          "C Main navigation BACHELOR'S Bachelor's degrees 2026-2027 Sequential academic programmes Access and admission Enrolment Fees, grants and payment options Academic calendar and academic regulations Languages and certification Mobility and work placement New bachelor's degree fees More infor",
-          "More information MASTER'S Master's degrees 2026-2027 Why take a master's degree at the UPC? Access, admission and enrolment Fees, grants and payment options Academic calendar and academic regulations Languages and certification Mobility and work placement Lifelong learning master's and po"
-        ],
-        "fees_funding": [
-          "CHELOR'S Bachelor's degrees 2026-2027 Sequential academic programmes Access and admission Enrolment Fees, grants and payment options Academic calendar and academic regulations Languages and certification Mobility and work placement New bachelor's degree fees More information MASTER'",
-          "academic regulations Languages and certification Mobility and work placement New bachelor's degree fees More information MASTER'S Master's degrees 2026-2027 Why take a master's degree at the UPC? Access, admission and enrolment Fees, grants and payment options Academic calendar and",
-          "S Master's degrees 2026-2027 Why take a master's degree at the UPC? Access, admission and enrolment Fees, grants and payment options Academic calendar and academic regulations Languages and certification Mobility and work placement Lifelong learning master's and postgraduate studies"
-        ],
-        "research": [
-          "enu Tools Skip to content Skip to menu Information for... International students and academic staff Research career (Talent Hub) Companies Media - Press Room UPC students UPC staff Electronic Headquarters Contact Language: English Català Español English Search... Search in UPC Main navig",
-          "ter's degree and postgraduate University microcedentials Short and specialised courses RDI RDI news Research at the UPC Research support and promotion Transfer, entrepreneurship and innovation at the UPC Transfer, entrepreneurship and innovation support and promotion Services for compani",
-          "tgraduate University microcedentials Short and specialised courses RDI RDI news Research at the UPC Research support and promotion Transfer, entrepreneurship and innovation at the UPC Transfer, entrepreneurship and innovation support and promotion Services for companies Scientific and Te"
-        ],
-        "people_contact": [
-          "rch career (Talent Hub) Companies Media - Press Room UPC students UPC staff Electronic Headquarters Contact Language: English Català Español English Search... Search in UPC Main navigation BACHELOR'S Bachelor's degrees 2026-2027 Sequential academic programmes Access and admission Enrolm",
-          "anding UPCshop, merchandising Press room © UPC Universitat Politècnica de Catalunya - BarcelonaTech Contact Site map Accessibility Disclaimer Privacy settings"
-        ]
-      },
-      "content_hash": "1e904c9e85b24727b006909bc021ce0ed7db67754c1bbf12d06c0cfbf9944f27"
-    },
-    {
-      "agent": "atlas",
-      "kind": "master",
-      "entity": "UPC Semiconductor Engineering",
-      "url": "https://www.upc.edu/en/masters/access-admission-enrolment",
-      "title": "Access, admission and enrolment - UPC Universitat Politècnica de Catalunya",
-      "signals": {
-        "admission": [
-          "Access, admission and enrolment - UPC Universitat Politècnica de Catalunya UPC. Universitat Politècnica de Catalunya Menu Menu Tools Skip to content Skip to menu Information for... International st",
-          "C Main navigation BACHELOR'S Bachelor's degrees 2026-2027 Sequential academic programmes Access and admission Enrolment Fees, grants and payment options Academic calendar and academic regulations Languages and certification Mobility and work placement New bachelor's degree fees More infor",
-          "More information MASTER'S Master's degrees 2026-2027 Why take a master's degree at the UPC? Access, admission and enrolment Fees, grants and payment options Academic calendar and academic regulations Languages and certification Mobility and work placement Lifelong learning master's and po"
-        ],
-        "fees_funding": [
-          "CHELOR'S Bachelor's degrees 2026-2027 Sequential academic programmes Access and admission Enrolment Fees, grants and payment options Academic calendar and academic regulations Languages and certification Mobility and work placement New bachelor's degree fees More information MASTER'",
-          "academic regulations Languages and certification Mobility and work placement New bachelor's degree fees More information MASTER'S Master's degrees 2026-2027 Why take a master's degree at the UPC? Access, admission and enrolment Fees, grants and payment options Academic calendar and",
-          "S Master's degrees 2026-2027 Why take a master's degree at the UPC? Access, admission and enrolment Fees, grants and payment options Academic calendar and academic regulations Languages and certification Mobility and work placement Lifelong learning master's and postgraduate studies"
-        ],
-        "research": [
-          "enu Tools Skip to content Skip to menu Information for... International students and academic staff Research career (Talent Hub) Companies Media - Press Room UPC students UPC staff Electronic Headquarters Contact Language: English Català Español English Search... Search in UPC Main navig",
-          "ter's degree and postgraduate University microcedentials Short and specialised courses RDI RDI news Research at the UPC Research support and promotion Transfer, entrepreneurship and innovation at the UPC Transfer, entrepreneurship and innovation support and promotion Services for compani",
-          "tgraduate University microcedentials Short and specialised courses RDI RDI news Research at the UPC Research support and promotion Transfer, entrepreneurship and innovation at the UPC Transfer, entrepreneurship and innovation support and promotion Services for companies Scientific and Te"
-        ],
-        "people_contact": [
-          "rch career (Talent Hub) Companies Media - Press Room UPC students UPC staff Electronic Headquarters Contact Language: English Català Español English Search... Search in UPC Main navigation BACHELOR'S Bachelor's degrees 2026-2027 Sequential academic programmes Access and admission Enrolm",
-          "anding UPCshop, merchandising Press room © UPC Universitat Politècnica de Catalunya - BarcelonaTech Contact Site map Accessibility Disclaimer Privacy settings"
-        ]
-      },
-      "content_hash": "b9824375f9eda2739beabfeb44183d3c551e5276806087e831216787f9716929"
-    },
-    {
       "agent": "nova",
       "kind": "tfg",
       "entity": "IREC Solar Energy Materials",
@@ -617,7 +497,7 @@
           "anagement Organic Solar Cells Optoelectronics of group-IV semiconductor nanostructures Publications People Equipment Projects News In the Press People All Researchers Post-Docs PhD Students Technicians and project managers Afroditi Koutsogianni PhD Students Agustín Mihi Researchers Ale"
         ]
       },
-      "content_hash": "8e767e7019821ef1fa5a9242bbbc00bd79688c8c653f1a6202d619c9f7908df9"
+      "content_hash": "cdc17e65df98f6c795d4ede271d04b43724d53b6ac0cedb859a97c65bcbe2823"
     },
     {
       "agent": "nova",
@@ -640,7 +520,7 @@
           "ncluding thermal, mechanical and biological aspects. Not only allows this to solve urgent problems (contact resistance), it also enables completely new (switchable, reconfigurable) devices. The topic is inspired by a combination of scientific curiosity and a strong feeling of practical"
         ]
       },
-      "content_hash": "3cad4904d8685fe2abce48d818e9e0670926cfad5ab84aae7c9f01e25c538efa"
+      "content_hash": "f85ae7d5394be2614b168f4bb52e285fc53ef84b59e8e0b1c9ca8df7be1c2307"
     },
     {
       "agent": "nova",
@@ -659,7 +539,7 @@
           "anagement Organic Solar Cells Optoelectronics of group-IV semiconductor nanostructures Publications People Equipment Projects News In the Press Publications Cargando publicaciones Nanopto..."
         ]
       },
-      "content_hash": "773659b5ceb1b37cdf1700b2aeba299afd2594812981052d769f48c7987f9194"
+      "content_hash": "d047efe1dd315f10b4a152c52ba292d9245230b90b8dfc8e6251b73480e60a16"
     },
     {
       "agent": "nova",
@@ -683,7 +563,7 @@
           "» About the center Research Clean Room Laboratories Technology Transfer News & Outreach Highlights Contact Talent Search Contracting profile Legal Advice © Copyright 2026. IMB-CNM"
         ]
       },
-      "content_hash": "4ba1972786b4b91805f94eaa9760a644f996cdf4791cac2428dece6e2123c630"
+      "content_hash": "f0a510bfa60f981f658f2f88f528fef3afacca1190c371938b98e0b0fc23e1f8"
     }
   ],
   "sources": [
@@ -721,7 +601,7 @@
           "Our Partners The course Overview Consortium & Universities Curriculum Mobility scheme Fees The Team Professors Administrative Associated partners (research centers and industry) Students Resources Class #21 2025-2027 (32 students) Class #20 2024-2026 (31 students) Class #19 2023-2025 (17"
         ]
       },
-      "content_hash": "d88e8393309d0bf7ac73bbd6fc60355fdf86ce88d98989b0da462e27e248fe75"
+      "content_hash": "84b2183f4e16ac44f22592eacbebe0593282f3a06621cd4d71a3f644e7da597f"
     },
     {
       "agent": "atlas",
@@ -799,34 +679,8 @@
       "kind": "master",
       "entity": "UPC Semiconductor Engineering",
       "url": "https://www.upc.edu/en/masters/semiconductor-engineering-and-microelectronic-design",
-      "title": "Master's degree in Semiconductor Engineering and Microelectronic Design - UPC Universitat Politècnica de Catalunya",
-      "status": "verified",
-      "signals": {
-        "deadlines": [
-          "ing in the design and manufacture of integrated, digital and analogue circuits, with an emphasis on applying them in memory systems, communication systems, control systems, computing systems, sensors and emerging devices, such as 2D and quantum devices. The aim is thus to cover the cu"
-        ],
-        "admission": [
-          "C Main navigation BACHELOR'S Bachelor's degrees 2026-2027 Sequential academic programmes Access and admission Enrolment Fees, grants and payment options Academic calendar and academic regulations Languages and certification Mobility and work placement New bachelor's degree fees More infor",
-          "More information MASTER'S Master's degrees 2026-2027 Why take a master's degree at the UPC? Access, admission and enrolment Fees, grants and payment options Academic calendar and academic regulations Languages and certification Mobility and work placement Lifelong learning master's and po",
-          "assroom and students’ language rights . Location Barcelona School of Telecommunications Engineering Admission General requirements Academic requirements for admission to master's degrees New intake places 30 Pre-enrolment Pre-enrolment for this master’s degree is currently closed . Use th"
-        ],
-        "fees_funding": [
-          "CHELOR'S Bachelor's degrees 2026-2027 Sequential academic programmes Access and admission Enrolment Fees, grants and payment options Academic calendar and academic regulations Languages and certification Mobility and work placement New bachelor's degree fees More information MASTER'",
-          "academic regulations Languages and certification Mobility and work placement New bachelor's degree fees More information MASTER'S Master's degrees 2026-2027 Why take a master's degree at the UPC? Access, admission and enrolment Fees, grants and payment options Academic calendar and",
-          "S Master's degrees 2026-2027 Why take a master's degree at the UPC? Access, admission and enrolment Fees, grants and payment options Academic calendar and academic regulations Languages and certification Mobility and work placement Lifelong learning master's and postgraduate studies"
-        ],
-        "research": [
-          "enu Tools Skip to content Skip to menu Information for... International students and academic staff Research career (Talent Hub) Companies Media - Press Room UPC students UPC staff Electronic Headquarters Contact Language: English Català Español English Search... Search in UPC Main navig",
-          "ter's degree and postgraduate University microcedentials Short and specialised courses RDI RDI news Research at the UPC Research support and promotion Transfer, entrepreneurship and innovation at the UPC Transfer, entrepreneurship and innovation support and promotion Services for compani",
-          "tgraduate University microcedentials Short and specialised courses RDI RDI news Research at the UPC Research support and promotion Transfer, entrepreneurship and innovation at the UPC Transfer, entrepreneurship and innovation support and promotion Services for companies Scientific and Te"
-        ],
-        "people_contact": [
-          "by the UPC are capacity for innovation and entrepreneurship, sustainability and social commitment, teamwork, proper use of information resources, knowledge of a foreign language (preferably English) and gender perspective. Quality accreditation Check the degree’s main quality indica",
-          "rch career (Talent Hub) Companies Media - Press Room UPC students UPC staff Electronic Headquarters Contact Language: English Català Español English Search... Search in UPC Main navigation BACHELOR'S Bachelor's degrees 2026-2027 Sequential academic programmes Access and admission Enrolm",
-          "anding UPCshop, merchandising Press room © UPC Universitat Politècnica de Catalunya - BarcelonaTech Contact Site map Accessibility Disclaimer Privacy settings"
-        ]
-      },
-      "content_hash": "e6a8eb400177e4ee20107d2bc1a4cb18bc586580b199d3298c0b0f29f7f24979"
+      "status": "error",
+      "error": "The read operation timed out"
     },
     {
       "agent": "nova",
@@ -888,7 +742,7 @@
           "anagement Organic Solar Cells Optoelectronics of group-IV semiconductor nanostructures Publications People Equipment Projects News In the Press Organic Solar Cells We aim at producing strong contributions towards the development of cost-efective, low energy pay back time photovoltaics"
         ]
       },
-      "content_hash": "506e791bc0f9a2cde23b4e16e947881a4d1a966c2af986aaa679bea167df93e4"
+      "content_hash": "d653df6d611833ccda4d8f7b5598ef7523ef5ec37bed92d06870a122cf284f62"
     },
     {
       "agent": "nova",
@@ -908,7 +762,7 @@
           "B. About the center Research Clean Room Laboratories Technology Transfer News & Outreach Highlights Contact Talent Search Contracting profile Legal Advice © Copyright 2026. IMB-CNM"
         ]
       },
-      "content_hash": "3d21d6c4a126d201084e63fb2a790ab14d795ebcc78d10a80c97bb7aab4329a8"
+      "content_hash": "284ee4f149a45e4e8cbb84896f9e032d7754d4892e930d9c66a3812a137a18b1"
     }
   ]
 }
