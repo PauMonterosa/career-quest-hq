@@ -16,25 +16,25 @@ type AvatarParts = {
 const TILE_W = 32;
 const TILE_H = 16;
 const stationTiles: Record<string, { point: Point; label: string; action: string; sitting: boolean }> = {
-  control_room: { point: { x: 330, y: 205 }, label: "01 STRATEGY ROOM", action: "PLANNING THE WEEK", sitting: true },
-  masters_archive: { point: { x: 595, y: 205 }, label: "02 MASTERS ARCHIVE", action: "RESEARCHING PROGRAMMES", sitting: false },
-  mail_room: { point: { x: 185, y: 370 }, label: "03 GREEN MAIL ROOM", action: "DRAFTING EMAIL", sitting: true },
-  tfg_laboratory: { point: { x: 715, y: 375 }, label: "04 TFG LABORATORY", action: "ANALYSING SAMPLES", sitting: true },
-  food_kitchen: { point: { x: 270, y: 525 }, label: "05 BRASA'S KITCHEN", action: "COOKING THE PLAN", sitting: false },
-  portfolio_workshop: { point: { x: 585, y: 525 }, label: "06 PORTFOLIO WORKSHOP", action: "BUILDING PORTFOLIO", sitting: true },
+  control_room: { point: { x: 382, y: 159 }, label: "01 STRATEGY ROOM", action: "PLANNING THE WEEK", sitting: true },
+  masters_archive: { point: { x: 603, y: 160 }, label: "02 MASTERS ARCHIVE", action: "RESEARCHING PROGRAMMES", sitting: false },
+  mail_room: { point: { x: 190, y: 304 }, label: "03 GREEN MAIL ROOM", action: "DRAFTING EMAIL", sitting: true },
+  tfg_laboratory: { point: { x: 749, y: 331 }, label: "04 TFG LABORATORY", action: "ANALYSING SAMPLES", sitting: true },
+  food_kitchen: { point: { x: 280, y: 515 }, label: "05 BRASA'S KITCHEN", action: "COOKING THE PLAN", sitting: false },
+  portfolio_workshop: { point: { x: 590, y: 503 }, label: "06 PORTFOLIO WORKSHOP", action: "BUILDING PORTFOLIO", sitting: true },
 };
 const startTiles: Record<string, Point> = {
-  chronos: { x: 345, y: 215 }, atlas: { x: 610, y: 215 }, echo: { x: 205, y: 380 },
-  nova: { x: 730, y: 380 }, brasa: { x: 285, y: 530 }, pixel: { x: 600, y: 530 },
+  chronos: { x: 382, y: 159 }, atlas: { x: 603, y: 160 }, echo: { x: 190, y: 304 },
+  nova: { x: 749, y: 331 }, brasa: { x: 280, y: 515 }, pixel: { x: 590, y: 503 },
 };
 const NAV_NODES: Record<string, Point> = {
-  control: { x: 330, y: 205 }, controlDoor: { x: 385, y: 245 },
-  archive: { x: 595, y: 205 }, archiveDoor: { x: 535, y: 245 },
-  upperHall: { x: 460, y: 270 }, centre: { x: 460, y: 335 },
-  mailDoor: { x: 295, y: 335 }, mail: { x: 195, y: 365 },
-  labDoor: { x: 625, y: 335 }, lab: { x: 715, y: 365 },
-  kitchenDoor: { x: 355, y: 430 }, kitchen: { x: 275, y: 510 },
-  workshopDoor: { x: 535, y: 430 }, workshop: { x: 585, y: 510 },
+  control: { x: 382, y: 159 }, controlDoor: { x: 437, y: 237 },
+  archive: { x: 603, y: 160 }, archiveDoor: { x: 530, y: 237 },
+  upperHall: { x: 480, y: 275 }, centre: { x: 480, y: 350 },
+  mailDoor: { x: 326, y: 353 }, mail: { x: 190, y: 304 },
+  labDoor: { x: 641, y: 365 }, lab: { x: 749, y: 331 },
+  kitchenDoor: { x: 409, y: 438 }, kitchen: { x: 280, y: 515 },
+  workshopDoor: { x: 568, y: 438 }, workshop: { x: 590, y: 503 },
 };
 const NAV_EDGES: Record<string, string[]> = {
   control: ["controlDoor"], controlDoor: ["control", "upperHall"],
@@ -71,6 +71,7 @@ export class OfficeScene extends Phaser.Scene {
   constructor() { super("office"); }
 
   preload() {
+    this.load.image("modular-hq", `${import.meta.env.BASE_URL}assets/modular-hq-clean.png`);
     ["atlas", "nova", "echo", "chronos", "pixel", "brasa"].forEach(agentId =>
       this.load.image(`agent-${agentId}`, `${import.meta.env.BASE_URL}assets/agents/${agentId}.png`));
   }
@@ -78,9 +79,9 @@ export class OfficeScene extends Phaser.Scene {
   create() {
     this.cameras.main.setBackgroundColor("#10171a");
     this.drawBackdrop();
-    this.drawModularArchitecture();
-    this.drawRoomLabels();
-    this.drawStations();
+    this.add.image(450, 310, "modular-hq").setDisplaySize(900, 600).setDepth(-500);
+    ["controlDoor", "archiveDoor", "mailDoor", "labDoor", "kitchenDoor", "workshopDoor"].forEach(id =>
+      this.createDoor(id, NAV_NODES[id]));
     this.selectionRing = this.add.ellipse(0, 0, 31, 13).setStrokeStyle(2, 0xffdc74).setFillStyle(0xffdc74, 0.16).setDepth(700);
     this.destinationMarker = this.add.polygon(0, 0, [0, -8, 16, 0, 0, 8, -16, 0], 0xffdc74, 0.34).setVisible(false).setDepth(20);
     this.createResultHud();
