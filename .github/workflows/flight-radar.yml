@@ -31,21 +31,53 @@ jobs:
           GH_TOKEN: ${{ github.token }}
         run: |
           python - <<'PY'
-          import json, os
+          import json
           from pathlib import Path
-          feed=json.loads(Path('frontend/public/data/flight-deals.json').read_text(encoding='utf-8'))
-          deals=[d for d in feed.get('deals',[]) if d.get('interesting')][:5]
-          if not deals: raise SystemExit(0)
-          body='\n'.join(f"- **{d['title']}** · {d['price_eur']} € · {d['source']} · [oferta]({d['source_url']}) · [verificar en Google Flights]({d['verification_url']})" for d in deals)
-          Path('/tmp/flight-alert.md').write_text('El piloto ha detectado estas tarifas:\n\n'+body+'\n\nPrecios sujetos a disponibilidad; verifica el total antes de comprar.',encoding='utf-8')
+
+          def flag(code):
+              code = (code or '').upper()
+              return ''.join(chr(127397 + ord(letter)) for letter in code) if len(code) == 2 else '🏳️'
+
+          feed = json.loads(Path('frontend/public/data/flight-deals.json').read_text(encoding='utf-8'))
+          deals = [deal for deal in feed.get('deals', []) if deal.get('interesting')][:5]
+          if not deals:
+              raise SystemExit(0)
+
+          lines = []
+          for deal in deals:
+              route = (
+                  f"{flag(deal.get('origin_country_code'))} {deal.get('origin_iata', 'Origen')}  →  "
+                  f"{flag(deal.get('destination_country_code'))} {deal.get('destination_iata', 'Destino')}"
+              )
+              city = deal.get('destination_city') or deal.get('title', '')
+              lines.append(
+                  f"{route} · {city}\n"
+                  f"💶 {deal['price_eur']:.2f} € · {deal['source']}\n"
+                  f"🔎 {deal['source_url']}"
+              )
+
+          message = (
+              'SKY ha detectado estas tarifas:\n\n'
+              + '\n\n'.join(lines)
+              + '\n\nPrecios sujetos a disponibilidad; verifica el total antes de comprar.'
+          )
+          Path('/tmp/flight-alert.md').write_text(message, encoding='utf-8')
+          image = next((deal.get('destination_image_url') for deal in deals if deal.get('destination_image_url')), '')
+          Path('/tmp/flight-image-url').write_text(image, encoding='utf-8')
           PY
           test -f /tmp/flight-alert.md && gh issue create --title "✈️ Oferta europea detectada $(date +%F)" --body-file /tmp/flight-alert.md --assignee PauMonterosa || true
           if test -f /tmp/flight-alert.md && test -n "${{ secrets.NTFY_TOPIC }}"; then
+            IMAGE_URL="$(cat /tmp/flight-image-url)"
+            ATTACH_HEADER=()
+            if test -n "$IMAGE_URL"; then
+              ATTACH_HEADER=(-H "Attach: $IMAGE_URL" -H "Filename: destino.jpg")
+            fi
             curl --fail --silent --show-error \
               -H "Title: SKY · Mejores vuelos de hoy" \
               -H "Priority: high" \
               -H "Tags: airplane,euros" \
-              -H "Click: https://paumonterosa.github.io/career-quest-hq/?v=9" \
+              -H "Click: https://paumonterosa.github.io/career-quest-hq/?v=10" \
+              "${ATTACH_HEADER[@]}" \
               --data-binary @/tmp/flight-alert.md \
               "https://ntfy.sh/${{ secrets.NTFY_TOPIC }}"
           fi
