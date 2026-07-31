@@ -15,6 +15,7 @@ AGENTS = [
     ("chronos", "CHRONOS", "Deadline Manager", "Strict but helpful", "control_room", "#f5c84c", "clock"),
     ("pixel", "PIXEL", "Portfolio and Project Coach", "Creative engineer", "portfolio_workshop", "#a775ff", "tools"),
     ("brasa", "BRASA", "Chef and Provisions Coordinator", "Practical, warm and resourceful", "food_kitchen", "#df774d", "chef_hat"),
+    ("pilot", "SKY", "European Flight Deal Pilot", "Alert, practical and adventurous", "air_operations", "#4f83d9", "pilot_cap"),
 ]
 
 

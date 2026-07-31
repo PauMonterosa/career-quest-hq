@@ -1,0 +1,48 @@
+name: Daily European flight radar
+
+on:
+  schedule:
+    - cron: "23 6 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+  issues: write
+
+jobs:
+  scan:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - name: Search real flight offers
+        env:
+          AMADEUS_CLIENT_ID: ${{ secrets.AMADEUS_CLIENT_ID }}
+          AMADEUS_CLIENT_SECRET: ${{ secrets.AMADEUS_CLIENT_SECRET }}
+          FLIGHT_ORIGINS: ${{ vars.FLIGHT_ORIGINS || 'BCN,GRO' }}
+          FLIGHT_DESTINATIONS: ${{ vars.FLIGHT_DESTINATIONS || 'LIS,OPO,PAR,ROM,MIL,BER,PRG,VIE,BUD,AMS,BRU,DUB,CPH,KRK,ATH' }}
+          FLIGHT_MAX_PRICE_EUR: ${{ vars.FLIGHT_MAX_PRICE_EUR || '120' }}
+        run: python backend/scripts/refresh_flight_deals.py
+      - name: Commit current radar
+        run: |
+          git config user.name "Career Quest Pilot"
+          git config user.email "actions@users.noreply.github.com"
+          git add frontend/public/data/flight-deals.json
+          git diff --cached --quiet || git commit -m "Update daily flight radar"
+          git push
+      - name: Notify interesting European fares
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          python - <<'PY'
+          import json, os
+          from pathlib import Path
+          feed=json.loads(Path('frontend/public/data/flight-deals.json').read_text(encoding='utf-8'))
+          deals=[d for d in feed.get('deals',[]) if d.get('interesting')][:5]
+          if not deals: raise SystemExit(0)
+          body='\n'.join(f"- **{d['origin']} → {d['destination']}** · {d['price_eur']} € · {d['departure_date']}–{d['return_date']} · [consultar]({d['booking_url']})" for d in deals)
+          Path('/tmp/flight-alert.md').write_text('El piloto ha detectado estas tarifas:\n\n'+body+'\n\nPrecios sujetos a disponibilidad; verifica el total antes de comprar.',encoding='utf-8')
+          PY
+          test -f /tmp/flight-alert.md && gh issue create --title "✈️ Oferta europea detectada $(date +%F)" --body-file /tmp/flight-alert.md || true
