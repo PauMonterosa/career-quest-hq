@@ -125,17 +125,30 @@ export class OfficeScene extends Phaser.Scene {
 
   private drawModularArchitecture() {
     const modules = [
-      { x: 330, y: 176, cols: 7, rows: 6, floor: 0x73523c },
-      { x: 595, y: 176, cols: 7, rows: 6, floor: 0x674a36 },
-      { x: 190, y: 345, cols: 7, rows: 6, floor: 0x526345 },
-      { x: 715, y: 345, cols: 7, rows: 6, floor: 0x405b5b },
-      { x: 270, y: 495, cols: 7, rows: 6, floor: 0x7b4c32 },
-      { x: 585, y: 495, cols: 8, rows: 6, floor: 0x5c4a58 },
+      { x: 330, y: 176, cols: 8, rows: 7, floor: 0x684833 },
+      { x: 585, y: 176, cols: 8, rows: 7, floor: 0x62452f },
+      { x: 185, y: 345, cols: 8, rows: 7, floor: 0x4d5b3d },
+      { x: 715, y: 345, cols: 8, rows: 7, floor: 0x3e5551 },
+      { x: 270, y: 495, cols: 8, rows: 7, floor: 0x70472f },
+      { x: 585, y: 495, cols: 9, rows: 7, floor: 0x584653 },
     ];
-    modules.forEach(module => this.drawModule(module.x, module.y, module.cols, module.rows, module.floor));
+    this.drawBuildingBase();
     this.drawCorridor();
+    modules.forEach(module => this.drawModule(module.x, module.y, module.cols, module.rows, module.floor));
     ["controlDoor", "archiveDoor", "mailDoor", "labDoor", "kitchenDoor", "workshopDoor"].forEach(id =>
       this.createDoor(id, NAV_NODES[id]));
+  }
+
+  private drawBuildingBase() {
+    const g = this.add.graphics().setDepth(-250);
+    g.fillStyle(0x090d0f, 0.62);
+    g.beginPath().moveTo(300, 70).lineTo(690, 120).lineTo(865, 330).lineTo(720, 555)
+      .lineTo(560, 598).lineTo(405, 560).lineTo(250, 598).lineTo(55, 390).lineTo(90, 285)
+      .closePath().fillPath();
+    g.fillStyle(0x514033, 1).lineStyle(4, 0x201917, 1);
+    g.beginPath().moveTo(310, 82).lineTo(675, 128).lineTo(845, 330).lineTo(702, 542)
+      .lineTo(570, 580).lineTo(410, 542).lineTo(270, 580).lineTo(74, 385).lineTo(105, 294)
+      .closePath().fillPath().strokePath();
   }
 
   private drawModule(cx: number, cy: number, cols: number, rows: number, floorColor: number) {
@@ -162,17 +175,41 @@ export class OfficeScene extends Phaser.Scene {
     walls.lineStyle(1, 0x694a3b, 0.65);
     for (let i = 1; i < cols; i++) walls.lineBetween(cx + i * TILE_W / 2, cy - halfH + i * TILE_H / 2, cx + i * TILE_W / 2, cy - halfH + i * TILE_H / 2 - wallH);
     for (let i = 1; i < rows; i++) walls.lineBetween(cx - i * TILE_W / 2, cy - halfH + i * TILE_H / 2, cx - i * TILE_W / 2, cy - halfH + i * TILE_H / 2 - wallH);
+    walls.lineStyle(3, 0xd0a776, 0.6).lineBetween(cx - halfW + 5, cy - wallH + 2, cx, cy - halfH - wallH + 2)
+      .lineBetween(cx, cy - halfH - wallH + 2, cx + halfW - 5, cy - wallH + 2);
+    this.drawWallLamp(cx - halfW * 0.48, cy - halfH * 0.52 - 31, cy - 68);
+    this.drawWallLamp(cx + halfW * 0.48, cy - halfH * 0.52 - 31, cy - 67);
   }
 
   private drawCorridor() {
-    const g = this.add.graphics().setDepth(5);
-    g.fillStyle(0x4d4036, 1).lineStyle(3, 0x241d1b, 1);
-    g.beginPath().moveTo(460, 238).lineTo(650, 335).lineTo(530, 438).lineTo(360, 438).lineTo(270, 335)
+    const g = this.add.graphics().setDepth(-40);
+    const paths: Array<[Point, Point]> = [
+      [NAV_NODES.control, NAV_NODES.upperHall], [NAV_NODES.archive, NAV_NODES.upperHall],
+      [NAV_NODES.upperHall, NAV_NODES.centre], [NAV_NODES.mail, NAV_NODES.centre],
+      [NAV_NODES.lab, NAV_NODES.centre], [NAV_NODES.kitchen, NAV_NODES.centre],
+      [NAV_NODES.workshop, NAV_NODES.centre],
+    ];
+    paths.forEach(([from, to]) => {
+      g.lineStyle(58, 0x2b211d, 1).lineBetween(from.x, from.y, to.x, to.y);
+      g.lineStyle(50, 0x685443, 1).lineBetween(from.x, from.y, to.x, to.y);
+      g.lineStyle(1, 0x9a7b5f, 0.55).lineBetween(from.x, from.y - 8, to.x, to.y - 8);
+      g.lineStyle(1, 0x2c2521, 0.7).lineBetween(from.x, from.y + 8, to.x, to.y + 8);
+    });
+    g.fillStyle(0x685443, 1).lineStyle(4, 0x2b211d, 1);
+    g.beginPath().moveTo(460, 275).lineTo(610, 335).lineTo(530, 414).lineTo(382, 414).lineTo(310, 335)
       .closePath().fillPath().strokePath();
-    g.lineStyle(1, 0x7c6652, 0.5);
-    for (let y = 270; y < 430; y += 18) g.lineBetween(320, y, 590, y);
+    g.lineStyle(1, 0x75604d, 0.5);
+    for (let y = 300; y < 405; y += 16) g.lineBetween(355, y, 565, y);
     this.add.text(460, 334, "CENTRAL HUB", { fontFamily: "monospace", fontSize: "9px", color: "#d8b47a" })
       .setOrigin(0.5).setDepth(20);
+  }
+
+  private drawWallLamp(x: number, y: number, depth: number) {
+    const glow = this.add.circle(x, y, 23, 0xffc86c, 0.12).setDepth(depth - 1);
+    const g = this.add.graphics().setDepth(depth);
+    g.fillStyle(0x3b2a21, 1).fillRect(x - 6, y - 2, 12, 17);
+    g.fillStyle(0xffd98a, 1).lineStyle(2, 0x7a4a28, 1).fillRoundedRect(x - 8, y - 11, 16, 13, 3).strokeRoundedRect(x - 8, y - 11, 16, 13, 3);
+    this.tweens.add({ targets: glow, alpha: 0.2, scale: 1.12, duration: 1200, yoyo: true, repeat: -1 });
   }
 
   private createDoor(id: string, point: Point) {
@@ -261,7 +298,7 @@ export class OfficeScene extends Phaser.Scene {
   }
 
   private drawBackdrop() {
-    const g = this.add.graphics();
+    const g = this.add.graphics().setDepth(-1000);
     g.fillGradientStyle(0x4d303e, 0x4d303e, 0x251d2a, 0x251d2a, 1).fillRect(0, 0, 900, 620);
     for (let i = 0; i < 80; i++) g.fillStyle(i % 5 === 0 ? 0x6f4350 : 0x352431, 0.22)
       .fillRect((i * 97) % 900, (i * 53) % 620, 2, 2);
@@ -296,49 +333,90 @@ export class OfficeScene extends Phaser.Scene {
     this.drawLabFurniture(); this.drawKitchenFurniture(); this.drawWorkshopFurniture();
   }
 
+  private drawRug(x: number, y: number, w: number, h: number, color: number, depth: number) {
+    const g = this.add.graphics().setDepth(depth);
+    g.fillStyle(0x211a18, 0.45).fillEllipse(x + 3, y + 5, w + 8, h + 6);
+    g.fillStyle(color, 0.92).lineStyle(2, 0xd0a15e, 0.7).fillEllipse(x, y, w, h).strokeEllipse(x, y, w, h);
+    g.lineStyle(1, 0xf0cf88, 0.4).strokeEllipse(x, y, w - 12, h - 8);
+  }
+
+  private drawSofa(x: number, y: number, color: number) {
+    this.isoBox(x, y, 82, 28, 18, color, 0x344633, 0x41543e, y + 8);
+    const g = this.add.graphics().setDepth(y + 7);
+    g.fillStyle(color).lineStyle(2, 0x25231f).fillRoundedRect(x - 42, y - 37, 84, 28, 7).strokeRoundedRect(x - 42, y - 37, 84, 28, 7);
+    g.lineStyle(2, 0xc4a76d, 0.4).lineBetween(x, y - 35, x, y - 11);
+    g.fillStyle(0xd6b776).fillRoundedRect(x + 17, y - 30, 17, 14, 3);
+  }
+
   private drawStrategyFurniture() {
-    this.isoBox(330, 164, 88, 34, 22, 0x8d6749, 0x5d4237, 0x75513f, 205);
+    this.drawRug(330, 187, 118, 50, 0x315e63, 187);
+    this.isoBox(330, 164, 104, 46, 24, 0x8d6749, 0x5d4237, 0x75513f, 205);
     const g = this.add.graphics().setDepth(204);
-    g.fillStyle(0x193943).lineStyle(2, 0xd6a75a).fillRect(302, 108, 56, 34).strokeRect(302, 108, 56, 34);
-    g.fillStyle(0x63d2af).fillRect(309, 115, 19, 5).fillRect(309, 126, 39, 4);
-    this.drawChair(330, 202, 0x725f50); this.drawPlant(258, 176);
+    g.fillStyle(0x193943).lineStyle(3, 0xd6a75a).fillRect(292, 105, 76, 39).strokeRect(292, 105, 76, 39);
+    g.fillStyle(0x63d2af).fillRect(300, 113, 24, 6).fillRect(300, 128, 53, 5);
+    g.fillStyle(0xe3be67).fillRect(337, 113, 18, 6);
+    g.fillStyle(0x4d9ba4, 0.75).lineStyle(1, 0x9ed9d4, 0.8).fillRect(299, 150, 62, 25).strokeRect(299, 150, 62, 25);
+    g.lineBetween(305, 164, 354, 154).lineBetween(311, 152, 344, 171);
+    this.drawChair(330, 210, 0x725f50); this.drawPlant(252, 178); this.drawPlant(402, 176);
+    this.isoBox(265, 151, 36, 22, 31, 0x725038, 0x4d3429, 0x5d3d2e, 181);
   }
 
   private drawArchiveFurniture() {
-    [548, 580, 612, 644].forEach((x, index) => {
+    [532, 560, 588, 616, 644].forEach((x, index) => {
       const g = this.add.graphics().setDepth(195 + index);
       g.fillStyle(0x583b2c).lineStyle(2, 0x2d211d).fillRect(x - 13, 111, 26, 66).strokeRect(x - 13, 111, 26, 66);
       [0, 1, 2].forEach(row => { g.fillStyle([0xb45f4e, 0xd2a54f, 0x4f7996][(row + index) % 3]).fillRect(x - 9, 119 + row * 18, 18, 13); });
     });
-    this.isoBox(595, 172, 72, 30, 20, 0x9b714a, 0x684632, 0x7c5539, 205);
+    this.drawRug(592, 193, 108, 42, 0x745126, 188);
+    this.isoBox(592, 176, 78, 32, 21, 0x9b714a, 0x684632, 0x7c5539, 205);
+    const g = this.add.graphics().setDepth(210);
+    g.lineStyle(4, 0xb68753, 1).lineBetween(527, 117, 553, 180).lineBetween(539, 117, 565, 180);
+    [0, 1, 2, 3].forEach(i => g.lineStyle(2, 0xe0b06c, 1).lineBetween(532 + i * 5, 130 + i * 12, 549 + i * 5, 130 + i * 12));
+    g.fillStyle(0x4f85a0).lineStyle(2, 0xcfaa62).fillCircle(652, 183, 15).strokeCircle(652, 183, 15);
+    g.lineStyle(2, 0x9f713d).lineBetween(652, 198, 652, 211).lineBetween(640, 212, 664, 212);
+    this.drawPlant(516, 180);
   }
 
   private drawMailFurniture() {
+    this.drawRug(180, 365, 120, 48, 0x54643a, 350);
+    this.drawSofa(145, 343, 0x536a3e);
     this.isoBox(185, 336, 82, 32, 21, 0x896044, 0x583b31, 0x704839, 380);
     const g = this.add.graphics().setDepth(378);
     g.fillStyle(0xf0dba8).lineStyle(2, 0x673f31).fillRect(160, 310, 24, 16).strokeRect(160, 310, 24, 16);
     g.fillStyle(0x41634c).fillRect(214, 290, 38, 49);
     [0, 1, 2].forEach(i => g.fillStyle(0xe7d79e).fillRect(220, 297 + i * 13, 25, 8));
-    this.drawChair(185, 372, 0x506a4d); this.drawPlant(125, 340); this.drawPlant(245, 350);
+    g.fillStyle(0x2d4935).lineStyle(2, 0xc99c58).fillRect(95, 292, 29, 48).strokeRect(95, 292, 29, 48);
+    [0, 1, 2].forEach(i => g.fillStyle(0xd7c78e).fillRect(101, 300 + i * 12, 17, 7));
+    this.drawChair(205, 382, 0x506a4d); this.drawPlant(112, 350); this.drawPlant(252, 350); this.drawPlant(125, 313);
   }
 
   private drawLabFurniture() {
+    this.drawRug(715, 365, 128, 48, 0x315a58, 350);
     this.isoBox(715, 337, 105, 34, 23, 0xa4aaa0, 0x60706d, 0x7c8580, 382);
     const g = this.add.graphics().setDepth(380);
     g.fillStyle(0xbadbd3).lineStyle(2, 0x284b50).fillRect(684, 296, 7, 31).strokeRect(684, 296, 7, 31);
     g.fillStyle(0x68cbb4).fillCircle(687, 295, 7).fillCircle(710, 313, 6).fillCircle(730, 308, 5);
     g.fillStyle(0x183c47).fillRect(746, 286, 38, 34); g.fillStyle(0x62d5c3).fillRect(751, 291, 28, 22);
-    this.drawChair(715, 374, 0x416b66);
+    g.fillStyle(0x365956).fillRect(651, 296, 25, 48).fillRect(785, 296, 25, 48);
+    [0, 1, 2].forEach(i => { g.fillStyle(0xb5d6cf).fillRect(656, 302 + i * 12, 15, 7); g.fillStyle(0x72d5c0).fillCircle(797, 307 + i * 12, 5); });
+    g.lineStyle(3, 0xb9d8d1).lineBetween(665, 289, 665, 266).lineBetween(790, 290, 790, 264);
+    g.fillStyle(0x5ccab7, 0.65).fillRoundedRect(657, 254, 16, 29, 6).fillRoundedRect(782, 250, 17, 33, 6);
+    this.drawChair(715, 382, 0x416b66);
   }
 
   private drawKitchenFurniture() {
+    this.drawRug(270, 520, 122, 48, 0x7a4a2a, 500);
     this.isoBox(270, 488, 96, 38, 24, 0xa87549, 0x694430, 0x83553a, 535);
     const g = this.add.graphics().setDepth(532);
     g.fillStyle(0x333b3c).lineStyle(2, 0xe1b56c).fillEllipse(270, 470, 35, 12).strokeEllipse(270, 470, 35, 12);
     g.fillStyle(0x7d3d29).fillRect(254, 456, 32, 14);
-    g.fillStyle(0xd8d3bc).fillRect(205, 448, 34, 50); g.fillStyle(0x65a99c).fillRect(210, 455, 24, 16);
-    g.fillStyle(0x553729).fillRect(312, 450, 35, 48); g.fillStyle(0xe0a95e).fillCircle(329, 470, 4);
+    g.fillStyle(0xd8d3bc).lineStyle(2, 0x414443).fillRect(196, 441, 38, 58).strokeRect(196, 441, 38, 58); g.fillStyle(0x65a99c).fillRect(202, 450, 26, 17);
+    g.lineStyle(2, 0x8d8b7e).lineBetween(196, 473, 234, 473);
+    g.fillStyle(0x553729).lineStyle(2, 0x2c211c).fillRect(312, 443, 42, 56).strokeRect(312, 443, 42, 56); g.fillStyle(0xe0a95e).fillCircle(342, 470, 4);
+    g.fillStyle(0xe6c27b).fillCircle(245, 484, 6).fillCircle(258, 481, 5).fillCircle(286, 483, 7);
+    g.fillStyle(0x90522f).fillRect(220, 424, 118, 12); g.fillStyle(0xc7854e).fillRect(224, 427, 110, 5);
     this.drawKitchenSteam(270, 451);
+    this.drawChair(238, 528, 0x81543b); this.drawChair(304, 528, 0x81543b);
   }
 
   private drawKitchenSteam(x: number, y: number) {
@@ -349,13 +427,18 @@ export class OfficeScene extends Phaser.Scene {
   }
 
   private drawWorkshopFurniture() {
+    this.drawRug(585, 522, 145, 48, 0x5c435e, 500);
     this.isoBox(585, 488, 120, 38, 24, 0x785b47, 0x4e3933, 0x63463a, 535);
     const g = this.add.graphics().setDepth(532);
     g.fillStyle(0x254454).lineStyle(2, 0xb18bd0).fillRect(548, 445, 45, 30).strokeRect(548, 445, 45, 30);
     g.fillStyle(0x5fb8cf).fillRect(554, 451, 33, 18);
     g.fillStyle(0x684c3c).fillRect(617, 442, 54, 35);
     [0, 1, 2].forEach(i => g.fillStyle([0xd4a34f, 0x7fb3ca, 0xc96f61][i]).fillCircle(629 + i * 14, 455, 4));
-    this.drawChair(585, 527, 0x675276);
+    g.fillStyle(0x4c3733).lineStyle(2, 0x2b2423).fillRect(674, 442, 35, 59).strokeRect(674, 442, 35, 59);
+    [0, 1, 2, 3].forEach(i => g.fillStyle(0xc89b57).fillCircle(684 + (i % 2) * 14, 453 + Math.floor(i / 2) * 18, 3));
+    g.lineStyle(4, 0x7e705e).lineBetween(515, 463, 525, 438).lineBetween(525, 438, 539, 463);
+    g.fillStyle(0x8f5a37).fillRect(515, 463, 25, 7);
+    this.drawChair(585, 532, 0x675276); this.drawPlant(660, 492);
   }
 
   private isoBox(x: number, y: number, w: number, d: number, h: number, top: number, left: number, right: number, depth = y) {
