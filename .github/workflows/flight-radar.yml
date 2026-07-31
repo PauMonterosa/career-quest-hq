@@ -39,4 +39,4 @@ jobs:
           body='\n'.join(f"- **{d['title']}** · {d['price_eur']} € · {d['source']} · [oferta]({d['source_url']}) · [verificar en Google Flights]({d['verification_url']})" for d in deals)
           Path('/tmp/flight-alert.md').write_text('El piloto ha detectado estas tarifas:\n\n'+body+'\n\nPrecios sujetos a disponibilidad; verifica el total antes de comprar.',encoding='utf-8')
           PY
-          test -f /tmp/flight-alert.md && gh issue create --title "✈️ Oferta europea detectada $(date +%F)" --body-file /tmp/flight-alert.md || true
+          test -f /tmp/flight-alert.md && gh issue create --title "✈️ Oferta europea detectada $(date +%F)" --body-file /tmp/flight-alert.md --assignee PauMonterosa || true
