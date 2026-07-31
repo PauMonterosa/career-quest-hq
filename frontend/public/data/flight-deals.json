@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-31T19:36:04.969165+00:00",
+  "generated_at": "2026-07-31T19:38:18.666623+00:00",
   "provider": "Free public deal radar",
   "configured": true,
   "status": "ok",
@@ -47,10 +47,10 @@
       "price_eur": 14.99,
       "interesting": true,
       "near_home": true,
-      "published": "2026-07-31T19:36:05.191213+00:00",
+      "published": "2026-07-31T19:38:19.073894+00:00",
       "source_url": "https://www.ryanair.com/gb/en/trip/flights/select?adults=1&teens=0&children=0&infants=0&dateOut=2026-10-14&originIata=BCN&destinationIata=BHX&isConnectedFlight=false&isReturn=false",
       "verification_url": "https://www.google.com/travel/flights?q=BCN%20%E2%86%92%20BHX%20%C2%B7%20Birmingham%20%C2%B7%202026-10-14%2022%3A10",
-      "new": true
+      "new": false
     },
     {
       "id": "d12fdc09fe048a",
@@ -60,10 +60,10 @@
       "price_eur": 14.99,
       "interesting": true,
       "near_home": true,
-      "published": "2026-07-31T19:36:05.191213+00:00",
+      "published": "2026-07-31T19:38:19.073974+00:00",
       "source_url": "https://www.ryanair.com/gb/en/trip/flights/select?adults=1&teens=0&children=0&infants=0&dateOut=2026-10-23&originIata=BCN&destinationIata=BRS&isConnectedFlight=false&isReturn=false",
       "verification_url": "https://www.google.com/travel/flights?q=BCN%20%E2%86%92%20BRS%20%C2%B7%20Bristol%20%C2%B7%202026-10-23%2011%3A50",
-      "new": true
+      "new": false
     },
     {
       "id": "8875df6b97fe03",
@@ -73,10 +73,10 @@
       "price_eur": 14.99,
       "interesting": true,
       "near_home": true,
-      "published": "2026-07-31T19:36:05.191213+00:00",
+      "published": "2026-07-31T19:38:19.073998+00:00",
       "source_url": "https://www.ryanair.com/gb/en/trip/flights/select?adults=1&teens=0&children=0&infants=0&dateOut=2026-10-14&originIata=BCN&destinationIata=LTN&isConnectedFlight=false&isReturn=false",
       "verification_url": "https://www.google.com/travel/flights?q=BCN%20%E2%86%92%20LTN%20%C2%B7%20London%20Luton%20%C2%B7%202026-10-14%2013%3A25",
-      "new": true
+      "new": false
     },
     {
       "id": "dccfa7fb554903",
@@ -86,10 +86,10 @@
       "price_eur": 14.99,
       "interesting": true,
       "near_home": true,
-      "published": "2026-07-31T19:36:05.191213+00:00",
+      "published": "2026-07-31T19:38:19.074015+00:00",
       "source_url": "https://www.ryanair.com/gb/en/trip/flights/select?adults=1&teens=0&children=0&infants=0&dateOut=2026-10-21&originIata=BCN&destinationIata=STN&isConnectedFlight=false&isReturn=false",
       "verification_url": "https://www.google.com/travel/flights?q=BCN%20%E2%86%92%20STN%20%C2%B7%20London%20Stansted%20%C2%B7%202026-10-21%2010%3A35",
-      "new": true
+      "new": false
     },
     {
       "id": "d82dca49d62c17",
@@ -99,10 +99,10 @@
       "price_eur": 14.99,
       "interesting": true,
       "near_home": true,
-      "published": "2026-07-31T19:36:05.365418+00:00",
+      "published": "2026-07-31T19:38:19.397456+00:00",
       "source_url": "https://www.ryanair.com/gb/en/trip/flights/select?adults=1&teens=0&children=0&infants=0&dateOut=2026-10-13&originIata=GRO&destinationIata=NRN&isConnectedFlight=false&isReturn=false",
       "verification_url": "https://www.google.com/travel/flights?q=GRO%20%E2%86%92%20NRN%20%C2%B7%20Dusseldorf%20Weeze%20%C2%B7%202026-10-13%2009%3A15",
-      "new": true
+      "new": false
     },
     {
       "id": "9e29e4c268033b",
@@ -112,10 +112,10 @@
       "price_eur": 14.99,
       "interesting": true,
       "near_home": true,
-      "published": "2026-07-31T19:36:05.365418+00:00",
+      "published": "2026-07-31T19:38:19.397500+00:00",
       "source_url": "https://www.ryanair.com/gb/en/trip/flights/select?adults=1&teens=0&children=0&infants=0&dateOut=2026-10-19&originIata=GRO&destinationIata=STN&isConnectedFlight=false&isReturn=false",
       "verification_url": "https://www.google.com/travel/flights?q=GRO%20%E2%86%92%20STN%20%C2%B7%20London%20Stansted%20%C2%B7%202026-10-19%2022%3A55",
-      "new": true
+      "new": false
     },
     {
       "id": "c4f41dc48fc51a",
@@ -125,10 +125,10 @@
       "price_eur": 14.99,
       "interesting": true,
       "near_home": true,
-      "published": "2026-07-31T19:36:05.510809+00:00",
+      "published": "2026-07-31T19:38:19.592193+00:00",
       "source_url": "https://www.ryanair.com/gb/en/trip/flights/select?adults=1&teens=0&children=0&infants=0&dateOut=2026-10-16&originIata=REU&destinationIata=STN&isConnectedFlight=false&isReturn=false",
       "verification_url": "https://www.google.com/travel/flights?q=REU%20%E2%86%92%20STN%20%C2%B7%20London%20Stansted%20%C2%B7%202026-10-16%2019%3A30",
-      "new": true
+      "new": false
     },
     {
       "id": "ac7bcc49ad1fec",
@@ -138,10 +138,10 @@
       "price_eur": 15.32,
       "interesting": true,
       "near_home": true,
-      "published": "2026-07-31T19:36:05.191213+00:00",
+      "published": "2026-07-31T19:38:19.074030+00:00",
       "source_url": "https://www.ryanair.com/gb/en/trip/flights/select?adults=1&teens=0&children=0&infants=0&dateOut=2026-08-29&originIata=BCN&destinationIata=AHO&isConnectedFlight=false&isReturn=false",
       "verification_url": "https://www.google.com/travel/flights?q=BCN%20%E2%86%92%20AHO%20%C2%B7%20Alghero%20%C2%B7%202026-08-29%2022%3A05",
-      "new": true
+      "new": false
     },
     {
       "id": "f25ab0e42ba786",
@@ -151,10 +151,10 @@
       "price_eur": 16.59,
       "interesting": true,
       "near_home": true,
-      "published": "2026-07-31T19:36:05.365418+00:00",
+      "published": "2026-07-31T19:38:19.397518+00:00",
       "source_url": "https://www.ryanair.com/gb/en/trip/flights/select?adults=1&teens=0&children=0&infants=0&dateOut=2026-09-22&originIata=GRO&destinationIata=PSR&isConnectedFlight=false&isReturn=false",
       "verification_url": "https://www.google.com/travel/flights?q=GRO%20%E2%86%92%20PSR%20%C2%B7%20Pescara%20%C2%B7%202026-09-22%2016%3A35",
-      "new": true
+      "new": false
     },
     {
       "id": "a47cb3f0f0661d",
@@ -164,10 +164,10 @@
       "price_eur": 16.99,
       "interesting": true,
       "near_home": true,
-      "published": "2026-07-31T19:36:05.191213+00:00",
+      "published": "2026-07-31T19:38:19.074078+00:00",
       "source_url": "https://www.ryanair.com/gb/en/trip/flights/select?adults=1&teens=0&children=0&infants=0&dateOut=2026-08-27&originIata=BCN&destinationIata=FAO&isConnectedFlight=false&isReturn=false",
       "verification_url": "https://www.google.com/travel/flights?q=BCN%20%E2%86%92%20FAO%20%C2%B7%20Faro%20%C2%B7%202026-08-27%2017%3A05",
-      "new": true
+      "new": false
     },
     {
       "id": "a73950c12ea3f7",
@@ -177,10 +177,10 @@
       "price_eur": 17.99,
       "interesting": true,
       "near_home": true,
-      "published": "2026-07-31T19:36:05.191213+00:00",
+      "published": "2026-07-31T19:38:19.074094+00:00",
       "source_url": "https://www.ryanair.com/gb/en/trip/flights/select?adults=1&teens=0&children=0&infants=0&dateOut=2026-09-16&originIata=BCN&destinationIata=BLQ&isConnectedFlight=false&isReturn=false",
       "verification_url": "https://www.google.com/travel/flights?q=BCN%20%E2%86%92%20BLQ%20%C2%B7%20Bologna%20%C2%B7%202026-09-16%2008%3A10",
-      "new": true
+      "new": false
     },
     {
       "id": "2439fe9d84fa8f",
@@ -190,10 +190,10 @@
       "price_eur": 17.99,
       "interesting": true,
       "near_home": true,
-      "published": "2026-07-31T19:36:05.191213+00:00",
+      "published": "2026-07-31T19:38:19.074106+00:00",
       "source_url": "https://www.ryanair.com/gb/en/trip/flights/select?adults=1&teens=0&children=0&infants=0&dateOut=2026-10-03&originIata=BCN&destinationIata=CRL&isConnectedFlight=false&isReturn=false",
       "verification_url": "https://www.google.com/travel/flights?q=BCN%20%E2%86%92%20CRL%20%C2%B7%20Brussels%20Charleroi%20%C2%B7%202026-10-03%2005%3A45",
-      "new": true
+      "new": false
     },
     {
       "id": "aefd95a2eda880",
@@ -203,10 +203,10 @@
       "price_eur": 17.99,
       "interesting": true,
       "near_home": true,
-      "published": "2026-07-31T19:36:05.191213+00:00",
+      "published": "2026-07-31T19:38:19.074118+00:00",
       "source_url": "https://www.ryanair.com/gb/en/trip/flights/select?adults=1&teens=0&children=0&infants=0&dateOut=2026-09-30&originIata=BCN&destinationIata=CFU&isConnectedFlight=false&isReturn=false",
       "verification_url": "https://www.google.com/travel/flights?q=BCN%20%E2%86%92%20CFU%20%C2%B7%20Corfu%20%C2%B7%202026-09-30%2015%3A35",
-      "new": true
+      "new": false
     },
     {
       "id": "672f50e3cd4f1f",
@@ -216,10 +216,10 @@
       "price_eur": 17.99,
       "interesting": true,
       "near_home": true,
-      "published": "2026-07-31T19:36:05.191213+00:00",
+      "published": "2026-07-31T19:38:19.074130+00:00",
       "source_url": "https://www.ryanair.com/gb/en/trip/flights/select?adults=1&teens=0&children=0&infants=0&dateOut=2026-10-20&originIata=BCN&destinationIata=LPL&isConnectedFlight=false&isReturn=false",
       "verification_url": "https://www.google.com/travel/flights?q=BCN%20%E2%86%92%20LPL%20%C2%B7%20Liverpool%20%C2%B7%202026-10-20%2006%3A35",
-      "new": true
+      "new": false
     },
     {
       "id": "ebf4ea1a7b7458",
@@ -229,10 +229,10 @@
       "price_eur": 17.99,
       "interesting": true,
       "near_home": true,
-      "published": "2026-07-31T19:36:05.191213+00:00",
+      "published": "2026-07-31T19:38:19.074143+00:00",
       "source_url": "https://www.ryanair.com/gb/en/trip/flights/select?adults=1&teens=0&children=0&infants=0&dateOut=2026-09-17&originIata=BCN&destinationIata=BGY&isConnectedFlight=false&isReturn=false",
       "verification_url": "https://www.google.com/travel/flights?q=BCN%20%E2%86%92%20BGY%20%C2%B7%20Milan%20Bergamo%20%C2%B7%202026-09-17%2015%3A10",
-      "new": true
+      "new": false
     },
     {
       "id": "9ff951f4dc2cd5",
@@ -242,10 +242,10 @@
       "price_eur": 17.99,
       "interesting": true,
       "near_home": true,
-      "published": "2026-07-31T19:36:05.191213+00:00",
+      "published": "2026-07-31T19:38:19.074156+00:00",
       "source_url": "https://www.ryanair.com/gb/en/trip/flights/select?adults=1&teens=0&children=0&infants=0&dateOut=2026-10-11&originIata=BCN&destinationIata=MXP&isConnectedFlight=false&isReturn=false",
       "verification_url": "https://www.google.com/travel/flights?q=BCN%20%E2%86%92%20MXP%20%C2%B7%20Milan%20Malpensa%20%C2%B7%202026-10-11%2005%3A45",
-      "new": true
+      "new": false
     },
     {
       "id": "a070fa4fedcceb",
@@ -255,10 +255,10 @@
       "price_eur": 17.99,
       "interesting": true,
       "near_home": true,
-      "published": "2026-07-31T19:36:05.191213+00:00",
+      "published": "2026-07-31T19:38:19.074168+00:00",
       "source_url": "https://www.ryanair.com/gb/en/trip/flights/select?adults=1&teens=0&children=0&infants=0&dateOut=2026-09-30&originIata=BCN&destinationIata=NAP&isConnectedFlight=false&isReturn=false",
       "verification_url": "https://www.google.com/travel/flights?q=BCN%20%E2%86%92%20NAP%20%C2%B7%20Naples%20%C2%B7%202026-09-30%2006%3A20",
-      "new": true
+      "new": false
     },
     {
       "id": "d183e53f02c74c",
@@ -268,10 +268,10 @@
       "price_eur": 17.99,
       "interesting": true,
       "near_home": true,
-      "published": "2026-07-31T19:36:05.191213+00:00",
+      "published": "2026-07-31T19:38:19.074179+00:00",
       "source_url": "https://www.ryanair.com/gb/en/trip/flights/select?adults=1&teens=0&children=0&infants=0&dateOut=2026-10-21&originIata=BCN&destinationIata=TRN&isConnectedFlight=false&isReturn=false",
       "verification_url": "https://www.google.com/travel/flights?q=BCN%20%E2%86%92%20TRN%20%C2%B7%20Turin%20%C2%B7%202026-10-21%2015%3A00",
-      "new": true
+      "new": false
     },
     {
       "id": "82ca4d6c95323c",
@@ -281,10 +281,10 @@
       "price_eur": 17.99,
       "interesting": true,
       "near_home": true,
-      "published": "2026-07-31T19:36:05.365418+00:00",
+      "published": "2026-07-31T19:38:19.397531+00:00",
       "source_url": "https://www.ryanair.com/gb/en/trip/flights/select?adults=1&teens=0&children=0&infants=0&dateOut=2026-10-14&originIata=GRO&destinationIata=BOH&isConnectedFlight=false&isReturn=false",
       "verification_url": "https://www.google.com/travel/flights?q=GRO%20%E2%86%92%20BOH%20%C2%B7%20Bournemouth%20%C2%B7%202026-10-14%2021%3A55",
-      "new": true
+      "new": false
     },
     {
       "id": "b9127802d4c77e",
@@ -294,10 +294,10 @@
       "price_eur": 17.99,
       "interesting": true,
       "near_home": true,
-      "published": "2026-07-31T19:36:05.365418+00:00",
+      "published": "2026-07-31T19:38:19.397542+00:00",
       "source_url": "https://www.ryanair.com/gb/en/trip/flights/select?adults=1&teens=0&children=0&infants=0&dateOut=2026-09-24&originIata=GRO&destinationIata=PSA&isConnectedFlight=false&isReturn=false",
       "verification_url": "https://www.google.com/travel/flights?q=GRO%20%E2%86%92%20PSA%20%C2%B7%20Pisa%20%C2%B7%202026-09-24%2021%3A10",
-      "new": true
+      "new": false
     },
     {
       "id": "0e219574001a0c",
@@ -307,10 +307,10 @@
       "price_eur": 18.99,
       "interesting": true,
       "near_home": true,
-      "published": "2026-07-31T19:36:05.191213+00:00",
+      "published": "2026-07-31T19:38:19.074190+00:00",
       "source_url": "https://www.ryanair.com/gb/en/trip/flights/select?adults=1&teens=0&children=0&infants=0&dateOut=2026-10-15&originIata=BCN&destinationIata=ORK&isConnectedFlight=false&isReturn=false",
       "verification_url": "https://www.google.com/travel/flights?q=BCN%20%E2%86%92%20ORK%20%C2%B7%20Cork%20%C2%B7%202026-10-15%2005%3A45",
-      "new": true
+      "new": false
     },
     {
       "id": "fb775750a55fd3",
@@ -320,10 +320,10 @@
       "price_eur": 18.99,
       "interesting": true,
       "near_home": true,
-      "published": "2026-07-31T19:36:05.191213+00:00",
+      "published": "2026-07-31T19:38:19.074202+00:00",
       "source_url": "https://www.ryanair.com/gb/en/trip/flights/select?adults=1&teens=0&children=0&infants=0&dateOut=2026-09-18&originIata=BCN&destinationIata=MAN&isConnectedFlight=false&isReturn=false",
       "verification_url": "https://www.google.com/travel/flights?q=BCN%20%E2%86%92%20MAN%20%C2%B7%20Manchester%20%C2%B7%202026-09-18%2009%3A45",
-      "new": true
+      "new": false
     },
     {
       "id": "4cc2f84625e0bd",
@@ -333,10 +333,10 @@
       "price_eur": 18.99,
       "interesting": true,
       "near_home": true,
-      "published": "2026-07-31T19:36:05.191213+00:00",
+      "published": "2026-07-31T19:38:19.074215+00:00",
       "source_url": "https://www.ryanair.com/gb/en/trip/flights/select?adults=1&teens=0&children=0&infants=0&dateOut=2026-09-15&originIata=BCN&destinationIata=NCL&isConnectedFlight=false&isReturn=false",
       "verification_url": "https://www.google.com/travel/flights?q=BCN%20%E2%86%92%20NCL%20%C2%B7%20Newcastle%20%C2%B7%202026-09-15%2005%3A45",
-      "new": true
+      "new": false
     },
     {
       "id": "427f4cf29f33a6",
@@ -346,10 +346,10 @@
       "price_eur": 18.99,
       "interesting": true,
       "near_home": true,
-      "published": "2026-07-31T19:36:05.191213+00:00",
+      "published": "2026-07-31T19:38:19.074227+00:00",
       "source_url": "https://www.ryanair.com/gb/en/trip/flights/select?adults=1&teens=0&children=0&infants=0&dateOut=2026-10-05&originIata=BCN&destinationIata=PMO&isConnectedFlight=false&isReturn=false",
       "verification_url": "https://www.google.com/travel/flights?q=BCN%20%E2%86%92%20PMO%20%C2%B7%20Palermo%20%C2%B7%202026-10-05%2005%3A45",
-      "new": true
+      "new": false
     },
     {
       "id": "c2a410bf121b77",
@@ -359,10 +359,10 @@
       "price_eur": 18.99,
       "interesting": true,
       "near_home": true,
-      "published": "2026-07-31T19:36:05.191213+00:00",
+      "published": "2026-07-31T19:38:19.074238+00:00",
       "source_url": "https://www.ryanair.com/gb/en/trip/flights/select?adults=1&teens=0&children=0&infants=0&dateOut=2026-10-10&originIata=BCN&destinationIata=TRS&isConnectedFlight=false&isReturn=false",
       "verification_url": "https://www.google.com/travel/flights?q=BCN%20%E2%86%92%20TRS%20%C2%B7%20Trieste%20%C2%B7%202026-10-10%2006%3A05",
-      "new": true
+      "new": false
     },
     {
       "id": "7cc7a7967256f2",
@@ -372,10 +372,10 @@
       "price_eur": 18.99,
       "interesting": true,
       "near_home": true,
-      "published": "2026-07-31T19:36:05.365418+00:00",
+      "published": "2026-07-31T19:38:19.397554+00:00",
       "source_url": "https://www.ryanair.com/gb/en/trip/flights/select?adults=1&teens=0&children=0&infants=0&dateOut=2026-09-17&originIata=GRO&destinationIata=BHX&isConnectedFlight=false&isReturn=false",
       "verification_url": "https://www.google.com/travel/flights?q=GRO%20%E2%86%92%20BHX%20%C2%B7%20Birmingham%20%C2%B7%202026-09-17%2010%3A30",
-      "new": true
+      "new": false
     },
     {
       "id": "92024a46386b76",
@@ -385,10 +385,10 @@
       "price_eur": 18.99,
       "interesting": true,
       "near_home": true,
-      "published": "2026-07-31T19:36:05.365418+00:00",
+      "published": "2026-07-31T19:38:19.397565+00:00",
       "source_url": "https://www.ryanair.com/gb/en/trip/flights/select?adults=1&teens=0&children=0&infants=0&dateOut=2026-09-28&originIata=GRO&destinationIata=HHN&isConnectedFlight=false&isReturn=false",
       "verification_url": "https://www.google.com/travel/flights?q=GRO%20%E2%86%92%20HHN%20%C2%B7%20Frankfurt%20Hahn%20%C2%B7%202026-09-28%2005%3A45",
-      "new": true
+      "new": false
     },
     {
       "id": "0fd198570adc07",
@@ -398,10 +398,10 @@
       "price_eur": 18.99,
       "interesting": true,
       "near_home": true,
-      "published": "2026-07-31T19:36:05.510809+00:00",
+      "published": "2026-07-31T19:38:19.592246+00:00",
       "source_url": "https://www.ryanair.com/gb/en/trip/flights/select?adults=1&teens=0&children=0&infants=0&dateOut=2026-09-22&originIata=REU&destinationIata=BHX&isConnectedFlight=false&isReturn=false",
       "verification_url": "https://www.google.com/travel/flights?q=REU%20%E2%86%92%20BHX%20%C2%B7%20Birmingham%20%C2%B7%202026-09-22%2021%3A40",
-      "new": true
+      "new": false
     },
     {
       "id": "4073affee749f5",
@@ -411,10 +411,10 @@
       "price_eur": 19.99,
       "interesting": true,
       "near_home": true,
-      "published": "2026-07-31T19:36:05.191213+00:00",
+      "published": "2026-07-31T19:38:19.074249+00:00",
       "source_url": "https://www.ryanair.com/gb/en/trip/flights/select?adults=1&teens=0&children=0&infants=0&dateOut=2026-10-27&originIata=BCN&destinationIata=HHN&isConnectedFlight=false&isReturn=false",
       "verification_url": "https://www.google.com/travel/flights?q=BCN%20%E2%86%92%20HHN%20%C2%B7%20Frankfurt%20Hahn%20%C2%B7%202026-10-27%2007%3A10",
-      "new": true
+      "new": false
     },
     {
       "id": "aded7d0ae4342e",
@@ -424,13 +424,13 @@
       "price_eur": 19.99,
       "interesting": true,
       "near_home": true,
-      "published": "2026-07-31T19:36:05.191213+00:00",
+      "published": "2026-07-31T19:38:19.074261+00:00",
       "source_url": "https://www.ryanair.com/gb/en/trip/flights/select?adults=1&teens=0&children=0&infants=0&dateOut=2026-09-11&originIata=BCN&destinationIata=MLA&isConnectedFlight=false&isReturn=false",
       "verification_url": "https://www.google.com/travel/flights?q=BCN%20%E2%86%92%20MLA%20%C2%B7%20Malta%20%C2%B7%202026-09-11%2022%3A30",
-      "new": true
+      "new": false
     }
   ],
   "errors": [],
-  "alert_count": 30,
+  "alert_count": 0,
   "message": "Radar gratuito basado en ofertas públicas; verifica siempre el precio final antes de comprar."
 }
