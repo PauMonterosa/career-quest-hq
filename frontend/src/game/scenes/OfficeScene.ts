@@ -13,39 +13,41 @@ type AvatarParts = {
   speechText: Phaser.GameObjects.Text;
 };
 
-const ROOM = { cx: 450, top: 102, cols: 16, rows: 13, tileW: 48, tileH: 24 };
+const TILE_W = 32;
+const TILE_H = 16;
 const stationTiles: Record<string, { point: Point; label: string; action: string; sitting: boolean }> = {
-  control_room: { point: { x: 341, y: 279 }, label: "CONTROL ROOM", action: "CHECKING DEADLINES", sitting: true },
-  masters_archive: { point: { x: 590, y: 276 }, label: "MASTERS ARCHIVE", action: "RANKING PROGRAMMES", sitting: false },
-  tfg_laboratory: { point: { x: 246, y: 462 }, label: "TFG LABORATORY", action: "ANALYSING SAMPLES", sitting: true },
-  mail_room: { point: { x: 455, y: 469 }, label: "MAIL ROOM", action: "DRAFTING EMAIL", sitting: true },
-  portfolio_workshop: { point: { x: 667, y: 461 }, label: "PORTFOLIO WORKSHOP", action: "BUILDING PORTFOLIO", sitting: true },
-  food_kitchen: { point: { x: 805, y: 500 }, label: "FOODTRUCK CANTEEN", action: "COORDINATING MEALS", sitting: false },
+  control_room: { point: { x: 330, y: 205 }, label: "01 STRATEGY ROOM", action: "PLANNING THE WEEK", sitting: true },
+  masters_archive: { point: { x: 595, y: 205 }, label: "02 MASTERS ARCHIVE", action: "RESEARCHING PROGRAMMES", sitting: false },
+  mail_room: { point: { x: 185, y: 370 }, label: "03 GREEN MAIL ROOM", action: "DRAFTING EMAIL", sitting: true },
+  tfg_laboratory: { point: { x: 715, y: 375 }, label: "04 TFG LABORATORY", action: "ANALYSING SAMPLES", sitting: true },
+  food_kitchen: { point: { x: 270, y: 525 }, label: "05 BRASA'S KITCHEN", action: "COOKING THE PLAN", sitting: false },
+  portfolio_workshop: { point: { x: 585, y: 525 }, label: "06 PORTFOLIO WORKSHOP", action: "BUILDING PORTFOLIO", sitting: true },
 };
 const startTiles: Record<string, Point> = {
-  chronos: { x: 515, y: 351 }, atlas: { x: 414, y: 341 }, nova: { x: 366, y: 420 },
-  echo: { x: 488, y: 422 }, pixel: { x: 574, y: 422 },
-  brasa: { x: 770, y: 455 },
+  chronos: { x: 345, y: 215 }, atlas: { x: 610, y: 215 }, echo: { x: 205, y: 380 },
+  nova: { x: 730, y: 380 }, brasa: { x: 285, y: 530 }, pixel: { x: 600, y: 530 },
 };
 const NAV_NODES: Record<string, Point> = {
-  control: { x: 341, y: 279 }, controlDoor: { x: 392, y: 322 },
-  archive: { x: 590, y: 276 }, archiveDoor: { x: 513, y: 322 },
-  upperLanding: { x: 452, y: 336 }, lowerLanding: { x: 452, y: 382 },
-  labDoor: { x: 352, y: 398 }, lab: { x: 246, y: 462 },
-  mailDoor: { x: 430, y: 407 }, mail: { x: 455, y: 469 },
-  workshopDoor: { x: 552, y: 398 }, workshop: { x: 667, y: 461 },
-  canteenDoor: { x: 742, y: 444 }, canteen: { x: 805, y: 500 },
+  control: { x: 330, y: 205 }, controlDoor: { x: 385, y: 245 },
+  archive: { x: 595, y: 205 }, archiveDoor: { x: 535, y: 245 },
+  upperHall: { x: 460, y: 270 }, centre: { x: 460, y: 335 },
+  mailDoor: { x: 295, y: 335 }, mail: { x: 195, y: 365 },
+  labDoor: { x: 625, y: 335 }, lab: { x: 715, y: 365 },
+  kitchenDoor: { x: 355, y: 430 }, kitchen: { x: 275, y: 510 },
+  workshopDoor: { x: 535, y: 430 }, workshop: { x: 585, y: 510 },
 };
 const NAV_EDGES: Record<string, string[]> = {
-  control: ["controlDoor"], controlDoor: ["control", "upperLanding"],
-  archive: ["archiveDoor"], archiveDoor: ["archive", "upperLanding"],
-  upperLanding: ["controlDoor", "archiveDoor", "lowerLanding"],
-  lowerLanding: ["upperLanding", "labDoor", "mailDoor", "workshopDoor"],
-  labDoor: ["lowerLanding", "lab"], lab: ["labDoor"],
-  mailDoor: ["lowerLanding", "mail"], mail: ["mailDoor"],
-  workshopDoor: ["lowerLanding", "workshop"], workshop: ["workshopDoor", "canteenDoor"],
-  canteenDoor: ["workshop", "canteen"], canteen: ["canteenDoor"],
+  control: ["controlDoor"], controlDoor: ["control", "upperHall"],
+  archive: ["archiveDoor"], archiveDoor: ["archive", "upperHall"],
+  upperHall: ["controlDoor", "archiveDoor", "centre"],
+  centre: ["upperHall", "mailDoor", "labDoor", "kitchenDoor", "workshopDoor"],
+  mailDoor: ["centre", "mail"], mail: ["mailDoor"],
+  labDoor: ["centre", "lab"], lab: ["labDoor"],
+  kitchenDoor: ["centre", "kitchen"], kitchen: ["kitchenDoor"],
+  workshopDoor: ["centre", "workshop"], workshop: ["workshopDoor"],
 };
+const AGENT_HOME: Record<string, string> = { chronos: "control", atlas: "archive", echo: "mail", nova: "lab", brasa: "kitchen", pixel: "workshop" };
+const AGENT_ROOM: Record<string, string> = { chronos: "control_room", atlas: "masters_archive", echo: "mail_room", nova: "tfg_laboratory", brasa: "food_kitchen", pixel: "portfolio_workshop" };
 const AGENT_EFFECTS: Record<string, string> = {
   atlas: "◆  ◆  ◆", nova: "✦  +  ✦", echo: "✉  ···  ➜", chronos: "◷  03:14", pixel: "⚙  ✦  ⚙",
 };
@@ -64,20 +66,22 @@ export class OfficeScene extends Phaser.Scene {
   private listeners: Array<[string, EventListener]> = [];
   private activeMissions = new Set<string>();
   private moving = new Set<string>();
+  private doors = new Map<string, Phaser.GameObjects.Container>();
 
   constructor() { super("office"); }
 
   preload() {
-    this.load.image("career-hq-v4", `${import.meta.env.BASE_URL}assets/career-quest-hq-isometric-v4-clean.png`);
     ["atlas", "nova", "echo", "chronos", "pixel", "brasa"].forEach(agentId =>
       this.load.image(`agent-${agentId}`, `${import.meta.env.BASE_URL}assets/agents/${agentId}.png`));
   }
 
   create() {
-    this.cameras.main.setBackgroundColor("#472b38");
-    this.add.image(450, 310, "career-hq-v4").setDisplaySize(900, 505).setDepth(-500);
-    this.drawCanteenPortal();
-    this.selectionRing = this.add.ellipse(0, 0, 38, 17).setStrokeStyle(2, 0xffdc74).setFillStyle(0xffdc74, 0.16).setDepth(700);
+    this.cameras.main.setBackgroundColor("#10171a");
+    this.drawBackdrop();
+    this.drawModularArchitecture();
+    this.drawRoomLabels();
+    this.drawStations();
+    this.selectionRing = this.add.ellipse(0, 0, 31, 13).setStrokeStyle(2, 0xffdc74).setFillStyle(0xffdc74, 0.16).setDepth(700);
     this.destinationMarker = this.add.polygon(0, 0, [0, -8, 16, 0, 0, 8, -16, 0], 0xffdc74, 0.34).setVisible(false).setDepth(20);
     this.createResultHud();
 
@@ -116,16 +120,91 @@ export class OfficeScene extends Phaser.Scene {
   }
 
   private iso(tileX: number, tileY: number): Point {
-    return { x: ROOM.cx + (tileX - tileY) * ROOM.tileW / 2, y: ROOM.top + (tileX + tileY) * ROOM.tileH / 2 };
+    return { x: 450 + (tileX - tileY) * TILE_W / 2, y: 90 + (tileX + tileY) * TILE_H / 2 };
+  }
+
+  private drawModularArchitecture() {
+    const modules = [
+      { x: 330, y: 176, cols: 7, rows: 6, floor: 0x73523c },
+      { x: 595, y: 176, cols: 7, rows: 6, floor: 0x674a36 },
+      { x: 190, y: 345, cols: 7, rows: 6, floor: 0x526345 },
+      { x: 715, y: 345, cols: 7, rows: 6, floor: 0x405b5b },
+      { x: 270, y: 495, cols: 7, rows: 6, floor: 0x7b4c32 },
+      { x: 585, y: 495, cols: 8, rows: 6, floor: 0x5c4a58 },
+    ];
+    modules.forEach(module => this.drawModule(module.x, module.y, module.cols, module.rows, module.floor));
+    this.drawCorridor();
+    ["controlDoor", "archiveDoor", "mailDoor", "labDoor", "kitchenDoor", "workshopDoor"].forEach(id =>
+      this.createDoor(id, NAV_NODES[id]));
+  }
+
+  private drawModule(cx: number, cy: number, cols: number, rows: number, floorColor: number) {
+    const halfW = cols * TILE_W / 2, halfH = rows * TILE_H / 2;
+    const foundation = this.add.graphics().setDepth(cy - 150);
+    foundation.fillStyle(0x352721, 1).lineStyle(3, 0x171516, 1);
+    foundation.beginPath().moveTo(cx, cy - halfH - 6).lineTo(cx + halfW + 8, cy).lineTo(cx, cy + halfH + 11)
+      .lineTo(cx - halfW - 8, cy).closePath().fillPath().strokePath();
+    for (let row = 0; row < rows; row++) for (let col = 0; col < cols; col++) {
+      const x = cx + (col - row) * TILE_W / 2 + (rows - cols) * TILE_W / 4;
+      const y = cy - halfH + TILE_H / 2 + (col + row) * TILE_H / 2;
+      const shade = (row + col) % 2 ? floorColor : Phaser.Display.Color.ValueToColor(floorColor).darken(7).color;
+      this.add.polygon(x, y, [0, -TILE_H / 2, TILE_W / 2, 0, 0, TILE_H / 2, -TILE_W / 2, 0], shade)
+        .setStrokeStyle(1, 0x2f2825, 0.65).setDepth(y - 120);
+    }
+    const walls = this.add.graphics().setDepth(cy - 70);
+    const wallH = 58;
+    walls.fillStyle(0x9a7457, 1).lineStyle(3, 0x352720, 1);
+    walls.beginPath().moveTo(cx, cy - halfH).lineTo(cx - halfW, cy).lineTo(cx - halfW, cy - wallH)
+      .lineTo(cx, cy - halfH - wallH).closePath().fillPath().strokePath();
+    walls.fillStyle(0xb18a64, 1);
+    walls.beginPath().moveTo(cx, cy - halfH).lineTo(cx + halfW, cy).lineTo(cx + halfW, cy - wallH)
+      .lineTo(cx, cy - halfH - wallH).closePath().fillPath().strokePath();
+    walls.lineStyle(1, 0x694a3b, 0.65);
+    for (let i = 1; i < cols; i++) walls.lineBetween(cx + i * TILE_W / 2, cy - halfH + i * TILE_H / 2, cx + i * TILE_W / 2, cy - halfH + i * TILE_H / 2 - wallH);
+    for (let i = 1; i < rows; i++) walls.lineBetween(cx - i * TILE_W / 2, cy - halfH + i * TILE_H / 2, cx - i * TILE_W / 2, cy - halfH + i * TILE_H / 2 - wallH);
+  }
+
+  private drawCorridor() {
+    const g = this.add.graphics().setDepth(5);
+    g.fillStyle(0x4d4036, 1).lineStyle(3, 0x241d1b, 1);
+    g.beginPath().moveTo(460, 238).lineTo(650, 335).lineTo(530, 438).lineTo(360, 438).lineTo(270, 335)
+      .closePath().fillPath().strokePath();
+    g.lineStyle(1, 0x7c6652, 0.5);
+    for (let y = 270; y < 430; y += 18) g.lineBetween(320, y, 590, y);
+    this.add.text(460, 334, "CENTRAL HUB", { fontFamily: "monospace", fontSize: "9px", color: "#d8b47a" })
+      .setOrigin(0.5).setDepth(20);
+  }
+
+  private createDoor(id: string, point: Point) {
+    const panel = this.add.graphics();
+    panel.fillStyle(0x593720, 1).lineStyle(2, 0xe0a45f, 1).fillRoundedRect(-15, -39, 30, 42, 3).strokeRoundedRect(-15, -39, 30, 42, 3);
+    panel.fillStyle(0xf0bd63, 1).fillCircle(9, -18, 2);
+    const frame = this.add.graphics();
+    frame.lineStyle(4, 0x35231e, 1).strokeRect(-18, -42, 36, 45);
+    const door = this.add.container(point.x, point.y, [frame, panel]).setDepth(point.y + 40);
+    panel.setName("panel");
+    this.doors.set(id, door);
+  }
+
+  private openDoor(id: string, onComplete: () => void) {
+    const door = this.doors.get(id);
+    const panel = door?.getByName("panel") as Phaser.GameObjects.Graphics | undefined;
+    if (!door || !panel) { onComplete(); return; }
+    this.tweens.killTweensOf(panel);
+    this.tweens.add({ targets: panel, scaleX: 0.14, x: -13, duration: 220, ease: "Sine.Out", onComplete: () => {
+      onComplete();
+      this.time.delayedCall(420, () => this.tweens.add({ targets: panel, scaleX: 1, x: 0, duration: 260, ease: "Sine.InOut" }));
+    } });
   }
 
   private drawRoomLabels() {
     const labels = [
-      { x: 261, y: 154, text: "01  CONTROL ROOM", color: "#5fb6c7" },
-      { x: 617, y: 154, text: "02  MASTERS ARCHIVE", color: "#e1aa54" },
-      { x: 202, y: 345, text: "03  TFG LAB", color: "#77b879" },
-      { x: 450, y: 348, text: "04  MAIL ROOM", color: "#df7259" },
-      { x: 690, y: 345, text: "05  WORKSHOP", color: "#b57bd3" },
+      { x: 330, y: 92, text: "01  STRATEGY · CHRONOS", color: "#f0c75e" },
+      { x: 595, y: 92, text: "02  ARCHIVE · ATLAS", color: "#6ebcf0" },
+      { x: 170, y: 273, text: "03  GREEN MAIL · ECHO", color: "#e77965" },
+      { x: 730, y: 273, text: "04  TFG LAB · NOVA", color: "#72cf9b" },
+      { x: 250, y: 435, text: "05  KITCHEN · BRASA", color: "#ed955c" },
+      { x: 605, y: 435, text: "06  WORKSHOP · PIXEL", color: "#bd8ee6" },
     ];
     labels.forEach(label => {
       this.add.text(label.x, label.y, label.text, {
@@ -195,27 +274,6 @@ export class OfficeScene extends Phaser.Scene {
     }).setDepth(1000);
   }
 
-  private drawRoom() {
-    const top = this.iso(0, 0), left = this.iso(0, ROOM.rows), right = this.iso(ROOM.cols, 0);
-    const wallH = 112, g = this.add.graphics();
-    g.fillStyle(0xd8a968).lineStyle(4, 0x3b2630);
-    g.beginPath().moveTo(top.x, top.y).lineTo(left.x, left.y).lineTo(left.x, left.y - wallH)
-      .lineTo(top.x, top.y - wallH).closePath().fillPath().strokePath();
-    g.fillStyle(0xefc77f);
-    g.beginPath().moveTo(top.x, top.y).lineTo(right.x, right.y).lineTo(right.x, right.y - wallH)
-      .lineTo(top.x, top.y - wallH).closePath().fillPath().strokePath();
-    for (let y = 0; y < ROOM.rows; y++) for (let x = 0; x < ROOM.cols; x++) {
-      const p = this.iso(x, y), color = (x + y) % 2 ? 0xb8784e : 0xc98756;
-      this.add.polygon(p.x, p.y, [0, -12, 24, 0, 0, 12, -24, 0], color)
-        .setStrokeStyle(1, 0x8f573e, 0.7).setDepth(p.y - 90);
-    }
-    this.drawWindow(421, 39);
-    this.drawWallBoard(558, 72);
-    this.drawPlant(248, 122);
-    this.add.text(714, 91, "HQ", { fontFamily: "monospace", fontSize: "13px", color: "#5a2d35", fontStyle: "bold" })
-      .setAngle(26).setDepth(50);
-  }
-
   private drawWindow(x: number, y: number) {
     const g = this.add.graphics().setDepth(40);
     g.fillStyle(0x5b3541).fillRect(x - 67, y - 8, 134, 82);
@@ -234,14 +292,70 @@ export class OfficeScene extends Phaser.Scene {
   }
 
   private drawStations() {
-    this.drawControlStation(); this.drawArchive(); this.drawLaboratory(); this.drawMailDesk(); this.drawWorkshop();
-    Object.values(stationTiles).forEach(station => {
-      const p = station.point;
-      this.add.text(p.x, p.y + 39, station.label, {
-        fontFamily: "monospace", fontSize: "9px", fontStyle: "bold", color: "#4b2931",
-        backgroundColor: "#edc782", padding: { x: 4, y: 2 },
-      }).setOrigin(0.5).setDepth(p.y + 110);
+    this.drawStrategyFurniture(); this.drawArchiveFurniture(); this.drawMailFurniture();
+    this.drawLabFurniture(); this.drawKitchenFurniture(); this.drawWorkshopFurniture();
+  }
+
+  private drawStrategyFurniture() {
+    this.isoBox(330, 164, 88, 34, 22, 0x8d6749, 0x5d4237, 0x75513f, 205);
+    const g = this.add.graphics().setDepth(204);
+    g.fillStyle(0x193943).lineStyle(2, 0xd6a75a).fillRect(302, 108, 56, 34).strokeRect(302, 108, 56, 34);
+    g.fillStyle(0x63d2af).fillRect(309, 115, 19, 5).fillRect(309, 126, 39, 4);
+    this.drawChair(330, 202, 0x725f50); this.drawPlant(258, 176);
+  }
+
+  private drawArchiveFurniture() {
+    [548, 580, 612, 644].forEach((x, index) => {
+      const g = this.add.graphics().setDepth(195 + index);
+      g.fillStyle(0x583b2c).lineStyle(2, 0x2d211d).fillRect(x - 13, 111, 26, 66).strokeRect(x - 13, 111, 26, 66);
+      [0, 1, 2].forEach(row => { g.fillStyle([0xb45f4e, 0xd2a54f, 0x4f7996][(row + index) % 3]).fillRect(x - 9, 119 + row * 18, 18, 13); });
     });
+    this.isoBox(595, 172, 72, 30, 20, 0x9b714a, 0x684632, 0x7c5539, 205);
+  }
+
+  private drawMailFurniture() {
+    this.isoBox(185, 336, 82, 32, 21, 0x896044, 0x583b31, 0x704839, 380);
+    const g = this.add.graphics().setDepth(378);
+    g.fillStyle(0xf0dba8).lineStyle(2, 0x673f31).fillRect(160, 310, 24, 16).strokeRect(160, 310, 24, 16);
+    g.fillStyle(0x41634c).fillRect(214, 290, 38, 49);
+    [0, 1, 2].forEach(i => g.fillStyle(0xe7d79e).fillRect(220, 297 + i * 13, 25, 8));
+    this.drawChair(185, 372, 0x506a4d); this.drawPlant(125, 340); this.drawPlant(245, 350);
+  }
+
+  private drawLabFurniture() {
+    this.isoBox(715, 337, 105, 34, 23, 0xa4aaa0, 0x60706d, 0x7c8580, 382);
+    const g = this.add.graphics().setDepth(380);
+    g.fillStyle(0xbadbd3).lineStyle(2, 0x284b50).fillRect(684, 296, 7, 31).strokeRect(684, 296, 7, 31);
+    g.fillStyle(0x68cbb4).fillCircle(687, 295, 7).fillCircle(710, 313, 6).fillCircle(730, 308, 5);
+    g.fillStyle(0x183c47).fillRect(746, 286, 38, 34); g.fillStyle(0x62d5c3).fillRect(751, 291, 28, 22);
+    this.drawChair(715, 374, 0x416b66);
+  }
+
+  private drawKitchenFurniture() {
+    this.isoBox(270, 488, 96, 38, 24, 0xa87549, 0x694430, 0x83553a, 535);
+    const g = this.add.graphics().setDepth(532);
+    g.fillStyle(0x333b3c).lineStyle(2, 0xe1b56c).fillEllipse(270, 470, 35, 12).strokeEllipse(270, 470, 35, 12);
+    g.fillStyle(0x7d3d29).fillRect(254, 456, 32, 14);
+    g.fillStyle(0xd8d3bc).fillRect(205, 448, 34, 50); g.fillStyle(0x65a99c).fillRect(210, 455, 24, 16);
+    g.fillStyle(0x553729).fillRect(312, 450, 35, 48); g.fillStyle(0xe0a95e).fillCircle(329, 470, 4);
+    this.drawKitchenSteam(270, 451);
+  }
+
+  private drawKitchenSteam(x: number, y: number) {
+    [0, 1, 2].forEach(i => {
+      const puff = this.add.circle(x - 10 + i * 10, y, 3 + i, 0xf4ead4, 0.72).setDepth(540);
+      this.tweens.add({ targets: puff, y: y - 20 - i * 4, alpha: 0.08, scale: 1.6, duration: 1100 + i * 180, repeat: -1, delay: i * 240 });
+    });
+  }
+
+  private drawWorkshopFurniture() {
+    this.isoBox(585, 488, 120, 38, 24, 0x785b47, 0x4e3933, 0x63463a, 535);
+    const g = this.add.graphics().setDepth(532);
+    g.fillStyle(0x254454).lineStyle(2, 0xb18bd0).fillRect(548, 445, 45, 30).strokeRect(548, 445, 45, 30);
+    g.fillStyle(0x5fb8cf).fillRect(554, 451, 33, 18);
+    g.fillStyle(0x684c3c).fillRect(617, 442, 54, 35);
+    [0, 1, 2].forEach(i => g.fillStyle([0xd4a34f, 0x7fb3ca, 0xc96f61][i]).fillCircle(629 + i * 14, 455, 4));
+    this.drawChair(585, 527, 0x675276);
   }
 
   private isoBox(x: number, y: number, w: number, d: number, h: number, top: number, left: number, right: number, depth = y) {
@@ -340,17 +454,17 @@ export class OfficeScene extends Phaser.Scene {
   }
 
   private createAvatar(agent: Agent, start: Point) {
-    const shadow = this.add.ellipse(0, 24, 48, 15, 0x1d1014, 0.46);
-    const sprite = this.add.image(0, 27, `agent-${agent.id}`).setDisplaySize(96, 96).setOrigin(0.5, 1);
-    const badge = this.add.text(0, -74, agent.name, {
-      fontFamily: "monospace", fontSize: "10px", fontStyle: "bold", color: "#fff4d1",
+    const shadow = this.add.ellipse(0, 19, 36, 11, 0x1d1014, 0.46);
+    const sprite = this.add.image(0, 22, `agent-${agent.id}`).setDisplaySize(76, 76).setOrigin(0.5, 1);
+    const badge = this.add.text(0, -57, agent.name, {
+      fontFamily: "monospace", fontSize: "9px", fontStyle: "bold", color: "#fff4d1",
       backgroundColor: "#2d2029", padding: { x: 4, y: 2 },
     }).setOrigin(0.5);
-    const action = this.add.text(0, -95, "", {
+    const action = this.add.text(0, -76, "", {
       fontFamily: "monospace", fontSize: "8px", color: "#3a2730", backgroundColor: "#ffe69a",
       padding: { x: 5, y: 3 }, align: "center",
     }).setOrigin(0.5).setVisible(false);
-    const effect = this.add.text(39, -27, "", {
+    const effect = this.add.text(31, -22, "", {
       fontFamily: "monospace", fontSize: "9px", fontStyle: "bold", color: "#ffe293",
       backgroundColor: "#321c19cc", padding: { x: 4, y: 3 },
     }).setOrigin(0.5).setVisible(false);
@@ -358,7 +472,7 @@ export class OfficeScene extends Phaser.Scene {
     const speech = this.createSpeechBubble();
     const speechText = speech.getByName("text") as Phaser.GameObjects.Text;
     const container = this.add.container(start.x, start.y, [shadow, sprite, prop, badge, action, effect, speech])
-      .setSize(66, 104).setInteractive({ useHandCursor: true }).setDepth(start.y + 100);
+      .setSize(52, 82).setInteractive({ useHandCursor: true }).setDepth(start.y + 100);
     container.on("pointerdown", (_pointer: Phaser.Input.Pointer, _x: number, _y: number, event: Phaser.Types.Input.EventData) => {
       event.stopPropagation(); this.focusAgent(agent.id); selectAgent(agent.id);
     });
@@ -366,7 +480,7 @@ export class OfficeScene extends Phaser.Scene {
   }
 
   private createSpeechBubble() {
-    const bubble = this.add.container(0, -139).setVisible(false).setDepth(500);
+    const bubble = this.add.container(0, -121).setVisible(false).setDepth(500);
     const shadow = this.add.graphics();
     shadow.fillStyle(0x090b10, 0.55).fillRoundedRect(-96, -27, 192, 55, 8);
     const panel = this.add.graphics();
@@ -406,9 +520,9 @@ export class OfficeScene extends Phaser.Scene {
     this.parts.forEach((other, id) => { if (id !== agentId) other.speech.setVisible(false); });
     const prefix = tone === "working" ? "EN PROGRESO · " : tone === "result" ? "RESULTADO · " : "MISIÓN · ";
     parts.speechText.setText(prefix + message);
-    parts.speech.setVisible(true).setAlpha(0).setScale(0.88).setY(-131);
+    parts.speech.setVisible(true).setAlpha(0).setScale(0.88).setY(-113);
     this.tweens.killTweensOf(parts.speech);
-    this.tweens.add({ targets: parts.speech, alpha: 1, scale: 1, y: -139, duration: 240, ease: "Back.Out" });
+    this.tweens.add({ targets: parts.speech, alpha: 1, scale: 1, y: -121, duration: 240, ease: "Back.Out" });
   }
 
   private showResultHud(detail: {
@@ -496,13 +610,15 @@ export class OfficeScene extends Phaser.Scene {
     if (!avatar) return;
     const startNode = this.nearestNode({ x: avatar.x, y: avatar.y });
     const endNode = this.nearestNode(target);
-    const route = this.findRoute(startNode, endNode).slice(1).map(node => NAV_NODES[node]);
-    if (Phaser.Math.Distance.Between(NAV_NODES[endNode].x, NAV_NODES[endNode].y, target.x, target.y) > 8) route.push(target);
-    if (!route.length) route.push(target);
+    const route = this.findRoute(startNode, endNode).slice(1).map(node => ({ node, point: NAV_NODES[node] }));
+    if (Phaser.Math.Distance.Between(NAV_NODES[endNode].x, NAV_NODES[endNode].y, target.x, target.y) > 8) route.push({ node: "", point: target });
+    if (!route.length) route.push({ node: "", point: target });
     const visit = (index: number) => {
-      this.walk(agentId, route[index], () => {
-        if (index < route.length - 1) visit(index + 1);
-        else onComplete();
+      const step = route[index];
+      this.walk(agentId, step.point, () => {
+        const continueRoute = () => index < route.length - 1 ? visit(index + 1) : onComplete();
+        if (step.node.endsWith("Door")) this.openDoor(step.node, continueRoute);
+        else continueRoute();
       }, mission && index === route.length - 1);
     };
     visit(0);
@@ -532,10 +648,16 @@ export class OfficeScene extends Phaser.Scene {
     const candidates = [...this.avatars.keys()].filter(id => !this.activeMissions.has(id) && !this.moving.has(id));
     if (!candidates.length) return;
     const agentId = Phaser.Utils.Array.GetRandom(candidates);
-    const destinations = Object.keys(NAV_NODES).filter(id => !id.toLowerCase().includes("door") && !id.includes("Landing"));
-    const target = NAV_NODES[Phaser.Utils.Array.GetRandom(destinations)];
+    const home = NAV_NODES[AGENT_HOME[agentId]];
+    const target = { x: home.x + Phaser.Math.Between(-18, 18), y: home.y + Phaser.Math.Between(-9, 12) };
     this.clearAction(agentId); this.stand(agentId);
-    this.navigate(agentId, target, () => this.setStatus(agentId, "idle"), false);
+    this.navigate(agentId, target, () => {
+      if (Math.random() < 0.72) {
+        const station = stationTiles[AGENT_ROOM[agentId]];
+        this.performAction(agentId, station);
+        this.time.delayedCall(2600, () => { if (!this.activeMissions.has(agentId)) { this.clearAction(agentId); this.stand(agentId); this.setStatus(agentId, "idle"); } });
+      } else this.setStatus(agentId, "idle");
+    }, false);
   }
 
   private walk(agentId: string, target: Point, onComplete: () => void, mission = true) {
@@ -549,11 +671,11 @@ export class OfficeScene extends Phaser.Scene {
     if (agentId === "brasa") {
       this.tweens.add({
         targets: parts.sprite,
-        x: 4, y: 20, angle: 5, scaleX: 1.04, scaleY: 0.96,
+        x: 4, y: 16, angle: 5,
         duration: 190, ease: "Sine.InOut", yoyo: true, repeat: -1,
       });
     } else {
-      this.tweens.add({ targets: parts.sprite, y: 22, angle: 1.6, duration: 150, yoyo: true, repeat: -1 });
+      this.tweens.add({ targets: parts.sprite, y: 18, angle: 1.6, duration: 150, yoyo: true, repeat: -1 });
     }
     this.tweens.add({
       targets: avatar, x: target.x, y: target.y, duration, ease: "Linear",
@@ -563,7 +685,7 @@ export class OfficeScene extends Phaser.Scene {
       },
       onComplete: () => {
         this.tweens.killTweensOf(parts.sprite);
-        parts.sprite.setPosition(0, 27).setAngle(0).setScale(1);
+        parts.sprite.setScale(1).setDisplaySize(76, 76).setPosition(0, 22).setAngle(0);
         this.moving.delete(agentId);
         if (this.selectedAgent === agentId) this.destinationMarker?.setVisible(false);
         if (mission) this.setStatus(agentId, "working");
@@ -590,10 +712,10 @@ export class OfficeScene extends Phaser.Scene {
     this.tweens.add({
       targets: parts.sprite,
       angle: agentId === "nova" ? -1.5 : agentId === "pixel" ? 2 : 1.2,
-      y: agentId === "chronos" ? 27 : parts.sprite.y - 2,
+      y: agentId === "chronos" ? 22 : parts.sprite.y - 2,
       duration: motion.duration / 2, ease: "Sine.InOut", yoyo: true, repeat: -1,
     });
-    this.tweens.add({ targets: parts.action, y: -99, duration: 450, yoyo: true, repeat: -1 });
+    this.tweens.add({ targets: parts.action, y: -80, duration: 450, yoyo: true, repeat: -1 });
     this.tweens.add({ targets: parts.effect, angle: 7, scale: 1.08, duration: 360, yoyo: true, repeat: -1 });
     this.tweens.add({
       targets: parts.prop, x: motion.x, y: motion.y, angle: motion.angle, scale: motion.scale,
@@ -616,22 +738,22 @@ export class OfficeScene extends Phaser.Scene {
     const parts = this.parts.get(agentId);
     if (!parts) return;
     this.tweens.killTweensOf([parts.action, parts.effect, parts.prop, parts.sprite]);
-    parts.action.setVisible(false).setY(-95);
-    parts.effect.setVisible(false).setPosition(39, -27).setAlpha(1).setAngle(0).setScale(1);
+    parts.action.setVisible(false).setY(-76);
+    parts.effect.setVisible(false).setPosition(31, -22).setAlpha(1).setAngle(0).setScale(1);
     parts.prop.setVisible(false).setPosition(22, -5).setAngle(0).setScale(1);
   }
 
   private sit(agentId: string) {
     const parts = this.parts.get(agentId);
     if (!parts) return;
-    parts.sprite.setDisplaySize(96, 78).setY(30);
+    parts.sprite.setDisplaySize(76, 62).setY(25);
   }
 
   private stand(agentId: string) {
     const parts = this.parts.get(agentId);
     if (!parts) return;
     this.tweens.killTweensOf([parts.sprite, parts.action]);
-    parts.sprite.setDisplaySize(96, 96).setPosition(0, 27).setAngle(0);
+    parts.sprite.setScale(1).setDisplaySize(76, 76).setPosition(0, 22).setAngle(0);
   }
 
   private setStatus(agentId: string, status: AgentStatus) {
@@ -656,13 +778,13 @@ export class OfficeScene extends Phaser.Scene {
 
   private floorContains(x: number, y: number) {
     const walkableRooms = [
-      new Phaser.Geom.Rectangle(235, 185, 215, 155),
-      new Phaser.Geom.Rectangle(455, 185, 210, 155),
-      new Phaser.Geom.Rectangle(155, 366, 210, 145),
-      new Phaser.Geom.Rectangle(365, 370, 190, 145),
-      new Phaser.Geom.Rectangle(555, 366, 205, 145),
-      new Phaser.Geom.Rectangle(350, 310, 210, 105),
-      new Phaser.Geom.Rectangle(740, 410, 155, 120),
+      new Phaser.Geom.Rectangle(215, 115, 230, 135),
+      new Phaser.Geom.Rectangle(480, 115, 230, 135),
+      new Phaser.Geom.Rectangle(75, 285, 230, 135),
+      new Phaser.Geom.Rectangle(600, 285, 230, 135),
+      new Phaser.Geom.Rectangle(155, 445, 230, 115),
+      new Phaser.Geom.Rectangle(450, 445, 270, 115),
+      new Phaser.Geom.Rectangle(270, 235, 380, 215),
     ];
     return walkableRooms.some(room => Phaser.Geom.Rectangle.Contains(room, x, y));
   }
