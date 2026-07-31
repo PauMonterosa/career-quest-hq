@@ -30,6 +30,7 @@ const DEFAULT_AGENTS: Agent[] = [
   ["chronos", "CHRONOS", "Deadline Manager", "Strict but helpful", "control_room", "#f5c84c", "clock"],
   ["pixel", "PIXEL", "Portfolio and Project Coach", "Creative engineer", "portfolio_workshop", "#a775ff", "tools"],
   ["brasa", "BRASA", "Chef and Provisions Coordinator", "Practical, warm and resourceful", "food_kitchen", "#df774d", "chef_hat"],
+  ["pilot", "SKY", "European Flight Deal Pilot", "Alert, practical and adventurous", "air_operations", "#4f83d9", "pilot_cap"],
 ].map(([id, name, role, personality, current_room, color, accessory]) => ({
   id, name, role, personality, current_room, current_task: null, status: "idle",
   task_queue: [], last_result: null, avatar: { color, accessory },
@@ -79,6 +80,28 @@ const response = (agentId: string, skill: string, result: Record<string, unknown
 
 export async function runLocalTask(agentId: string, skill: string): Promise<TaskResponse> {
   const data = localData();
+  if (agentId === "pilot") {
+    type FlightDeal = { origin: string; destination: string; departure_date: string; return_date: string; price_eur: number; interesting: boolean; carriers?: string[]; stops?: number; booking_url: string };
+    type FlightFeed = { generated_at: string; configured: boolean; status: string; threshold_eur: number; deals: FlightDeal[]; message?: string; provider?: string };
+    let feed: FlightFeed;
+    try {
+      const radar = await fetch(`${import.meta.env.BASE_URL}data/flight-deals.json`, { cache: "no-store" });
+      feed = await radar.json() as FlightFeed;
+    } catch {
+      return response(agentId, skill, { title: "Radar temporalmente no disponible", summary: { resultados: 0 }, items: [], next_actions: ["Vuelve a intentarlo cuando haya conexión."] });
+    }
+    if (!feed.configured) return response(agentId, skill, {
+      title: "Activa el radar de vuelos reales", summary: { estado: "Faltan credenciales", proveedor: feed.provider ?? "Amadeus" }, items: [],
+      note: feed.message, next_actions: ["Añade AMADEUS_CLIENT_ID y AMADEUS_CLIENT_SECRET en GitHub → Settings → Secrets and variables → Actions."],
+    });
+    const deals = (skill === "show_interesting_fares" ? feed.deals.filter(deal => deal.interesting) : feed.deals).slice(0, 10);
+    return response(agentId, skill, {
+      title: skill === "show_interesting_fares" ? "Ofertas europeas detectadas" : "Radar europeo actualizado",
+      summary: { rutas: deals.length, umbral: `${feed.threshold_eur} €`, actualizado: feed.generated_at?.slice(0, 16).replace("T", " ") },
+      items: deals.map(deal => ({ route: `${deal.origin} → ${deal.destination}`, price: `${deal.price_eur} €`, dates: `${deal.departure_date} – ${deal.return_date}`, carriers: deal.carriers?.join(", ") || "Por confirmar", stops: deal.stops, source_url: deal.booking_url })),
+      generated_at: feed.generated_at, note: "Precios obtenidos del proveedor y sujetos a disponibilidad. Verifica el total antes de comprar.",
+    });
+  }
   if (agentId === "brasa") {
     const kitchen = foodTruckSnapshot();
     if (!kitchen?.today) return response(agentId, skill, {

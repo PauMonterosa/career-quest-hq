@@ -13,6 +13,7 @@ const destinations: Record<string, string> = {
   atlas: "masters_archive", nova: "tfg_laboratory", echo: "mail_room",
   chronos: "control_room", pixel: "portfolio_workshop",
   brasa: "food_kitchen",
+  pilot: "air_operations",
 };
 
 const missionMessages: Record<string, string> = {
@@ -28,6 +29,8 @@ const missionMessages: Record<string, string> = {
   build_portfolio_delivery_plan: "Voy a convertir tus tareas en entregables claros y publicables.",
   review_foodtruck_status: "Voy a revisar tu menú, presupuesto y compra pendientes en FoodTruck.",
   coordinate_busy_week: "Voy a cruzar tu cocina con la carga de trabajo que gestiona CHRONOS.",
+  scan_europe_flights: "Voy a consultar el radar diario y ordenar las tarifas europeas más bajas.",
+  show_interesting_fares: "Voy a filtrar únicamente los vuelos que cumplen tu umbral de precio.",
 };
 
 const agentGreetings: Record<string, string> = {
@@ -37,6 +40,7 @@ const agentGreetings: Record<string, string> = {
   chronos: "Puedo detectar urgencias y construir tu plan semanal.",
   pixel: "Puedo ordenar tu portfolio y convertirlo en entregables concretos.",
   brasa: "Puedo leer FoodTruck y coordinar comidas, compra y tiempo con CHRONOS.",
+  pilot: "Vigilo vuelos europeos cada día y te aviso cuando aparece una tarifa interesante.",
 };
 
 export default function App() {
