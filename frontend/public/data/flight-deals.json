@@ -1,0 +1,14 @@
+{
+  "generated_at": "2026-07-31T19:16:01.443459+00:00",
+  "provider": "Amadeus Flight Offers Search",
+  "configured": false,
+  "threshold_eur": 120.0,
+  "origins": [
+    "BCN",
+    "GRO"
+  ],
+  "deals": [],
+  "errors": [],
+  "status": "missing_credentials",
+  "message": "Añade AMADEUS_CLIENT_ID y AMADEUS_CLIENT_SECRET como secretos del repositorio para activar precios reales diarios."
+}

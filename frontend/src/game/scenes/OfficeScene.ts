@@ -22,10 +22,12 @@ const stationTiles: Record<string, { point: Point; label: string; action: string
   tfg_laboratory: { point: { x: 749, y: 331 }, label: "04 TFG LABORATORY", action: "ANALYSING SAMPLES", sitting: true },
   food_kitchen: { point: { x: 280, y: 515 }, label: "05 BRASA'S KITCHEN", action: "COOKING THE PLAN", sitting: false },
   portfolio_workshop: { point: { x: 590, y: 503 }, label: "06 PORTFOLIO WORKSHOP", action: "BUILDING PORTFOLIO", sitting: true },
+  air_operations: { point: { x: 425, y: 535 }, label: "07 AIR OPERATIONS", action: "SCANNING FLIGHT FARES", sitting: true },
 };
 const startTiles: Record<string, Point> = {
   chronos: { x: 382, y: 159 }, atlas: { x: 603, y: 160 }, echo: { x: 190, y: 304 },
   nova: { x: 749, y: 331 }, brasa: { x: 280, y: 515 }, pixel: { x: 590, y: 503 },
+  pilot: { x: 425, y: 535 },
 };
 const NAV_NODES: Record<string, Point> = {
   control: { x: 382, y: 159 }, controlDoor: { x: 437, y: 237 },
@@ -35,21 +37,24 @@ const NAV_NODES: Record<string, Point> = {
   labDoor: { x: 641, y: 365 }, lab: { x: 749, y: 331 },
   kitchenDoor: { x: 409, y: 438 }, kitchen: { x: 280, y: 515 },
   workshopDoor: { x: 568, y: 438 }, workshop: { x: 590, y: 503 },
+  pilotDoor: { x: 468, y: 430 }, pilot: { x: 425, y: 535 },
 };
 const NAV_EDGES: Record<string, string[]> = {
   control: ["controlDoor"], controlDoor: ["control", "upperHall"],
   archive: ["archiveDoor"], archiveDoor: ["archive", "upperHall"],
   upperHall: ["controlDoor", "archiveDoor", "centre"],
-  centre: ["upperHall", "mailDoor", "labDoor", "kitchenDoor", "workshopDoor"],
+  centre: ["upperHall", "mailDoor", "labDoor", "kitchenDoor", "workshopDoor", "pilotDoor"],
   mailDoor: ["centre", "mail"], mail: ["mailDoor"],
   labDoor: ["centre", "lab"], lab: ["labDoor"],
   kitchenDoor: ["centre", "kitchen"], kitchen: ["kitchenDoor"],
   workshopDoor: ["centre", "workshop"], workshop: ["workshopDoor"],
+  pilotDoor: ["centre", "pilot"], pilot: ["pilotDoor"],
 };
-const AGENT_HOME: Record<string, string> = { chronos: "control", atlas: "archive", echo: "mail", nova: "lab", brasa: "kitchen", pixel: "workshop" };
-const AGENT_ROOM: Record<string, string> = { chronos: "control_room", atlas: "masters_archive", echo: "mail_room", nova: "tfg_laboratory", brasa: "food_kitchen", pixel: "portfolio_workshop" };
+const AGENT_HOME: Record<string, string> = { chronos: "control", atlas: "archive", echo: "mail", nova: "lab", brasa: "kitchen", pixel: "workshop", pilot: "pilot" };
+const AGENT_ROOM: Record<string, string> = { chronos: "control_room", atlas: "masters_archive", echo: "mail_room", nova: "tfg_laboratory", brasa: "food_kitchen", pixel: "portfolio_workshop", pilot: "air_operations" };
 const AGENT_EFFECTS: Record<string, string> = {
   atlas: "◆  ◆  ◆", nova: "✦  +  ✦", echo: "✉  ···  ➜", chronos: "◷  03:14", pixel: "⚙  ✦  ⚙",
+  pilot: "✈  €  ✈",
 };
 AGENT_EFFECTS.brasa = "♨  ·  ♨";
 
@@ -71,8 +76,8 @@ export class OfficeScene extends Phaser.Scene {
   constructor() { super("office"); }
 
   preload() {
-    this.load.image("modular-hq", `${import.meta.env.BASE_URL}assets/modular-hq-clean.png`);
-    ["atlas", "nova", "echo", "chronos", "pixel", "brasa"].forEach(agentId =>
+    this.load.image("modular-hq", `${import.meta.env.BASE_URL}assets/modular-hq-seven-rooms.png`);
+    ["atlas", "nova", "echo", "chronos", "pixel", "brasa", "pilot"].forEach(agentId =>
       this.load.image(`agent-${agentId}`, `${import.meta.env.BASE_URL}assets/agents/${agentId}.png`));
   }
 
@@ -80,7 +85,7 @@ export class OfficeScene extends Phaser.Scene {
     this.cameras.main.setBackgroundColor("#10171a");
     this.drawBackdrop();
     this.add.image(450, 310, "modular-hq").setDisplaySize(900, 600).setDepth(-500);
-    ["controlDoor", "archiveDoor", "mailDoor", "labDoor", "kitchenDoor", "workshopDoor"].forEach(id =>
+    ["controlDoor", "archiveDoor", "mailDoor", "labDoor", "kitchenDoor", "workshopDoor", "pilotDoor"].forEach(id =>
       this.createDoor(id, NAV_NODES[id]));
     this.selectionRing = this.add.ellipse(0, 0, 31, 13).setStrokeStyle(2, 0xffdc74).setFillStyle(0xffdc74, 0.16).setDepth(700);
     this.destinationMarker = this.add.polygon(0, 0, [0, -8, 16, 0, 0, 8, -16, 0], 0xffdc74, 0.34).setVisible(false).setDepth(20);
@@ -849,6 +854,7 @@ export class OfficeScene extends Phaser.Scene {
       new Phaser.Geom.Rectangle(600, 285, 230, 135),
       new Phaser.Geom.Rectangle(155, 445, 230, 115),
       new Phaser.Geom.Rectangle(450, 445, 270, 115),
+      new Phaser.Geom.Rectangle(340, 445, 190, 145),
       new Phaser.Geom.Rectangle(270, 235, 380, 215),
     ];
     return walkableRooms.some(room => Phaser.Geom.Rectangle.Contains(room, x, y));

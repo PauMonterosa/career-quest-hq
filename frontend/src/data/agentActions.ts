@@ -28,4 +28,8 @@ export const agentActions: Record<string, ActionOption[]> = {
     { skill: "review_foodtruck_status", title: "Revisar cocina y compra", purpose: "Lee el menú, presupuesto y lista de compra activos de FoodTruck.", source: "FoodTruck en este dispositivo", outcome: "Plato y compra accionables", kind: "auto" },
     { skill: "coordinate_busy_week", title: "Coordinar con CHRONOS", purpose: "Adapta la cocina a tu carga real de tareas y propone una alternativa rápida cuando haga falta.", source: "FoodTruck + Excel", outcome: "Plan coordinado", kind: "auto" },
   ],
+  pilot: [
+    { skill: "scan_europe_flights", title: "Buscar vuelos europeos", purpose: "Consulta el último radar diario de precios reales desde Barcelona y Girona.", source: "Amadeus Flight Offers", outcome: "Tarifas ordenadas con enlace", kind: "web" },
+    { skill: "show_interesting_fares", title: "Ver ofertas interesantes", purpose: "Filtra las rutas por debajo del umbral configurado y muestra solo oportunidades accionables.", source: "Radar diario + umbral", outcome: "Alertas de precio", kind: "auto" },
+  ],
 };
