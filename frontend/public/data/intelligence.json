@@ -1,28 +1,16 @@
 {
-  "generated_at": "2026-07-30T07:44:13.805897+00:00",
+  "generated_at": "2026-07-31T08:11:29.592205+00:00",
   "summary": {
     "targets": 8,
     "verified": 8,
     "discoveries": 24,
-    "changes": 5
+    "changes": 3
   },
   "changes": [
     {
       "agent": "atlas",
       "entity": "i-MESC",
       "url": "https://i-mesc.eu/",
-      "message": "La página oficial cambió desde la última revisión."
-    },
-    {
-      "agent": "nova",
-      "entity": "IREC Solar Energy Materials",
-      "url": "https://www.irec.cat/research-transfer/solar-energy-materials-systems",
-      "message": "La página oficial cambió desde la última revisión."
-    },
-    {
-      "agent": "nova",
-      "entity": "IREC Energy Storage",
-      "url": "https://www.irec.cat/research-transfer/energy-storage-harvesting-catalysis",
       "message": "La página oficial cambió desde la última revisión."
     },
     {
@@ -485,9 +473,13 @@
       "url": "https://www.irec.cat/world-class-labs/plemcat/research-projects",
       "title": "IREC | PlemCat | Research projects",
       "signals": {
+        "admission": [
+          "authorisations, environmental conditions, funding availability, technical readiness and other legal requirements. PlemCat is led by IREC (Institut de Recerca en Energia de Catalunya) under the mandate of the Generalitat de Catalunya and with co-funding from MITECO/IDAE (Ministerio para la T"
+        ],
         "fees_funding": [
           "esting and research networks to share results and establish best practices, and supports innovation funding through European, national and regional research programmes. Social Interaction and Blue Economy This pillar ensures that floating offshore wind development at PlemCat is socially",
-          "t de Recerca en Energia de Catalunya) under the mandate of the Generalitat de Catalunya and with co-funding from MITECO/IDAE (Ministerio para la Transición Ecológica y el Reto Demográfico) through the RENMARINAS DEMOS programme and the Next Generation EU instrument. The platform operate"
+          "eline milestones are indicative and subject to applicable authorisations, environmental conditions, funding availability, technical readiness and other legal requirements. PlemCat is led by IREC (Institut de Recerca en Energia de Catalunya) under the mandate of the Generalitat de Catalu",
+          "t de Recerca en Energia de Catalunya) under the mandate of the Generalitat de Catalunya and with co-funding from MITECO/IDAE (Ministerio para la Transición Ecológica y el Reto Demográfico) through the RENMARINAS DEMOS programme and the Next Generation EU instrument. The platform is bein"
         ],
         "research": [
           "IREC | PlemCat | Research projects Skip to content Newsletter Open science Work with us Home About us Mission & vision Organisation Transparency Institutional information & governance Public procurement &",
@@ -500,7 +492,7 @@
           "silient buildings & communities Corporate development & technology transfer Knowledge tech transfer team Portfolio Lab to market Strategic actions Platforms & associations Projects Publications Open science Facilities People News & outreach News Events Outreach Mad for science Gara-F"
         ]
       },
-      "content_hash": "f41de62ecfa5282cd19e5a87997e3558a20b63667ab1692bb49f1e76f5df6e6e"
+      "content_hash": "2d32fc45f75edf3ce2f0e81c35ab676d98b4619ef163ac3ef5c0ea82da0d8348"
     },
     {
       "agent": "nova",
@@ -574,9 +566,13 @@
       "url": "https://www.irec.cat/world-class-labs/plemcat/research-projects",
       "title": "IREC | PlemCat | Research projects",
       "signals": {
+        "admission": [
+          "authorisations, environmental conditions, funding availability, technical readiness and other legal requirements. PlemCat is led by IREC (Institut de Recerca en Energia de Catalunya) under the mandate of the Generalitat de Catalunya and with co-funding from MITECO/IDAE (Ministerio para la T"
+        ],
         "fees_funding": [
           "esting and research networks to share results and establish best practices, and supports innovation funding through European, national and regional research programmes. Social Interaction and Blue Economy This pillar ensures that floating offshore wind development at PlemCat is socially",
-          "t de Recerca en Energia de Catalunya) under the mandate of the Generalitat de Catalunya and with co-funding from MITECO/IDAE (Ministerio para la Transición Ecológica y el Reto Demográfico) through the RENMARINAS DEMOS programme and the Next Generation EU instrument. The platform operate"
+          "eline milestones are indicative and subject to applicable authorisations, environmental conditions, funding availability, technical readiness and other legal requirements. PlemCat is led by IREC (Institut de Recerca en Energia de Catalunya) under the mandate of the Generalitat de Catalu",
+          "t de Recerca en Energia de Catalunya) under the mandate of the Generalitat de Catalunya and with co-funding from MITECO/IDAE (Ministerio para la Transición Ecológica y el Reto Demográfico) through the RENMARINAS DEMOS programme and the Next Generation EU instrument. The platform is bein"
         ],
         "research": [
           "IREC | PlemCat | Research projects Skip to content Newsletter Open science Work with us Home About us Mission & vision Organisation Transparency Institutional information & governance Public procurement &",
@@ -589,7 +585,7 @@
           "silient buildings & communities Corporate development & technology transfer Knowledge tech transfer team Portfolio Lab to market Strategic actions Platforms & associations Projects Publications Open science Facilities People News & outreach News Events Outreach Mad for science Gara-F"
         ]
       },
-      "content_hash": "f41de62ecfa5282cd19e5a87997e3558a20b63667ab1692bb49f1e76f5df6e6e"
+      "content_hash": "2d32fc45f75edf3ce2f0e81c35ab676d98b4619ef163ac3ef5c0ea82da0d8348"
     },
     {
       "agent": "nova",
@@ -629,7 +625,7 @@
           "anagement Organic Solar Cells Optoelectronics of group-IV semiconductor nanostructures Publications People Equipment Projects News In the Press People All Researchers Post-Docs PhD Students Technicians and project managers Afroditi Koutsogianni PhD Students Agustín Mihi Researchers Ale"
         ]
       },
-      "content_hash": "c188dcb3d0231c928408036f929ad29af157aa3933ffc61fca3935ed67d5b151"
+      "content_hash": "1526caaecc55282cb390a830379cd76cf13e89a0edc891454c8b7de250540e99"
     },
     {
       "agent": "nova",
@@ -652,7 +648,7 @@
           "ncluding thermal, mechanical and biological aspects. Not only allows this to solve urgent problems (contact resistance), it also enables completely new (switchable, reconfigurable) devices. The topic is inspired by a combination of scientific curiosity and a strong feeling of practical"
         ]
       },
-      "content_hash": "63f491bb26aeddb832a94c1567440af9673b82cb64dbd558f4cf5268d0d19d81"
+      "content_hash": "82430e4cbcab0b6a38c20c56e3ed1512b5b54f76ceb359fc8cf7507ec11acbcc"
     },
     {
       "agent": "nova",
@@ -671,7 +667,7 @@
           "anagement Organic Solar Cells Optoelectronics of group-IV semiconductor nanostructures Publications People Equipment Projects News In the Press Publications Cargando publicaciones Nanopto..."
         ]
       },
-      "content_hash": "f224664079dc57d7bbedf5197312e905880974947370ef5be0dba6af3ca25a9f"
+      "content_hash": "b380cc40645b531a5a05b44aa6c54ee7f089c569efb2c8c4e141a5b24e5cac1d"
     },
     {
       "agent": "nova",
@@ -695,7 +691,7 @@
           "» About the center Research Clean Room Laboratories Technology Transfer News & Outreach Highlights Contact Talent Search Contracting profile Legal Advice © Copyright 2026. IMB-CNM"
         ]
       },
-      "content_hash": "c410cb48d55404462c4d0dc6ecbae75f7fa61c8941e4f24ace64bdd9111603fc"
+      "content_hash": "cd9241676e71471a61c535b176faa855392c5d7d2c4de91ed1ddd0d02e907560"
     }
   ],
   "sources": [
@@ -733,7 +729,7 @@
           "Our Partners The course Overview Consortium & Universities Curriculum Mobility scheme Fees The Team Professors Administrative Associated partners (research centers and industry) Students Resources Class #21 2025-2027 (32 students) Class #20 2024-2026 (31 students) Class #19 2023-2025 (17"
         ]
       },
-      "content_hash": "d7dbb1cfbedc678297db993d43f84bdfd5d9b9c72ad482ee274fa5381a815ddd"
+      "content_hash": "e5e0cad922309bf08750f6abeeb12d9f7fd25db14f5bcb644c53700362226ecf"
     },
     {
       "agent": "atlas",
@@ -900,7 +896,7 @@
           "anagement Organic Solar Cells Optoelectronics of group-IV semiconductor nanostructures Publications People Equipment Projects News In the Press Organic Solar Cells We aim at producing strong contributions towards the development of cost-efective, low energy pay back time photovoltaics"
         ]
       },
-      "content_hash": "ff50a3ae5bc48401992ce46ef12bb3351e73d0201bc12749f67fcac0f813e2b7"
+      "content_hash": "50ccef7b78822299c36b2ffe3ada034bf6551af215e97807eb18fbb800451829"
     },
     {
       "agent": "nova",
@@ -920,7 +916,7 @@
           "B. About the center Research Clean Room Laboratories Technology Transfer News & Outreach Highlights Contact Talent Search Contracting profile Legal Advice © Copyright 2026. IMB-CNM"
         ]
       },
-      "content_hash": "ef3158b99840d78f3c85b2fe57ba686f0fde8926e2a0b045aa5a027c89bb7b06"
+      "content_hash": "29667526d96d6c45c782e9dab4b0ed388dc05bbfe667589f9c956f1ec68bd5ff"
     }
   ]
 }
