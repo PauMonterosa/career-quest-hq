@@ -40,3 +40,12 @@ jobs:
           Path('/tmp/flight-alert.md').write_text('El piloto ha detectado estas tarifas:\n\n'+body+'\n\nPrecios sujetos a disponibilidad; verifica el total antes de comprar.',encoding='utf-8')
           PY
           test -f /tmp/flight-alert.md && gh issue create --title "✈️ Oferta europea detectada $(date +%F)" --body-file /tmp/flight-alert.md --assignee PauMonterosa || true
+          if test -f /tmp/flight-alert.md && test -n "${{ secrets.NTFY_TOPIC }}"; then
+            curl --fail --silent --show-error \
+              -H "Title: SKY · Mejores vuelos de hoy" \
+              -H "Priority: high" \
+              -H "Tags: airplane,euros" \
+              -H "Click: https://paumonterosa.github.io/career-quest-hq/?v=9" \
+              --data-binary @/tmp/flight-alert.md \
+              "https://ntfy.sh/${{ secrets.NTFY_TOPIC }}"
+          fi
