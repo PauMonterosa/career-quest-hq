@@ -33,6 +33,23 @@ def fetch(url: str) -> bytes:
         return response.read()
 
 
+def wikipedia_image(city: str) -> str:
+    """Return a stable, freely accessible lead image for notification previews."""
+    if not city:
+        return ""
+    try:
+        url = (
+            "https://en.wikipedia.org/w/api.php?action=query&prop=pageimages&format=json"
+            f"&piprop=thumbnail&pithumbsize=1200&redirects=1&titles={quote(city)}"
+        )
+        payload = json.loads(fetch(url))
+        pages = payload.get("query", {}).get("pages", {})
+        page = next(iter(pages.values()), {})
+        return page.get("thumbnail", {}).get("source", "")
+    except Exception:
+        return ""
+
+
 def clean(raw: str) -> str:
     raw = re.sub(r"<script.*?</script>|<style.*?</style>", " ", raw, flags=re.I | re.S)
     return re.sub(r"\s+", " ", html.unescape(re.sub(r"<[^>]+>", " ", raw))).strip()
@@ -96,7 +113,23 @@ def parse_ryanair(source: dict) -> list[dict]:
         title = f"{departure.get('iataCode')} → {arrival.get('iataCode')} · {arrival.get('name')} · {outbound.get('departureDate', '')[:16].replace('T', ' ')}"
         identifier = hashlib.sha1(f"ryanair|{outbound.get('flightKey')}|{amount}".encode()).hexdigest()[:14]
         booking = f"https://www.ryanair.com/gb/en/trip/flights/select?adults=1&teens=0&children=0&infants=0&dateOut={outbound.get('departureDate', '')[:10]}&originIata={departure.get('iataCode')}&destinationIata={arrival.get('iataCode')}&isConnectedFlight=false&isReturn=false"
-        items.append({"id": identifier, "source": "Ryanair Fare Finder", "title": title, "summary": f"Vuelo {outbound.get('flightNumber', '')} desde {departure.get('name')} a {arrival.get('name')}", "price_eur": amount, "interesting": amount <= MAX_PRICE, "near_home": True, "published": generated_timestamp(), "source_url": booking, "verification_url": f"https://www.google.com/travel/flights?q={quote(title)}"})
+        items.append({
+            "id": identifier,
+            "source": "Ryanair Fare Finder",
+            "title": title,
+            "summary": f"Vuelo {outbound.get('flightNumber', '')} desde {departure.get('name')} a {arrival.get('name')}",
+            "price_eur": amount,
+            "interesting": amount <= MAX_PRICE,
+            "near_home": True,
+            "published": generated_timestamp(),
+            "source_url": booking,
+            "verification_url": f"https://www.google.com/travel/flights?q={quote(title)}",
+            "origin_iata": departure.get("iataCode", ""),
+            "origin_country_code": departure.get("city", {}).get("countryCode", "ES").upper(),
+            "destination_iata": arrival.get("iataCode", ""),
+            "destination_city": arrival.get("city", {}).get("name") or arrival.get("name", ""),
+            "destination_country_code": arrival.get("city", {}).get("countryCode", "").upper(),
+        })
     return items
 
 
@@ -119,6 +152,10 @@ def main() -> None:
             errors.append({"source": source["name"], "error": str(exc)[:180]})
     unique = {item["id"]: item for item in deals if item["price_eur"] is not None and is_flight_offer(item)}
     ranked = sorted(unique.values(), key=lambda item: (not item["near_home"], not item["interesting"], item["price_eur"]))[:30]
+    # ntfy uses the first available image as its expanded notification preview.
+    for item in ranked[:5]:
+        if item.get("destination_city"):
+            item["destination_image_url"] = wikipedia_image(item["destination_city"])
     previous = json.loads(HISTORY.read_text(encoding="utf-8")) if HISTORY.exists() else {"seen": []}
     seen = set(previous.get("seen", []))
     for item in ranked:
