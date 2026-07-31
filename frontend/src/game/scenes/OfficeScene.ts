@@ -214,25 +214,15 @@ export class OfficeScene extends Phaser.Scene {
   }
 
   private createDoor(id: string, point: Point) {
-    const panel = this.add.graphics();
-    panel.fillStyle(0x593720, 1).lineStyle(2, 0xe0a45f, 1).fillRoundedRect(-15, -39, 30, 42, 3).strokeRoundedRect(-15, -39, 30, 42, 3);
-    panel.fillStyle(0xf0bd63, 1).fillCircle(9, -18, 2);
-    const frame = this.add.graphics();
-    frame.lineStyle(4, 0x35231e, 1).strokeRect(-18, -42, 36, 45);
-    const door = this.add.container(point.x, point.y, [frame, panel]).setDepth(point.y + 40);
-    panel.setName("panel");
-    this.doors.set(id, door);
+    // The architectural layer already contains correctly aligned doorframes.
+    // Keep only an invisible runtime trigger so no flat door icon floats over the scene.
+    this.doors.set(id, this.add.container(point.x, point.y).setVisible(false));
   }
 
   private openDoor(id: string, onComplete: () => void) {
     const door = this.doors.get(id);
-    const panel = door?.getByName("panel") as Phaser.GameObjects.Graphics | undefined;
-    if (!door || !panel) { onComplete(); return; }
-    this.tweens.killTweensOf(panel);
-    this.tweens.add({ targets: panel, scaleX: 0.14, x: -13, duration: 220, ease: "Sine.Out", onComplete: () => {
-      onComplete();
-      this.time.delayedCall(420, () => this.tweens.add({ targets: panel, scaleX: 1, x: 0, duration: 260, ease: "Sine.InOut" }));
-    } });
+    if (!door) { onComplete(); return; }
+    this.time.delayedCall(90, onComplete);
   }
 
   private drawRoomLabels() {
@@ -300,16 +290,7 @@ export class OfficeScene extends Phaser.Scene {
 
   private drawBackdrop() {
     const g = this.add.graphics().setDepth(-1000);
-    g.fillGradientStyle(0x4d303e, 0x4d303e, 0x251d2a, 0x251d2a, 1).fillRect(0, 0, 900, 620);
-    for (let i = 0; i < 80; i++) g.fillStyle(i % 5 === 0 ? 0x6f4350 : 0x352431, 0.22)
-      .fillRect((i * 97) % 900, (i * 53) % 620, 2, 2);
-    this.add.text(28, 24, "CAREER QUEST HQ", {
-      fontFamily: "monospace", fontSize: "18px", fontStyle: "bold", color: "#f5dfad",
-      backgroundColor: "#2a1d28", padding: { x: 10, y: 7 },
-    }).setDepth(1000);
-    this.add.text(29, 63, "CLICK FLOOR TO WALK  •  ASSIGN A MISSION TO USE A STATION", {
-      fontFamily: "monospace", fontSize: "10px", color: "#cbaeb0",
-    }).setDepth(1000);
+    g.fillGradientStyle(0x11191d, 0x11191d, 0x070b0e, 0x070b0e, 1).fillRect(0, 0, 900, 620);
   }
 
   private drawWindow(x: number, y: number) {
@@ -538,15 +519,15 @@ export class OfficeScene extends Phaser.Scene {
   }
 
   private createAvatar(agent: Agent, start: Point) {
-    const shadow = this.add.ellipse(0, 19, 36, 11, 0x1d1014, 0.46);
-    const sprite = this.add.image(0, 22, `agent-${agent.id}`).setDisplaySize(76, 76).setOrigin(0.5, 1);
-    const badge = this.add.text(0, -57, agent.name, {
-      fontFamily: "monospace", fontSize: "9px", fontStyle: "bold", color: "#fff4d1",
-      backgroundColor: "#2d2029", padding: { x: 4, y: 2 },
+    const shadow = this.add.ellipse(0, 15, 27, 8, 0x080b0d, 0.42);
+    const sprite = this.add.image(0, 17, `agent-${agent.id}`).setDisplaySize(54, 54).setOrigin(0.5, 1);
+    const badge = this.add.text(0, -39, agent.name, {
+      fontFamily: "monospace", fontSize: "7px", fontStyle: "bold", color: "#fff4d1",
+      backgroundColor: "#211a18cc", padding: { x: 3, y: 1 },
     }).setOrigin(0.5);
-    const action = this.add.text(0, -76, "", {
-      fontFamily: "monospace", fontSize: "8px", color: "#3a2730", backgroundColor: "#ffe69a",
-      padding: { x: 5, y: 3 }, align: "center",
+    const action = this.add.text(0, -55, "", {
+      fontFamily: "monospace", fontSize: "7px", color: "#3a2730", backgroundColor: "#ffe69add",
+      padding: { x: 4, y: 2 }, align: "center",
     }).setOrigin(0.5).setVisible(false);
     const effect = this.add.text(31, -22, "", {
       fontFamily: "monospace", fontSize: "9px", fontStyle: "bold", color: "#ffe293",
@@ -564,15 +545,15 @@ export class OfficeScene extends Phaser.Scene {
   }
 
   private createSpeechBubble() {
-    const bubble = this.add.container(0, -121).setVisible(false).setDepth(500);
+    const bubble = this.add.container(0, -91).setVisible(false).setDepth(500);
     const shadow = this.add.graphics();
-    shadow.fillStyle(0x090b10, 0.55).fillRoundedRect(-96, -27, 192, 55, 8);
+    shadow.fillStyle(0x090b10, 0.55).fillRoundedRect(-75, -23, 150, 47, 7);
     const panel = this.add.graphics();
-    panel.fillStyle(0x1b1a22, 0.97).lineStyle(2, 0xf2c56c, 1).fillRoundedRect(-99, -30, 192, 55, 8).strokeRoundedRect(-99, -30, 192, 55, 8);
-    panel.fillStyle(0x1b1a22, 1).lineStyle(2, 0xf2c56c, 1).fillTriangle(-8, 25, 7, 25, 0, 36);
-    const text = this.add.text(-88, -22, "", {
-      fontFamily: "Chakra Petch, monospace", fontSize: "10px",
-      color: "#f6e7c5", wordWrap: { width: 172 }, lineSpacing: 2,
+    panel.fillStyle(0x1b1a22, 0.95).lineStyle(1, 0xf2c56c, 1).fillRoundedRect(-77, -25, 150, 47, 7).strokeRoundedRect(-77, -25, 150, 47, 7);
+    panel.fillStyle(0x1b1a22, 1).lineStyle(1, 0xf2c56c, 1).fillTriangle(-6, 22, 6, 22, 0, 31);
+    const text = this.add.text(-69, -18, "", {
+      fontFamily: "Chakra Petch, monospace", fontSize: "8px",
+      color: "#f6e7c5", wordWrap: { width: 134 }, lineSpacing: 1,
     }).setName("text");
     bubble.add([shadow, panel, text]);
     return bubble;
@@ -604,9 +585,9 @@ export class OfficeScene extends Phaser.Scene {
     this.parts.forEach((other, id) => { if (id !== agentId) other.speech.setVisible(false); });
     const prefix = tone === "working" ? "EN PROGRESO · " : tone === "result" ? "RESULTADO · " : "MISIÓN · ";
     parts.speechText.setText(prefix + message);
-    parts.speech.setVisible(true).setAlpha(0).setScale(0.88).setY(-113);
+    parts.speech.setVisible(true).setAlpha(0).setScale(0.88).setY(-84);
     this.tweens.killTweensOf(parts.speech);
-    this.tweens.add({ targets: parts.speech, alpha: 1, scale: 1, y: -121, duration: 240, ease: "Back.Out" });
+    this.tweens.add({ targets: parts.speech, alpha: 1, scale: 1, y: -91, duration: 240, ease: "Back.Out" });
   }
 
   private showResultHud(detail: {
@@ -769,7 +750,7 @@ export class OfficeScene extends Phaser.Scene {
       },
       onComplete: () => {
         this.tweens.killTweensOf(parts.sprite);
-        parts.sprite.setScale(1).setDisplaySize(76, 76).setPosition(0, 22).setAngle(0);
+        parts.sprite.setScale(1).setDisplaySize(54, 54).setPosition(0, 17).setAngle(0);
         this.moving.delete(agentId);
         if (this.selectedAgent === agentId) this.destinationMarker?.setVisible(false);
         if (mission) this.setStatus(agentId, "working");
@@ -822,7 +803,7 @@ export class OfficeScene extends Phaser.Scene {
     const parts = this.parts.get(agentId);
     if (!parts) return;
     this.tweens.killTweensOf([parts.action, parts.effect, parts.prop, parts.sprite]);
-    parts.action.setVisible(false).setY(-76);
+    parts.action.setVisible(false).setY(-55);
     parts.effect.setVisible(false).setPosition(31, -22).setAlpha(1).setAngle(0).setScale(1);
     parts.prop.setVisible(false).setPosition(22, -5).setAngle(0).setScale(1);
   }
@@ -830,14 +811,14 @@ export class OfficeScene extends Phaser.Scene {
   private sit(agentId: string) {
     const parts = this.parts.get(agentId);
     if (!parts) return;
-    parts.sprite.setDisplaySize(76, 62).setY(25);
+    parts.sprite.setDisplaySize(54, 44).setY(19);
   }
 
   private stand(agentId: string) {
     const parts = this.parts.get(agentId);
     if (!parts) return;
     this.tweens.killTweensOf([parts.sprite, parts.action]);
-    parts.sprite.setScale(1).setDisplaySize(76, 76).setPosition(0, 22).setAngle(0);
+    parts.sprite.setScale(1).setDisplaySize(54, 54).setPosition(0, 17).setAngle(0);
   }
 
   private setStatus(agentId: string, status: AgentStatus) {
