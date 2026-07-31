@@ -81,7 +81,7 @@ const response = (agentId: string, skill: string, result: Record<string, unknown
 export async function runLocalTask(agentId: string, skill: string): Promise<TaskResponse> {
   const data = localData();
   if (agentId === "pilot") {
-    type FlightDeal = { origin: string; destination: string; departure_date: string; return_date: string; price_eur: number; interesting: boolean; carriers?: string[]; stops?: number; booking_url: string };
+    type FlightDeal = { title: string; source: string; summary?: string; price_eur: number; interesting: boolean; near_home?: boolean; new?: boolean; source_url: string; verification_url: string };
     type FlightFeed = { generated_at: string; configured: boolean; status: string; threshold_eur: number; deals: FlightDeal[]; message?: string; provider?: string };
     let feed: FlightFeed;
     try {
@@ -98,8 +98,8 @@ export async function runLocalTask(agentId: string, skill: string): Promise<Task
     return response(agentId, skill, {
       title: skill === "show_interesting_fares" ? "Ofertas europeas detectadas" : "Radar europeo actualizado",
       summary: { rutas: deals.length, umbral: `${feed.threshold_eur} €`, actualizado: feed.generated_at?.slice(0, 16).replace("T", " ") },
-      items: deals.map(deal => ({ route: `${deal.origin} → ${deal.destination}`, price: `${deal.price_eur} €`, dates: `${deal.departure_date} – ${deal.return_date}`, carriers: deal.carriers?.join(", ") || "Por confirmar", stops: deal.stops, source_url: deal.booking_url })),
-      generated_at: feed.generated_at, note: "Precios obtenidos del proveedor y sujetos a disponibilidad. Verifica el total antes de comprar.",
+      items: deals.map(deal => ({ offer: deal.title, price: `${deal.price_eur} €`, source: deal.source, nearby_departure: deal.near_home ? "Sí" : "No confirmado", new: deal.new ? "Nueva" : "Ya observada", source_url: deal.source_url, google_flights: deal.verification_url })),
+      generated_at: feed.generated_at, note: "Radar gratuito de ofertas públicas. El precio puede cambiar; verifícalo antes de comprar.",
     });
   }
   if (agentId === "brasa") {
