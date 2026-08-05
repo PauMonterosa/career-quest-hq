@@ -1,22 +1,16 @@
 {
-  "generated_at": "2026-08-04T07:49:55.710707+00:00",
+  "generated_at": "2026-08-05T07:58:08.905501+00:00",
   "summary": {
     "targets": 8,
     "verified": 8,
     "discoveries": 24,
-    "changes": 3
+    "changes": 2
   },
   "changes": [
     {
       "agent": "atlas",
       "entity": "i-MESC",
       "url": "https://i-mesc.eu/",
-      "message": "La página oficial cambió desde la última revisión."
-    },
-    {
-      "agent": "atlas",
-      "entity": "KU Leuven Nanoscience",
-      "url": "https://onderwijsaanbod.kuleuven.be/opleidingen/e/SC_58449463/diploma_omschrijving",
       "message": "La página oficial cambió desde la última revisión."
     },
     {
@@ -625,7 +619,7 @@
           "anagement Organic Solar Cells Optoelectronics of group-IV semiconductor nanostructures Publications People Equipment Projects News In the Press People All Researchers Post-Docs PhD Students Technicians and project managers Afroditi Koutsogianni PhD Students Agustín Mihi Researchers Ale"
         ]
       },
-      "content_hash": "b8d40ead6ac8b3ab7aebf58c4d52b9e4ed7618c927ef1edc8aa3260a7b074b2b"
+      "content_hash": "a78b5a31b8b1c36df40c902e5fe5574de987b5709cdf76cb9667599d81c32e70"
     },
     {
       "agent": "nova",
@@ -648,7 +642,7 @@
           "ncluding thermal, mechanical and biological aspects. Not only allows this to solve urgent problems (contact resistance), it also enables completely new (switchable, reconfigurable) devices. The topic is inspired by a combination of scientific curiosity and a strong feeling of practical"
         ]
       },
-      "content_hash": "acd5229411f31e6d3e7c8959d7a6c09791bf36cf6f6ebddc664c8cc4d8eb8316"
+      "content_hash": "9c66d02f77fa5ba97a3b2344f0c50814f5f32a2e86de36428f59d61072c2cfa8"
     },
     {
       "agent": "nova",
@@ -667,7 +661,7 @@
           "anagement Organic Solar Cells Optoelectronics of group-IV semiconductor nanostructures Publications People Equipment Projects News In the Press Publications Cargando publicaciones Nanopto..."
         ]
       },
-      "content_hash": "47291af705949b5603dda564f4cffaf8a10d7072f95fd83f05dbfdaeedd05896"
+      "content_hash": "b25f8b8a87f648d35aab9fae6d212b584bc05ea57a15fbcc6db9173e9f8baf6f"
     },
     {
       "agent": "nova",
@@ -729,7 +723,7 @@
           "Our Partners The course Overview Consortium & Universities Curriculum Mobility scheme Fees The Team Professors Administrative Associated partners (research centers and industry) Students Resources Class #21 2025-2027 (32 students) Class #20 2024-2026 (31 students) Class #19 2023-2025 (17"
         ]
       },
-      "content_hash": "2470778a8f3a2ff30c89125c5684631fb3d64ee19fec2ffe5beb09d41ff136bc"
+      "content_hash": "7a4f403ca20cdcbbe686e0173599b13ce25073a13ce1915ea5872a68a8b99f25"
     },
     {
       "agent": "atlas",
@@ -896,7 +890,7 @@
           "anagement Organic Solar Cells Optoelectronics of group-IV semiconductor nanostructures Publications People Equipment Projects News In the Press Organic Solar Cells We aim at producing strong contributions towards the development of cost-efective, low energy pay back time photovoltaics"
         ]
       },
-      "content_hash": "ee799884615082eabba485dbad23e311ddf19d16d11f2b05a5e5816233a4b49c"
+      "content_hash": "3e93f9e371473a86d0e1a77adbb79303fbbf24859e915a48021ee245ba3b00e0"
     },
     {
       "agent": "nova",
