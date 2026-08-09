@@ -1,22 +1,16 @@
 {
-  "generated_at": "2026-08-08T05:59:53.554582+00:00",
+  "generated_at": "2026-08-09T06:01:05.283487+00:00",
   "summary": {
     "targets": 8,
     "verified": 8,
     "discoveries": 24,
-    "changes": 3
+    "changes": 2
   },
   "changes": [
     {
       "agent": "atlas",
       "entity": "i-MESC",
       "url": "https://i-mesc.eu/",
-      "message": "La página oficial cambió desde la última revisión."
-    },
-    {
-      "agent": "atlas",
-      "entity": "KU Leuven Nanoscience",
-      "url": "https://onderwijsaanbod.kuleuven.be/opleidingen/e/SC_58449463/diploma_omschrijving",
       "message": "La página oficial cambió desde la última revisión."
     },
     {
@@ -625,7 +619,7 @@
           "anagement Organic Solar Cells Optoelectronics of group-IV semiconductor nanostructures Publications People Equipment Projects News In the Press People All Researchers Post-Docs PhD Students Technicians and project managers Afroditi Koutsogianni PhD Students Agustín Mihi Researchers Ale"
         ]
       },
-      "content_hash": "229398ed58a1415915fc6e0ce0245173ede1a46499a019e4901f809906b2b14c"
+      "content_hash": "c6463ab8084622f42e370b0b9391213db6a19379f2e4aac84dd7529542d07cea"
     },
     {
       "agent": "nova",
@@ -648,7 +642,7 @@
           "ncluding thermal, mechanical and biological aspects. Not only allows this to solve urgent problems (contact resistance), it also enables completely new (switchable, reconfigurable) devices. The topic is inspired by a combination of scientific curiosity and a strong feeling of practical"
         ]
       },
-      "content_hash": "a4ea2d71b59804a3308d42bc94aa79a01454f9dceea75de359e352d9b902063b"
+      "content_hash": "fde697a261346c3d38c34da8ba2f926ae6335b27419e3054cbddbb52797f5661"
     },
     {
       "agent": "nova",
@@ -667,7 +661,7 @@
           "anagement Organic Solar Cells Optoelectronics of group-IV semiconductor nanostructures Publications People Equipment Projects News In the Press Publications Cargando publicaciones Nanopto..."
         ]
       },
-      "content_hash": "a6f16371d7d5be9f0a942aa976f59d43bf66049d4374f59b2625cc7966a5b6bb"
+      "content_hash": "b437fb6d34aa9222312f067faec941152050c656756f1610ede118a0b658bc49"
     },
     {
       "agent": "nova",
@@ -715,7 +709,7 @@
         ],
         "fees_funding": [
           "der au contenu menu mobile The course Overview Consortium & Universities Curriculum Mobility scheme Fees The Team Professors Administrative Associated partners (research centers and industry) Students Resources Class #21 2025-2027 (32 students) Class #20 2024-2026 (31 students) Clas",
-          "national More Our Partners The course Overview Consortium & Universities Curriculum Mobility scheme Fees The Team Professors Administrative Associated partners (research centers and industry) Students Resources Class #21 2025-2027 (32 students) Class #20 2024-2026 (31 students) Clas",
+          "Spain More Our Partners The course Overview Consortium & Universities Curriculum Mobility scheme Fees The Team Professors Administrative Associated partners (research centers and industry) Students Resources Class #21 2025-2027 (32 students) Class #20 2024-2026 (31 students) Clas",
           "s#22 are now closed. Apply The course Overview Consortium & Universities Curriculum Mobility scheme Fees The Team Professors Administrative Associated partners (research centers and industry) Students Resources Class #21 2025-2027 (32 students) Class #20 2024-2026 (31 students) Clas"
         ],
         "research": [
@@ -729,7 +723,7 @@
           "Our Partners The course Overview Consortium & Universities Curriculum Mobility scheme Fees The Team Professors Administrative Associated partners (research centers and industry) Students Resources Class #21 2025-2027 (32 students) Class #20 2024-2026 (31 students) Class #19 2023-2025 (17"
         ]
       },
-      "content_hash": "78bbc9a5a1a71146da8f9caf50aac7246ee831ba37de6e7d8da31a1d70166c73"
+      "content_hash": "a8d03b226263e3e927e65402558cbc3f891363932e32718180c9769365028d71"
     },
     {
       "agent": "atlas",
@@ -896,7 +890,7 @@
           "anagement Organic Solar Cells Optoelectronics of group-IV semiconductor nanostructures Publications People Equipment Projects News In the Press Organic Solar Cells We aim at producing strong contributions towards the development of cost-efective, low energy pay back time photovoltaics"
         ]
       },
-      "content_hash": "5ea567f625e431c3586a5439046b518ed22eb22c09ebe87335c24109f447280a"
+      "content_hash": "66316f5c7086f62cd56726c6c6ebe011791e1a026c4f6d1c7a3884e6d25452df"
     },
     {
       "agent": "nova",
