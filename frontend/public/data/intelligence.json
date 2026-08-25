@@ -1,16 +1,28 @@
 {
-  "generated_at": "2026-08-24T05:55:58.285581+00:00",
+  "generated_at": "2026-08-25T05:50:03.694982+00:00",
   "summary": {
     "targets": 8,
     "verified": 8,
     "discoveries": 24,
-    "changes": 2
+    "changes": 4
   },
   "changes": [
     {
       "agent": "atlas",
       "entity": "i-MESC",
       "url": "https://i-mesc.eu/",
+      "message": "La página oficial cambió desde la última revisión."
+    },
+    {
+      "agent": "atlas",
+      "entity": "KU Leuven Nanoscience",
+      "url": "https://onderwijsaanbod.kuleuven.be/opleidingen/e/SC_58449463/diploma_omschrijving",
+      "message": "La página oficial cambió desde la última revisión."
+    },
+    {
+      "agent": "atlas",
+      "entity": "Politecnico di Milano Materials",
+      "url": "https://www.polimi.it/en/education/laurea-magistrale-programmes/programme-detail/materials-engineering-and-nanotechnology",
       "message": "La página oficial cambió desde la última revisión."
     },
     {
@@ -188,7 +200,7 @@
           "national dimension Learning development Welfare Sustainability and inclusion Hospitality and living Professors Tenure-track researchers Visiting professors Call for expression of interest Other resources Integrity and beyond Intranet di Ateneo Normativa di Ateneo Staff Sustainability and"
         ]
       },
-      "content_hash": "c51f8c005f09036717e523f5997d44ce6fcfbf55c4008db54faef7bff472d7cf"
+      "content_hash": "123993327e7802d9735387f6edf5ef2189aa80425d72b0428daa2296b8bb2f6c"
     },
     {
       "agent": "atlas",
@@ -223,7 +235,7 @@
           "national dimension Learning development Welfare Sustainability and inclusion Hospitality and living Professors Tenure-track researchers Visiting professors Call for expression of interest Other resources Integrity and beyond Intranet di Ateneo Normativa di Ateneo Staff Sustainability and"
         ]
       },
-      "content_hash": "6a9e3d5c595b7708baba4316b00662652eb25f9ca3e6d98c23274c95de373933"
+      "content_hash": "c04531fba432f18e39b3bed045bba568e2bd744c6094441b347f349589888ec9"
     },
     {
       "agent": "atlas",
@@ -258,7 +270,7 @@
           "national dimension Learning development Welfare Sustainability and inclusion Hospitality and living Professors Tenure-track researchers Visiting professors Call for expression of interest Other resources Integrity and beyond Intranet di Ateneo Normativa di Ateneo Staff Sustainability and"
         ]
       },
-      "content_hash": "0595f87a486613b776c2de9c4fc1499030c6cd5ae07d1ba55f100327ebb38628"
+      "content_hash": "d20658a7fa1ac1b26767262f9be201b5a5a391640c5c91443dd555332fe79461"
     },
     {
       "agent": "atlas",
@@ -293,7 +305,7 @@
           "national dimension Learning development Welfare Sustainability and inclusion Hospitality and living Professors Tenure-track researchers Visiting professors Call for expression of interest Other resources Integrity and beyond Intranet di Ateneo Normativa di Ateneo Staff Sustainability and"
         ]
       },
-      "content_hash": "4f8fe1e5d6d6a033da166bfe2726f54bf68b6ec98cd3668b30388fd5275a3817"
+      "content_hash": "39e9ee51b80114e95cfc8cfeaa113083e50f85b063ba945c2d4b573ea7c93a3e"
     },
     {
       "agent": "atlas",
@@ -619,7 +631,7 @@
           "anagement Organic Solar Cells Optoelectronics of group-IV semiconductor nanostructures Publications People Equipment Projects News In the Press People All Researchers Post-Docs PhD Students Technicians and project managers Afroditi Koutsogianni PhD Students Agustín Mihi Researchers Ale"
         ]
       },
-      "content_hash": "e735754b1bab4190b7492ba9bdabfb8b3d678e1aaf1fb8de77e913d3e6d63f39"
+      "content_hash": "f13d5c6c26cd0a100a456bb3dfbfe04af23899b16cc69ec238ca9a95d450c1fa"
     },
     {
       "agent": "nova",
@@ -642,7 +654,7 @@
           "ncluding thermal, mechanical and biological aspects. Not only allows this to solve urgent problems (contact resistance), it also enables completely new (switchable, reconfigurable) devices. The topic is inspired by a combination of scientific curiosity and a strong feeling of practical"
         ]
       },
-      "content_hash": "ad424d7b0fbd58bcb654983daa848c4855ffb46fc21e1f4879419b2f2745ae8e"
+      "content_hash": "317f4f65f4f5ce898eddb7717ea7a840217b0c5b1aac7fcbdf01ac32f5f7e8a9"
     },
     {
       "agent": "nova",
@@ -661,7 +673,7 @@
           "anagement Organic Solar Cells Optoelectronics of group-IV semiconductor nanostructures Publications People Equipment Projects News In the Press Publications Cargando publicaciones Nanopto..."
         ]
       },
-      "content_hash": "af94f899d7ce035940346f857dc9fa15ac5ef2cedf7fc11920ba3df45c6d3531"
+      "content_hash": "eed5d73e48f367882e20c7d5ffdce112f9213371c69053d2a341b21473b736e1"
     },
     {
       "agent": "nova",
@@ -723,7 +735,7 @@
           "Our Partners The course Overview Consortium & Universities Curriculum Mobility scheme Fees The Team Professors Administrative Associated partners (research centers and industry) Students Resources Class #21 2025-2027 (32 students) Class #20 2024-2026 (31 students) Class #19 2023-2025 (17"
         ]
       },
-      "content_hash": "4ee6d24db7c0ce3e71d372935359232607214e72169dba26e3e052230463034a"
+      "content_hash": "e540467de596ac62bbe8fac2af43ea5ee5006328942be603a52fb231881c8ae1"
     },
     {
       "agent": "atlas",
@@ -758,7 +770,7 @@
           "Engineering Science website Discover all the programmes of the faculty More on our campus in Leuven Contact Questions about the programme? You can ask about which classes you will take, the subjects you will study, the campus where you will be spending your time and much more. Questions"
         ]
       },
-      "content_hash": "b22b16f9e8ccd8c3aab9afd19822241421ad59d9bb9cf33a1fb06bf1ac6e01a2"
+      "content_hash": "4ace52157c35a40ec30ed1f602b040a325b9a0528f18d0273e0de0c19ee8dc41"
     },
     {
       "agent": "atlas",
@@ -794,7 +806,7 @@
           "national dimension Learning development Welfare Sustainability and inclusion Hospitality and living Professors Tenure-track researchers Visiting professors Call for expression of interest Other resources Integrity and beyond Intranet di Ateneo Normativa di Ateneo Staff Sustainability and"
         ]
       },
-      "content_hash": "d44c077da7cc1ab8ed9ba1ea5c5644fd236343d41999d63d3a66a3c00edd9246"
+      "content_hash": "c3a3b41a1f7fdeb83fc76b6360522aef1a16cbf285a8b317b40ff615e9cbf7ab"
     },
     {
       "agent": "atlas",
@@ -890,7 +902,7 @@
           "anagement Organic Solar Cells Optoelectronics of group-IV semiconductor nanostructures Publications People Equipment Projects News In the Press Organic Solar Cells We aim at producing strong contributions towards the development of cost-efective, low energy pay back time photovoltaics"
         ]
       },
-      "content_hash": "461180d6c33949d55843f8bf9268ee611453d99e8113f34751fd78d4d74fe129"
+      "content_hash": "933ca0f511a09f64423fed6012a401b2fe6456f3c40d38aa2f134692e98c5830"
     },
     {
       "agent": "nova",
