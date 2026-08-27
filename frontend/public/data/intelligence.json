@@ -1,10 +1,10 @@
 {
-  "generated_at": "2026-08-26T05:52:49.781956+00:00",
+  "generated_at": "2026-08-27T16:33:41.375657+00:00",
   "summary": {
     "targets": 8,
     "verified": 8,
     "discoveries": 24,
-    "changes": 3
+    "changes": 4
   },
   "changes": [
     {
@@ -23,6 +23,12 @@
       "agent": "nova",
       "entity": "ICMAB Nanopto",
       "url": "https://nanopto.icmab.es/index.php/research/organic-solar-cells",
+      "message": "La página oficial cambió desde la última revisión."
+    },
+    {
+      "agent": "nova",
+      "entity": "IMB-CNM Research Groups",
+      "url": "https://www.imb-cnm.csic.es/en/research/research-groups",
       "message": "La página oficial cambió desde la última revisión."
     }
   ],
@@ -625,7 +631,7 @@
           "anagement Organic Solar Cells Optoelectronics of group-IV semiconductor nanostructures Publications People Equipment Projects News In the Press People All Researchers Post-Docs PhD Students Technicians and project managers Afroditi Koutsogianni PhD Students Agustín Mihi Researchers Ale"
         ]
       },
-      "content_hash": "e388c8ac4c3b7197a1556d6b8644ad852f61ecbed6a70ae18354e0eea2cdcfed"
+      "content_hash": "1f6e43123a76e3bf507738571b6b7b1f3b0ca48773626dd18724af5c35c59b51"
     },
     {
       "agent": "nova",
@@ -648,7 +654,7 @@
           "ncluding thermal, mechanical and biological aspects. Not only allows this to solve urgent problems (contact resistance), it also enables completely new (switchable, reconfigurable) devices. The topic is inspired by a combination of scientific curiosity and a strong feeling of practical"
         ]
       },
-      "content_hash": "afc02139c426c268bfb5ec5d8c1a32961926f86f9f4401f83218ec247de1f56a"
+      "content_hash": "7b33472a2b8e0bb1eefa7f8cece6324a0fbb4bc33d5874285239da3c3dd62abb"
     },
     {
       "agent": "nova",
@@ -667,7 +673,7 @@
           "anagement Organic Solar Cells Optoelectronics of group-IV semiconductor nanostructures Publications People Equipment Projects News In the Press Publications Cargando publicaciones Nanopto..."
         ]
       },
-      "content_hash": "7c05dd6e46abe5f19a8c7272f5d8b02fb41c29ca74e4508af648974c866f7cb6"
+      "content_hash": "ffdf219ca85e33d1f5ca32620122b55e1481d911fe6b1914f60cf4ac96761a38"
     },
     {
       "agent": "nova",
@@ -691,7 +697,7 @@
           "» About the center Research Clean Room Laboratories Technology Transfer News & Outreach Highlights Contact Talent Search Contracting profile Legal Advice © Copyright 2026. IMB-CNM"
         ]
       },
-      "content_hash": "f4ff2d1d298df61cc411a2ee2d208c86410913a1e7e9b8f210789474b0dfb8a1"
+      "content_hash": "104ed9f5d655b2f3be361e0ee8e48f002c7e4dbaf726b4b973c05974f0446010"
     }
   ],
   "sources": [
@@ -715,7 +721,7 @@
         ],
         "fees_funding": [
           "der au contenu menu mobile The course Overview Consortium & Universities Curriculum Mobility scheme Fees The Team Professors Administrative Associated partners (research centers and industry) Students Resources Class #21 2025-2027 (32 students) Class #20 2024-2026 (31 students) Clas",
-          "Slovenia More Our Partners The course Overview Consortium & Universities Curriculum Mobility scheme Fees The Team Professors Administrative Associated partners (research centers and industry) Students Resources Class #21 2025-2027 (32 students) Class #20 2024-2026 (31 students) Clas",
+          "Spain More Our Partners The course Overview Consortium & Universities Curriculum Mobility scheme Fees The Team Professors Administrative Associated partners (research centers and industry) Students Resources Class #21 2025-2027 (32 students) Class #20 2024-2026 (31 students) Clas",
           "s#22 are now closed. Apply The course Overview Consortium & Universities Curriculum Mobility scheme Fees The Team Professors Administrative Associated partners (research centers and industry) Students Resources Class #21 2025-2027 (32 students) Class #20 2024-2026 (31 students) Clas"
         ],
         "research": [
@@ -729,7 +735,7 @@
           "Our Partners The course Overview Consortium & Universities Curriculum Mobility scheme Fees The Team Professors Administrative Associated partners (research centers and industry) Students Resources Class #21 2025-2027 (32 students) Class #20 2024-2026 (31 students) Class #19 2023-2025 (17"
         ]
       },
-      "content_hash": "1db4b08d40703b244acd90082e87433a30331c960bc0524c53e81a67c024e79e"
+      "content_hash": "4d6aa23c1570b749f6932530bd5fbeb633e86d4cd81cef7323fd3c208157e8a8"
     },
     {
       "agent": "atlas",
@@ -800,7 +806,7 @@
           "national dimension Learning development Welfare Sustainability and inclusion Hospitality and living Professors Tenure-track researchers Visiting professors Call for expression of interest Other resources Integrity and beyond Intranet di Ateneo Normativa di Ateneo Staff Sustainability and"
         ]
       },
-      "content_hash": "398a2629a0dd8bec6fb9ded411c74b6ed7471c6d3bf5b4392282f8d8ded37ba9"
+      "content_hash": "c3a3b41a1f7fdeb83fc76b6360522aef1a16cbf285a8b317b40ff615e9cbf7ab"
     },
     {
       "agent": "atlas",
@@ -896,7 +902,7 @@
           "anagement Organic Solar Cells Optoelectronics of group-IV semiconductor nanostructures Publications People Equipment Projects News In the Press Organic Solar Cells We aim at producing strong contributions towards the development of cost-efective, low energy pay back time photovoltaics"
         ]
       },
-      "content_hash": "a4e9645b16862b270df0ea383ad3ec2ffbe7422bc57145e1b258edc662275a64"
+      "content_hash": "f362a5278cb65373bb1884ceb71cb1a76aa91a34ed89296c53e0f675590d3358"
     },
     {
       "agent": "nova",
@@ -916,7 +922,7 @@
           "B. About the center Research Clean Room Laboratories Technology Transfer News & Outreach Highlights Contact Talent Search Contracting profile Legal Advice © Copyright 2026. IMB-CNM"
         ]
       },
-      "content_hash": "3cd214fb435516d4d097ff74f20542dc8d1bbcc742600b86728eeb993b797a0f"
+      "content_hash": "eadf2e95a34c8c974e3d2e1404f091886d4d1cb75243730b5614e0c95784d890"
     }
   ]
 }
