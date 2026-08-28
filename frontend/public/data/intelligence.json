@@ -1,10 +1,10 @@
 {
-  "generated_at": "2026-08-27T16:33:41.375657+00:00",
+  "generated_at": "2026-08-28T17:28:28.839942+00:00",
   "summary": {
     "targets": 8,
     "verified": 8,
     "discoveries": 24,
-    "changes": 4
+    "changes": 2
   },
   "changes": [
     {
@@ -14,21 +14,9 @@
       "message": "La página oficial cambió desde la última revisión."
     },
     {
-      "agent": "atlas",
-      "entity": "Politecnico di Milano Materials",
-      "url": "https://www.polimi.it/en/education/laurea-magistrale-programmes/programme-detail/materials-engineering-and-nanotechnology",
-      "message": "La página oficial cambió desde la última revisión."
-    },
-    {
       "agent": "nova",
       "entity": "ICMAB Nanopto",
       "url": "https://nanopto.icmab.es/index.php/research/organic-solar-cells",
-      "message": "La página oficial cambió desde la última revisión."
-    },
-    {
-      "agent": "nova",
-      "entity": "IMB-CNM Research Groups",
-      "url": "https://www.imb-cnm.csic.es/en/research/research-groups",
       "message": "La página oficial cambió desde la última revisión."
     }
   ],
@@ -64,7 +52,7 @@
           "losed. Apply The course Overview Consortium & Universities Curriculum Mobility scheme Fees The Team Professors Administrative Associated partners (research centers and industry) Students Resources Class #21 2025-2027 (32 students) Class #20 2024-2026 (31 students) Class #19 2023-2025 (17"
         ]
       },
-      "content_hash": "2b73775a56390fbe2c3ecdddd080b714cd2d93cad1cf3b05ed7e7bfb8edf9cfc"
+      "content_hash": "968d3cc423ea7c087b3a3f677e7896eb4951abc9fffb3e76d61762b3d36d216f"
     },
     {
       "agent": "atlas",
@@ -132,7 +120,7 @@
           "losed. Apply The course Overview Consortium & Universities Curriculum Mobility scheme Fees The Team Professors Administrative Associated partners (research centers and industry) Students Resources Class #21 2025-2027 (32 students) Class #20 2024-2026 (31 students) Class #19 2023-2025 (17"
         ]
       },
-      "content_hash": "1d191b6dd64cc02e05c6fe016128bbb27a475a823a3af07a8ea6e424c9a474ac"
+      "content_hash": "1ccc492f330570b00966e01b2489183969682ff884e70ee6802942dbd1bb4216"
     },
     {
       "agent": "atlas",
@@ -631,7 +619,7 @@
           "anagement Organic Solar Cells Optoelectronics of group-IV semiconductor nanostructures Publications People Equipment Projects News In the Press People All Researchers Post-Docs PhD Students Technicians and project managers Afroditi Koutsogianni PhD Students Agustín Mihi Researchers Ale"
         ]
       },
-      "content_hash": "1f6e43123a76e3bf507738571b6b7b1f3b0ca48773626dd18724af5c35c59b51"
+      "content_hash": "63726c103ec832e02b796e5da75f2da863686bd206d3722f6dd507e03a95eb73"
     },
     {
       "agent": "nova",
@@ -654,7 +642,7 @@
           "ncluding thermal, mechanical and biological aspects. Not only allows this to solve urgent problems (contact resistance), it also enables completely new (switchable, reconfigurable) devices. The topic is inspired by a combination of scientific curiosity and a strong feeling of practical"
         ]
       },
-      "content_hash": "7b33472a2b8e0bb1eefa7f8cece6324a0fbb4bc33d5874285239da3c3dd62abb"
+      "content_hash": "4c3f97f5c3a2d5bf888f5b17d3419889f8c1ffeb738e7affd2fe6e34aadb3590"
     },
     {
       "agent": "nova",
@@ -673,7 +661,7 @@
           "anagement Organic Solar Cells Optoelectronics of group-IV semiconductor nanostructures Publications People Equipment Projects News In the Press Publications Cargando publicaciones Nanopto..."
         ]
       },
-      "content_hash": "ffdf219ca85e33d1f5ca32620122b55e1481d911fe6b1914f60cf4ac96761a38"
+      "content_hash": "e97bab18ed55b4f0ba05416bb662885f002a6225e8c321f163ef4fe5e292e402"
     },
     {
       "agent": "nova",
@@ -721,7 +709,7 @@
         ],
         "fees_funding": [
           "der au contenu menu mobile The course Overview Consortium & Universities Curriculum Mobility scheme Fees The Team Professors Administrative Associated partners (research centers and industry) Students Resources Class #21 2025-2027 (32 students) Class #20 2024-2026 (31 students) Clas",
-          "Spain More Our Partners The course Overview Consortium & Universities Curriculum Mobility scheme Fees The Team Professors Administrative Associated partners (research centers and industry) Students Resources Class #21 2025-2027 (32 students) Class #20 2024-2026 (31 students) Clas",
+          "Slovenia More Our Partners The course Overview Consortium & Universities Curriculum Mobility scheme Fees The Team Professors Administrative Associated partners (research centers and industry) Students Resources Class #21 2025-2027 (32 students) Class #20 2024-2026 (31 students) Clas",
           "s#22 are now closed. Apply The course Overview Consortium & Universities Curriculum Mobility scheme Fees The Team Professors Administrative Associated partners (research centers and industry) Students Resources Class #21 2025-2027 (32 students) Class #20 2024-2026 (31 students) Clas"
         ],
         "research": [
@@ -735,7 +723,7 @@
           "Our Partners The course Overview Consortium & Universities Curriculum Mobility scheme Fees The Team Professors Administrative Associated partners (research centers and industry) Students Resources Class #21 2025-2027 (32 students) Class #20 2024-2026 (31 students) Class #19 2023-2025 (17"
         ]
       },
-      "content_hash": "4d6aa23c1570b749f6932530bd5fbeb633e86d4cd81cef7323fd3c208157e8a8"
+      "content_hash": "69aae6c34311025fa122e14998786509ed257cceafe10bf8daced6f302a36342"
     },
     {
       "agent": "atlas",
@@ -902,7 +890,7 @@
           "anagement Organic Solar Cells Optoelectronics of group-IV semiconductor nanostructures Publications People Equipment Projects News In the Press Organic Solar Cells We aim at producing strong contributions towards the development of cost-efective, low energy pay back time photovoltaics"
         ]
       },
-      "content_hash": "f362a5278cb65373bb1884ceb71cb1a76aa91a34ed89296c53e0f675590d3358"
+      "content_hash": "65ddb7310e43f2d097acde9f69eb61a0067ccfd646829c77b980ed81b807bf1e"
     },
     {
       "agent": "nova",
