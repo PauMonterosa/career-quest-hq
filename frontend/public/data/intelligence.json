@@ -1,10 +1,10 @@
 {
-  "generated_at": "2026-09-03T09:55:13.264875+00:00",
+  "generated_at": "2026-09-04T09:43:03.823103+00:00",
   "summary": {
     "targets": 8,
     "verified": 8,
     "discoveries": 24,
-    "changes": 2
+    "changes": 5
   },
   "changes": [
     {
@@ -14,9 +14,27 @@
       "message": "La página oficial cambió desde la última revisión."
     },
     {
+      "agent": "atlas",
+      "entity": "KU Leuven Nanoscience",
+      "url": "https://onderwijsaanbod.kuleuven.be/opleidingen/e/SC_58449463/diploma_omschrijving",
+      "message": "La página oficial cambió desde la última revisión."
+    },
+    {
+      "agent": "atlas",
+      "entity": "Politecnico di Milano Materials",
+      "url": "https://www.polimi.it/en/education/laurea-magistrale-programmes/programme-detail/materials-engineering-and-nanotechnology",
+      "message": "La página oficial cambió desde la última revisión."
+    },
+    {
       "agent": "nova",
       "entity": "ICMAB Nanopto",
       "url": "https://nanopto.icmab.es/index.php/research/organic-solar-cells",
+      "message": "La página oficial cambió desde la última revisión."
+    },
+    {
+      "agent": "nova",
+      "entity": "IMB-CNM Research Groups",
+      "url": "https://www.imb-cnm.csic.es/en/research/research-groups",
       "message": "La página oficial cambió desde la última revisión."
     }
   ],
@@ -164,12 +182,12 @@
       "signals": {
         "deadlines": [
           "and OFA Didactic Activities and Degree Examination Language requirements Special cases Calendar and deadlines Certificates and forms Contacts Student Ombuds Office Associations and cultural activities Opportunities International Mobility Italian National Erasmus Mobility More resources A",
-          ", scholarships and financial aid Student contribution Tuition fees Calculate the cost and check the deadlines to be up to date with your enrolment Explore Extraordinary Grants Benefits for students who are in a difficult situation Explore Scholarships and graduation awards University Fin",
-          "Passion in action Moocs - Polimi Open Knowledge Towards your future career Language courses How to apply More Other resources Schools WeBeep Polimi Learning Innovation Libreria Zero Degree programme Search a Lecturer Search a course Documents about didactic PhD Explore our offer of P"
+          "and OFA Didactic Activities and Degree Examination Language requirements Special cases Calendar and deadlines Certificates and forms Contacts Student Ombuds Office Associations and cultural activities Opportunità International Mobility Italian National Erasmus Mobility Altre risorse Admi",
+          ", scholarships and financial aid Student contribution Tuition fees Calculate the cost and check the deadlines to be up to date with your enrolment Explore Extraordinary Grants Benefits for students who are in a difficult situation Explore Scholarships and graduation awards University Fin"
         ],
         "admission": [
           "al activities Opportunities International Mobility Italian National Erasmus Mobility More resources Admission to laurea magistrale Health service and medical emergency Explore information for Alumni Learn more Alumni Community The initiatives Contacts and FAQs Visit Alumni website Go Expl",
-          "al activities Opportunities International Mobility Italian National Erasmus Mobility More resources Admission to laurea magistrale Health service and medical emergency Alumni Alumni Community The initiatives Contacts and FAQs Visit Alumni website Go Faculty and Researchers Scientific rigo",
+          "tural activities Opportunità International Mobility Italian National Erasmus Mobility Altre risorse Admission to laurea magistrale Esami di Stato Health service and medical emergency Alumni Alumni Community The initiatives Contacts and FAQs Vai a Sito Alumni Vai Faculty and Researchers Sc",
           "holarships and financial aid Study Plan and OFA Didactic Activities and Degree Examination Language requirements Special cases Calendar and deadlines Certificates and forms Contacts Student Ombuds Office Associations and cultural activities Opportunities International Mobility Italian Natio"
         ],
         "fees_funding": [
@@ -185,10 +203,10 @@
         "people_contact": [
           "national dimension Learning development Welfare Sustainability and inclusion Hospitality and living Professors Tenure-track researchers Visiting professors Call for expression of interest Other resources Integrity and beyond Intranet di Ateneo Normativa di Ateneo Explore information for S",
           "re Sustainability and inclusion Hospitality and living Professors Tenure-track researchers Visiting professors Call for expression of interest Other resources Integrity and beyond Intranet di Ateneo Normativa di Ateneo Explore information for Staff Learn more Sustainability and inclusion",
-          "national dimension Learning development Welfare Sustainability and inclusion Hospitality and living Professors Tenure-track researchers Visiting professors Call for expression of interest Other resources Integrity and beyond Intranet di Ateneo Normativa di Ateneo Staff Sustainability and"
+          "national dimension Learning development Welfare Sustainability and inclusion Hospitality and living Professors Tenure-track researchers Visiting professors Call for expression of interest Altre risorse Integrity and beyond Intranet di Ateneo Normativa di Ateneo Staff Sustainability and in"
         ]
       },
-      "content_hash": "123993327e7802d9735387f6edf5ef2189aa80425d72b0428daa2296b8bb2f6c"
+      "content_hash": "e3b8f931a9aab303c5650bdec215e45f1392b94e4445338778e4909f2f7814c8"
     },
     {
       "agent": "atlas",
@@ -199,12 +217,12 @@
       "signals": {
         "deadlines": [
           "and OFA Didactic Activities and Degree Examination Language requirements Special cases Calendar and deadlines Certificates and forms Contacts Student Ombuds Office Associations and cultural activities Opportunities International Mobility Italian National Erasmus Mobility More resources A",
-          "Passion in action Moocs - Polimi Open Knowledge Towards your future career Language courses How to apply More Other resources Schools WeBeep Polimi Learning Innovation Libreria Zero Degree programme Search a Lecturer Search a course Documents about didactic PhD Explore our offer of P",
-          "co di Milano Programmes Tools for your study choice Student life Toward the world of careers How to apply Costs and scholarships Transfers and other specific cases Contacts Apply to Polimi as Exchange student (incoming) Explore Services and opportunities Webinars about the tests of En"
+          "and OFA Didactic Activities and Degree Examination Language requirements Special cases Calendar and deadlines Certificates and forms Contacts Student Ombuds Office Associations and cultural activities Opportunità International Mobility Italian National Erasmus Mobility Altre risorse Admi",
+          "Passion in action Moocs - Polimi Open Knowledge Towards your future career Language courses How to apply More Other resources Schools WeBeep Polimi Learning Innovation Libreria Zero Degree programme Search a Lecturer Search a course Documents about didactic PhD Explore our offer of P"
         ],
         "admission": [
           "al activities Opportunities International Mobility Italian National Erasmus Mobility More resources Admission to laurea magistrale Health service and medical emergency Explore information for Alumni Learn more Alumni Community The initiatives Contacts and FAQs Visit Alumni website Go Expl",
-          "al activities Opportunities International Mobility Italian National Erasmus Mobility More resources Admission to laurea magistrale Health service and medical emergency Alumni Alumni Community The initiatives Contacts and FAQs Visit Alumni website Go Faculty and Researchers Scientific rigo",
+          "tural activities Opportunità International Mobility Italian National Erasmus Mobility Altre risorse Admission to laurea magistrale Esami di Stato Health service and medical emergency Alumni Alumni Community The initiatives Contacts and FAQs Vai a Sito Alumni Vai Faculty and Researchers Sc",
           "efits to reduce the cost of studies. University fees Fees for Degree programmes University fees for admission to Laurea (equivalent to BSc) programmes, to Laurea Magistrale (equivalent to MSc) programmes and to Single-cycle programmes More Fees for Curricular integrations and single cours"
         ],
         "fees_funding": [
@@ -220,10 +238,10 @@
         "people_contact": [
           "national dimension Learning development Welfare Sustainability and inclusion Hospitality and living Professors Tenure-track researchers Visiting professors Call for expression of interest Other resources Integrity and beyond Intranet di Ateneo Normativa di Ateneo Explore information for S",
           "re Sustainability and inclusion Hospitality and living Professors Tenure-track researchers Visiting professors Call for expression of interest Other resources Integrity and beyond Intranet di Ateneo Normativa di Ateneo Explore information for Staff Learn more Sustainability and inclusion",
-          "national dimension Learning development Welfare Sustainability and inclusion Hospitality and living Professors Tenure-track researchers Visiting professors Call for expression of interest Other resources Integrity and beyond Intranet di Ateneo Normativa di Ateneo Staff Sustainability and"
+          "national dimension Learning development Welfare Sustainability and inclusion Hospitality and living Professors Tenure-track researchers Visiting professors Call for expression of interest Altre risorse Integrity and beyond Intranet di Ateneo Normativa di Ateneo Staff Sustainability and in"
         ]
       },
-      "content_hash": "c04531fba432f18e39b3bed045bba568e2bd744c6094441b347f349589888ec9"
+      "content_hash": "1a52349cdc4c2737f11177237b6e48a6eae7ee2346aa2d6c3f4c9bff885721ed"
     },
     {
       "agent": "atlas",
@@ -234,12 +252,12 @@
       "signals": {
         "deadlines": [
           "and OFA Didactic Activities and Degree Examination Language requirements Special cases Calendar and deadlines Certificates and forms Contacts Student Ombuds Office Associations and cultural activities Opportunities International Mobility Italian National Erasmus Mobility More resources A",
-          "Passion in action Moocs - Polimi Open Knowledge Towards your future career Language courses How to apply More Other resources Schools WeBeep Polimi Learning Innovation Libreria Zero Degree programme Search a Lecturer Search a course Documents about didactic PhD Explore our offer of P",
-          "co di Milano Programmes Tools for your study choice Student life Toward the world of careers How to apply Costs and scholarships Transfers and other specific cases Contacts Apply to Polimi as Exchange student (incoming) Explore Services and opportunities Webinars about the tests of En"
+          "and OFA Didactic Activities and Degree Examination Language requirements Special cases Calendar and deadlines Certificates and forms Contacts Student Ombuds Office Associations and cultural activities Opportunità International Mobility Italian National Erasmus Mobility Altre risorse Admi",
+          "Passion in action Moocs - Polimi Open Knowledge Towards your future career Language courses How to apply More Other resources Schools WeBeep Polimi Learning Innovation Libreria Zero Degree programme Search a Lecturer Search a course Documents about didactic PhD Explore our offer of P"
         ],
         "admission": [
           "al activities Opportunities International Mobility Italian National Erasmus Mobility More resources Admission to laurea magistrale Health service and medical emergency Explore information for Alumni Learn more Alumni Community The initiatives Contacts and FAQs Visit Alumni website Go Expl",
-          "al activities Opportunities International Mobility Italian National Erasmus Mobility More resources Admission to laurea magistrale Health service and medical emergency Alumni Alumni Community The initiatives Contacts and FAQs Visit Alumni website Go Faculty and Researchers Scientific rigo",
+          "tural activities Opportunità International Mobility Italian National Erasmus Mobility Altre risorse Admission to laurea magistrale Esami di Stato Health service and medical emergency Alumni Alumni Community The initiatives Contacts and FAQs Vai a Sito Alumni Vai Faculty and Researchers Sc",
           "nature of the Dichiarazione Sostitutiva Unica (DSU) in the Online Services , in the reserved area ( Admission applications > ISEE entry for enrolment ) Timing: enter the date at least 10 working days before the enrolment date, so that you do not have to pay the first instalment. This adva"
         ],
         "fees_funding": [
@@ -255,10 +273,10 @@
         "people_contact": [
           "national dimension Learning development Welfare Sustainability and inclusion Hospitality and living Professors Tenure-track researchers Visiting professors Call for expression of interest Other resources Integrity and beyond Intranet di Ateneo Normativa di Ateneo Explore information for S",
           "re Sustainability and inclusion Hospitality and living Professors Tenure-track researchers Visiting professors Call for expression of interest Other resources Integrity and beyond Intranet di Ateneo Normativa di Ateneo Explore information for Staff Learn more Sustainability and inclusion",
-          "national dimension Learning development Welfare Sustainability and inclusion Hospitality and living Professors Tenure-track researchers Visiting professors Call for expression of interest Other resources Integrity and beyond Intranet di Ateneo Normativa di Ateneo Staff Sustainability and"
+          "national dimension Learning development Welfare Sustainability and inclusion Hospitality and living Professors Tenure-track researchers Visiting professors Call for expression of interest Altre risorse Integrity and beyond Intranet di Ateneo Normativa di Ateneo Staff Sustainability and in"
         ]
       },
-      "content_hash": "d20658a7fa1ac1b26767262f9be201b5a5a391640c5c91443dd555332fe79461"
+      "content_hash": "fc40d6e1a6390d6572c5a02047285359a08b4eb08d9e3425ed7696fbf1108da1"
     },
     {
       "agent": "atlas",
@@ -270,7 +288,7 @@
         "deadlines": [
           "and OFA Didactic Activities and Degree Examination Language requirements Special cases Calendar and deadlines Certificates and forms Contacts Student Ombuds Office Associations and cultural activities Opportunities International Mobility Italian National Erasmus Mobility More resources A",
           "Passion in action Moocs - Polimi Open Knowledge Towards your future career Language courses How to apply More Other resources Schools WeBeep Polimi Learning Innovation Libreria Zero Degree programme Search a Lecturer Search a course Documents about didactic PhD Explore our offer of P",
-          "co di Milano Programmes Tools for your study choice Student life Toward the world of careers How to apply Costs and scholarships Transfers and other specific cases Contacts Apply to Polimi as Exchange student (incoming) Explore Services and opportunities Webinars about the tests of En"
+          "co di Milano Programmes Tools for your study choice Student life Toward the world of careers How to apply Costs and scholarships Transfers and other specific cases Contacts Apply to Polimi as Exchange student (incoming) Explore Services and opportunities Student accommodation Conventi"
         ],
         "admission": [
           "al activities Opportunities International Mobility Italian National Erasmus Mobility More resources Admission to laurea magistrale Health service and medical emergency Explore information for Alumni Learn more Alumni Community The initiatives Contacts and FAQs Visit Alumni website Go Expl",
@@ -293,7 +311,7 @@
           "national dimension Learning development Welfare Sustainability and inclusion Hospitality and living Professors Tenure-track researchers Visiting professors Call for expression of interest Other resources Integrity and beyond Intranet di Ateneo Normativa di Ateneo Staff Sustainability and"
         ]
       },
-      "content_hash": "39e9ee51b80114e95cfc8cfeaa113083e50f85b063ba945c2d4b573ea7c93a3e"
+      "content_hash": "18f5dbc094074a4fd041b61d86788fdf28fbe986803923e663eabd530bdbdf48"
     },
     {
       "agent": "atlas",
@@ -619,7 +637,7 @@
           "anagement Organic Solar Cells Optoelectronics of group-IV semiconductor nanostructures Publications People Equipment Projects News In the Press People All Researchers Post-Docs PhD Students Technicians and project managers Afroditi Koutsogianni PhD Students Agustín Mihi Researchers Ale"
         ]
       },
-      "content_hash": "f5a6ec9c298b9df2f8ee7237b14585fd49df5eea4789eba864906e9e8dd91c08"
+      "content_hash": "0be25c6cc51e4482c1c5550a894d1679412f1b526e879d92fb379014cace9c87"
     },
     {
       "agent": "nova",
@@ -642,7 +660,7 @@
           "ncluding thermal, mechanical and biological aspects. Not only allows this to solve urgent problems (contact resistance), it also enables completely new (switchable, reconfigurable) devices. The topic is inspired by a combination of scientific curiosity and a strong feeling of practical"
         ]
       },
-      "content_hash": "5919d50276ae4ab5046c6227f371d0ad4332e18b942ea07c9f83b93a33300cd2"
+      "content_hash": "c0653a88c570bf1a27107d49191e454a81118577788fe1f55f5d470f9e47a7b0"
     },
     {
       "agent": "nova",
@@ -661,7 +679,7 @@
           "anagement Organic Solar Cells Optoelectronics of group-IV semiconductor nanostructures Publications People Equipment Projects News In the Press Publications Cargando publicaciones Nanopto..."
         ]
       },
-      "content_hash": "6bca119a9233bb69dfe14418f83136f1205816612a258e51eaad60a8d491e399"
+      "content_hash": "954ea78bd1a3e223d0fcb981ecdde88d7398e255d36999763a6e7db0884605c5"
     },
     {
       "agent": "nova",
@@ -685,7 +703,7 @@
           "» About the center Research Clean Room Laboratories Technology Transfer News & Outreach Highlights Contact Talent Search Contracting profile Legal Advice © Copyright 2026. IMB-CNM"
         ]
       },
-      "content_hash": "104ed9f5d655b2f3be361e0ee8e48f002c7e4dbaf726b4b973c05974f0446010"
+      "content_hash": "a6dd4e25f70ad6ef4c75aa7ec89b7e233ed6ca4b6dcd3f3fef5b65bb61d377ed"
     }
   ],
   "sources": [
@@ -723,7 +741,7 @@
           "Our Partners The course Overview Consortium & Universities Curriculum Mobility scheme Fees The Team Professors Administrative Associated partners (research centers and industry) Students Resources Class #21 2025-2027 (32 students) Class #20 2024-2026 (31 students) Class #19 2023-2025 (17"
         ]
       },
-      "content_hash": "730e4fc2202303f54a60c3e168ce6604366b745d249460eab871c7d3a89ae03f"
+      "content_hash": "dda02cdece6a769f9adb560311f00f4b61d2de77386eca6b4f368a7910d0c5c0"
     },
     {
       "agent": "atlas",
@@ -758,7 +776,7 @@
           "Engineering Science website Discover all the programmes of the faculty More on our campus in Leuven Contact Questions about the programme? You can ask about which classes you will take, the subjects you will study, the campus where you will be spending your time and much more. Questions"
         ]
       },
-      "content_hash": "4ace52157c35a40ec30ed1f602b040a325b9a0528f18d0273e0de0c19ee8dc41"
+      "content_hash": "0f2be0bee09c8ff6e483925fd252b75cbb6f5a019df39c0b0b34f96ffa6238f3"
     },
     {
       "agent": "atlas",
@@ -770,12 +788,12 @@
       "signals": {
         "deadlines": [
           "and OFA Didactic Activities and Degree Examination Language requirements Special cases Calendar and deadlines Certificates and forms Contacts Student Ombuds Office Associations and cultural activities Opportunities International Mobility Italian National Erasmus Mobility More resources A",
-          "Passion in action Moocs - Polimi Open Knowledge Towards your future career Language courses How to apply More Other resources Schools WeBeep Polimi Learning Innovation Libreria Zero Degree programme Search a Lecturer Search a course Documents about didactic PhD Explore our offer of P",
-          "co di Milano Programmes Tools for your study choice Student life Toward the world of careers How to apply Costs and scholarships Transfers and other specific cases Contacts Apply to Polimi as Exchange student (incoming) Explore Services and opportunities Webinars about the tests of En"
+          "and OFA Didactic Activities and Degree Examination Language requirements Special cases Calendar and deadlines Certificates and forms Contacts Student Ombuds Office Associations and cultural activities Opportunità International Mobility Italian National Erasmus Mobility Altre risorse Admi",
+          "Passion in action Moocs - Polimi Open Knowledge Towards your future career Language courses How to apply More Other resources Schools WeBeep Polimi Learning Innovation Libreria Zero Degree programme Search a Lecturer Search a course Documents about didactic PhD Explore our offer of P"
         ],
         "admission": [
           "al activities Opportunities International Mobility Italian National Erasmus Mobility More resources Admission to laurea magistrale Health service and medical emergency Explore information for Alumni Learn more Alumni Community The initiatives Contacts and FAQs Visit Alumni website Go Expl",
-          "al activities Opportunities International Mobility Italian National Erasmus Mobility More resources Admission to laurea magistrale Health service and medical emergency Alumni Alumni Community The initiatives Contacts and FAQs Visit Alumni website Go Faculty and Researchers Scientific rigo",
+          "tural activities Opportunità International Mobility Italian National Erasmus Mobility Altre risorse Admission to laurea magistrale Esami di Stato Health service and medical emergency Alumni Alumni Community The initiatives Contacts and FAQs Vai a Sito Alumni Vai Faculty and Researchers Sc",
           "amme refers to the academic year 2025/26 and may be subject to change in the academic year 2026/27. Eligibility A Bachelor Degree in Industrial Engineering or in other material-related Degrees (e.g. Applied Physics and Chemistry). Mission and goals This Laurea Magistrale (equivalent to Mast"
         ],
         "fees_funding": [
@@ -791,10 +809,10 @@
         "people_contact": [
           "national dimension Learning development Welfare Sustainability and inclusion Hospitality and living Professors Tenure-track researchers Visiting professors Call for expression of interest Other resources Integrity and beyond Intranet di Ateneo Normativa di Ateneo Explore information for S",
           "re Sustainability and inclusion Hospitality and living Professors Tenure-track researchers Visiting professors Call for expression of interest Other resources Integrity and beyond Intranet di Ateneo Normativa di Ateneo Explore information for Staff Learn more Sustainability and inclusion",
-          "national dimension Learning development Welfare Sustainability and inclusion Hospitality and living Professors Tenure-track researchers Visiting professors Call for expression of interest Other resources Integrity and beyond Intranet di Ateneo Normativa di Ateneo Staff Sustainability and"
+          "national dimension Learning development Welfare Sustainability and inclusion Hospitality and living Professors Tenure-track researchers Visiting professors Call for expression of interest Altre risorse Integrity and beyond Intranet di Ateneo Normativa di Ateneo Staff Sustainability and in"
         ]
       },
-      "content_hash": "c3a3b41a1f7fdeb83fc76b6360522aef1a16cbf285a8b317b40ff615e9cbf7ab"
+      "content_hash": "2005fb786cc017fc24733fd7550ad8d20a5c47a38b92888edf94e374110d9de8"
     },
     {
       "agent": "atlas",
@@ -890,7 +908,7 @@
           "anagement Organic Solar Cells Optoelectronics of group-IV semiconductor nanostructures Publications People Equipment Projects News In the Press Organic Solar Cells We aim at producing strong contributions towards the development of cost-efective, low energy pay back time photovoltaics"
         ]
       },
-      "content_hash": "aad73accf03c1840d73c0f26f86c43bc484bf90d4b37e6f0f2508f2cf5587c97"
+      "content_hash": "02e3ff08e744b330d76724cf0eab78b0f64440db01bc0ce03075ae67f557e4e9"
     },
     {
       "agent": "nova",
@@ -910,7 +928,7 @@
           "B. About the center Research Clean Room Laboratories Technology Transfer News & Outreach Highlights Contact Talent Search Contracting profile Legal Advice © Copyright 2026. IMB-CNM"
         ]
       },
-      "content_hash": "8af1f9b0c6f1824e358d1c78f0bd0635a9b2d8ff0f44199ebd5d0980ae03d81a"
+      "content_hash": "c6cbd48c9a9387034fdd405e1a12da9f559c39eff6de40acb76f3e411dfad2df"
     }
   ]
 }
