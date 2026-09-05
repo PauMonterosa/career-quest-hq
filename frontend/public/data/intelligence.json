@@ -1,22 +1,16 @@
 {
-  "generated_at": "2026-09-04T09:43:03.823103+00:00",
+  "generated_at": "2026-09-05T09:08:35.664532+00:00",
   "summary": {
     "targets": 8,
-    "verified": 8,
-    "discoveries": 24,
-    "changes": 5
+    "verified": 5,
+    "discoveries": 19,
+    "changes": 3
   },
   "changes": [
     {
       "agent": "atlas",
       "entity": "i-MESC",
       "url": "https://i-mesc.eu/",
-      "message": "La página oficial cambió desde la última revisión."
-    },
-    {
-      "agent": "atlas",
-      "entity": "KU Leuven Nanoscience",
-      "url": "https://onderwijsaanbod.kuleuven.be/opleidingen/e/SC_58449463/diploma_omschrijving",
       "message": "La página oficial cambió desde la última revisión."
     },
     {
@@ -29,12 +23,6 @@
       "agent": "nova",
       "entity": "ICMAB Nanopto",
       "url": "https://nanopto.icmab.es/index.php/research/organic-solar-cells",
-      "message": "La página oficial cambió desde la última revisión."
-    },
-    {
-      "agent": "nova",
-      "entity": "IMB-CNM Research Groups",
-      "url": "https://www.imb-cnm.csic.es/en/research/research-groups",
       "message": "La página oficial cambió desde la última revisión."
     }
   ],
@@ -138,7 +126,7 @@
           "losed. Apply The course Overview Consortium & Universities Curriculum Mobility scheme Fees The Team Professors Administrative Associated partners (research centers and industry) Students Resources Class #21 2025-2027 (32 students) Class #20 2024-2026 (31 students) Class #19 2023-2025 (17"
         ]
       },
-      "content_hash": "1ccc492f330570b00966e01b2489183969682ff884e70ee6802942dbd1bb4216"
+      "content_hash": "1d191b6dd64cc02e05c6fe016128bbb27a475a823a3af07a8ea6e424c9a474ac"
     },
     {
       "agent": "atlas",
@@ -182,12 +170,12 @@
       "signals": {
         "deadlines": [
           "and OFA Didactic Activities and Degree Examination Language requirements Special cases Calendar and deadlines Certificates and forms Contacts Student Ombuds Office Associations and cultural activities Opportunities International Mobility Italian National Erasmus Mobility More resources A",
-          "and OFA Didactic Activities and Degree Examination Language requirements Special cases Calendar and deadlines Certificates and forms Contacts Student Ombuds Office Associations and cultural activities Opportunità International Mobility Italian National Erasmus Mobility Altre risorse Admi",
-          ", scholarships and financial aid Student contribution Tuition fees Calculate the cost and check the deadlines to be up to date with your enrolment Explore Extraordinary Grants Benefits for students who are in a difficult situation Explore Scholarships and graduation awards University Fin"
+          ", scholarships and financial aid Student contribution Tuition fees Calculate the cost and check the deadlines to be up to date with your enrolment Explore Extraordinary Grants Benefits for students who are in a difficult situation Explore Scholarships and graduation awards University Fin",
+          "Passion in action Moocs - Polimi Open Knowledge Towards your future career Language courses How to apply More Other resources Schools WeBeep Polimi Learning Innovation Libreria Zero Degree programme Search a Lecturer Search a course Documents about didactic PhD Explore our offer of P"
         ],
         "admission": [
           "al activities Opportunities International Mobility Italian National Erasmus Mobility More resources Admission to laurea magistrale Health service and medical emergency Explore information for Alumni Learn more Alumni Community The initiatives Contacts and FAQs Visit Alumni website Go Expl",
-          "tural activities Opportunità International Mobility Italian National Erasmus Mobility Altre risorse Admission to laurea magistrale Esami di Stato Health service and medical emergency Alumni Alumni Community The initiatives Contacts and FAQs Vai a Sito Alumni Vai Faculty and Researchers Sc",
+          "al activities Opportunities International Mobility Italian National Erasmus Mobility More resources Admission to laurea magistrale Health service and medical emergency Alumni Alumni Community The initiatives Contacts and FAQs Visit Alumni website Go Faculty and Researchers Scientific rigo",
           "holarships and financial aid Study Plan and OFA Didactic Activities and Degree Examination Language requirements Special cases Calendar and deadlines Certificates and forms Contacts Student Ombuds Office Associations and cultural activities Opportunities International Mobility Italian Natio"
         ],
         "fees_funding": [
@@ -203,10 +191,10 @@
         "people_contact": [
           "national dimension Learning development Welfare Sustainability and inclusion Hospitality and living Professors Tenure-track researchers Visiting professors Call for expression of interest Other resources Integrity and beyond Intranet di Ateneo Normativa di Ateneo Explore information for S",
           "re Sustainability and inclusion Hospitality and living Professors Tenure-track researchers Visiting professors Call for expression of interest Other resources Integrity and beyond Intranet di Ateneo Normativa di Ateneo Explore information for Staff Learn more Sustainability and inclusion",
-          "national dimension Learning development Welfare Sustainability and inclusion Hospitality and living Professors Tenure-track researchers Visiting professors Call for expression of interest Altre risorse Integrity and beyond Intranet di Ateneo Normativa di Ateneo Staff Sustainability and in"
+          "national dimension Learning development Welfare Sustainability and inclusion Hospitality and living Professors Tenure-track researchers Visiting professors Call for expression of interest Other resources Integrity and beyond Intranet di Ateneo Normativa di Ateneo Staff Sustainability and"
         ]
       },
-      "content_hash": "e3b8f931a9aab303c5650bdec215e45f1392b94e4445338778e4909f2f7814c8"
+      "content_hash": "2f214cf155b44f7e101e292ad42b3e0e5a6dd526400349d39e1862751d3420ec"
     },
     {
       "agent": "atlas",
@@ -217,12 +205,12 @@
       "signals": {
         "deadlines": [
           "and OFA Didactic Activities and Degree Examination Language requirements Special cases Calendar and deadlines Certificates and forms Contacts Student Ombuds Office Associations and cultural activities Opportunities International Mobility Italian National Erasmus Mobility More resources A",
-          "and OFA Didactic Activities and Degree Examination Language requirements Special cases Calendar and deadlines Certificates and forms Contacts Student Ombuds Office Associations and cultural activities Opportunità International Mobility Italian National Erasmus Mobility Altre risorse Admi",
-          "Passion in action Moocs - Polimi Open Knowledge Towards your future career Language courses How to apply More Other resources Schools WeBeep Polimi Learning Innovation Libreria Zero Degree programme Search a Lecturer Search a course Documents about didactic PhD Explore our offer of P"
+          "Passion in action Moocs - Polimi Open Knowledge Towards your future career Language courses How to apply More Other resources Schools WeBeep Polimi Learning Innovation Libreria Zero Degree programme Search a Lecturer Search a course Documents about didactic PhD Explore our offer of P",
+          "co di Milano Programmes Tools for your study choice Student life Toward the world of careers How to apply Costs and scholarships Transfers and other specific cases Contacts Apply to Polimi as Exchange student (incoming) Explore Services and opportunities Student accommodation Conventi"
         ],
         "admission": [
           "al activities Opportunities International Mobility Italian National Erasmus Mobility More resources Admission to laurea magistrale Health service and medical emergency Explore information for Alumni Learn more Alumni Community The initiatives Contacts and FAQs Visit Alumni website Go Expl",
-          "tural activities Opportunità International Mobility Italian National Erasmus Mobility Altre risorse Admission to laurea magistrale Esami di Stato Health service and medical emergency Alumni Alumni Community The initiatives Contacts and FAQs Vai a Sito Alumni Vai Faculty and Researchers Sc",
+          "al activities Opportunities International Mobility Italian National Erasmus Mobility More resources Admission to laurea magistrale Health service and medical emergency Alumni Alumni Community The initiatives Contacts and FAQs Visit Alumni website Go Faculty and Researchers Scientific rigo",
           "efits to reduce the cost of studies. University fees Fees for Degree programmes University fees for admission to Laurea (equivalent to BSc) programmes, to Laurea Magistrale (equivalent to MSc) programmes and to Single-cycle programmes More Fees for Curricular integrations and single cours"
         ],
         "fees_funding": [
@@ -238,10 +226,10 @@
         "people_contact": [
           "national dimension Learning development Welfare Sustainability and inclusion Hospitality and living Professors Tenure-track researchers Visiting professors Call for expression of interest Other resources Integrity and beyond Intranet di Ateneo Normativa di Ateneo Explore information for S",
           "re Sustainability and inclusion Hospitality and living Professors Tenure-track researchers Visiting professors Call for expression of interest Other resources Integrity and beyond Intranet di Ateneo Normativa di Ateneo Explore information for Staff Learn more Sustainability and inclusion",
-          "national dimension Learning development Welfare Sustainability and inclusion Hospitality and living Professors Tenure-track researchers Visiting professors Call for expression of interest Altre risorse Integrity and beyond Intranet di Ateneo Normativa di Ateneo Staff Sustainability and in"
+          "national dimension Learning development Welfare Sustainability and inclusion Hospitality and living Professors Tenure-track researchers Visiting professors Call for expression of interest Other resources Integrity and beyond Intranet di Ateneo Normativa di Ateneo Staff Sustainability and"
         ]
       },
-      "content_hash": "1a52349cdc4c2737f11177237b6e48a6eae7ee2346aa2d6c3f4c9bff885721ed"
+      "content_hash": "4fb275d7beeb15e64b1f6b305ff47973060e6b881a8db40a991f5e00e393fb8a"
     },
     {
       "agent": "atlas",
@@ -252,12 +240,12 @@
       "signals": {
         "deadlines": [
           "and OFA Didactic Activities and Degree Examination Language requirements Special cases Calendar and deadlines Certificates and forms Contacts Student Ombuds Office Associations and cultural activities Opportunities International Mobility Italian National Erasmus Mobility More resources A",
-          "and OFA Didactic Activities and Degree Examination Language requirements Special cases Calendar and deadlines Certificates and forms Contacts Student Ombuds Office Associations and cultural activities Opportunità International Mobility Italian National Erasmus Mobility Altre risorse Admi",
-          "Passion in action Moocs - Polimi Open Knowledge Towards your future career Language courses How to apply More Other resources Schools WeBeep Polimi Learning Innovation Libreria Zero Degree programme Search a Lecturer Search a course Documents about didactic PhD Explore our offer of P"
+          "Passion in action Moocs - Polimi Open Knowledge Towards your future career Language courses How to apply More Other resources Schools WeBeep Polimi Learning Innovation Libreria Zero Degree programme Search a Lecturer Search a course Documents about didactic PhD Explore our offer of P",
+          "co di Milano Programmes Tools for your study choice Student life Toward the world of careers How to apply Costs and scholarships Transfers and other specific cases Contacts Apply to Polimi as Exchange student (incoming) Explore Services and opportunities Student accommodation Conventi"
         ],
         "admission": [
           "al activities Opportunities International Mobility Italian National Erasmus Mobility More resources Admission to laurea magistrale Health service and medical emergency Explore information for Alumni Learn more Alumni Community The initiatives Contacts and FAQs Visit Alumni website Go Expl",
-          "tural activities Opportunità International Mobility Italian National Erasmus Mobility Altre risorse Admission to laurea magistrale Esami di Stato Health service and medical emergency Alumni Alumni Community The initiatives Contacts and FAQs Vai a Sito Alumni Vai Faculty and Researchers Sc",
+          "al activities Opportunities International Mobility Italian National Erasmus Mobility More resources Admission to laurea magistrale Health service and medical emergency Alumni Alumni Community The initiatives Contacts and FAQs Visit Alumni website Go Faculty and Researchers Scientific rigo",
           "nature of the Dichiarazione Sostitutiva Unica (DSU) in the Online Services , in the reserved area ( Admission applications > ISEE entry for enrolment ) Timing: enter the date at least 10 working days before the enrolment date, so that you do not have to pay the first instalment. This adva"
         ],
         "fees_funding": [
@@ -273,10 +261,10 @@
         "people_contact": [
           "national dimension Learning development Welfare Sustainability and inclusion Hospitality and living Professors Tenure-track researchers Visiting professors Call for expression of interest Other resources Integrity and beyond Intranet di Ateneo Normativa di Ateneo Explore information for S",
           "re Sustainability and inclusion Hospitality and living Professors Tenure-track researchers Visiting professors Call for expression of interest Other resources Integrity and beyond Intranet di Ateneo Normativa di Ateneo Explore information for Staff Learn more Sustainability and inclusion",
-          "national dimension Learning development Welfare Sustainability and inclusion Hospitality and living Professors Tenure-track researchers Visiting professors Call for expression of interest Altre risorse Integrity and beyond Intranet di Ateneo Normativa di Ateneo Staff Sustainability and in"
+          "national dimension Learning development Welfare Sustainability and inclusion Hospitality and living Professors Tenure-track researchers Visiting professors Call for expression of interest Other resources Integrity and beyond Intranet di Ateneo Normativa di Ateneo Staff Sustainability and"
         ]
       },
-      "content_hash": "fc40d6e1a6390d6572c5a02047285359a08b4eb08d9e3425ed7696fbf1108da1"
+      "content_hash": "2d83028d877ed0839225d57a720c60b3cac6d2a11bdb546a61e30d8473384ee3"
     },
     {
       "agent": "atlas",
@@ -312,126 +300,6 @@
         ]
       },
       "content_hash": "18f5dbc094074a4fd041b61d86788fdf28fbe986803923e663eabd530bdbdf48"
-    },
-    {
-      "agent": "atlas",
-      "kind": "master",
-      "entity": "UPC Semiconductor Engineering",
-      "url": "https://www.upc.edu/en/masters/access-admission-enrolment/pre-enrolment",
-      "title": "Pre-enrolment - UPC Universitat Politècnica de Catalunya",
-      "signals": {
-        "deadlines": [
-          "n checked. With the admission confirmation students from outside the EU can begin the procedure for applying for the visa that will cover their stay in the country while they are taking the master’s degree. You will be able to continue the process by following the instructions you wil",
-          "academic record, regardless of the date on the record for the university course qualifying them to apply. The average mark for the academic record will be calculated pursuant to the terms of Royal Decree 1892/2008, of 14 November, which amends Royal Decree 1267/1994, of 10 June, regu"
-        ],
-        "admission": [
-          "C Main navigation BACHELOR'S Bachelor's degrees 2026-2027 Sequential academic programmes Access and admission Enrolment Fees, grants and payment options Academic calendar and academic regulations Languages and certification Mobility and work placement New bachelor's degree fees More infor",
-          "More information MASTER'S Master's degrees 2026-2027 Why take a master's degree at the UPC? Access, admission and enrolment Fees, grants and payment options Academic calendar and academic regulations Languages and certification Mobility and work placement Lifelong learning master's and po",
-          "UPC Schools Schools in the service of learning and research MASTER'S You are here: MASTER'S Access, admission and enrolment Pre-enrolment https://www.upc.edu/en/masters/access-admission-enrolment/pre-enrolment /++theme++homeupc/assets/images/logomark.png Pre-enrolment UPC master's degree"
-        ],
-        "fees_funding": [
-          "CHELOR'S Bachelor's degrees 2026-2027 Sequential academic programmes Access and admission Enrolment Fees, grants and payment options Academic calendar and academic regulations Languages and certification Mobility and work placement New bachelor's degree fees More information MASTER'",
-          "academic regulations Languages and certification Mobility and work placement New bachelor's degree fees More information MASTER'S Master's degrees 2026-2027 Why take a master's degree at the UPC? Access, admission and enrolment Fees, grants and payment options Academic calendar and",
-          "S Master's degrees 2026-2027 Why take a master's degree at the UPC? Access, admission and enrolment Fees, grants and payment options Academic calendar and academic regulations Languages and certification Mobility and work placement Lifelong learning master's and postgraduate studies"
-        ],
-        "research": [
-          "enu Tools Skip to content Skip to menu Information for... International students and academic staff Research career (Talent Hub) Companies Media - Press Room UPC students UPC staff Electronic Headquarters Contact Language: English Català Español English Search... Search in UPC Main navig",
-          "ter's degree and postgraduate University microcedentials Short and specialised courses RDI RDI news Research at the UPC Research support and promotion Transfer, entrepreneurship and innovation at the UPC Transfer, entrepreneurship and innovation support and promotion Services for compani",
-          "tgraduate University microcedentials Short and specialised courses RDI RDI news Research at the UPC Research support and promotion Transfer, entrepreneurship and innovation at the UPC Transfer, entrepreneurship and innovation support and promotion Services for companies Scientific and Te"
-        ],
-        "people_contact": [
-          "rch career (Talent Hub) Companies Media - Press Room UPC students UPC staff Electronic Headquarters Contact Language: English Català Español English Search... Search in UPC Main navigation BACHELOR'S Bachelor's degrees 2026-2027 Sequential academic programmes Access and admission Enrolm",
-          "anding UPCshop, merchandising Press room © UPC Universitat Politècnica de Catalunya - BarcelonaTech Contact Site map Accessibility Disclaimer Privacy settings"
-        ]
-      },
-      "content_hash": "60598cbf3577259c1b860278656c4259d163c6bb8e60f24cfb828ff5dfd69a8b"
-    },
-    {
-      "agent": "atlas",
-      "kind": "master",
-      "entity": "UPC Semiconductor Engineering",
-      "url": "https://www.upc.edu/en/bachelors/access-and-admission",
-      "title": "Access and admission - UPC Universitat Politècnica de Catalunya",
-      "signals": {
-        "admission": [
-          "Access and admission - UPC Universitat Politècnica de Catalunya UPC. Universitat Politècnica de Catalunya Menu Menu Tools Skip to content Skip to menu Information for... International students and aca",
-          "C Main navigation BACHELOR'S Bachelor's degrees 2026-2027 Sequential academic programmes Access and admission Enrolment Fees, grants and payment options Academic calendar and academic regulations Languages and certification Mobility and work placement New bachelor's degree fees More infor",
-          "More information MASTER'S Master's degrees 2026-2027 Why take a master's degree at the UPC? Access, admission and enrolment Fees, grants and payment options Academic calendar and academic regulations Languages and certification Mobility and work placement Lifelong learning master's and po"
-        ],
-        "fees_funding": [
-          "CHELOR'S Bachelor's degrees 2026-2027 Sequential academic programmes Access and admission Enrolment Fees, grants and payment options Academic calendar and academic regulations Languages and certification Mobility and work placement New bachelor's degree fees More information MASTER'",
-          "academic regulations Languages and certification Mobility and work placement New bachelor's degree fees More information MASTER'S Master's degrees 2026-2027 Why take a master's degree at the UPC? Access, admission and enrolment Fees, grants and payment options Academic calendar and",
-          "S Master's degrees 2026-2027 Why take a master's degree at the UPC? Access, admission and enrolment Fees, grants and payment options Academic calendar and academic regulations Languages and certification Mobility and work placement Lifelong learning master's and postgraduate studies"
-        ],
-        "research": [
-          "enu Tools Skip to content Skip to menu Information for... International students and academic staff Research career (Talent Hub) Companies Media - Press Room UPC students UPC staff Electronic Headquarters Contact Language: English Català Español English Search... Search in UPC Main navig",
-          "ter's degree and postgraduate University microcedentials Short and specialised courses RDI RDI news Research at the UPC Research support and promotion Transfer, entrepreneurship and innovation at the UPC Transfer, entrepreneurship and innovation support and promotion Services for compani",
-          "tgraduate University microcedentials Short and specialised courses RDI RDI news Research at the UPC Research support and promotion Transfer, entrepreneurship and innovation at the UPC Transfer, entrepreneurship and innovation support and promotion Services for companies Scientific and Te"
-        ],
-        "people_contact": [
-          "rch career (Talent Hub) Companies Media - Press Room UPC students UPC staff Electronic Headquarters Contact Language: English Català Español English Search... Search in UPC Main navigation BACHELOR'S Bachelor's degrees 2026-2027 Sequential academic programmes Access and admission Enrolm",
-          "anding UPCshop, merchandising Press room © UPC Universitat Politècnica de Catalunya - BarcelonaTech Contact Site map Accessibility Disclaimer Privacy settings"
-        ]
-      },
-      "content_hash": "8632d4ab06329d40199b6caa9dd1ecb7d9ca7adc202086381a3d755ab94a50a5"
-    },
-    {
-      "agent": "atlas",
-      "kind": "master",
-      "entity": "UPC Semiconductor Engineering",
-      "url": "https://www.upc.edu/en/bachelors/access-and-admission/access-and-admission",
-      "title": "Access and admission - UPC Universitat Politècnica de Catalunya",
-      "signals": {
-        "admission": [
-          "Access and admission - UPC Universitat Politècnica de Catalunya UPC. Universitat Politècnica de Catalunya Menu Menu Tools Skip to content Skip to menu Information for... International students and aca",
-          "C Main navigation BACHELOR'S Bachelor's degrees 2026-2027 Sequential academic programmes Access and admission Enrolment Fees, grants and payment options Academic calendar and academic regulations Languages and certification Mobility and work placement New bachelor's degree fees More infor",
-          "More information MASTER'S Master's degrees 2026-2027 Why take a master's degree at the UPC? Access, admission and enrolment Fees, grants and payment options Academic calendar and academic regulations Languages and certification Mobility and work placement Lifelong learning master's and po"
-        ],
-        "fees_funding": [
-          "CHELOR'S Bachelor's degrees 2026-2027 Sequential academic programmes Access and admission Enrolment Fees, grants and payment options Academic calendar and academic regulations Languages and certification Mobility and work placement New bachelor's degree fees More information MASTER'",
-          "academic regulations Languages and certification Mobility and work placement New bachelor's degree fees More information MASTER'S Master's degrees 2026-2027 Why take a master's degree at the UPC? Access, admission and enrolment Fees, grants and payment options Academic calendar and",
-          "S Master's degrees 2026-2027 Why take a master's degree at the UPC? Access, admission and enrolment Fees, grants and payment options Academic calendar and academic regulations Languages and certification Mobility and work placement Lifelong learning master's and postgraduate studies"
-        ],
-        "research": [
-          "enu Tools Skip to content Skip to menu Information for... International students and academic staff Research career (Talent Hub) Companies Media - Press Room UPC students UPC staff Electronic Headquarters Contact Language: English Català Español English Search... Search in UPC Main navig",
-          "ter's degree and postgraduate University microcedentials Short and specialised courses RDI RDI news Research at the UPC Research support and promotion Transfer, entrepreneurship and innovation at the UPC Transfer, entrepreneurship and innovation support and promotion Services for compani",
-          "tgraduate University microcedentials Short and specialised courses RDI RDI news Research at the UPC Research support and promotion Transfer, entrepreneurship and innovation at the UPC Transfer, entrepreneurship and innovation support and promotion Services for companies Scientific and Te"
-        ],
-        "people_contact": [
-          "rch career (Talent Hub) Companies Media - Press Room UPC students UPC staff Electronic Headquarters Contact Language: English Català Español English Search... Search in UPC Main navigation BACHELOR'S Bachelor's degrees 2026-2027 Sequential academic programmes Access and admission Enrolm",
-          "anding UPCshop, merchandising Press room © UPC Universitat Politècnica de Catalunya - BarcelonaTech Contact Site map Accessibility Disclaimer Privacy settings"
-        ]
-      },
-      "content_hash": "8632d4ab06329d40199b6caa9dd1ecb7d9ca7adc202086381a3d755ab94a50a5"
-    },
-    {
-      "agent": "atlas",
-      "kind": "master",
-      "entity": "UPC Semiconductor Engineering",
-      "url": "https://www.upc.edu/en/masters/access-admission-enrolment",
-      "title": "Access, admission and enrolment - UPC Universitat Politècnica de Catalunya",
-      "signals": {
-        "admission": [
-          "Access, admission and enrolment - UPC Universitat Politècnica de Catalunya UPC. Universitat Politècnica de Catalunya Menu Menu Tools Skip to content Skip to menu Information for... International st",
-          "C Main navigation BACHELOR'S Bachelor's degrees 2026-2027 Sequential academic programmes Access and admission Enrolment Fees, grants and payment options Academic calendar and academic regulations Languages and certification Mobility and work placement New bachelor's degree fees More infor",
-          "More information MASTER'S Master's degrees 2026-2027 Why take a master's degree at the UPC? Access, admission and enrolment Fees, grants and payment options Academic calendar and academic regulations Languages and certification Mobility and work placement Lifelong learning master's and po"
-        ],
-        "fees_funding": [
-          "CHELOR'S Bachelor's degrees 2026-2027 Sequential academic programmes Access and admission Enrolment Fees, grants and payment options Academic calendar and academic regulations Languages and certification Mobility and work placement New bachelor's degree fees More information MASTER'",
-          "academic regulations Languages and certification Mobility and work placement New bachelor's degree fees More information MASTER'S Master's degrees 2026-2027 Why take a master's degree at the UPC? Access, admission and enrolment Fees, grants and payment options Academic calendar and",
-          "S Master's degrees 2026-2027 Why take a master's degree at the UPC? Access, admission and enrolment Fees, grants and payment options Academic calendar and academic regulations Languages and certification Mobility and work placement Lifelong learning master's and postgraduate studies"
-        ],
-        "research": [
-          "enu Tools Skip to content Skip to menu Information for... International students and academic staff Research career (Talent Hub) Companies Media - Press Room UPC students UPC staff Electronic Headquarters Contact Language: English Català Español English Search... Search in UPC Main navig",
-          "ter's degree and postgraduate University microcedentials Short and specialised courses RDI RDI news Research at the UPC Research support and promotion Transfer, entrepreneurship and innovation at the UPC Transfer, entrepreneurship and innovation support and promotion Services for compani",
-          "tgraduate University microcedentials Short and specialised courses RDI RDI news Research at the UPC Research support and promotion Transfer, entrepreneurship and innovation at the UPC Transfer, entrepreneurship and innovation support and promotion Services for companies Scientific and Te"
-        ],
-        "people_contact": [
-          "rch career (Talent Hub) Companies Media - Press Room UPC students UPC staff Electronic Headquarters Contact Language: English Català Español English Search... Search in UPC Main navigation BACHELOR'S Bachelor's degrees 2026-2027 Sequential academic programmes Access and admission Enrolm",
-          "anding UPCshop, merchandising Press room © UPC Universitat Politècnica de Catalunya - BarcelonaTech Contact Site map Accessibility Disclaimer Privacy settings"
-        ]
-      },
-      "content_hash": "0d3a385787af53e343a88968afc243185d4339df8ec7f55df82182ba862535cb"
     },
     {
       "agent": "nova",
@@ -637,7 +505,7 @@
           "anagement Organic Solar Cells Optoelectronics of group-IV semiconductor nanostructures Publications People Equipment Projects News In the Press People All Researchers Post-Docs PhD Students Technicians and project managers Afroditi Koutsogianni PhD Students Agustín Mihi Researchers Ale"
         ]
       },
-      "content_hash": "0be25c6cc51e4482c1c5550a894d1679412f1b526e879d92fb379014cace9c87"
+      "content_hash": "709e91268d045f9c9fab3b28d9e4468292faefb7a2bf466fe4e3801bda9199d5"
     },
     {
       "agent": "nova",
@@ -660,7 +528,7 @@
           "ncluding thermal, mechanical and biological aspects. Not only allows this to solve urgent problems (contact resistance), it also enables completely new (switchable, reconfigurable) devices. The topic is inspired by a combination of scientific curiosity and a strong feeling of practical"
         ]
       },
-      "content_hash": "c0653a88c570bf1a27107d49191e454a81118577788fe1f55f5d470f9e47a7b0"
+      "content_hash": "845ee24ced8d826496752f765b8cdcb9a5299fcab7c6bca6bbfab6f4bae967d4"
     },
     {
       "agent": "nova",
@@ -679,31 +547,7 @@
           "anagement Organic Solar Cells Optoelectronics of group-IV semiconductor nanostructures Publications People Equipment Projects News In the Press Publications Cargando publicaciones Nanopto..."
         ]
       },
-      "content_hash": "954ea78bd1a3e223d0fcb981ecdde88d7398e255d36999763a6e7db0884605c5"
-    },
-    {
-      "agent": "nova",
-      "kind": "tfg",
-      "entity": "IMB-CNM Research Groups",
-      "url": "https://www.imb-cnm.csic.es/en/research/projects",
-      "title": "Projects | IMB CNM",
-      "signals": {
-        "fees_funding": [
-          "rder Asc Desc HeartNow: Nuevos dispositivos portátiles no invasivos para la rehabilitación cardíaca Funding agency MCIU /AEI /10.13039/501100011033 / FEDER, UE Reference CPP2024-011538 Period 01/12/2025 - 30/11/2028 P.I. at IMB-CNM Sacristan Riquelme, Jordi GreenPoC: Plataforma de Matri",
-          "e Sensores Sostenible que Utiliza Aprendizaje Automático para la Obtención de Imágenes Multiiónicas Funding agency MCIU /AEI /10.13039/501100011033 / FEDER, UE Reference CPP2024-011334 Period 01/12/2025 - 30/11/2028 P.I. at IMB-CNM Martínez Domingo, Carme MAKIT&FUTURE-II: Construccion d",
-          "ruccion de los sensores de strip del itk de atlas e i+d en detectores para los futuros experimentos Funding agency MCIU /AEI /10.13039/501100011033 / FEDER, UE Reference PID2024-156645NB-C22 Period 01/09/2025 - 31/08/2028 P.I. at IMB-CNM Ullán Comes, Miguel / Lozano Fantoba, Manuel AURO"
-        ],
-        "research": [
-          "MB-CNM Director's message Committees and Working Groups Organization Staff List Transparency Portal Research Networking Projects Publications Research Career Research Groups Thematic axes Alignment with EU Chips Act María de Maeztu Unit of Excellence Clean Room Clean Room Virtual Tour In",
-          "orking Groups Organization Staff List Transparency Portal Research Networking Projects Publications Research Career Research Groups Thematic axes Alignment with EU Chips Act María de Maeztu Unit of Excellence Clean Room Clean Room Virtual Tour Integrated Micro and Nanofabrication Clean R",
-          "ganization Staff List Transparency Portal Research Networking Projects Publications Research Career Research Groups Thematic axes Alignment with EU Chips Act María de Maeztu Unit of Excellence Clean Room Clean Room Virtual Tour Integrated Micro and Nanofabrication Clean Room Micronanofab"
-        ],
-        "people_contact": [
-          "Projects | IMB CNM Skip to main content Contact Talent Search Select your language en es ca About the center The IMB-CNM Director's message Committees and Working Groups Organization Staff List Transparency Portal Research Netw",
-          "» About the center Research Clean Room Laboratories Technology Transfer News & Outreach Highlights Contact Talent Search Contracting profile Legal Advice © Copyright 2026. IMB-CNM"
-        ]
-      },
-      "content_hash": "a6dd4e25f70ad6ef4c75aa7ec89b7e233ed6ca4b6dcd3f3fef5b65bb61d377ed"
+      "content_hash": "f0c42ec7cf90bd28bc36ccab767bf6c63c01a8911f53bdbce6ecbc269695b796"
     }
   ],
   "sources": [
@@ -727,7 +571,7 @@
         ],
         "fees_funding": [
           "der au contenu menu mobile The course Overview Consortium & Universities Curriculum Mobility scheme Fees The Team Professors Administrative Associated partners (research centers and industry) Students Resources Class #21 2025-2027 (32 students) Class #20 2024-2026 (31 students) Clas",
-          "Slovenia More Our Partners The course Overview Consortium & Universities Curriculum Mobility scheme Fees The Team Professors Administrative Associated partners (research centers and industry) Students Resources Class #21 2025-2027 (32 students) Class #20 2024-2026 (31 students) Clas",
+          "Spain More Our Partners The course Overview Consortium & Universities Curriculum Mobility scheme Fees The Team Professors Administrative Associated partners (research centers and industry) Students Resources Class #21 2025-2027 (32 students) Class #20 2024-2026 (31 students) Clas",
           "s#22 are now closed. Apply The course Overview Consortium & Universities Curriculum Mobility scheme Fees The Team Professors Administrative Associated partners (research centers and industry) Students Resources Class #21 2025-2027 (32 students) Class #20 2024-2026 (31 students) Clas"
         ],
         "research": [
@@ -741,42 +585,15 @@
           "Our Partners The course Overview Consortium & Universities Curriculum Mobility scheme Fees The Team Professors Administrative Associated partners (research centers and industry) Students Resources Class #21 2025-2027 (32 students) Class #20 2024-2026 (31 students) Class #19 2023-2025 (17"
         ]
       },
-      "content_hash": "dda02cdece6a769f9adb560311f00f4b61d2de77386eca6b4f368a7910d0c5c0"
+      "content_hash": "adbc570b26937f2db1c34978f12043c432b6f7164f6d96c89d1b1990883e8fbd"
     },
     {
       "agent": "atlas",
       "kind": "master",
       "entity": "KU Leuven Nanoscience",
-      "url": "https://onderwijsaanbod.kuleuven.be/opleidingen/e/SC_58449463/diploma_omschrijving",
-      "title": "Master of Nanoscience, Nanotechnology and Nanoengineering (Programme for students started in 2025-2026 or later) (Leuven) | KU Leuven",
-      "status": "verified",
-      "signals": {
-        "deadlines": [
-          "t admission requirements For the most recent – ​​​​​​and only official information – on application deadlines , check the application window for this programme. Apply as non-Flemish degree holder Flemish degree holder Students who obtained a prior degree at an institution of the Flemish",
-          "e events held by KU Leuven, our study programmes, admission requirements, tuition fees, application deadlines, research and more. Keep me informed PDF/print Disclaimer Cookie Settings Privacy Policy Jobs Follow KU Leuven on search New degree programmes for 2027 - 2028 Lifelong learning F",
-          "ts For the most recent – ​​​​​​and only official information – on application deadlines , check the application window for this programme. Apply as non-Flemish degree holder Flemish degree holder Students who obtained a prior degree at an institution of the Flemish Community may be eligible for di"
-        ],
-        "admission": [
-          "nce Apply now Discover the programme keyboard_arrow_down Discover the programme Programme structure Admission requirements Further studies More Objectives Non-binding personal development goals Quality of education Master of Nanoscience, Nanotechnology and Nanoengineering Discover the Mas",
-          "world You have a clear sense of the societal relevance of technology Check the official and current admission requirements Student-exchange opportunities & Internships At the Faculty of Engineering Science, students are given the opportunity to complete one or two semesters abroad within",
-          "rogramme. These courses are intended to complete the student's background, but note that for direct admission to the programme, not more than 16 credits should be needed. Note also that a basic training in bachelor-level chemistry and programming is a pre-requisite to the programme. Core"
-        ],
-        "fees_funding": [
-          "ts for study level and academic content. Check the official and current admission requirements ​​​​ Tuition fees, study costs & scholarships Tuition fees The fees for any individual student are contingent upon their academic programme and the nationality of the student. For the most rec",
-          "Check the official and current admission requirements ​​​​ Tuition fees, study costs & scholarships Tuition fees The fees for any individual student are contingent upon their academic programme and the nationality of the student. For the most recent – and only official – information on",
-          "gramme and the nationality of the student. For the most recent – and only official – information on tuition fees, check the tuition fee calculator . Study costs The study costs consist of the yearly tuition fee on the one hand and degree-specific costs on the other hand. Besides study c"
-        ],
-        "research": [
-          "ptions are available? The Master of Nanoscience, Nanotechnology and Nanoengineering (120 ECTS) is a research-based master’s programme in which you can put a focus on one of the following fields: Nanomaterials and Nanochemistry Nanophysics and Nanoelectronics Engineering Nanobiotechnology",
-          "s in this young and rapidly evolving field. Teaching staff are closely affiliated with cutting-edge research centres such as imec and the Leuven NanoCentre , recognised worldwide as leaders in nanoscience and nanotechnology. The programme combines a strong research orientation with pract",
-          "recognised worldwide as leaders in nanoscience and nanotechnology. The programme combines a strong research orientation with practical, application-focused training, leveraging the research centres’ links with industrial partners. In your master’s thesis, you will have the opportunity t"
-        ],
-        "people_contact": [
-          ". You are excited about fundamental sciences and technological problems and about multidisciplinary teamwork You have a broad scientific interest and are excited about the nano world You have a clear sense of the societal relevance of technology Check the official and current admissi",
-          "Engineering Science website Discover all the programmes of the faculty More on our campus in Leuven Contact Questions about the programme? You can ask about which classes you will take, the subjects you will study, the campus where you will be spending your time and much more. Questions"
-        ]
-      },
-      "content_hash": "0f2be0bee09c8ff6e483925fd252b75cbb6f5a019df39c0b0b34f96ffa6238f3"
+      "url": "https://www.kuleuven.be/programmes/master-nanoscience-nanotechnology-nanoengineering",
+      "status": "error",
+      "error": "[Errno 101] Network is unreachable"
     },
     {
       "agent": "atlas",
@@ -788,12 +605,12 @@
       "signals": {
         "deadlines": [
           "and OFA Didactic Activities and Degree Examination Language requirements Special cases Calendar and deadlines Certificates and forms Contacts Student Ombuds Office Associations and cultural activities Opportunities International Mobility Italian National Erasmus Mobility More resources A",
-          "and OFA Didactic Activities and Degree Examination Language requirements Special cases Calendar and deadlines Certificates and forms Contacts Student Ombuds Office Associations and cultural activities Opportunità International Mobility Italian National Erasmus Mobility Altre risorse Admi",
-          "Passion in action Moocs - Polimi Open Knowledge Towards your future career Language courses How to apply More Other resources Schools WeBeep Polimi Learning Innovation Libreria Zero Degree programme Search a Lecturer Search a course Documents about didactic PhD Explore our offer of P"
+          "Passion in action Moocs - Polimi Open Knowledge Towards your future career Language courses How to apply More Other resources Schools WeBeep Polimi Learning Innovation Libreria Zero Degree programme Search a Lecturer Search a course Documents about didactic PhD Explore our offer of P",
+          "co di Milano Programmes Tools for your study choice Student life Toward the world of careers How to apply Costs and scholarships Transfers and other specific cases Contacts Apply to Polimi as Exchange student (incoming) Explore Services and opportunities Student accommodation Conventi"
         ],
         "admission": [
           "al activities Opportunities International Mobility Italian National Erasmus Mobility More resources Admission to laurea magistrale Health service and medical emergency Explore information for Alumni Learn more Alumni Community The initiatives Contacts and FAQs Visit Alumni website Go Expl",
-          "tural activities Opportunità International Mobility Italian National Erasmus Mobility Altre risorse Admission to laurea magistrale Esami di Stato Health service and medical emergency Alumni Alumni Community The initiatives Contacts and FAQs Vai a Sito Alumni Vai Faculty and Researchers Sc",
+          "al activities Opportunities International Mobility Italian National Erasmus Mobility More resources Admission to laurea magistrale Health service and medical emergency Alumni Alumni Community The initiatives Contacts and FAQs Visit Alumni website Go Faculty and Researchers Scientific rigo",
           "amme refers to the academic year 2025/26 and may be subject to change in the academic year 2026/27. Eligibility A Bachelor Degree in Industrial Engineering or in other material-related Degrees (e.g. Applied Physics and Chemistry). Mission and goals This Laurea Magistrale (equivalent to Mast"
         ],
         "fees_funding": [
@@ -809,44 +626,18 @@
         "people_contact": [
           "national dimension Learning development Welfare Sustainability and inclusion Hospitality and living Professors Tenure-track researchers Visiting professors Call for expression of interest Other resources Integrity and beyond Intranet di Ateneo Normativa di Ateneo Explore information for S",
           "re Sustainability and inclusion Hospitality and living Professors Tenure-track researchers Visiting professors Call for expression of interest Other resources Integrity and beyond Intranet di Ateneo Normativa di Ateneo Explore information for Staff Learn more Sustainability and inclusion",
-          "national dimension Learning development Welfare Sustainability and inclusion Hospitality and living Professors Tenure-track researchers Visiting professors Call for expression of interest Altre risorse Integrity and beyond Intranet di Ateneo Normativa di Ateneo Staff Sustainability and in"
+          "national dimension Learning development Welfare Sustainability and inclusion Hospitality and living Professors Tenure-track researchers Visiting professors Call for expression of interest Other resources Integrity and beyond Intranet di Ateneo Normativa di Ateneo Staff Sustainability and"
         ]
       },
-      "content_hash": "2005fb786cc017fc24733fd7550ad8d20a5c47a38b92888edf94e374110d9de8"
+      "content_hash": "5f8b8fb39bdabaf20669beeb24959ce9c1844ebbd3093d49a9037f4836360804"
     },
     {
       "agent": "atlas",
       "kind": "master",
       "entity": "UPC Semiconductor Engineering",
       "url": "https://www.upc.edu/en/masters/semiconductor-engineering-and-microelectronic-design",
-      "title": "Master's degree in Semiconductor Engineering and Microelectronic Design - UPC Universitat Politècnica de Catalunya",
-      "status": "verified",
-      "signals": {
-        "deadlines": [
-          "ing in the design and manufacture of integrated, digital and analogue circuits, with an emphasis on applying them in memory systems, communication systems, control systems, computing systems, sensors and emerging devices, such as 2D and quantum devices. The aim is thus to cover the cu"
-        ],
-        "admission": [
-          "C Main navigation BACHELOR'S Bachelor's degrees 2026-2027 Sequential academic programmes Access and admission Enrolment Fees, grants and payment options Academic calendar and academic regulations Languages and certification Mobility and work placement New bachelor's degree fees More infor",
-          "More information MASTER'S Master's degrees 2026-2027 Why take a master's degree at the UPC? Access, admission and enrolment Fees, grants and payment options Academic calendar and academic regulations Languages and certification Mobility and work placement Lifelong learning master's and po",
-          "assroom and students’ language rights . Location Barcelona School of Telecommunications Engineering Admission General requirements Academic requirements for admission to master's degrees New intake places 30 Pre-enrolment Pre-enrolment for this master’s degree is currently closed . Use th"
-        ],
-        "fees_funding": [
-          "CHELOR'S Bachelor's degrees 2026-2027 Sequential academic programmes Access and admission Enrolment Fees, grants and payment options Academic calendar and academic regulations Languages and certification Mobility and work placement New bachelor's degree fees More information MASTER'",
-          "academic regulations Languages and certification Mobility and work placement New bachelor's degree fees More information MASTER'S Master's degrees 2026-2027 Why take a master's degree at the UPC? Access, admission and enrolment Fees, grants and payment options Academic calendar and",
-          "S Master's degrees 2026-2027 Why take a master's degree at the UPC? Access, admission and enrolment Fees, grants and payment options Academic calendar and academic regulations Languages and certification Mobility and work placement Lifelong learning master's and postgraduate studies"
-        ],
-        "research": [
-          "enu Tools Skip to content Skip to menu Information for... International students and academic staff Research career (Talent Hub) Companies Media - Press Room UPC students UPC staff Electronic Headquarters Contact Language: English Català Español English Search... Search in UPC Main navig",
-          "ter's degree and postgraduate University microcedentials Short and specialised courses RDI RDI news Research at the UPC Research support and promotion Transfer, entrepreneurship and innovation at the UPC Transfer, entrepreneurship and innovation support and promotion Services for compani",
-          "tgraduate University microcedentials Short and specialised courses RDI RDI news Research at the UPC Research support and promotion Transfer, entrepreneurship and innovation at the UPC Transfer, entrepreneurship and innovation support and promotion Services for companies Scientific and Te"
-        ],
-        "people_contact": [
-          "by the UPC are capacity for innovation and entrepreneurship, sustainability and social commitment, teamwork, proper use of information resources, knowledge of a foreign language (preferably English) and gender perspective. Quality accreditation Check the degree’s main quality indica",
-          "rch career (Talent Hub) Companies Media - Press Room UPC students UPC staff Electronic Headquarters Contact Language: English Català Español English Search... Search in UPC Main navigation BACHELOR'S Bachelor's degrees 2026-2027 Sequential academic programmes Access and admission Enrolm",
-          "anding UPCshop, merchandising Press room © UPC Universitat Politècnica de Catalunya - BarcelonaTech Contact Site map Accessibility Disclaimer Privacy settings"
-        ]
-      },
-      "content_hash": "1fc3ad9d7867facf4d8c79f004e75961331a6f685bec4b7d900639b7d7ad2d9c"
+      "status": "error",
+      "error": "[Errno 101] Network is unreachable"
     },
     {
       "agent": "nova",
@@ -908,27 +699,15 @@
           "anagement Organic Solar Cells Optoelectronics of group-IV semiconductor nanostructures Publications People Equipment Projects News In the Press Organic Solar Cells We aim at producing strong contributions towards the development of cost-efective, low energy pay back time photovoltaics"
         ]
       },
-      "content_hash": "02e3ff08e744b330d76724cf0eab78b0f64440db01bc0ce03075ae67f557e4e9"
+      "content_hash": "97cadf3ec9acd100f090a008a3374cf4a8f5ebb71d4b267f6c0f1cd1cd5cd059"
     },
     {
       "agent": "nova",
       "kind": "tfg",
       "entity": "IMB-CNM Research Groups",
       "url": "https://www.imb-cnm.csic.es/en/research/research-groups",
-      "title": "Research Groups | IMB CNM",
-      "status": "verified",
-      "signals": {
-        "research": [
-          "Research Groups | IMB CNM Skip to main content Contact Talent Search Select your language en es ca About the center The IMB-CNM Director's message Committees and Working Groups Organizatio",
-          "MB-CNM Director's message Committees and Working Groups Organization Staff List Transparency Portal Research Networking Projects Publications Research Career Research Groups Thematic axes Alignment with EU Chips Act María de Maeztu Unit of Excellence Clean Room Clean Room Virtual Tour In",
-          "orking Groups Organization Staff List Transparency Portal Research Networking Projects Publications Research Career Research Groups Thematic axes Alignment with EU Chips Act María de Maeztu Unit of Excellence Clean Room Clean Room Virtual Tour Integrated Micro and Nanofabrication Clean R"
-        ],
-        "people_contact": [
-          "Research Groups | IMB CNM Skip to main content Contact Talent Search Select your language en es ca About the center The IMB-CNM Director's message Committees and Working Groups Organization Staff List Transparency Portal Research Netw",
-          "B. About the center Research Clean Room Laboratories Technology Transfer News & Outreach Highlights Contact Talent Search Contracting profile Legal Advice © Copyright 2026. IMB-CNM"
-        ]
-      },
-      "content_hash": "c6cbd48c9a9387034fdd405e1a12da9f559c39eff6de40acb76f3e411dfad2df"
+      "status": "error",
+      "error": "timed out"
     }
   ]
 }
