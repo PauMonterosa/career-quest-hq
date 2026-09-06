@@ -1,22 +1,16 @@
 {
-  "generated_at": "2026-09-05T09:08:35.664532+00:00",
+  "generated_at": "2026-09-06T09:29:10.999767+00:00",
   "summary": {
     "targets": 8,
-    "verified": 5,
-    "discoveries": 19,
-    "changes": 3
+    "verified": 8,
+    "discoveries": 24,
+    "changes": 2
   },
   "changes": [
     {
       "agent": "atlas",
       "entity": "i-MESC",
       "url": "https://i-mesc.eu/",
-      "message": "La página oficial cambió desde la última revisión."
-    },
-    {
-      "agent": "atlas",
-      "entity": "Politecnico di Milano Materials",
-      "url": "https://www.polimi.it/en/education/laurea-magistrale-programmes/programme-detail/materials-engineering-and-nanotechnology",
       "message": "La página oficial cambió desde la última revisión."
     },
     {
@@ -302,6 +296,126 @@
       "content_hash": "18f5dbc094074a4fd041b61d86788fdf28fbe986803923e663eabd530bdbdf48"
     },
     {
+      "agent": "atlas",
+      "kind": "master",
+      "entity": "UPC Semiconductor Engineering",
+      "url": "https://www.upc.edu/en/masters/access-admission-enrolment/pre-enrolment",
+      "title": "Pre-enrolment - UPC Universitat Politècnica de Catalunya",
+      "signals": {
+        "deadlines": [
+          "n checked. With the admission confirmation students from outside the EU can begin the procedure for applying for the visa that will cover their stay in the country while they are taking the master’s degree. You will be able to continue the process by following the instructions you wil",
+          "academic record, regardless of the date on the record for the university course qualifying them to apply. The average mark for the academic record will be calculated pursuant to the terms of Royal Decree 1892/2008, of 14 November, which amends Royal Decree 1267/1994, of 10 June, regu"
+        ],
+        "admission": [
+          "C Main navigation BACHELOR'S Bachelor's degrees 2026-2027 Sequential academic programmes Access and admission Enrolment Fees, grants and payment options Academic calendar and academic regulations Languages and certification Mobility and work placement New bachelor's degree fees More infor",
+          "More information MASTER'S Master's degrees 2026-2027 Why take a master's degree at the UPC? Access, admission and enrolment Fees, grants and payment options Academic calendar and academic regulations Languages and certification Mobility and work placement Lifelong learning master's and po",
+          "UPC Schools Schools in the service of learning and research MASTER'S You are here: MASTER'S Access, admission and enrolment Pre-enrolment https://www.upc.edu/en/masters/access-admission-enrolment/pre-enrolment /++theme++homeupc/assets/images/logomark.png Pre-enrolment UPC master's degree"
+        ],
+        "fees_funding": [
+          "CHELOR'S Bachelor's degrees 2026-2027 Sequential academic programmes Access and admission Enrolment Fees, grants and payment options Academic calendar and academic regulations Languages and certification Mobility and work placement New bachelor's degree fees More information MASTER'",
+          "academic regulations Languages and certification Mobility and work placement New bachelor's degree fees More information MASTER'S Master's degrees 2026-2027 Why take a master's degree at the UPC? Access, admission and enrolment Fees, grants and payment options Academic calendar and",
+          "S Master's degrees 2026-2027 Why take a master's degree at the UPC? Access, admission and enrolment Fees, grants and payment options Academic calendar and academic regulations Languages and certification Mobility and work placement Lifelong learning master's and postgraduate studies"
+        ],
+        "research": [
+          "enu Tools Skip to content Skip to menu Information for... International students and academic staff Research career (Talent Hub) Companies Media - Press Room UPC students UPC staff Electronic Headquarters Contact Language: English Català Español English Search... Search in UPC Main navig",
+          "ter's degree and postgraduate University microcedentials Short and specialised courses RDI RDI news Research at the UPC Research support and promotion Transfer, entrepreneurship and innovation at the UPC Transfer, entrepreneurship and innovation support and promotion Services for compani",
+          "tgraduate University microcedentials Short and specialised courses RDI RDI news Research at the UPC Research support and promotion Transfer, entrepreneurship and innovation at the UPC Transfer, entrepreneurship and innovation support and promotion Services for companies Scientific and Te"
+        ],
+        "people_contact": [
+          "rch career (Talent Hub) Companies Media - Press Room UPC students UPC staff Electronic Headquarters Contact Language: English Català Español English Search... Search in UPC Main navigation BACHELOR'S Bachelor's degrees 2026-2027 Sequential academic programmes Access and admission Enrolm",
+          "anding UPCshop, merchandising Press room © UPC Universitat Politècnica de Catalunya - BarcelonaTech Contact Site map Accessibility Disclaimer Privacy settings"
+        ]
+      },
+      "content_hash": "4986b2d2600b249b81cb9a700fcc6d630e3ba7a0453918b5aa4c94056081c06a"
+    },
+    {
+      "agent": "atlas",
+      "kind": "master",
+      "entity": "UPC Semiconductor Engineering",
+      "url": "https://www.upc.edu/en/bachelors/access-and-admission",
+      "title": "Access and admission - UPC Universitat Politècnica de Catalunya",
+      "signals": {
+        "admission": [
+          "Access and admission - UPC Universitat Politècnica de Catalunya UPC. Universitat Politècnica de Catalunya Menu Menu Tools Skip to content Skip to menu Information for... International students and aca",
+          "C Main navigation BACHELOR'S Bachelor's degrees 2026-2027 Sequential academic programmes Access and admission Enrolment Fees, grants and payment options Academic calendar and academic regulations Languages and certification Mobility and work placement New bachelor's degree fees More infor",
+          "More information MASTER'S Master's degrees 2026-2027 Why take a master's degree at the UPC? Access, admission and enrolment Fees, grants and payment options Academic calendar and academic regulations Languages and certification Mobility and work placement Lifelong learning master's and po"
+        ],
+        "fees_funding": [
+          "CHELOR'S Bachelor's degrees 2026-2027 Sequential academic programmes Access and admission Enrolment Fees, grants and payment options Academic calendar and academic regulations Languages and certification Mobility and work placement New bachelor's degree fees More information MASTER'",
+          "academic regulations Languages and certification Mobility and work placement New bachelor's degree fees More information MASTER'S Master's degrees 2026-2027 Why take a master's degree at the UPC? Access, admission and enrolment Fees, grants and payment options Academic calendar and",
+          "S Master's degrees 2026-2027 Why take a master's degree at the UPC? Access, admission and enrolment Fees, grants and payment options Academic calendar and academic regulations Languages and certification Mobility and work placement Lifelong learning master's and postgraduate studies"
+        ],
+        "research": [
+          "enu Tools Skip to content Skip to menu Information for... International students and academic staff Research career (Talent Hub) Companies Media - Press Room UPC students UPC staff Electronic Headquarters Contact Language: English Català Español English Search... Search in UPC Main navig",
+          "ter's degree and postgraduate University microcedentials Short and specialised courses RDI RDI news Research at the UPC Research support and promotion Transfer, entrepreneurship and innovation at the UPC Transfer, entrepreneurship and innovation support and promotion Services for compani",
+          "tgraduate University microcedentials Short and specialised courses RDI RDI news Research at the UPC Research support and promotion Transfer, entrepreneurship and innovation at the UPC Transfer, entrepreneurship and innovation support and promotion Services for companies Scientific and Te"
+        ],
+        "people_contact": [
+          "rch career (Talent Hub) Companies Media - Press Room UPC students UPC staff Electronic Headquarters Contact Language: English Català Español English Search... Search in UPC Main navigation BACHELOR'S Bachelor's degrees 2026-2027 Sequential academic programmes Access and admission Enrolm",
+          "anding UPCshop, merchandising Press room © UPC Universitat Politècnica de Catalunya - BarcelonaTech Contact Site map Accessibility Disclaimer Privacy settings"
+        ]
+      },
+      "content_hash": "8632d4ab06329d40199b6caa9dd1ecb7d9ca7adc202086381a3d755ab94a50a5"
+    },
+    {
+      "agent": "atlas",
+      "kind": "master",
+      "entity": "UPC Semiconductor Engineering",
+      "url": "https://www.upc.edu/en/bachelors/access-and-admission/access-and-admission",
+      "title": "Access and admission - UPC Universitat Politècnica de Catalunya",
+      "signals": {
+        "admission": [
+          "Access and admission - UPC Universitat Politècnica de Catalunya UPC. Universitat Politècnica de Catalunya Menu Menu Tools Skip to content Skip to menu Information for... International students and aca",
+          "C Main navigation BACHELOR'S Bachelor's degrees 2026-2027 Sequential academic programmes Access and admission Enrolment Fees, grants and payment options Academic calendar and academic regulations Languages and certification Mobility and work placement New bachelor's degree fees More infor",
+          "More information MASTER'S Master's degrees 2026-2027 Why take a master's degree at the UPC? Access, admission and enrolment Fees, grants and payment options Academic calendar and academic regulations Languages and certification Mobility and work placement Lifelong learning master's and po"
+        ],
+        "fees_funding": [
+          "CHELOR'S Bachelor's degrees 2026-2027 Sequential academic programmes Access and admission Enrolment Fees, grants and payment options Academic calendar and academic regulations Languages and certification Mobility and work placement New bachelor's degree fees More information MASTER'",
+          "academic regulations Languages and certification Mobility and work placement New bachelor's degree fees More information MASTER'S Master's degrees 2026-2027 Why take a master's degree at the UPC? Access, admission and enrolment Fees, grants and payment options Academic calendar and",
+          "S Master's degrees 2026-2027 Why take a master's degree at the UPC? Access, admission and enrolment Fees, grants and payment options Academic calendar and academic regulations Languages and certification Mobility and work placement Lifelong learning master's and postgraduate studies"
+        ],
+        "research": [
+          "enu Tools Skip to content Skip to menu Information for... International students and academic staff Research career (Talent Hub) Companies Media - Press Room UPC students UPC staff Electronic Headquarters Contact Language: English Català Español English Search... Search in UPC Main navig",
+          "ter's degree and postgraduate University microcedentials Short and specialised courses RDI RDI news Research at the UPC Research support and promotion Transfer, entrepreneurship and innovation at the UPC Transfer, entrepreneurship and innovation support and promotion Services for compani",
+          "tgraduate University microcedentials Short and specialised courses RDI RDI news Research at the UPC Research support and promotion Transfer, entrepreneurship and innovation at the UPC Transfer, entrepreneurship and innovation support and promotion Services for companies Scientific and Te"
+        ],
+        "people_contact": [
+          "rch career (Talent Hub) Companies Media - Press Room UPC students UPC staff Electronic Headquarters Contact Language: English Català Español English Search... Search in UPC Main navigation BACHELOR'S Bachelor's degrees 2026-2027 Sequential academic programmes Access and admission Enrolm",
+          "anding UPCshop, merchandising Press room © UPC Universitat Politècnica de Catalunya - BarcelonaTech Contact Site map Accessibility Disclaimer Privacy settings"
+        ]
+      },
+      "content_hash": "8632d4ab06329d40199b6caa9dd1ecb7d9ca7adc202086381a3d755ab94a50a5"
+    },
+    {
+      "agent": "atlas",
+      "kind": "master",
+      "entity": "UPC Semiconductor Engineering",
+      "url": "https://www.upc.edu/en/masters/access-admission-enrolment",
+      "title": "Access, admission and enrolment - UPC Universitat Politècnica de Catalunya",
+      "signals": {
+        "admission": [
+          "Access, admission and enrolment - UPC Universitat Politècnica de Catalunya UPC. Universitat Politècnica de Catalunya Menu Menu Tools Skip to content Skip to menu Information for... International st",
+          "C Main navigation BACHELOR'S Bachelor's degrees 2026-2027 Sequential academic programmes Access and admission Enrolment Fees, grants and payment options Academic calendar and academic regulations Languages and certification Mobility and work placement New bachelor's degree fees More infor",
+          "More information MASTER'S Master's degrees 2026-2027 Why take a master's degree at the UPC? Access, admission and enrolment Fees, grants and payment options Academic calendar and academic regulations Languages and certification Mobility and work placement Lifelong learning master's and po"
+        ],
+        "fees_funding": [
+          "CHELOR'S Bachelor's degrees 2026-2027 Sequential academic programmes Access and admission Enrolment Fees, grants and payment options Academic calendar and academic regulations Languages and certification Mobility and work placement New bachelor's degree fees More information MASTER'",
+          "academic regulations Languages and certification Mobility and work placement New bachelor's degree fees More information MASTER'S Master's degrees 2026-2027 Why take a master's degree at the UPC? Access, admission and enrolment Fees, grants and payment options Academic calendar and",
+          "S Master's degrees 2026-2027 Why take a master's degree at the UPC? Access, admission and enrolment Fees, grants and payment options Academic calendar and academic regulations Languages and certification Mobility and work placement Lifelong learning master's and postgraduate studies"
+        ],
+        "research": [
+          "enu Tools Skip to content Skip to menu Information for... International students and academic staff Research career (Talent Hub) Companies Media - Press Room UPC students UPC staff Electronic Headquarters Contact Language: English Català Español English Search... Search in UPC Main navig",
+          "ter's degree and postgraduate University microcedentials Short and specialised courses RDI RDI news Research at the UPC Research support and promotion Transfer, entrepreneurship and innovation at the UPC Transfer, entrepreneurship and innovation support and promotion Services for compani",
+          "tgraduate University microcedentials Short and specialised courses RDI RDI news Research at the UPC Research support and promotion Transfer, entrepreneurship and innovation at the UPC Transfer, entrepreneurship and innovation support and promotion Services for companies Scientific and Te"
+        ],
+        "people_contact": [
+          "rch career (Talent Hub) Companies Media - Press Room UPC students UPC staff Electronic Headquarters Contact Language: English Català Español English Search... Search in UPC Main navigation BACHELOR'S Bachelor's degrees 2026-2027 Sequential academic programmes Access and admission Enrolm",
+          "anding UPCshop, merchandising Press room © UPC Universitat Politècnica de Catalunya - BarcelonaTech Contact Site map Accessibility Disclaimer Privacy settings"
+        ]
+      },
+      "content_hash": "0d3a385787af53e343a88968afc243185d4339df8ec7f55df82182ba862535cb"
+    },
+    {
       "agent": "nova",
       "kind": "tfg",
       "entity": "IREC Solar Energy Materials",
@@ -495,17 +609,17 @@
       "title": "People",
       "signals": {
         "research": [
-          "People Skip to main content Research Organic-Inorganic Thermoelectrics Photonic Architectures for Light Management Organic Solar Cells Optoelectronics of group-IV semiconductor nanostructures Publications People Equi",
+          "QRIS234 https://llr.fhuk.unand.ac.id/ People Skip to main content Research Organic-Inorganic Thermoelectrics Photonic Architectures for Light Management Organic Solar Cells Optoelectronics of group-IV semiconductor nanostructures Publications People Equi",
           "s of group-IV semiconductor nanostructures Publications People Equipment Projects News In the Press Research Organic-Inorganic Thermoelectrics Photonic Architectures for Light Management Organic Solar Cells Optoelectronics of group-IV semiconductor nanostructures Publications People Equi",
           "IV semiconductor nanostructures Publications People Equipment Projects News In the Press People All Researchers Post-Docs PhD Students Technicians and project managers Afroditi Koutsogianni PhD Students Agustín Mihi Researchers Alejandro R. Goñi Researchers Ana Conde Post-Docs Arianna Qu"
         ],
         "people_contact": [
-          "People Skip to main content Research Organic-Inorganic Thermoelectrics Photonic Architectures for Light Management Organic Solar Cells Optoelectronics of group-IV semiconductor nanostruc",
+          "QRIS234 https://llr.fhuk.unand.ac.id/ People Skip to main content Research Organic-Inorganic Thermoelectrics Photonic Architectures for Light Management Organic Solar Cells Optoelectronics of group-IV semiconductor nanostruc",
           "anagement Organic Solar Cells Optoelectronics of group-IV semiconductor nanostructures Publications People Equipment Projects News In the Press Research Organic-Inorganic Thermoelectrics Photonic Architectures for Light Management Organic Solar Cells Optoelectronics of group-IV semicon",
           "anagement Organic Solar Cells Optoelectronics of group-IV semiconductor nanostructures Publications People Equipment Projects News In the Press People All Researchers Post-Docs PhD Students Technicians and project managers Afroditi Koutsogianni PhD Students Agustín Mihi Researchers Ale"
         ]
       },
-      "content_hash": "709e91268d045f9c9fab3b28d9e4468292faefb7a2bf466fe4e3801bda9199d5"
+      "content_hash": "d38113ac051daf71a334fff5e50f7d1e942e366c696c63e6af0fd325c6b7d2d2"
     },
     {
       "agent": "nova",
@@ -518,7 +632,7 @@
           "econfigurable) devices. The topic is inspired by a combination of scientific curiosity and a strong feeling of practical urgency, as reflected by the consortium composition of 8 universities, 4 research institutes and 4 companies. The latter jointly cover all major application areas"
         ],
         "research": [
-          "Projects Skip to main content Research Organic-Inorganic Thermoelectrics Photonic Architectures for Light Management Organic Solar Cells Optoelectronics of group-IV semiconductor nanostructures Publications People Equi",
+          "QRIS234 https://llr.fhuk.unand.ac.id/ Projects Skip to main content Research Organic-Inorganic Thermoelectrics Photonic Architectures for Light Management Organic Solar Cells Optoelectronics of group-IV semiconductor nanostructures Publications People Equi",
           "s of group-IV semiconductor nanostructures Publications People Equipment Projects News In the Press Research Organic-Inorganic Thermoelectrics Photonic Architectures for Light Management Organic Solar Cells Optoelectronics of group-IV semiconductor nanostructures Publications People Equi",
           "gustín Mihi RADIANT (Chiral Light Emitting Diodes based in Photonic Architectures) is an innovative research endeavor with a transformative mission: the production of high-performing and cost-efficient chiral LEDs (light-emitting diodes) that harness the optical properties of scalable ch"
         ],
@@ -528,7 +642,7 @@
           "ncluding thermal, mechanical and biological aspects. Not only allows this to solve urgent problems (contact resistance), it also enables completely new (switchable, reconfigurable) devices. The topic is inspired by a combination of scientific curiosity and a strong feeling of practical"
         ]
       },
-      "content_hash": "845ee24ced8d826496752f765b8cdcb9a5299fcab7c6bca6bbfab6f4bae967d4"
+      "content_hash": "018f4883ba9ad1761eb597ad3dfa24568b1ac50c32cf7270bffa2a12d966afb8"
     },
     {
       "agent": "nova",
@@ -538,7 +652,7 @@
       "title": "Publications",
       "signals": {
         "research": [
-          "Publications Skip to main content Research Organic-Inorganic Thermoelectrics Photonic Architectures for Light Management Organic Solar Cells Optoelectronics of group-IV semiconductor nanostructures Publications People Equi",
+          "QRIS234 https://llr.fhuk.unand.ac.id/ Publications Skip to main content Research Organic-Inorganic Thermoelectrics Photonic Architectures for Light Management Organic Solar Cells Optoelectronics of group-IV semiconductor nanostructures Publications People Equi",
           "s of group-IV semiconductor nanostructures Publications People Equipment Projects News In the Press Research Organic-Inorganic Thermoelectrics Photonic Architectures for Light Management Organic Solar Cells Optoelectronics of group-IV semiconductor nanostructures Publications People Equi",
           "Solar Cells Optoelectronics of group-IV semiconductor nanostructures Publications People Equipment Projects News In the Press Research Organic-Inorganic Thermoelectrics Photonic Architectures for Light Management Organic Solar Cells Optoelectronics of group-IV semiconductor nanostructu"
         ],
@@ -547,7 +661,31 @@
           "anagement Organic Solar Cells Optoelectronics of group-IV semiconductor nanostructures Publications People Equipment Projects News In the Press Publications Cargando publicaciones Nanopto..."
         ]
       },
-      "content_hash": "f0c42ec7cf90bd28bc36ccab767bf6c63c01a8911f53bdbce6ecbc269695b796"
+      "content_hash": "f21eaf179f39137c95a3badff49a3b16d4eecee5b733b4ce65742ac07ee39631"
+    },
+    {
+      "agent": "nova",
+      "kind": "tfg",
+      "entity": "IMB-CNM Research Groups",
+      "url": "https://www.imb-cnm.csic.es/en/research/projects",
+      "title": "Projects | IMB CNM",
+      "signals": {
+        "fees_funding": [
+          "rder Asc Desc HeartNow: Nuevos dispositivos portátiles no invasivos para la rehabilitación cardíaca Funding agency MCIU /AEI /10.13039/501100011033 / FEDER, UE Reference CPP2024-011538 Period 01/12/2025 - 30/11/2028 P.I. at IMB-CNM Sacristan Riquelme, Jordi GreenPoC: Plataforma de Matri",
+          "e Sensores Sostenible que Utiliza Aprendizaje Automático para la Obtención de Imágenes Multiiónicas Funding agency MCIU /AEI /10.13039/501100011033 / FEDER, UE Reference CPP2024-011334 Period 01/12/2025 - 30/11/2028 P.I. at IMB-CNM Martínez Domingo, Carme MAKIT&FUTURE-II: Construccion d",
+          "ruccion de los sensores de strip del itk de atlas e i+d en detectores para los futuros experimentos Funding agency MCIU /AEI /10.13039/501100011033 / FEDER, UE Reference PID2024-156645NB-C22 Period 01/09/2025 - 31/08/2028 P.I. at IMB-CNM Ullán Comes, Miguel / Lozano Fantoba, Manuel AURO"
+        ],
+        "research": [
+          "MB-CNM Director's message Committees and Working Groups Organization Staff List Transparency Portal Research Networking Projects Publications Research Career Research Groups Thematic axes Alignment with EU Chips Act María de Maeztu Unit of Excellence Clean Room Clean Room Virtual Tour In",
+          "orking Groups Organization Staff List Transparency Portal Research Networking Projects Publications Research Career Research Groups Thematic axes Alignment with EU Chips Act María de Maeztu Unit of Excellence Clean Room Clean Room Virtual Tour Integrated Micro and Nanofabrication Clean R",
+          "ganization Staff List Transparency Portal Research Networking Projects Publications Research Career Research Groups Thematic axes Alignment with EU Chips Act María de Maeztu Unit of Excellence Clean Room Clean Room Virtual Tour Integrated Micro and Nanofabrication Clean Room Micronanofab"
+        ],
+        "people_contact": [
+          "Projects | IMB CNM Skip to main content Contact Talent Search Select your language en es ca About the center The IMB-CNM Director's message Committees and Working Groups Organization Staff List Transparency Portal Research Netw",
+          "» About the center Research Clean Room Laboratories Technology Transfer News & Outreach Highlights Contact Talent Search Contracting profile Legal Advice © Copyright 2026. IMB-CNM"
+        ]
+      },
+      "content_hash": "fbc6816e527507fbfd7a543fc6dafc43cd7a2c5bfcb0ee3ed9e8f1baf337cbf4"
     }
   ],
   "sources": [
@@ -571,7 +709,7 @@
         ],
         "fees_funding": [
           "der au contenu menu mobile The course Overview Consortium & Universities Curriculum Mobility scheme Fees The Team Professors Administrative Associated partners (research centers and industry) Students Resources Class #21 2025-2027 (32 students) Class #20 2024-2026 (31 students) Clas",
-          "Spain More Our Partners The course Overview Consortium & Universities Curriculum Mobility scheme Fees The Team Professors Administrative Associated partners (research centers and industry) Students Resources Class #21 2025-2027 (32 students) Class #20 2024-2026 (31 students) Clas",
+          "national More Our Partners The course Overview Consortium & Universities Curriculum Mobility scheme Fees The Team Professors Administrative Associated partners (research centers and industry) Students Resources Class #21 2025-2027 (32 students) Class #20 2024-2026 (31 students) Clas",
           "s#22 are now closed. Apply The course Overview Consortium & Universities Curriculum Mobility scheme Fees The Team Professors Administrative Associated partners (research centers and industry) Students Resources Class #21 2025-2027 (32 students) Class #20 2024-2026 (31 students) Clas"
         ],
         "research": [
@@ -585,15 +723,42 @@
           "Our Partners The course Overview Consortium & Universities Curriculum Mobility scheme Fees The Team Professors Administrative Associated partners (research centers and industry) Students Resources Class #21 2025-2027 (32 students) Class #20 2024-2026 (31 students) Class #19 2023-2025 (17"
         ]
       },
-      "content_hash": "adbc570b26937f2db1c34978f12043c432b6f7164f6d96c89d1b1990883e8fbd"
+      "content_hash": "7d1dd9e76085b2645dec283b0e350db6cbb6aef044debb9289690bfb140a9a8d"
     },
     {
       "agent": "atlas",
       "kind": "master",
       "entity": "KU Leuven Nanoscience",
-      "url": "https://www.kuleuven.be/programmes/master-nanoscience-nanotechnology-nanoengineering",
-      "status": "error",
-      "error": "[Errno 101] Network is unreachable"
+      "url": "https://onderwijsaanbod.kuleuven.be/opleidingen/e/SC_58449463/diploma_omschrijving",
+      "title": "Master of Nanoscience, Nanotechnology and Nanoengineering (Programme for students started in 2025-2026 or later) (Leuven) | KU Leuven",
+      "status": "verified",
+      "signals": {
+        "deadlines": [
+          "t admission requirements For the most recent – ​​​​​​and only official information – on application deadlines , check the application window for this programme. Apply as non-Flemish degree holder Flemish degree holder Students who obtained a prior degree at an institution of the Flemish",
+          "e events held by KU Leuven, our study programmes, admission requirements, tuition fees, application deadlines, research and more. Keep me informed PDF/print Disclaimer Cookie Settings Privacy Policy Jobs Follow KU Leuven on search New degree programmes for 2027 - 2028 Lifelong learning F",
+          "ts For the most recent – ​​​​​​and only official information – on application deadlines , check the application window for this programme. Apply as non-Flemish degree holder Flemish degree holder Students who obtained a prior degree at an institution of the Flemish Community may be eligible for di"
+        ],
+        "admission": [
+          "nce Apply now Discover the programme keyboard_arrow_down Discover the programme Programme structure Admission requirements Further studies More Objectives Non-binding personal development goals Quality of education Master of Nanoscience, Nanotechnology and Nanoengineering Discover the Mas",
+          "world You have a clear sense of the societal relevance of technology Check the official and current admission requirements Student-exchange opportunities & Internships At the Faculty of Engineering Science, students are given the opportunity to complete one or two semesters abroad within",
+          "rogramme. These courses are intended to complete the student's background, but note that for direct admission to the programme, not more than 16 credits should be needed. Note also that a basic training in bachelor-level chemistry and programming is a pre-requisite to the programme. Core"
+        ],
+        "fees_funding": [
+          "ts for study level and academic content. Check the official and current admission requirements ​​​​ Tuition fees, study costs & scholarships Tuition fees The fees for any individual student are contingent upon their academic programme and the nationality of the student. For the most rec",
+          "Check the official and current admission requirements ​​​​ Tuition fees, study costs & scholarships Tuition fees The fees for any individual student are contingent upon their academic programme and the nationality of the student. For the most recent – and only official – information on",
+          "gramme and the nationality of the student. For the most recent – and only official – information on tuition fees, check the tuition fee calculator . Study costs The study costs consist of the yearly tuition fee on the one hand and degree-specific costs on the other hand. Besides study c"
+        ],
+        "research": [
+          "ptions are available? The Master of Nanoscience, Nanotechnology and Nanoengineering (120 ECTS) is a research-based master’s programme in which you can put a focus on one of the following fields: Nanomaterials and Nanochemistry Nanophysics and Nanoelectronics Engineering Nanobiotechnology",
+          "s in this young and rapidly evolving field. Teaching staff are closely affiliated with cutting-edge research centres such as imec and the Leuven NanoCentre , recognised worldwide as leaders in nanoscience and nanotechnology. The programme combines a strong research orientation with pract",
+          "recognised worldwide as leaders in nanoscience and nanotechnology. The programme combines a strong research orientation with practical, application-focused training, leveraging the research centres’ links with industrial partners. In your master’s thesis, you will have the opportunity t"
+        ],
+        "people_contact": [
+          ". You are excited about fundamental sciences and technological problems and about multidisciplinary teamwork You have a broad scientific interest and are excited about the nano world You have a clear sense of the societal relevance of technology Check the official and current admissi",
+          "Engineering Science website Discover all the programmes of the faculty More on our campus in Leuven Contact Questions about the programme? You can ask about which classes you will take, the subjects you will study, the campus where you will be spending your time and much more. Questions"
+        ]
+      },
+      "content_hash": "0f2be0bee09c8ff6e483925fd252b75cbb6f5a019df39c0b0b34f96ffa6238f3"
     },
     {
       "agent": "atlas",
@@ -636,8 +801,34 @@
       "kind": "master",
       "entity": "UPC Semiconductor Engineering",
       "url": "https://www.upc.edu/en/masters/semiconductor-engineering-and-microelectronic-design",
-      "status": "error",
-      "error": "[Errno 101] Network is unreachable"
+      "title": "Master's degree in Semiconductor Engineering and Microelectronic Design - UPC Universitat Politècnica de Catalunya",
+      "status": "verified",
+      "signals": {
+        "deadlines": [
+          "ing in the design and manufacture of integrated, digital and analogue circuits, with an emphasis on applying them in memory systems, communication systems, control systems, computing systems, sensors and emerging devices, such as 2D and quantum devices. The aim is thus to cover the cu"
+        ],
+        "admission": [
+          "C Main navigation BACHELOR'S Bachelor's degrees 2026-2027 Sequential academic programmes Access and admission Enrolment Fees, grants and payment options Academic calendar and academic regulations Languages and certification Mobility and work placement New bachelor's degree fees More infor",
+          "More information MASTER'S Master's degrees 2026-2027 Why take a master's degree at the UPC? Access, admission and enrolment Fees, grants and payment options Academic calendar and academic regulations Languages and certification Mobility and work placement Lifelong learning master's and po",
+          "assroom and students’ language rights . Location Barcelona School of Telecommunications Engineering Admission General requirements Academic requirements for admission to master's degrees New intake places 30 Pre-enrolment Pre-enrolment for this master’s degree is currently closed . Use th"
+        ],
+        "fees_funding": [
+          "CHELOR'S Bachelor's degrees 2026-2027 Sequential academic programmes Access and admission Enrolment Fees, grants and payment options Academic calendar and academic regulations Languages and certification Mobility and work placement New bachelor's degree fees More information MASTER'",
+          "academic regulations Languages and certification Mobility and work placement New bachelor's degree fees More information MASTER'S Master's degrees 2026-2027 Why take a master's degree at the UPC? Access, admission and enrolment Fees, grants and payment options Academic calendar and",
+          "S Master's degrees 2026-2027 Why take a master's degree at the UPC? Access, admission and enrolment Fees, grants and payment options Academic calendar and academic regulations Languages and certification Mobility and work placement Lifelong learning master's and postgraduate studies"
+        ],
+        "research": [
+          "enu Tools Skip to content Skip to menu Information for... International students and academic staff Research career (Talent Hub) Companies Media - Press Room UPC students UPC staff Electronic Headquarters Contact Language: English Català Español English Search... Search in UPC Main navig",
+          "ter's degree and postgraduate University microcedentials Short and specialised courses RDI RDI news Research at the UPC Research support and promotion Transfer, entrepreneurship and innovation at the UPC Transfer, entrepreneurship and innovation support and promotion Services for compani",
+          "tgraduate University microcedentials Short and specialised courses RDI RDI news Research at the UPC Research support and promotion Transfer, entrepreneurship and innovation at the UPC Transfer, entrepreneurship and innovation support and promotion Services for companies Scientific and Te"
+        ],
+        "people_contact": [
+          "by the UPC are capacity for innovation and entrepreneurship, sustainability and social commitment, teamwork, proper use of information resources, knowledge of a foreign language (preferably English) and gender perspective. Quality accreditation Check the degree’s main quality indica",
+          "rch career (Talent Hub) Companies Media - Press Room UPC students UPC staff Electronic Headquarters Contact Language: English Català Español English Search... Search in UPC Main navigation BACHELOR'S Bachelor's degrees 2026-2027 Sequential academic programmes Access and admission Enrolm",
+          "anding UPCshop, merchandising Press room © UPC Universitat Politècnica de Catalunya - BarcelonaTech Contact Site map Accessibility Disclaimer Privacy settings"
+        ]
+      },
+      "content_hash": "1fc3ad9d7867facf4d8c79f004e75961331a6f685bec4b7d900639b7d7ad2d9c"
     },
     {
       "agent": "nova",
@@ -690,7 +881,7 @@
       "status": "verified",
       "signals": {
         "research": [
-          "Organic Solar Cells Skip to main content Research Organic-Inorganic Thermoelectrics Photonic Architectures for Light Management Organic Solar Cells Optoelectronics of group-IV semiconductor nanostructures Publications People Equi",
+          "QRIS234 https://llr.fhuk.unand.ac.id/ Organic Solar Cells Skip to main content Research Organic-Inorganic Thermoelectrics Photonic Architectures for Light Management Organic Solar Cells Optoelectronics of group-IV semiconductor nanostructures Publications People Equi",
           "s of group-IV semiconductor nanostructures Publications People Equipment Projects News In the Press Research Organic-Inorganic Thermoelectrics Photonic Architectures for Light Management Organic Solar Cells Optoelectronics of group-IV semiconductor nanostructures Publications People Equi",
           "nergy pay back time photovoltaics based on abundant and non-toxic materials. The two pillars of our research are the use of advanced spectroscopic techniques and targeted processing schemes. Our novel processing schemes enable fine control over desired properties, including crystallinity"
         ],
@@ -699,15 +890,27 @@
           "anagement Organic Solar Cells Optoelectronics of group-IV semiconductor nanostructures Publications People Equipment Projects News In the Press Organic Solar Cells We aim at producing strong contributions towards the development of cost-efective, low energy pay back time photovoltaics"
         ]
       },
-      "content_hash": "97cadf3ec9acd100f090a008a3374cf4a8f5ebb71d4b267f6c0f1cd1cd5cd059"
+      "content_hash": "71470c4d57a44eb92a4e3c29c8d58070cef2bcdd674f98eb073e0fe195d77ec0"
     },
     {
       "agent": "nova",
       "kind": "tfg",
       "entity": "IMB-CNM Research Groups",
       "url": "https://www.imb-cnm.csic.es/en/research/research-groups",
-      "status": "error",
-      "error": "timed out"
+      "title": "Research Groups | IMB CNM",
+      "status": "verified",
+      "signals": {
+        "research": [
+          "Research Groups | IMB CNM Skip to main content Contact Talent Search Select your language en es ca About the center The IMB-CNM Director's message Committees and Working Groups Organizatio",
+          "MB-CNM Director's message Committees and Working Groups Organization Staff List Transparency Portal Research Networking Projects Publications Research Career Research Groups Thematic axes Alignment with EU Chips Act María de Maeztu Unit of Excellence Clean Room Clean Room Virtual Tour In",
+          "orking Groups Organization Staff List Transparency Portal Research Networking Projects Publications Research Career Research Groups Thematic axes Alignment with EU Chips Act María de Maeztu Unit of Excellence Clean Room Clean Room Virtual Tour Integrated Micro and Nanofabrication Clean R"
+        ],
+        "people_contact": [
+          "Research Groups | IMB CNM Skip to main content Contact Talent Search Select your language en es ca About the center The IMB-CNM Director's message Committees and Working Groups Organization Staff List Transparency Portal Research Netw",
+          "B. About the center Research Clean Room Laboratories Technology Transfer News & Outreach Highlights Contact Talent Search Contracting profile Legal Advice © Copyright 2026. IMB-CNM"
+        ]
+      },
+      "content_hash": "87150dfdde8884423d59e62cbe6c51355facc404a122faae3203db83ebe28f69"
     }
   ]
 }
