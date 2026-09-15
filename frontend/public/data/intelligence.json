@@ -1,10 +1,10 @@
 {
-  "generated_at": "2026-09-14T10:45:00.328563+00:00",
+  "generated_at": "2026-09-15T10:08:59.527777+00:00",
   "summary": {
     "targets": 8,
     "verified": 8,
     "discoveries": 24,
-    "changes": 2
+    "changes": 5
   },
   "changes": [
     {
@@ -14,9 +14,27 @@
       "message": "La página oficial cambió desde la última revisión."
     },
     {
+      "agent": "atlas",
+      "entity": "Politecnico di Milano Materials",
+      "url": "https://www.polimi.it/en/education/laurea-magistrale-programmes/programme-detail/materials-engineering-and-nanotechnology",
+      "message": "La página oficial cambió desde la última revisión."
+    },
+    {
+      "agent": "atlas",
+      "entity": "UPC Semiconductor Engineering",
+      "url": "https://www.upc.edu/en/masters/semiconductor-engineering-and-microelectronic-design",
+      "message": "La página oficial cambió desde la última revisión."
+    },
+    {
       "agent": "nova",
       "entity": "ICMAB Nanopto",
       "url": "https://nanopto.icmab.es/index.php/research/organic-solar-cells",
+      "message": "La página oficial cambió desde la última revisión."
+    },
+    {
+      "agent": "nova",
+      "entity": "IMB-CNM Research Groups",
+      "url": "https://www.imb-cnm.csic.es/en/research/research-groups",
       "message": "La página oficial cambió desde la última revisión."
     }
   ],
@@ -188,7 +206,7 @@
           "national dimension Learning development Welfare Sustainability and inclusion Hospitality and living Professors Tenure-track researchers Visiting professors Call for expression of interest Other resources Integrity and beyond Intranet di Ateneo Normativa di Ateneo Staff Sustainability and"
         ]
       },
-      "content_hash": "2f214cf155b44f7e101e292ad42b3e0e5a6dd526400349d39e1862751d3420ec"
+      "content_hash": "1b201a63e4c8230d92d54fe387df527b8c5a028530438911acf72528d91c6e13"
     },
     {
       "agent": "atlas",
@@ -223,7 +241,7 @@
           "national dimension Learning development Welfare Sustainability and inclusion Hospitality and living Professors Tenure-track researchers Visiting professors Call for expression of interest Other resources Integrity and beyond Intranet di Ateneo Normativa di Ateneo Staff Sustainability and"
         ]
       },
-      "content_hash": "4fb275d7beeb15e64b1f6b305ff47973060e6b881a8db40a991f5e00e393fb8a"
+      "content_hash": "92d472991de3222e09dca38553e426c4ab997258d1e9e8e6976583a85f04c1f2"
     },
     {
       "agent": "atlas",
@@ -258,7 +276,7 @@
           "national dimension Learning development Welfare Sustainability and inclusion Hospitality and living Professors Tenure-track researchers Visiting professors Call for expression of interest Other resources Integrity and beyond Intranet di Ateneo Normativa di Ateneo Staff Sustainability and"
         ]
       },
-      "content_hash": "2d83028d877ed0839225d57a720c60b3cac6d2a11bdb546a61e30d8473384ee3"
+      "content_hash": "994e6f8927f7c95956d1b389cbb500a4949a6b6900a9a5c179a1aa5b83f8e71a"
     },
     {
       "agent": "atlas",
@@ -293,7 +311,7 @@
           "national dimension Learning development Welfare Sustainability and inclusion Hospitality and living Professors Tenure-track researchers Visiting professors Call for expression of interest Other resources Integrity and beyond Intranet di Ateneo Normativa di Ateneo Staff Sustainability and"
         ]
       },
-      "content_hash": "18f5dbc094074a4fd041b61d86788fdf28fbe986803923e663eabd530bdbdf48"
+      "content_hash": "6ba8035c22e420e42f7ace34a02c7651cb4d028dbde6329f4f72083380555e90"
     },
     {
       "agent": "atlas",
@@ -619,7 +637,7 @@
           "anagement Organic Solar Cells Optoelectronics of group-IV semiconductor nanostructures Publications People Equipment Projects News In the Press People All Researchers Post-Docs PhD Students Technicians and project managers Afroditi Koutsogianni PhD Students Agustín Mihi Researchers Ale"
         ]
       },
-      "content_hash": "28b75772e93a15601fcee5b0108e3c04a6622b4e003bd4c1ecf75d1fb0f0d7a3"
+      "content_hash": "ca0dfdbe29c177db7cf232cbd6ae7bdec22589fc159c72f61ded078b1c85fced"
     },
     {
       "agent": "nova",
@@ -642,7 +660,7 @@
           "ncluding thermal, mechanical and biological aspects. Not only allows this to solve urgent problems (contact resistance), it also enables completely new (switchable, reconfigurable) devices. The topic is inspired by a combination of scientific curiosity and a strong feeling of practical"
         ]
       },
-      "content_hash": "13790f9c38401bb8a81375afb571afa164527b29d85be03fdf89d746aa6d2247"
+      "content_hash": "6aa3d919c5d41cadcbded6fbb49d5c832a10a03f2fd8abe17ccbaf1c732f0978"
     },
     {
       "agent": "nova",
@@ -661,7 +679,7 @@
           "anagement Organic Solar Cells Optoelectronics of group-IV semiconductor nanostructures Publications People Equipment Projects News In the Press Publications Cargando publicaciones Nanopto..."
         ]
       },
-      "content_hash": "ebf922f7e915e9950aee9832e85aa5c4844dea30461f85bcd9cfe32c39586257"
+      "content_hash": "437d087853a0b29c36dbd693a6b24802eeee0393963bdd6e01403717802b084c"
     },
     {
       "agent": "nova",
@@ -685,7 +703,7 @@
           "» About the center Research Clean Room Laboratories Technology Transfer News & Outreach Highlights Contact Talent Search Contracting profile Legal Advice © Copyright 2026. IMB-CNM"
         ]
       },
-      "content_hash": "00b4ead4a90a43ade459518815c0035eaca1fc370614533853c12943cf2af67a"
+      "content_hash": "6eafe38d8002e35a653396d836d51de06bf781a27036e997f22f6411bbe5ba14"
     }
   ],
   "sources": [
@@ -723,7 +741,7 @@
           "Our Partners The course Overview Consortium & Universities Curriculum Mobility scheme Fees The Team Professors Administrative Associated partners (research centers and industry) Students Resources Class #21 2025-2027 (32 students) Class #20 2024-2026 (31 students) Class #19 2023-2025 (17"
         ]
       },
-      "content_hash": "281501576f851fd1314d5c752dc56025c7cab7e6f5ffccf21ad66ca1a4c1e24b"
+      "content_hash": "6ac109c6ce0ce9ebd0e02389a829dd5ef3e247f2f6fa50935a8b765602a5497e"
     },
     {
       "agent": "atlas",
@@ -794,7 +812,7 @@
           "national dimension Learning development Welfare Sustainability and inclusion Hospitality and living Professors Tenure-track researchers Visiting professors Call for expression of interest Other resources Integrity and beyond Intranet di Ateneo Normativa di Ateneo Staff Sustainability and"
         ]
       },
-      "content_hash": "5f8b8fb39bdabaf20669beeb24959ce9c1844ebbd3093d49a9037f4836360804"
+      "content_hash": "912fc34551246931cc69612732dea4020d0984088ed722733826beef54aea361"
     },
     {
       "agent": "atlas",
@@ -828,7 +846,7 @@
           "anding UPCshop, merchandising Press room © UPC Universitat Politècnica de Catalunya - BarcelonaTech Contact Site map Accessibility Disclaimer Privacy settings"
         ]
       },
-      "content_hash": "d4876611686f82eebb08e1bb34fcf23c89bccc7857b015abfb614ff596b95717"
+      "content_hash": "c244f6663cbc2995939efe9403c6935efa067048905592c435cae87ef75837fa"
     },
     {
       "agent": "nova",
@@ -890,7 +908,7 @@
           "anagement Organic Solar Cells Optoelectronics of group-IV semiconductor nanostructures Publications People Equipment Projects News In the Press Organic Solar Cells We aim at producing strong contributions towards the development of cost-efective, low energy pay back time photovoltaics"
         ]
       },
-      "content_hash": "138617a36135f6239e25c1cdcba9203b4e2a7f25b44babd0158a71a96df1dfd6"
+      "content_hash": "afeadd5f3735af1f57c3d07be0016c9e6eb41c4748a863bf48783be4150dc8a2"
     },
     {
       "agent": "nova",
@@ -910,7 +928,7 @@
           "B. About the center Research Clean Room Laboratories Technology Transfer News & Outreach Highlights Contact Talent Search Contracting profile Legal Advice © Copyright 2026. IMB-CNM"
         ]
       },
-      "content_hash": "34f48f388c21e0ef0f6f47f0f7e8dabca2678ea96705de5890413f2caa47cf24"
+      "content_hash": "b1135990d9347df54ea5c98931b73e269e8d41fb1757c79bebdfad7b29008337"
     }
   ]
 }
