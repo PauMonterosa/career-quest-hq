@@ -1,16 +1,22 @@
 {
-  "generated_at": "2026-09-17T10:03:25.650308+00:00",
+  "generated_at": "2026-09-18T09:50:48.394153+00:00",
   "summary": {
     "targets": 8,
     "verified": 8,
     "discoveries": 24,
-    "changes": 3
+    "changes": 4
   },
   "changes": [
     {
       "agent": "atlas",
       "entity": "i-MESC",
       "url": "https://i-mesc.eu/",
+      "message": "La página oficial cambió desde la última revisión."
+    },
+    {
+      "agent": "atlas",
+      "entity": "KU Leuven Nanoscience",
+      "url": "https://onderwijsaanbod.kuleuven.be/opleidingen/e/SC_58449463/diploma_omschrijving",
       "message": "La página oficial cambió desde la última revisión."
     },
     {
@@ -390,7 +396,7 @@
           "anding UPCshop, merchandising Press room © UPC Universitat Politècnica de Catalunya - BarcelonaTech Contact Site map Accessibility Disclaimer Privacy settings"
         ]
       },
-      "content_hash": "afcbf85bdb83dd76c066287ec3d8f4140c6e4cbd36f69ad3ef667576414df769"
+      "content_hash": "8d4a79bc80d3d98a355197c3c5a80dda4c47115e38e6337702314f856276b5f0"
     },
     {
       "agent": "atlas",
@@ -625,7 +631,7 @@
           "anagement Organic Solar Cells Optoelectronics of group-IV semiconductor nanostructures Publications People Equipment Projects News In the Press People All Researchers Post-Docs PhD Students Technicians and project managers Afroditi Koutsogianni PhD Students Agustín Mihi Researchers Ale"
         ]
       },
-      "content_hash": "6eecc9097473ee9fa2cf026c91c3153fdd84a3efe942d76ad5bef27a477965a6"
+      "content_hash": "93313a89bed8b7920fc33efbb716306c92ba591bb43900e86322b4fe6dfdbc86"
     },
     {
       "agent": "nova",
@@ -648,7 +654,7 @@
           "ncluding thermal, mechanical and biological aspects. Not only allows this to solve urgent problems (contact resistance), it also enables completely new (switchable, reconfigurable) devices. The topic is inspired by a combination of scientific curiosity and a strong feeling of practical"
         ]
       },
-      "content_hash": "ea05fb4247d75bcecce86a091999a3067522e10fefaa5849f2511a9029a3c14d"
+      "content_hash": "bc82534108a2223a71352e44f27c60fe658f120279b4a29d84704ecfda94b023"
     },
     {
       "agent": "nova",
@@ -667,7 +673,7 @@
           "anagement Organic Solar Cells Optoelectronics of group-IV semiconductor nanostructures Publications People Equipment Projects News In the Press Publications Cargando publicaciones Nanopto..."
         ]
       },
-      "content_hash": "f8a085b916ed3898962834e21e45988a90489f4c4a7da31121757374fac470ab"
+      "content_hash": "e11bf9fb95835429555fe0aad850179cadb246924234a6b625995ecf5423813a"
     },
     {
       "agent": "nova",
@@ -691,7 +697,7 @@
           "» About the center Research Clean Room Laboratories Technology Transfer News & Outreach Highlights Contact Talent Search Contracting profile Legal Advice © Copyright 2026. IMB-CNM"
         ]
       },
-      "content_hash": "63e74f2b43b1e8384f081e3040eef5534b31aae10afdddaccb80f16218e667c1"
+      "content_hash": "6f8fe8d54ada2a90d49b2c2b27c2f8fa8ee674a561bdd6faf5555534c9daac2b"
     }
   ],
   "sources": [
@@ -729,7 +735,7 @@
           "Our Partners The course Overview Consortium & Universities Curriculum Mobility scheme Fees The Team Professors Administrative Associated partners (research centers and industry) Students Resources Class #21 2025-2027 (32 students) Class #20 2024-2026 (31 students) Class #19 2023-2025 (17"
         ]
       },
-      "content_hash": "1b1ce5ea84601c7d637418b00537668ded52efaa4bcba8a3e6f8369e22359cda"
+      "content_hash": "cec71b35ff85e2332c3a79abd96824599b0b3bf91f97b065404f35c09d2658b2"
     },
     {
       "agent": "atlas",
@@ -764,7 +770,7 @@
           "Engineering Science website Discover all the programmes of the faculty More on our campus in Leuven Contact Questions about the programme? You can ask about which classes you will take, the subjects you will study, the campus where you will be spending your time and much more. Questions"
         ]
       },
-      "content_hash": "66e8f4612439af426115fb2f33bca73a82e054710b664c214cf5df35a2e8f7f6"
+      "content_hash": "14b91d17e9925b5b03c63d927e56f182c06355ae869eae5ed0dccf763e1296a5"
     },
     {
       "agent": "atlas",
@@ -896,7 +902,7 @@
           "anagement Organic Solar Cells Optoelectronics of group-IV semiconductor nanostructures Publications People Equipment Projects News In the Press Organic Solar Cells We aim at producing strong contributions towards the development of cost-efective, low energy pay back time photovoltaics"
         ]
       },
-      "content_hash": "b2c4e82b0fb282e59ead36b472f830e2f47c36344eaafeab20271f56255521ed"
+      "content_hash": "6c4d62564b1000da1017f282526023341c4f377cdae4361ee06ee1053c077d25"
     },
     {
       "agent": "nova",
@@ -916,7 +922,7 @@
           "B. About the center Research Clean Room Laboratories Technology Transfer News & Outreach Highlights Contact Talent Search Contracting profile Legal Advice © Copyright 2026. IMB-CNM"
         ]
       },
-      "content_hash": "5fb1c8bc245863e15c27a13c6cdcb7e84d52e5338af88823f98fe54c4f1d11b9"
+      "content_hash": "b53d4c0630e25ee3e571cd4d3254b0492d39f17dd866d3bb74375931ca25ffd9"
     }
   ]
 }
