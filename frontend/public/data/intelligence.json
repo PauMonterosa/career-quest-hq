@@ -1,22 +1,16 @@
 {
-  "generated_at": "2026-09-18T09:50:48.394153+00:00",
+  "generated_at": "2026-09-19T09:34:44.392864+00:00",
   "summary": {
     "targets": 8,
     "verified": 8,
     "discoveries": 24,
-    "changes": 4
+    "changes": 3
   },
   "changes": [
     {
       "agent": "atlas",
       "entity": "i-MESC",
       "url": "https://i-mesc.eu/",
-      "message": "La página oficial cambió desde la última revisión."
-    },
-    {
-      "agent": "atlas",
-      "entity": "KU Leuven Nanoscience",
-      "url": "https://onderwijsaanbod.kuleuven.be/opleidingen/e/SC_58449463/diploma_omschrijving",
       "message": "La página oficial cambió desde la última revisión."
     },
     {
@@ -396,7 +390,7 @@
           "anding UPCshop, merchandising Press room © UPC Universitat Politècnica de Catalunya - BarcelonaTech Contact Site map Accessibility Disclaimer Privacy settings"
         ]
       },
-      "content_hash": "8d4a79bc80d3d98a355197c3c5a80dda4c47115e38e6337702314f856276b5f0"
+      "content_hash": "afcbf85bdb83dd76c066287ec3d8f4140c6e4cbd36f69ad3ef667576414df769"
     },
     {
       "agent": "atlas",
@@ -631,7 +625,7 @@
           "anagement Organic Solar Cells Optoelectronics of group-IV semiconductor nanostructures Publications People Equipment Projects News In the Press People All Researchers Post-Docs PhD Students Technicians and project managers Afroditi Koutsogianni PhD Students Agustín Mihi Researchers Ale"
         ]
       },
-      "content_hash": "93313a89bed8b7920fc33efbb716306c92ba591bb43900e86322b4fe6dfdbc86"
+      "content_hash": "cf9de215c30d32ca53c0b74a57f6a5cdf942d71d4e384dc29cc7019aea441f85"
     },
     {
       "agent": "nova",
@@ -654,7 +648,7 @@
           "ncluding thermal, mechanical and biological aspects. Not only allows this to solve urgent problems (contact resistance), it also enables completely new (switchable, reconfigurable) devices. The topic is inspired by a combination of scientific curiosity and a strong feeling of practical"
         ]
       },
-      "content_hash": "bc82534108a2223a71352e44f27c60fe658f120279b4a29d84704ecfda94b023"
+      "content_hash": "4e3d216f4b43bd54a0704b9b695d248179cefe3918db8327b5cb71a698626f36"
     },
     {
       "agent": "nova",
@@ -673,7 +667,7 @@
           "anagement Organic Solar Cells Optoelectronics of group-IV semiconductor nanostructures Publications People Equipment Projects News In the Press Publications Cargando publicaciones Nanopto..."
         ]
       },
-      "content_hash": "e11bf9fb95835429555fe0aad850179cadb246924234a6b625995ecf5423813a"
+      "content_hash": "88130bebd466fba501812906dccc2394af630ce539c49cae8696790b1403aa08"
     },
     {
       "agent": "nova",
@@ -697,7 +691,7 @@
           "» About the center Research Clean Room Laboratories Technology Transfer News & Outreach Highlights Contact Talent Search Contracting profile Legal Advice © Copyright 2026. IMB-CNM"
         ]
       },
-      "content_hash": "6f8fe8d54ada2a90d49b2c2b27c2f8fa8ee674a561bdd6faf5555534c9daac2b"
+      "content_hash": "3e1bdd63e08c6d756219b8d3057fdce26651f4558a7dd6cb582a6da63dac1468"
     }
   ],
   "sources": [
@@ -735,7 +729,7 @@
           "Our Partners The course Overview Consortium & Universities Curriculum Mobility scheme Fees The Team Professors Administrative Associated partners (research centers and industry) Students Resources Class #21 2025-2027 (32 students) Class #20 2024-2026 (31 students) Class #19 2023-2025 (17"
         ]
       },
-      "content_hash": "cec71b35ff85e2332c3a79abd96824599b0b3bf91f97b065404f35c09d2658b2"
+      "content_hash": "a896ac5fce8f33c12b5f1330288dbfba99f374405ab4a65390fd5f6aff1b690e"
     },
     {
       "agent": "atlas",
@@ -902,7 +896,7 @@
           "anagement Organic Solar Cells Optoelectronics of group-IV semiconductor nanostructures Publications People Equipment Projects News In the Press Organic Solar Cells We aim at producing strong contributions towards the development of cost-efective, low energy pay back time photovoltaics"
         ]
       },
-      "content_hash": "6c4d62564b1000da1017f282526023341c4f377cdae4361ee06ee1053c077d25"
+      "content_hash": "b9e74b594034892726e4bb823ab5af98c2818633a9ff166ddd33366ab472f6c5"
     },
     {
       "agent": "nova",
@@ -922,7 +916,7 @@
           "B. About the center Research Clean Room Laboratories Technology Transfer News & Outreach Highlights Contact Talent Search Contracting profile Legal Advice © Copyright 2026. IMB-CNM"
         ]
       },
-      "content_hash": "b53d4c0630e25ee3e571cd4d3254b0492d39f17dd866d3bb74375931ca25ffd9"
+      "content_hash": "adbc39c17cdc94195ed695551394a558d0f2a7ff31cf79628bb77acd4b3c5f90"
     }
   ]
 }
