@@ -1,10 +1,10 @@
 {
-  "generated_at": "2026-09-21T10:48:14.697068+00:00",
+  "generated_at": "2026-09-22T10:03:02.685155+00:00",
   "summary": {
     "targets": 8,
     "verified": 8,
     "discoveries": 24,
-    "changes": 2
+    "changes": 3
   },
   "changes": [
     {
@@ -17,6 +17,12 @@
       "agent": "nova",
       "entity": "ICMAB Nanopto",
       "url": "https://nanopto.icmab.es/index.php/research/organic-solar-cells",
+      "message": "La página oficial cambió desde la última revisión."
+    },
+    {
+      "agent": "nova",
+      "entity": "IMB-CNM Research Groups",
+      "url": "https://www.imb-cnm.csic.es/en/research/research-groups",
       "message": "La página oficial cambió desde la última revisión."
     }
   ],
@@ -188,7 +194,7 @@
           "national dimension Learning development Welfare Sustainability and inclusion Hospitality and living Professors Tenure-track researchers Visiting professors Call for expression of interest Other resources Integrity and beyond Intranet di Ateneo Normativa di Ateneo Staff Sustainability and"
         ]
       },
-      "content_hash": "7fd54346091692f835fc43fc39902cec87f30914bb61c18d800e529a58c8450f"
+      "content_hash": "1b201a63e4c8230d92d54fe387df527b8c5a028530438911acf72528d91c6e13"
     },
     {
       "agent": "atlas",
@@ -619,7 +625,7 @@
           "anagement Organic Solar Cells Optoelectronics of group-IV semiconductor nanostructures Publications People Equipment Projects News In the Press People All Researchers Post-Docs PhD Students Technicians and project managers Afroditi Koutsogianni PhD Students Agustín Mihi Researchers Ale"
         ]
       },
-      "content_hash": "129dceb4772ba8c590a084598c36e1b455c5a91f83f6ae7cd8d767059325ce6c"
+      "content_hash": "1ef542e531d8fc7e4def4c8117c1db384d803565d90aed47d355d2b468dd9fdf"
     },
     {
       "agent": "nova",
@@ -642,7 +648,7 @@
           "ncluding thermal, mechanical and biological aspects. Not only allows this to solve urgent problems (contact resistance), it also enables completely new (switchable, reconfigurable) devices. The topic is inspired by a combination of scientific curiosity and a strong feeling of practical"
         ]
       },
-      "content_hash": "5f71a07b01c839bee25d18f306d797979f6e559d3739bb4d52e58dc55bbed8dc"
+      "content_hash": "605b04b6db5d04dc2bd9ffbed11f77e842764407a3e1fd768e2920f7447bc99e"
     },
     {
       "agent": "nova",
@@ -661,7 +667,7 @@
           "anagement Organic Solar Cells Optoelectronics of group-IV semiconductor nanostructures Publications People Equipment Projects News In the Press Publications Cargando publicaciones Nanopto..."
         ]
       },
-      "content_hash": "e7e5dadaadcca7737b1cde561f79ed47998c0c27070d93583fc171c9914bf516"
+      "content_hash": "5a04b8e38b43d1e0664c9f5a265fb2748d38c46deb78c262b76db83aed218721"
     },
     {
       "agent": "nova",
@@ -685,7 +691,7 @@
           "» About the center Research Clean Room Laboratories Technology Transfer News & Outreach Highlights Contact Talent Search Contracting profile Legal Advice © Copyright 2026. IMB-CNM"
         ]
       },
-      "content_hash": "3e1bdd63e08c6d756219b8d3057fdce26651f4558a7dd6cb582a6da63dac1468"
+      "content_hash": "b024007762d48c3f53fa01c211d87a397c65346dd09fb5d0e90d052a3b1123b5"
     }
   ],
   "sources": [
@@ -698,18 +704,18 @@
       "status": "verified",
       "signals": {
         "deadlines": [
-          "2024-2026 (31 students) Class #19 2023-2025 (17 students) Class #18 2022-2024 (34 students) Alumni Apply Admission criteria Apply as a student As a scholar Scholarships For students For scholars Gallery Login G i v e E n e r g y t o y o u r s t u d i e s Dr. Zifeng LIN visit in Toulo",
-          "Class #19 2023-2025 (17 students) Class #18 2022-2024 (34 students) Alumni Apply Admission criteria Apply as a student As a scholar Scholarships For students For scholars Gallery Login G i v e E n e r g y t o y o u r s t u d i e s Dr. Zifeng LIN visit in Toulouse Dr. Zifeng LIN from S",
+          "2024-2026 (31 students) Class #19 2023-2025 (17 students) Class #18 2022-2024 (34 students) Alumni Apply Admission criteria Apply as a student As a scholar Scholarships For students For scholars Gallery Login G i v e E n e r g y t o y o u r s t u d i e s MESC20 Graduation A big miles",
+          "Class #19 2023-2025 (17 students) Class #18 2022-2024 (34 students) Alumni Apply Admission criteria Apply as a student As a scholar Scholarships For students For scholars Gallery Login G i v e E n e r g y t o y o u r s t u d i e s MESC20 Graduation A big milestone for the programme: t",
           "2024-2026 (31 students) Class #19 2023-2025 (17 students) Class #18 2022-2024 (34 students) Alumni Apply Admission criteria Apply as a student As a scholar Scholarships For students For scholars FAQ Contact Us LinkedIn i-MESC Privacy policy I would like to apply to i-MESC Class#22 (2"
         ],
         "admission": [
-          "2026 (31 students) Class #19 2023-2025 (17 students) Class #18 2022-2024 (34 students) Alumni Apply Admission criteria Apply as a student As a scholar Scholarships For students For scholars Gallery Login G i v e E n e r g y t o y o u r s t u d i e s Dr. Zifeng LIN visit in Toulouse Dr. Zi",
+          "2026 (31 students) Class #19 2023-2025 (17 students) Class #18 2022-2024 (34 students) Alumni Apply Admission criteria Apply as a student As a scholar Scholarships For students For scholars Gallery Login G i v e E n e r g y t o y o u r s t u d i e s MESC20 Graduation A big milestone for t",
           "2026 (31 students) Class #19 2023-2025 (17 students) Class #18 2022-2024 (34 students) Alumni Apply Admission criteria Apply as a student As a scholar Scholarships For students For scholars FAQ Contact Us LinkedIn i-MESC Privacy policy I would like to apply to i-MESC Class#22 (2026-2028)",
           "2026 (31 students) Class #19 2023-2025 (17 students) Class #18 2022-2024 (34 students) Alumni Apply Admission criteria Apply as a student As a scholar Scholarships For students For scholars Gallery Login fermer"
         ],
         "fees_funding": [
           "der au contenu menu mobile The course Overview Consortium & Universities Curriculum Mobility scheme Fees The Team Professors Administrative Associated partners (research centers and industry) Students Resources Class #21 2025-2027 (32 students) Class #20 2024-2026 (31 students) Clas",
-          "national More Our Partners The course Overview Consortium & Universities Curriculum Mobility scheme Fees The Team Professors Administrative Associated partners (research centers and industry) Students Resources Class #21 2025-2027 (32 students) Class #20 2024-2026 (31 students) Clas",
+          "Slovenia More Our Partners The course Overview Consortium & Universities Curriculum Mobility scheme Fees The Team Professors Administrative Associated partners (research centers and industry) Students Resources Class #21 2025-2027 (32 students) Class #20 2024-2026 (31 students) Clas",
           "s#22 are now closed. Apply The course Overview Consortium & Universities Curriculum Mobility scheme Fees The Team Professors Administrative Associated partners (research centers and industry) Students Resources Class #21 2025-2027 (32 students) Class #20 2024-2026 (31 students) Clas"
         ],
         "research": [
@@ -723,7 +729,7 @@
           "Our Partners The course Overview Consortium & Universities Curriculum Mobility scheme Fees The Team Professors Administrative Associated partners (research centers and industry) Students Resources Class #21 2025-2027 (32 students) Class #20 2024-2026 (31 students) Class #19 2023-2025 (17"
         ]
       },
-      "content_hash": "a858ab62cc4cf52e984c128c9999579722776005a2a105492763b3d4ce0c71ed"
+      "content_hash": "4ebfb47af6a8208a77fb49163f7419459c6f995e8d5f4eb19241930d5cd23471"
     },
     {
       "agent": "atlas",
@@ -890,7 +896,7 @@
           "anagement Organic Solar Cells Optoelectronics of group-IV semiconductor nanostructures Publications People Equipment Projects News In the Press Organic Solar Cells We aim at producing strong contributions towards the development of cost-efective, low energy pay back time photovoltaics"
         ]
       },
-      "content_hash": "713f947ed1ba69be50094a11be5c660cbfa7a63bfd7a4f7a457aaae776765d23"
+      "content_hash": "d9e52d69719d80baa945f59e0e488f2def1ff4267b0d544476ab6fc90ff3da69"
     },
     {
       "agent": "nova",
@@ -910,7 +916,7 @@
           "B. About the center Research Clean Room Laboratories Technology Transfer News & Outreach Highlights Contact Talent Search Contracting profile Legal Advice © Copyright 2026. IMB-CNM"
         ]
       },
-      "content_hash": "adbc39c17cdc94195ed695551394a558d0f2a7ff31cf79628bb77acd4b3c5f90"
+      "content_hash": "885e424b356b5e2b62afba9b5a6101a3fbb33e7215ecfdf99ec50394f92aa768"
     }
   ]
 }
