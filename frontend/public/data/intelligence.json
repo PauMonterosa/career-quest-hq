@@ -1,16 +1,22 @@
 {
-  "generated_at": "2026-09-30T11:12:51.199869+00:00",
+  "generated_at": "2026-10-01T11:39:54.763310+00:00",
   "summary": {
     "targets": 8,
-    "verified": 8,
-    "discoveries": 24,
-    "changes": 3
+    "verified": 6,
+    "discoveries": 16,
+    "changes": 4
   },
   "changes": [
     {
       "agent": "atlas",
       "entity": "i-MESC",
       "url": "https://i-mesc.eu/",
+      "message": "La página oficial cambió desde la última revisión."
+    },
+    {
+      "agent": "atlas",
+      "entity": "Politecnico di Milano Materials",
+      "url": "https://www.polimi.it/en/education/laurea-magistrale-programmes/programme-detail/materials-engineering-and-nanotechnology",
       "message": "La página oficial cambió desde la última revisión."
     },
     {
@@ -184,8 +190,8 @@
           "d benefits Equal opportunities and inclusion Sport and leisure Students Notices After the enrolment Tuition fees, scholarships and financial aid Study Plan and OFA Didactic Activities and Degree Examination Language requirements Special cases Calendar and deadlines Certificates and form"
         ],
         "research": [
-          "es PhD School FAQs contacts and PhD Welcome Handbook PhD News Visit the news PhD Programmes Explore Research Explore our Research Learn more News How we do research at Politecnico Research projects Il PNRR e il Politecnico Partnerships with companies (JRP) Technology Transfer Polimi Inno",
-          "ntacts and PhD Welcome Handbook PhD News Visit the news PhD Programmes Explore Research Explore our Research Learn more News How we do research at Politecnico Research projects Il PNRR e il Politecnico Partnerships with companies (JRP) Technology Transfer Polimi Innovators Departments La",
+          "Companies PhD School FAQs, contacts and PhD Handbook PhD News Visit the news PhD Programmes Explore Research Explore our Research Learn more News How we do research at Politecnico Research projects Il PNRR e il Politecnico Partnerships with companies (JRP) Technology Transfer Polimi Inno",
+          "FAQs, contacts and PhD Handbook PhD News Visit the news PhD Programmes Explore Research Explore our Research Learn more News How we do research at Politecnico Research projects Il PNRR e il Politecnico Partnerships with companies (JRP) Technology Transfer Polimi Innovators Departments La",
           "News Visit the news PhD Programmes Explore Research Explore our Research Learn more News How we do research at Politecnico Research projects Il PNRR e il Politecnico Partnerships with companies (JRP) Technology Transfer Polimi Innovators Departments Laboratories Contacts Focus on Polimi"
         ],
         "people_contact": [
@@ -194,7 +200,7 @@
           "national dimension Learning development Welfare Sustainability and inclusion Hospitality and living Professors Tenure-track researchers Visiting professors Call for expression of interest Other resources Integrity and beyond Intranet di Ateneo Normativa di Ateneo Staff Sustainability and"
         ]
       },
-      "content_hash": "1b201a63e4c8230d92d54fe387df527b8c5a028530438911acf72528d91c6e13"
+      "content_hash": "afa6103c81fc39870183e1489d1233f5f377b6f375c156c1852da4b428d6f548"
     },
     {
       "agent": "atlas",
@@ -219,8 +225,8 @@
           "students Costs and scholarships The cost of studies In this section you can find all details about tuition fees for Bachelor of Science degrees, Master of Science degrees, single-cycle Master's degree and single courses. The Polytecnico provides scholarships and benefits to reduce the"
         ],
         "research": [
-          "es PhD School FAQs contacts and PhD Welcome Handbook PhD News Visit the news PhD Programmes Explore Research Explore our Research Learn more News How we do research at Politecnico Research projects Il PNRR e il Politecnico Partnerships with companies (JRP) Technology Transfer Polimi Inno",
-          "ntacts and PhD Welcome Handbook PhD News Visit the news PhD Programmes Explore Research Explore our Research Learn more News How we do research at Politecnico Research projects Il PNRR e il Politecnico Partnerships with companies (JRP) Technology Transfer Polimi Innovators Departments La",
+          "Companies PhD School FAQs, contacts and PhD Handbook PhD News Visit the news PhD Programmes Explore Research Explore our Research Learn more News How we do research at Politecnico Research projects Il PNRR e il Politecnico Partnerships with companies (JRP) Technology Transfer Polimi Inno",
+          "FAQs, contacts and PhD Handbook PhD News Visit the news PhD Programmes Explore Research Explore our Research Learn more News How we do research at Politecnico Research projects Il PNRR e il Politecnico Partnerships with companies (JRP) Technology Transfer Polimi Innovators Departments La",
           "News Visit the news PhD Programmes Explore Research Explore our Research Learn more News How we do research at Politecnico Research projects Il PNRR e il Politecnico Partnerships with companies (JRP) Technology Transfer Polimi Innovators Departments Laboratories Contacts Focus on Polimi"
         ],
         "people_contact": [
@@ -229,7 +235,7 @@
           "national dimension Learning development Welfare Sustainability and inclusion Hospitality and living Professors Tenure-track researchers Visiting professors Call for expression of interest Other resources Integrity and beyond Intranet di Ateneo Normativa di Ateneo Staff Sustainability and"
         ]
       },
-      "content_hash": "92d472991de3222e09dca38553e426c4ab997258d1e9e8e6976583a85f04c1f2"
+      "content_hash": "f812971dd2e16efd4da07c1856dd5c0fb984f98ef139a7eaf7c2965e60f97b55"
     },
     {
       "agent": "atlas",
@@ -254,8 +260,8 @@
           "programmes Costs and scholarships Degree courses, master's degrees, five-year single-cycle courses Tuition fees Fee amount for one academic year You are a future student of the 2026/2027 academic year Second instalment of the 2026/2027 academic year Financial aid for disability Deducti"
         ],
         "research": [
-          "es PhD School FAQs contacts and PhD Welcome Handbook PhD News Visit the news PhD Programmes Explore Research Explore our Research Learn more News How we do research at Politecnico Research projects Il PNRR e il Politecnico Partnerships with companies (JRP) Technology Transfer Polimi Inno",
-          "ntacts and PhD Welcome Handbook PhD News Visit the news PhD Programmes Explore Research Explore our Research Learn more News How we do research at Politecnico Research projects Il PNRR e il Politecnico Partnerships with companies (JRP) Technology Transfer Polimi Innovators Departments La",
+          "Companies PhD School FAQs, contacts and PhD Handbook PhD News Visit the news PhD Programmes Explore Research Explore our Research Learn more News How we do research at Politecnico Research projects Il PNRR e il Politecnico Partnerships with companies (JRP) Technology Transfer Polimi Inno",
+          "FAQs, contacts and PhD Handbook PhD News Visit the news PhD Programmes Explore Research Explore our Research Learn more News How we do research at Politecnico Research projects Il PNRR e il Politecnico Partnerships with companies (JRP) Technology Transfer Polimi Innovators Departments La",
           "News Visit the news PhD Programmes Explore Research Explore our Research Learn more News How we do research at Politecnico Research projects Il PNRR e il Politecnico Partnerships with companies (JRP) Technology Transfer Polimi Innovators Departments Laboratories Contacts Focus on Polimi"
         ],
         "people_contact": [
@@ -264,7 +270,7 @@
           "national dimension Learning development Welfare Sustainability and inclusion Hospitality and living Professors Tenure-track researchers Visiting professors Call for expression of interest Other resources Integrity and beyond Intranet di Ateneo Normativa di Ateneo Staff Sustainability and"
         ]
       },
-      "content_hash": "994e6f8927f7c95956d1b389cbb500a4949a6b6900a9a5c179a1aa5b83f8e71a"
+      "content_hash": "892b1c943e2c213f690dd8161e9245449d65f3766c053c89e60abe6614d61665"
     },
     {
       "agent": "atlas",
@@ -289,8 +295,8 @@
           "n Sport and leisure Explore information for Students Learn more Notices After the enrolment Tuition fees, scholarships and financial aid Study Plan and OFA Didactic Activities and Degree Examination Language requirements Special cases Calendar and deadlines Certificates and forms Co"
         ],
         "research": [
-          "es PhD School FAQs contacts and PhD Welcome Handbook PhD News Visit the news PhD Programmes Explore Research Explore our Research Learn more News How we do research at Politecnico Research projects Il PNRR e il Politecnico Partnerships with companies (JRP) Technology Transfer Polimi Inno",
-          "ntacts and PhD Welcome Handbook PhD News Visit the news PhD Programmes Explore Research Explore our Research Learn more News How we do research at Politecnico Research projects Il PNRR e il Politecnico Partnerships with companies (JRP) Technology Transfer Polimi Innovators Departments La",
+          "Companies PhD School FAQs, contacts and PhD Handbook PhD News Visit the news PhD Programmes Explore Research Explore our Research Learn more News How we do research at Politecnico Research projects Il PNRR e il Politecnico Partnerships with companies (JRP) Technology Transfer Polimi Inno",
+          "FAQs, contacts and PhD Handbook PhD News Visit the news PhD Programmes Explore Research Explore our Research Learn more News How we do research at Politecnico Research projects Il PNRR e il Politecnico Partnerships with companies (JRP) Technology Transfer Polimi Innovators Departments La",
           "News Visit the news PhD Programmes Explore Research Explore our Research Learn more News How we do research at Politecnico Research projects Il PNRR e il Politecnico Partnerships with companies (JRP) Technology Transfer Polimi Innovators Departments Laboratories Contacts Focus on Polimi"
         ],
         "people_contact": [
@@ -299,7 +305,7 @@
           "national dimension Learning development Welfare Sustainability and inclusion Hospitality and living Professors Tenure-track researchers Visiting professors Call for expression of interest Other resources Integrity and beyond Intranet di Ateneo Normativa di Ateneo Staff Sustainability and"
         ]
       },
-      "content_hash": "6ba8035c22e420e42f7ace34a02c7651cb4d028dbde6329f4f72083380555e90"
+      "content_hash": "90e76218761c8b7e4e4079d47f6bcee143781a453fd9fbaf6dfbca52ebefdcff"
     },
     {
       "agent": "atlas",
@@ -424,192 +430,6 @@
     {
       "agent": "nova",
       "kind": "tfg",
-      "entity": "IREC Solar Energy Materials",
-      "url": "https://www.irec.cat/research-transfer/ktt/knowledge-tech-transfer-team",
-      "title": "IREC | Corporate development & technology transfer | Knowledge tech transfer team",
-      "signals": {
-        "fees_funding": [
-          "eam all about? A multidisciplinary team bridging the gap between research and industry. Identifying funding opportunities and fostering new collaborative R&D&i projects. Managing IREC’s IP portfolio and supporting technology and knowledge transfer. Promoting open science practices and m",
-          "hnologies generate tangible value for industry, public bodies and society. Business development and funding: identifying and securing collaborative projects, industrial contracts and funding opportunities that align with IREC’s strategic priorities and strengthen long-term external part",
-          "development and funding: identifying and securing collaborative projects, industrial contracts and funding opportunities that align with IREC’s strategic priorities and strengthen long-term external partnerships. Technology and knowledge transfer: managing IREC’s intellectual property"
-        ],
-        "research": [
-          "identity World-class R&D&I labs PlemCat About us Platform Facilities Call for testing opportunities Research projects Platform Facilities Call for testing opportunities Research projects Events PRIMA About us Pilot plants & facilities Talent Projects & research groups Core partners & sta",
-          "Call for testing opportunities Research projects Platform Facilities Call for testing opportunities Research projects Events PRIMA About us Pilot plants & facilities Talent Projects & research groups Core partners & stakeholders Our activities & services Testing Validation Demonstration",
-          "g opportunities Research projects Events PRIMA About us Pilot plants & facilities Talent Projects & research groups Core partners & stakeholders Our activities & services Testing Validation Demonstration & divulgation Collaborative projects Entrepreneurship & start-ups Training & qualifi"
-        ],
-        "people_contact": [
-          "to market Strategic actions Platforms & associations Projects Publications Open science Facilities People News & outreach News Events Outreach Mad for science Gara-Fecyt Search for... EN Search for... Newsletter Open science Work with us EN Search for... Home About us Mission & vision",
-          "to market Strategic actions Platforms & associations Projects Publications Open science Facilities People News & outreach News Events Outreach Mad for science Gara-Fecyt Meet the KTT Team Home Research & transfer Corporate development & technology transfer Knowledge tech transfer team",
-          "ndates and supporting data management plans across all departments. sgilabert@irec.cat See all IREC people Trustees Supported by Member of Center Awarded by Contact us Barcelona Sant Adrià +34 933 562 615 Carrer Jardins de les Dones de Negre, 1, 2a planta | 08930 Sant Adrià de Besòs (B"
-        ]
-      },
-      "content_hash": "d4c08b8761d9779b6d52b8451289dc5dddb91bb046fa609ee036d6dd84014f69"
-    },
-    {
-      "agent": "nova",
-      "kind": "tfg",
-      "entity": "IREC Solar Energy Materials",
-      "url": "https://www.irec.cat/research-transfer/projects",
-      "title": "IREC | Research & transfer | Projects",
-      "signals": {
-        "research": [
-          "IREC | Research & transfer | Projects Skip to content Newsletter Open science Work with us Home About us Mission & vision Organisation Transparency Institutional information & governance Public p",
-          "identity World-class R&D&I labs PlemCat About us Platform Facilities Call for testing opportunities Research projects Platform Facilities Call for testing opportunities Research projects Events PRIMA About us Pilot plants & facilities Talent Projects & research groups Core partners & sta",
-          "Call for testing opportunities Research projects Platform Facilities Call for testing opportunities Research projects Events PRIMA About us Pilot plants & facilities Talent Projects & research groups Core partners & stakeholders Our activities & services Testing Validation Demonstration"
-        ],
-        "people_contact": [
-          "to market Strategic actions Platforms & associations Projects Publications Open science Facilities People News & outreach News Events Outreach Mad for science Gara-Fecyt Search for... EN Search for... Newsletter Open science Work with us EN Search for... Home About us Mission & vision",
-          "to market Strategic actions Platforms & associations Projects Publications Open science Facilities People News & outreach News Events Outreach Mad for science Gara-Fecyt Competitive research across energy frontiers Home Research & transfer Projects What is Projects all about? Competit",
-          "silient buildings & communities Corporate development & technology transfer Knowledge tech transfer team Portfolio Lab to market Strategic actions Platforms & associations Projects Publications Open science Facilities People News & outreach News Events Outreach Mad for science Gara-F"
-        ]
-      },
-      "content_hash": "77f3e6e857a0157796b73a8e5d3220b1e132ed29970be9a313040b8ec4f2c475"
-    },
-    {
-      "agent": "nova",
-      "kind": "tfg",
-      "entity": "IREC Solar Energy Materials",
-      "url": "https://www.irec.cat/world-class-labs/plemcat/research-projects",
-      "title": "IREC | PlemCat | Research projects",
-      "signals": {
-        "admission": [
-          "authorisations, environmental conditions, funding availability, technical readiness and other legal requirements. PlemCat is promoted by IREC (Institut de Recerca en Energia de Catalunya) under the mandate of the Generalitat de Catalunya and with co-funding from MITECO/IDAE (Ministerio para"
-        ],
-        "fees_funding": [
-          "esting and research networks to share results and establish best practices, and supports innovation funding through European, national and regional research programmes. Social Interaction and Blue Economy This pillar ensures that floating offshore wind development at PlemCat is socially",
-          "eline milestones are indicative and subject to applicable authorisations, environmental conditions, funding availability, technical readiness and other legal requirements. PlemCat is promoted by IREC (Institut de Recerca en Energia de Catalunya) under the mandate of the Generalitat de C",
-          "t de Recerca en Energia de Catalunya) under the mandate of the Generalitat de Catalunya and with co-funding from MITECO/IDAE (Ministerio para la Transición Ecológica y el Reto Demográfico) through the RENMARINAS DEMOS programme and the Next Generation EU instrument. The platform is bein"
-        ],
-        "research": [
-          "IREC | PlemCat | Research projects Skip to content Newsletter Open science Work with us Home About us Mission & vision Organisation Transparency Institutional information & governance Public procurement &",
-          "identity World-class R&D&I labs PlemCat About us Platform Facilities Call for testing opportunities Research projects Platform Facilities Call for testing opportunities Research projects Events PRIMA About us Pilot plants & facilities Talent Projects & research groups Core partners & sta",
-          "Call for testing opportunities Research projects Platform Facilities Call for testing opportunities Research projects Events PRIMA About us Pilot plants & facilities Talent Projects & research groups Core partners & stakeholders Our activities & services Testing Validation Demonstration"
-        ],
-        "people_contact": [
-          "to market Strategic actions Platforms & associations Projects Publications Open science Facilities People News & outreach News Events Outreach Mad for science Gara-Fecyt Search for... EN CA ES Search for... Newsletter Open science Work with us EN CA ES Search for... Home About us Miss",
-          "to market Strategic actions Platforms & associations Projects Publications Open science Facilities People News & outreach News Events Outreach Mad for science Gara-Fecyt Four pillars: environment, engineering, innovation, and society Home World-class R&D&I labs PlemCat Research projec",
-          "silient buildings & communities Corporate development & technology transfer Knowledge tech transfer team Portfolio Lab to market Strategic actions Platforms & associations Projects Publications Open science Facilities People News & outreach News Events Outreach Mad for science Gara-F"
-        ]
-      },
-      "content_hash": "7202e47d10ff8f64e1e57fc21931b941dcaf6543d0cd520378e5ba97f89fc33c"
-    },
-    {
-      "agent": "nova",
-      "kind": "tfg",
-      "entity": "IREC Solar Energy Materials",
-      "url": "https://www.irec.cat/world-class-labs/prima/projects-research-groups",
-      "title": "IREC | PRIMA | Projects & research groups",
-      "signals": {
-        "research": [
-          "IREC | PRIMA | Projects & research groups Skip to content Newsletter Open science Work with us Home About us Mission & vision Organisation Transparency Institutional information & governance Public procurement & te",
-          "identity World-class R&D&I labs PlemCat About us Platform Facilities Call for testing opportunities Research projects Platform Facilities Call for testing opportunities Research projects Events PRIMA About us Pilot plants & facilities Talent Projects & research groups Core partners & sta",
-          "Call for testing opportunities Research projects Platform Facilities Call for testing opportunities Research projects Events PRIMA About us Pilot plants & facilities Talent Projects & research groups Core partners & stakeholders Our activities & services Testing Validation Demonstration"
-        ],
-        "people_contact": [
-          "to market Strategic actions Platforms & associations Projects Publications Open science Facilities People News & outreach News Events Outreach Mad for science Gara-Fecyt Search for... EN Search for... Newsletter Open science Work with us EN Search for... Home About us Mission & vision",
-          "to market Strategic actions Platforms & associations Projects Publications Open science Facilities People News & outreach News Events Outreach Mad for science Gara-Fecyt Home World-class R&D&I labs Prima Projects & research groups Trustees Supported by Member of Center Awarded by Cont",
-          "silient buildings & communities Corporate development & technology transfer Knowledge tech transfer team Portfolio Lab to market Strategic actions Platforms & associations Projects Publications Open science Facilities People News & outreach News Events Outreach Mad for science Gara-F"
-        ]
-      },
-      "content_hash": "af5a6fc5c0ab552ffad0cea6a481201ac85ac8102eac544b92334923b103a747"
-    },
-    {
-      "agent": "nova",
-      "kind": "tfg",
-      "entity": "IREC Energy Storage",
-      "url": "https://www.irec.cat/research-transfer/ktt/knowledge-tech-transfer-team",
-      "title": "IREC | Corporate development & technology transfer | Knowledge tech transfer team",
-      "signals": {
-        "fees_funding": [
-          "eam all about? A multidisciplinary team bridging the gap between research and industry. Identifying funding opportunities and fostering new collaborative R&D&i projects. Managing IREC’s IP portfolio and supporting technology and knowledge transfer. Promoting open science practices and m",
-          "hnologies generate tangible value for industry, public bodies and society. Business development and funding: identifying and securing collaborative projects, industrial contracts and funding opportunities that align with IREC’s strategic priorities and strengthen long-term external part",
-          "development and funding: identifying and securing collaborative projects, industrial contracts and funding opportunities that align with IREC’s strategic priorities and strengthen long-term external partnerships. Technology and knowledge transfer: managing IREC’s intellectual property"
-        ],
-        "research": [
-          "identity World-class R&D&I labs PlemCat About us Platform Facilities Call for testing opportunities Research projects Platform Facilities Call for testing opportunities Research projects Events PRIMA About us Pilot plants & facilities Talent Projects & research groups Core partners & sta",
-          "Call for testing opportunities Research projects Platform Facilities Call for testing opportunities Research projects Events PRIMA About us Pilot plants & facilities Talent Projects & research groups Core partners & stakeholders Our activities & services Testing Validation Demonstration",
-          "g opportunities Research projects Events PRIMA About us Pilot plants & facilities Talent Projects & research groups Core partners & stakeholders Our activities & services Testing Validation Demonstration & divulgation Collaborative projects Entrepreneurship & start-ups Training & qualifi"
-        ],
-        "people_contact": [
-          "to market Strategic actions Platforms & associations Projects Publications Open science Facilities People News & outreach News Events Outreach Mad for science Gara-Fecyt Search for... EN Search for... Newsletter Open science Work with us EN Search for... Home About us Mission & vision",
-          "to market Strategic actions Platforms & associations Projects Publications Open science Facilities People News & outreach News Events Outreach Mad for science Gara-Fecyt Meet the KTT Team Home Research & transfer Corporate development & technology transfer Knowledge tech transfer team",
-          "ndates and supporting data management plans across all departments. sgilabert@irec.cat See all IREC people Trustees Supported by Member of Center Awarded by Contact us Barcelona Sant Adrià +34 933 562 615 Carrer Jardins de les Dones de Negre, 1, 2a planta | 08930 Sant Adrià de Besòs (B"
-        ]
-      },
-      "content_hash": "d4c08b8761d9779b6d52b8451289dc5dddb91bb046fa609ee036d6dd84014f69"
-    },
-    {
-      "agent": "nova",
-      "kind": "tfg",
-      "entity": "IREC Energy Storage",
-      "url": "https://www.irec.cat/research-transfer/projects",
-      "title": "IREC | Research & transfer | Projects",
-      "signals": {
-        "research": [
-          "IREC | Research & transfer | Projects Skip to content Newsletter Open science Work with us Home About us Mission & vision Organisation Transparency Institutional information & governance Public p",
-          "identity World-class R&D&I labs PlemCat About us Platform Facilities Call for testing opportunities Research projects Platform Facilities Call for testing opportunities Research projects Events PRIMA About us Pilot plants & facilities Talent Projects & research groups Core partners & sta",
-          "Call for testing opportunities Research projects Platform Facilities Call for testing opportunities Research projects Events PRIMA About us Pilot plants & facilities Talent Projects & research groups Core partners & stakeholders Our activities & services Testing Validation Demonstration"
-        ],
-        "people_contact": [
-          "to market Strategic actions Platforms & associations Projects Publications Open science Facilities People News & outreach News Events Outreach Mad for science Gara-Fecyt Search for... EN Search for... Newsletter Open science Work with us EN Search for... Home About us Mission & vision",
-          "to market Strategic actions Platforms & associations Projects Publications Open science Facilities People News & outreach News Events Outreach Mad for science Gara-Fecyt Competitive research across energy frontiers Home Research & transfer Projects What is Projects all about? Competit",
-          "silient buildings & communities Corporate development & technology transfer Knowledge tech transfer team Portfolio Lab to market Strategic actions Platforms & associations Projects Publications Open science Facilities People News & outreach News Events Outreach Mad for science Gara-F"
-        ]
-      },
-      "content_hash": "77f3e6e857a0157796b73a8e5d3220b1e132ed29970be9a313040b8ec4f2c475"
-    },
-    {
-      "agent": "nova",
-      "kind": "tfg",
-      "entity": "IREC Energy Storage",
-      "url": "https://www.irec.cat/world-class-labs/plemcat/research-projects",
-      "title": "IREC | PlemCat | Research projects",
-      "signals": {
-        "admission": [
-          "authorisations, environmental conditions, funding availability, technical readiness and other legal requirements. PlemCat is promoted by IREC (Institut de Recerca en Energia de Catalunya) under the mandate of the Generalitat de Catalunya and with co-funding from MITECO/IDAE (Ministerio para"
-        ],
-        "fees_funding": [
-          "esting and research networks to share results and establish best practices, and supports innovation funding through European, national and regional research programmes. Social Interaction and Blue Economy This pillar ensures that floating offshore wind development at PlemCat is socially",
-          "eline milestones are indicative and subject to applicable authorisations, environmental conditions, funding availability, technical readiness and other legal requirements. PlemCat is promoted by IREC (Institut de Recerca en Energia de Catalunya) under the mandate of the Generalitat de C",
-          "t de Recerca en Energia de Catalunya) under the mandate of the Generalitat de Catalunya and with co-funding from MITECO/IDAE (Ministerio para la Transición Ecológica y el Reto Demográfico) through the RENMARINAS DEMOS programme and the Next Generation EU instrument. The platform is bein"
-        ],
-        "research": [
-          "IREC | PlemCat | Research projects Skip to content Newsletter Open science Work with us Home About us Mission & vision Organisation Transparency Institutional information & governance Public procurement &",
-          "identity World-class R&D&I labs PlemCat About us Platform Facilities Call for testing opportunities Research projects Platform Facilities Call for testing opportunities Research projects Events PRIMA About us Pilot plants & facilities Talent Projects & research groups Core partners & sta",
-          "Call for testing opportunities Research projects Platform Facilities Call for testing opportunities Research projects Events PRIMA About us Pilot plants & facilities Talent Projects & research groups Core partners & stakeholders Our activities & services Testing Validation Demonstration"
-        ],
-        "people_contact": [
-          "to market Strategic actions Platforms & associations Projects Publications Open science Facilities People News & outreach News Events Outreach Mad for science Gara-Fecyt Search for... EN CA ES Search for... Newsletter Open science Work with us EN CA ES Search for... Home About us Miss",
-          "to market Strategic actions Platforms & associations Projects Publications Open science Facilities People News & outreach News Events Outreach Mad for science Gara-Fecyt Four pillars: environment, engineering, innovation, and society Home World-class R&D&I labs PlemCat Research projec",
-          "silient buildings & communities Corporate development & technology transfer Knowledge tech transfer team Portfolio Lab to market Strategic actions Platforms & associations Projects Publications Open science Facilities People News & outreach News Events Outreach Mad for science Gara-F"
-        ]
-      },
-      "content_hash": "7202e47d10ff8f64e1e57fc21931b941dcaf6543d0cd520378e5ba97f89fc33c"
-    },
-    {
-      "agent": "nova",
-      "kind": "tfg",
-      "entity": "IREC Energy Storage",
-      "url": "https://www.irec.cat/world-class-labs/prima/projects-research-groups",
-      "title": "IREC | PRIMA | Projects & research groups",
-      "signals": {
-        "research": [
-          "IREC | PRIMA | Projects & research groups Skip to content Newsletter Open science Work with us Home About us Mission & vision Organisation Transparency Institutional information & governance Public procurement & te",
-          "identity World-class R&D&I labs PlemCat About us Platform Facilities Call for testing opportunities Research projects Platform Facilities Call for testing opportunities Research projects Events PRIMA About us Pilot plants & facilities Talent Projects & research groups Core partners & sta",
-          "Call for testing opportunities Research projects Platform Facilities Call for testing opportunities Research projects Events PRIMA About us Pilot plants & facilities Talent Projects & research groups Core partners & stakeholders Our activities & services Testing Validation Demonstration"
-        ],
-        "people_contact": [
-          "to market Strategic actions Platforms & associations Projects Publications Open science Facilities People News & outreach News Events Outreach Mad for science Gara-Fecyt Search for... EN Search for... Newsletter Open science Work with us EN Search for... Home About us Mission & vision",
-          "to market Strategic actions Platforms & associations Projects Publications Open science Facilities People News & outreach News Events Outreach Mad for science Gara-Fecyt Home World-class R&D&I labs Prima Projects & research groups Trustees Supported by Member of Center Awarded by Cont",
-          "silient buildings & communities Corporate development & technology transfer Knowledge tech transfer team Portfolio Lab to market Strategic actions Platforms & associations Projects Publications Open science Facilities People News & outreach News Events Outreach Mad for science Gara-F"
-        ]
-      },
-      "content_hash": "af5a6fc5c0ab552ffad0cea6a481201ac85ac8102eac544b92334923b103a747"
-    },
-    {
-      "agent": "nova",
-      "kind": "tfg",
       "entity": "ICMAB Nanopto",
       "url": "https://nanopto.icmab.es/index.php/people",
       "title": "People",
@@ -625,7 +445,7 @@
           "anagement Organic Solar Cells Optoelectronics of group-IV semiconductor nanostructures Publications People Equipment Projects News In the Press People All Researchers Post-Docs PhD Students Technicians and project managers Afroditi Koutsogianni PhD Students Agustín Mihi Researchers Ale"
         ]
       },
-      "content_hash": "06a59c8b18deec8dedf47a1b9ceadb2d5e99c13354e7cb70fb4b76760e6fc177"
+      "content_hash": "41ad1407691412fc8a7e81e508692460886b0c873d5a38a6010e1561e1fc0414"
     },
     {
       "agent": "nova",
@@ -648,7 +468,7 @@
           "ncluding thermal, mechanical and biological aspects. Not only allows this to solve urgent problems (contact resistance), it also enables completely new (switchable, reconfigurable) devices. The topic is inspired by a combination of scientific curiosity and a strong feeling of practical"
         ]
       },
-      "content_hash": "e425998b6530d8fd1087b83907b7d169048a507f615190f9ae5ceda401b122b5"
+      "content_hash": "60aa9d24655f9ca98fa6a6401018410d59fb7c37d52cafe2e61e2629befb61ef"
     },
     {
       "agent": "nova",
@@ -667,7 +487,7 @@
           "anagement Organic Solar Cells Optoelectronics of group-IV semiconductor nanostructures Publications People Equipment Projects News In the Press Publications Cargando publicaciones Nanopto..."
         ]
       },
-      "content_hash": "75bd9ee0f35234f4c099ae811ac9e538a0d0ff2f9f6f110ca1f412c05ed6833d"
+      "content_hash": "27939ec899cba2c2e6b8cbf5f32a7e6966f6d853e330737a322be51d2c18d3bd"
     },
     {
       "agent": "nova",
@@ -691,7 +511,7 @@
           "» About the center Research Clean Room Laboratories Technology Transfer News & Outreach Highlights Contact Talent Search Contracting profile Legal Advice © Copyright 2026. IMB-CNM"
         ]
       },
-      "content_hash": "489e3f09dc120c1535393efdd24e67c267d817d3261690270293c6ca2fa73299"
+      "content_hash": "2e2e4afa3ffd5cd21461f156685ed6369a354d5a0fc385837e87f78facd93fa0"
     }
   ],
   "sources": [
@@ -715,7 +535,7 @@
         ],
         "fees_funding": [
           "der au contenu menu mobile The course Overview Consortium & Universities Curriculum Mobility scheme Fees The Team Professors Administrative Associated partners (research centers and industry) Students Resources Class #21 2025-2027 (32 students) Class #20 2024-2026 (31 students) Clas",
-          "Slovenia More Our Partners The course Overview Consortium & Universities Curriculum Mobility scheme Fees The Team Professors Administrative Associated partners (research centers and industry) Students Resources Class #21 2025-2027 (32 students) Class #20 2024-2026 (31 students) Clas",
+          "Spain More Our Partners The course Overview Consortium & Universities Curriculum Mobility scheme Fees The Team Professors Administrative Associated partners (research centers and industry) Students Resources Class #21 2025-2027 (32 students) Class #20 2024-2026 (31 students) Clas",
           "s#22 are now closed. Apply The course Overview Consortium & Universities Curriculum Mobility scheme Fees The Team Professors Administrative Associated partners (research centers and industry) Students Resources Class #21 2025-2027 (32 students) Class #20 2024-2026 (31 students) Clas"
         ],
         "research": [
@@ -729,7 +549,7 @@
           "Our Partners The course Overview Consortium & Universities Curriculum Mobility scheme Fees The Team Professors Administrative Associated partners (research centers and industry) Students Resources Class #21 2025-2027 (32 students) Class #20 2024-2026 (31 students) Class #19 2023-2025 (17"
         ]
       },
-      "content_hash": "037474ba2be457de6f8c6ffa4b232162791923d8641885f907c48130f2dbb86f"
+      "content_hash": "c3970ca155fd543178510e9d5ac2d507b165da938065aee738a084aecbc43c2c"
     },
     {
       "agent": "atlas",
@@ -790,8 +610,8 @@
           "n Sport and leisure Explore information for Students Learn more Notices After the enrolment Tuition fees, scholarships and financial aid Study Plan and OFA Didactic Activities and Degree Examination Language requirements Special cases Calendar and deadlines Certificates and forms Co"
         ],
         "research": [
-          "es PhD School FAQs contacts and PhD Welcome Handbook PhD News Visit the news PhD Programmes Explore Research Explore our Research Learn more News How we do research at Politecnico Research projects Il PNRR e il Politecnico Partnerships with companies (JRP) Technology Transfer Polimi Inno",
-          "ntacts and PhD Welcome Handbook PhD News Visit the news PhD Programmes Explore Research Explore our Research Learn more News How we do research at Politecnico Research projects Il PNRR e il Politecnico Partnerships with companies (JRP) Technology Transfer Polimi Innovators Departments La",
+          "Companies PhD School FAQs, contacts and PhD Handbook PhD News Visit the news PhD Programmes Explore Research Explore our Research Learn more News How we do research at Politecnico Research projects Il PNRR e il Politecnico Partnerships with companies (JRP) Technology Transfer Polimi Inno",
+          "FAQs, contacts and PhD Handbook PhD News Visit the news PhD Programmes Explore Research Explore our Research Learn more News How we do research at Politecnico Research projects Il PNRR e il Politecnico Partnerships with companies (JRP) Technology Transfer Polimi Innovators Departments La",
           "News Visit the news PhD Programmes Explore Research Explore our Research Learn more News How we do research at Politecnico Research projects Il PNRR e il Politecnico Partnerships with companies (JRP) Technology Transfer Polimi Innovators Departments Laboratories Contacts Focus on Polimi"
         ],
         "people_contact": [
@@ -800,7 +620,7 @@
           "national dimension Learning development Welfare Sustainability and inclusion Hospitality and living Professors Tenure-track researchers Visiting professors Call for expression of interest Other resources Integrity and beyond Intranet di Ateneo Normativa di Ateneo Staff Sustainability and"
         ]
       },
-      "content_hash": "912fc34551246931cc69612732dea4020d0984088ed722733826beef54aea361"
+      "content_hash": "33407f8e5ff0af03b1268415bbddf17549da3771677e5780bf6865ab028d9fd3"
     },
     {
       "agent": "atlas",
@@ -841,42 +661,16 @@
       "kind": "tfg",
       "entity": "IREC Solar Energy Materials",
       "url": "https://www.irec.cat/research-transfer/solar-energy-materials-systems",
-      "title": "IREC | Research & transfer | Solar energy materials & systems",
-      "status": "verified",
-      "signals": {
-        "research": [
-          "IREC | Research & transfer | Solar energy materials & systems Skip to content Newsletter Open science Work with us Home About us Mission & vision Organisation Transparency Institutional informati",
-          "identity World-class R&D&I labs PlemCat About us Platform Facilities Call for testing opportunities Research projects Platform Facilities Call for testing opportunities Research projects Events PRIMA About us Pilot plants & facilities Talent Projects & research groups Core partners & sta",
-          "Call for testing opportunities Research projects Platform Facilities Call for testing opportunities Research projects Events PRIMA About us Pilot plants & facilities Talent Projects & research groups Core partners & stakeholders Our activities & services Testing Validation Demonstration"
-        ],
-        "people_contact": [
-          "to market Strategic actions Platforms & associations Projects Publications Open science Facilities People News & outreach News Events Outreach Mad for science Gara-Fecyt Search for... EN Search for... Newsletter Open science Work with us EN Search for... Home About us Mission & vision",
-          "to market Strategic actions Platforms & associations Projects Publications Open science Facilities People News & outreach News Events Outreach Mad for science Gara-Fecyt Accelerating thin-film photovoltaic innovation through AI-powered materials research Home Research & transfer Solar",
-          "rch contexts (including self-driving laboratory concepts) and industrial and societal applications. People A skilled team dedicated to advancing the energy transition. More info Projects Competitive and industrial projects from lab to real-world scale. More info Publications Peer-revie"
-        ]
-      },
-      "content_hash": "2ecd33a205133baa1b964c1855bec8db10b27a9748018a6a8c5b6cf0a99441c5"
+      "status": "error",
+      "error": "Server error '503 Service Unavailable' for url 'https://www.irec.cat/research-transfer/solar-energy-materials-systems'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/503"
     },
     {
       "agent": "nova",
       "kind": "tfg",
       "entity": "IREC Energy Storage",
       "url": "https://www.irec.cat/research-transfer/energy-storage-harvesting-catalysis",
-      "title": "IREC | Research & transfer | Energy storage, harvesting & catalysis",
-      "status": "verified",
-      "signals": {
-        "research": [
-          "IREC | Research & transfer | Energy storage, harvesting & catalysis Skip to content Newsletter Open science Work with us Home About us Mission & vision Organisation Transparency Institutional inf",
-          "identity World-class R&D&I labs PlemCat About us Platform Facilities Call for testing opportunities Research projects Platform Facilities Call for testing opportunities Research projects Events PRIMA About us Pilot plants & facilities Talent Projects & research groups Core partners & sta",
-          "Call for testing opportunities Research projects Platform Facilities Call for testing opportunities Research projects Events PRIMA About us Pilot plants & facilities Talent Projects & research groups Core partners & stakeholders Our activities & services Testing Validation Demonstration"
-        ],
-        "people_contact": [
-          "to market Strategic actions Platforms & associations Projects Publications Open science Facilities People News & outreach News Events Outreach Mad for science Gara-Fecyt Search for... EN Search for... Newsletter Open science Work with us EN Search for... Home About us Mission & vision",
-          "to market Strategic actions Platforms & associations Projects Publications Open science Facilities People News & outreach News Events Outreach Mad for science Gara-Fecyt Advancing batteries, sustainable fuels and autonomous energy systems for a decarbonised future Home Research & tran",
-          "laboratory advances into viable production processes for renewable and synthetic fuel applications. People A skilled team dedicated to advancing the energy transition. More info Projects Competitive and industrial projects from lab to real-world scale. More info Publications Peer-revie"
-        ]
-      },
-      "content_hash": "2326504bc7bd2812ef1f8d3089386201033cf2b88a0ffe3a32f1b28af47c193a"
+      "status": "error",
+      "error": "Server error '503 Service Unavailable' for url 'https://www.irec.cat/research-transfer/energy-storage-harvesting-catalysis'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/503"
     },
     {
       "agent": "nova",
@@ -896,7 +690,7 @@
           "anagement Organic Solar Cells Optoelectronics of group-IV semiconductor nanostructures Publications People Equipment Projects News In the Press Organic Solar Cells We aim at producing strong contributions towards the development of cost-efective, low energy pay back time photovoltaics"
         ]
       },
-      "content_hash": "5bf82b7c93f5abd349abe59184411e41835c905d851ec5cd1d4e5f1f8481e4c7"
+      "content_hash": "2142c6a9a8cc760406825c5421dd502a486d36e9cb39fd3001809edceb935282"
     },
     {
       "agent": "nova",
@@ -916,7 +710,7 @@
           "B. About the center Research Clean Room Laboratories Technology Transfer News & Outreach Highlights Contact Talent Search Contracting profile Legal Advice © Copyright 2026. IMB-CNM"
         ]
       },
-      "content_hash": "b9a0e120858b73fd60a34ee87c2af22ac35bb082fa4576b697af9a9c1e2794f1"
+      "content_hash": "e038ee884d00faa19012d5fa2985a319d9a4e4b7464a7091c6e91926e35b572b"
     }
   ]
 }
