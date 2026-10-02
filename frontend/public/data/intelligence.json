@@ -1,22 +1,16 @@
 {
-  "generated_at": "2026-10-01T11:39:54.763310+00:00",
+  "generated_at": "2026-10-02T11:09:42.948484+00:00",
   "summary": {
     "targets": 8,
-    "verified": 6,
-    "discoveries": 16,
-    "changes": 4
+    "verified": 8,
+    "discoveries": 24,
+    "changes": 3
   },
   "changes": [
     {
       "agent": "atlas",
       "entity": "i-MESC",
       "url": "https://i-mesc.eu/",
-      "message": "La página oficial cambió desde la última revisión."
-    },
-    {
-      "agent": "atlas",
-      "entity": "Politecnico di Milano Materials",
-      "url": "https://www.polimi.it/en/education/laurea-magistrale-programmes/programme-detail/materials-engineering-and-nanotechnology",
       "message": "La página oficial cambió desde la última revisión."
     },
     {
@@ -430,6 +424,192 @@
     {
       "agent": "nova",
       "kind": "tfg",
+      "entity": "IREC Solar Energy Materials",
+      "url": "https://www.irec.cat/research-transfer/ktt/knowledge-tech-transfer-team",
+      "title": "IREC | Corporate development & technology transfer | Knowledge tech transfer team",
+      "signals": {
+        "fees_funding": [
+          "eam all about? A multidisciplinary team bridging the gap between research and industry. Identifying funding opportunities and fostering new collaborative R&D&i projects. Managing IREC’s IP portfolio and supporting technology and knowledge transfer. Promoting open science practices and m",
+          "hnologies generate tangible value for industry, public bodies and society. Business development and funding: identifying and securing collaborative projects, industrial contracts and funding opportunities that align with IREC’s strategic priorities and strengthen long-term external part",
+          "development and funding: identifying and securing collaborative projects, industrial contracts and funding opportunities that align with IREC’s strategic priorities and strengthen long-term external partnerships. Technology and knowledge transfer: managing IREC’s intellectual property"
+        ],
+        "research": [
+          "identity World-class R&D&I labs PlemCat About us Platform Facilities Call for testing opportunities Research projects Platform Facilities Call for testing opportunities Research projects Events PRIMA About us Pilot plants & facilities Talent Projects & research groups Core partners & sta",
+          "Call for testing opportunities Research projects Platform Facilities Call for testing opportunities Research projects Events PRIMA About us Pilot plants & facilities Talent Projects & research groups Core partners & stakeholders Our activities & services Testing Validation Demonstration",
+          "g opportunities Research projects Events PRIMA About us Pilot plants & facilities Talent Projects & research groups Core partners & stakeholders Our activities & services Testing Validation Demonstration & divulgation Collaborative projects Entrepreneurship & start-ups Training & qualifi"
+        ],
+        "people_contact": [
+          "to market Strategic actions Platforms & associations Projects Publications Open science Facilities People News & outreach News Events Outreach Mad for science Gara-Fecyt Search for... EN Search for... Newsletter Open science Work with us EN Search for... Home About us Mission & vision",
+          "to market Strategic actions Platforms & associations Projects Publications Open science Facilities People News & outreach News Events Outreach Mad for science Gara-Fecyt Meet the KTT Team Home Research & transfer Corporate development & technology transfer Knowledge tech transfer team",
+          "ndates and supporting data management plans across all departments. sgilabert@irec.cat See all IREC people Trustees Supported by Member of Center Awarded by Contact us Barcelona Sant Adrià +34 933 562 615 Carrer Jardins de les Dones de Negre, 1, 2a planta | 08930 Sant Adrià de Besòs (B"
+        ]
+      },
+      "content_hash": "e667baf62c58ae954692770629c3d604eb8f9543882abae46baf0857eeaec9ac"
+    },
+    {
+      "agent": "nova",
+      "kind": "tfg",
+      "entity": "IREC Solar Energy Materials",
+      "url": "https://www.irec.cat/research-transfer/projects",
+      "title": "IREC | Research & transfer | Projects",
+      "signals": {
+        "research": [
+          "IREC | Research & transfer | Projects Skip to content Newsletter Open science Work with us Home About us Mission & vision Organisation Transparency Institutional information & governance Public p",
+          "identity World-class R&D&I labs PlemCat About us Platform Facilities Call for testing opportunities Research projects Platform Facilities Call for testing opportunities Research projects Events PRIMA About us Pilot plants & facilities Talent Projects & research groups Core partners & sta",
+          "Call for testing opportunities Research projects Platform Facilities Call for testing opportunities Research projects Events PRIMA About us Pilot plants & facilities Talent Projects & research groups Core partners & stakeholders Our activities & services Testing Validation Demonstration"
+        ],
+        "people_contact": [
+          "to market Strategic actions Platforms & associations Projects Publications Open science Facilities People News & outreach News Events Outreach Mad for science Gara-Fecyt Search for... EN Search for... Newsletter Open science Work with us EN Search for... Home About us Mission & vision",
+          "to market Strategic actions Platforms & associations Projects Publications Open science Facilities People News & outreach News Events Outreach Mad for science Gara-Fecyt Competitive research across energy frontiers Home Research & transfer Projects What is Projects all about? Competit",
+          "silient buildings & communities Corporate development & technology transfer Knowledge tech transfer team Portfolio Lab to market Strategic actions Platforms & associations Projects Publications Open science Facilities People News & outreach News Events Outreach Mad for science Gara-F"
+        ]
+      },
+      "content_hash": "260c0c5892a818deeb3fd27f58b5a21fa3910ddf53b2ae92c2b5d45cb98bb7c6"
+    },
+    {
+      "agent": "nova",
+      "kind": "tfg",
+      "entity": "IREC Solar Energy Materials",
+      "url": "https://www.irec.cat/world-class-labs/plemcat/research-projects",
+      "title": "IREC | PlemCat | Research projects",
+      "signals": {
+        "admission": [
+          "authorisations, environmental conditions, funding availability, technical readiness and other legal requirements. PlemCat is promoted by IREC (Institut de Recerca en Energia de Catalunya) under the mandate of the Generalitat de Catalunya and with co-funding from MITECO/IDAE (Ministerio para"
+        ],
+        "fees_funding": [
+          "esting and research networks to share results and establish best practices, and supports innovation funding through European, national and regional research programmes. Social Interaction and Blue Economy This pillar ensures that floating offshore wind development at PlemCat is socially",
+          "eline milestones are indicative and subject to applicable authorisations, environmental conditions, funding availability, technical readiness and other legal requirements. PlemCat is promoted by IREC (Institut de Recerca en Energia de Catalunya) under the mandate of the Generalitat de C",
+          "t de Recerca en Energia de Catalunya) under the mandate of the Generalitat de Catalunya and with co-funding from MITECO/IDAE (Ministerio para la Transición Ecológica y el Reto Demográfico) through the RENMARINAS DEMOS programme and the Next Generation EU instrument. The platform is bein"
+        ],
+        "research": [
+          "IREC | PlemCat | Research projects Skip to content Newsletter Open science Work with us Home About us Mission & vision Organisation Transparency Institutional information & governance Public procurement &",
+          "identity World-class R&D&I labs PlemCat About us Platform Facilities Call for testing opportunities Research projects Platform Facilities Call for testing opportunities Research projects Events PRIMA About us Pilot plants & facilities Talent Projects & research groups Core partners & sta",
+          "Call for testing opportunities Research projects Platform Facilities Call for testing opportunities Research projects Events PRIMA About us Pilot plants & facilities Talent Projects & research groups Core partners & stakeholders Our activities & services Testing Validation Demonstration"
+        ],
+        "people_contact": [
+          "to market Strategic actions Platforms & associations Projects Publications Open science Facilities People News & outreach News Events Outreach Mad for science Gara-Fecyt Search for... EN CA ES Search for... Newsletter Open science Work with us EN CA ES Search for... Home About us Miss",
+          "to market Strategic actions Platforms & associations Projects Publications Open science Facilities People News & outreach News Events Outreach Mad for science Gara-Fecyt Four pillars: environment, engineering, innovation, and society Home World-class R&D&I labs PlemCat Research projec",
+          "silient buildings & communities Corporate development & technology transfer Knowledge tech transfer team Portfolio Lab to market Strategic actions Platforms & associations Projects Publications Open science Facilities People News & outreach News Events Outreach Mad for science Gara-F"
+        ]
+      },
+      "content_hash": "d1f7ada74ca53bd4ba57bb6b3f4f1f11149b5fd4fe19ea487aafe93e00ce9de8"
+    },
+    {
+      "agent": "nova",
+      "kind": "tfg",
+      "entity": "IREC Solar Energy Materials",
+      "url": "https://www.irec.cat/world-class-labs/prima/projects-research-groups",
+      "title": "IREC | PRIMA | Projects & research groups",
+      "signals": {
+        "research": [
+          "IREC | PRIMA | Projects & research groups Skip to content Newsletter Open science Work with us Home About us Mission & vision Organisation Transparency Institutional information & governance Public procurement & te",
+          "identity World-class R&D&I labs PlemCat About us Platform Facilities Call for testing opportunities Research projects Platform Facilities Call for testing opportunities Research projects Events PRIMA About us Pilot plants & facilities Talent Projects & research groups Core partners & sta",
+          "Call for testing opportunities Research projects Platform Facilities Call for testing opportunities Research projects Events PRIMA About us Pilot plants & facilities Talent Projects & research groups Core partners & stakeholders Our activities & services Testing Validation Demonstration"
+        ],
+        "people_contact": [
+          "to market Strategic actions Platforms & associations Projects Publications Open science Facilities People News & outreach News Events Outreach Mad for science Gara-Fecyt Search for... EN Search for... Newsletter Open science Work with us EN Search for... Home About us Mission & vision",
+          "to market Strategic actions Platforms & associations Projects Publications Open science Facilities People News & outreach News Events Outreach Mad for science Gara-Fecyt Home World-class R&D&I labs Prima Projects & research groups Trustees Supported by Member of Center Awarded by Cont",
+          "silient buildings & communities Corporate development & technology transfer Knowledge tech transfer team Portfolio Lab to market Strategic actions Platforms & associations Projects Publications Open science Facilities People News & outreach News Events Outreach Mad for science Gara-F"
+        ]
+      },
+      "content_hash": "8c1fb216fc4a380e19b851eca0bb2ffdc7d38a970b67d7e305a5d40c0bb1ced4"
+    },
+    {
+      "agent": "nova",
+      "kind": "tfg",
+      "entity": "IREC Energy Storage",
+      "url": "https://www.irec.cat/research-transfer/ktt/knowledge-tech-transfer-team",
+      "title": "IREC | Corporate development & technology transfer | Knowledge tech transfer team",
+      "signals": {
+        "fees_funding": [
+          "eam all about? A multidisciplinary team bridging the gap between research and industry. Identifying funding opportunities and fostering new collaborative R&D&i projects. Managing IREC’s IP portfolio and supporting technology and knowledge transfer. Promoting open science practices and m",
+          "hnologies generate tangible value for industry, public bodies and society. Business development and funding: identifying and securing collaborative projects, industrial contracts and funding opportunities that align with IREC’s strategic priorities and strengthen long-term external part",
+          "development and funding: identifying and securing collaborative projects, industrial contracts and funding opportunities that align with IREC’s strategic priorities and strengthen long-term external partnerships. Technology and knowledge transfer: managing IREC’s intellectual property"
+        ],
+        "research": [
+          "identity World-class R&D&I labs PlemCat About us Platform Facilities Call for testing opportunities Research projects Platform Facilities Call for testing opportunities Research projects Events PRIMA About us Pilot plants & facilities Talent Projects & research groups Core partners & sta",
+          "Call for testing opportunities Research projects Platform Facilities Call for testing opportunities Research projects Events PRIMA About us Pilot plants & facilities Talent Projects & research groups Core partners & stakeholders Our activities & services Testing Validation Demonstration",
+          "g opportunities Research projects Events PRIMA About us Pilot plants & facilities Talent Projects & research groups Core partners & stakeholders Our activities & services Testing Validation Demonstration & divulgation Collaborative projects Entrepreneurship & start-ups Training & qualifi"
+        ],
+        "people_contact": [
+          "to market Strategic actions Platforms & associations Projects Publications Open science Facilities People News & outreach News Events Outreach Mad for science Gara-Fecyt Search for... EN Search for... Newsletter Open science Work with us EN Search for... Home About us Mission & vision",
+          "to market Strategic actions Platforms & associations Projects Publications Open science Facilities People News & outreach News Events Outreach Mad for science Gara-Fecyt Meet the KTT Team Home Research & transfer Corporate development & technology transfer Knowledge tech transfer team",
+          "ndates and supporting data management plans across all departments. sgilabert@irec.cat See all IREC people Trustees Supported by Member of Center Awarded by Contact us Barcelona Sant Adrià +34 933 562 615 Carrer Jardins de les Dones de Negre, 1, 2a planta | 08930 Sant Adrià de Besòs (B"
+        ]
+      },
+      "content_hash": "e667baf62c58ae954692770629c3d604eb8f9543882abae46baf0857eeaec9ac"
+    },
+    {
+      "agent": "nova",
+      "kind": "tfg",
+      "entity": "IREC Energy Storage",
+      "url": "https://www.irec.cat/research-transfer/projects",
+      "title": "IREC | Research & transfer | Projects",
+      "signals": {
+        "research": [
+          "IREC | Research & transfer | Projects Skip to content Newsletter Open science Work with us Home About us Mission & vision Organisation Transparency Institutional information & governance Public p",
+          "identity World-class R&D&I labs PlemCat About us Platform Facilities Call for testing opportunities Research projects Platform Facilities Call for testing opportunities Research projects Events PRIMA About us Pilot plants & facilities Talent Projects & research groups Core partners & sta",
+          "Call for testing opportunities Research projects Platform Facilities Call for testing opportunities Research projects Events PRIMA About us Pilot plants & facilities Talent Projects & research groups Core partners & stakeholders Our activities & services Testing Validation Demonstration"
+        ],
+        "people_contact": [
+          "to market Strategic actions Platforms & associations Projects Publications Open science Facilities People News & outreach News Events Outreach Mad for science Gara-Fecyt Search for... EN Search for... Newsletter Open science Work with us EN Search for... Home About us Mission & vision",
+          "to market Strategic actions Platforms & associations Projects Publications Open science Facilities People News & outreach News Events Outreach Mad for science Gara-Fecyt Competitive research across energy frontiers Home Research & transfer Projects What is Projects all about? Competit",
+          "silient buildings & communities Corporate development & technology transfer Knowledge tech transfer team Portfolio Lab to market Strategic actions Platforms & associations Projects Publications Open science Facilities People News & outreach News Events Outreach Mad for science Gara-F"
+        ]
+      },
+      "content_hash": "260c0c5892a818deeb3fd27f58b5a21fa3910ddf53b2ae92c2b5d45cb98bb7c6"
+    },
+    {
+      "agent": "nova",
+      "kind": "tfg",
+      "entity": "IREC Energy Storage",
+      "url": "https://www.irec.cat/world-class-labs/plemcat/research-projects",
+      "title": "IREC | PlemCat | Research projects",
+      "signals": {
+        "admission": [
+          "authorisations, environmental conditions, funding availability, technical readiness and other legal requirements. PlemCat is promoted by IREC (Institut de Recerca en Energia de Catalunya) under the mandate of the Generalitat de Catalunya and with co-funding from MITECO/IDAE (Ministerio para"
+        ],
+        "fees_funding": [
+          "esting and research networks to share results and establish best practices, and supports innovation funding through European, national and regional research programmes. Social Interaction and Blue Economy This pillar ensures that floating offshore wind development at PlemCat is socially",
+          "eline milestones are indicative and subject to applicable authorisations, environmental conditions, funding availability, technical readiness and other legal requirements. PlemCat is promoted by IREC (Institut de Recerca en Energia de Catalunya) under the mandate of the Generalitat de C",
+          "t de Recerca en Energia de Catalunya) under the mandate of the Generalitat de Catalunya and with co-funding from MITECO/IDAE (Ministerio para la Transición Ecológica y el Reto Demográfico) through the RENMARINAS DEMOS programme and the Next Generation EU instrument. The platform is bein"
+        ],
+        "research": [
+          "IREC | PlemCat | Research projects Skip to content Newsletter Open science Work with us Home About us Mission & vision Organisation Transparency Institutional information & governance Public procurement &",
+          "identity World-class R&D&I labs PlemCat About us Platform Facilities Call for testing opportunities Research projects Platform Facilities Call for testing opportunities Research projects Events PRIMA About us Pilot plants & facilities Talent Projects & research groups Core partners & sta",
+          "Call for testing opportunities Research projects Platform Facilities Call for testing opportunities Research projects Events PRIMA About us Pilot plants & facilities Talent Projects & research groups Core partners & stakeholders Our activities & services Testing Validation Demonstration"
+        ],
+        "people_contact": [
+          "to market Strategic actions Platforms & associations Projects Publications Open science Facilities People News & outreach News Events Outreach Mad for science Gara-Fecyt Search for... EN CA ES Search for... Newsletter Open science Work with us EN CA ES Search for... Home About us Miss",
+          "to market Strategic actions Platforms & associations Projects Publications Open science Facilities People News & outreach News Events Outreach Mad for science Gara-Fecyt Four pillars: environment, engineering, innovation, and society Home World-class R&D&I labs PlemCat Research projec",
+          "silient buildings & communities Corporate development & technology transfer Knowledge tech transfer team Portfolio Lab to market Strategic actions Platforms & associations Projects Publications Open science Facilities People News & outreach News Events Outreach Mad for science Gara-F"
+        ]
+      },
+      "content_hash": "d1f7ada74ca53bd4ba57bb6b3f4f1f11149b5fd4fe19ea487aafe93e00ce9de8"
+    },
+    {
+      "agent": "nova",
+      "kind": "tfg",
+      "entity": "IREC Energy Storage",
+      "url": "https://www.irec.cat/world-class-labs/prima/projects-research-groups",
+      "title": "IREC | PRIMA | Projects & research groups",
+      "signals": {
+        "research": [
+          "IREC | PRIMA | Projects & research groups Skip to content Newsletter Open science Work with us Home About us Mission & vision Organisation Transparency Institutional information & governance Public procurement & te",
+          "identity World-class R&D&I labs PlemCat About us Platform Facilities Call for testing opportunities Research projects Platform Facilities Call for testing opportunities Research projects Events PRIMA About us Pilot plants & facilities Talent Projects & research groups Core partners & sta",
+          "Call for testing opportunities Research projects Platform Facilities Call for testing opportunities Research projects Events PRIMA About us Pilot plants & facilities Talent Projects & research groups Core partners & stakeholders Our activities & services Testing Validation Demonstration"
+        ],
+        "people_contact": [
+          "to market Strategic actions Platforms & associations Projects Publications Open science Facilities People News & outreach News Events Outreach Mad for science Gara-Fecyt Search for... EN Search for... Newsletter Open science Work with us EN Search for... Home About us Mission & vision",
+          "to market Strategic actions Platforms & associations Projects Publications Open science Facilities People News & outreach News Events Outreach Mad for science Gara-Fecyt Home World-class R&D&I labs Prima Projects & research groups Trustees Supported by Member of Center Awarded by Cont",
+          "silient buildings & communities Corporate development & technology transfer Knowledge tech transfer team Portfolio Lab to market Strategic actions Platforms & associations Projects Publications Open science Facilities People News & outreach News Events Outreach Mad for science Gara-F"
+        ]
+      },
+      "content_hash": "8c1fb216fc4a380e19b851eca0bb2ffdc7d38a970b67d7e305a5d40c0bb1ced4"
+    },
+    {
+      "agent": "nova",
+      "kind": "tfg",
       "entity": "ICMAB Nanopto",
       "url": "https://nanopto.icmab.es/index.php/people",
       "title": "People",
@@ -445,7 +625,7 @@
           "anagement Organic Solar Cells Optoelectronics of group-IV semiconductor nanostructures Publications People Equipment Projects News In the Press People All Researchers Post-Docs PhD Students Technicians and project managers Afroditi Koutsogianni PhD Students Agustín Mihi Researchers Ale"
         ]
       },
-      "content_hash": "41ad1407691412fc8a7e81e508692460886b0c873d5a38a6010e1561e1fc0414"
+      "content_hash": "ed7be227ae6e1642410577b5bda72c121679f0868d6c6c5dd9e6b8755ebbe49d"
     },
     {
       "agent": "nova",
@@ -468,7 +648,7 @@
           "ncluding thermal, mechanical and biological aspects. Not only allows this to solve urgent problems (contact resistance), it also enables completely new (switchable, reconfigurable) devices. The topic is inspired by a combination of scientific curiosity and a strong feeling of practical"
         ]
       },
-      "content_hash": "60aa9d24655f9ca98fa6a6401018410d59fb7c37d52cafe2e61e2629befb61ef"
+      "content_hash": "f4514a2da54fd34ca8676b2703dfb25b75f68b70ae5de69c6842a3671ce91b0a"
     },
     {
       "agent": "nova",
@@ -487,7 +667,7 @@
           "anagement Organic Solar Cells Optoelectronics of group-IV semiconductor nanostructures Publications People Equipment Projects News In the Press Publications Cargando publicaciones Nanopto..."
         ]
       },
-      "content_hash": "27939ec899cba2c2e6b8cbf5f32a7e6966f6d853e330737a322be51d2c18d3bd"
+      "content_hash": "1b9f4220360d2e16a2d242352e97af2a7603fafba6df800a7ac301692667aac8"
     },
     {
       "agent": "nova",
@@ -511,7 +691,7 @@
           "» About the center Research Clean Room Laboratories Technology Transfer News & Outreach Highlights Contact Talent Search Contracting profile Legal Advice © Copyright 2026. IMB-CNM"
         ]
       },
-      "content_hash": "2e2e4afa3ffd5cd21461f156685ed6369a354d5a0fc385837e87f78facd93fa0"
+      "content_hash": "921f9f01ac8bcf2761f027d59ded1c8875403876768dc1afb09dd77438992b16"
     }
   ],
   "sources": [
@@ -549,7 +729,7 @@
           "Our Partners The course Overview Consortium & Universities Curriculum Mobility scheme Fees The Team Professors Administrative Associated partners (research centers and industry) Students Resources Class #21 2025-2027 (32 students) Class #20 2024-2026 (31 students) Class #19 2023-2025 (17"
         ]
       },
-      "content_hash": "c3970ca155fd543178510e9d5ac2d507b165da938065aee738a084aecbc43c2c"
+      "content_hash": "e3c31cde3e22290304911ba917e33b4d1c1dd9799e647d3ee88f167031f034ac"
     },
     {
       "agent": "atlas",
@@ -661,16 +841,42 @@
       "kind": "tfg",
       "entity": "IREC Solar Energy Materials",
       "url": "https://www.irec.cat/research-transfer/solar-energy-materials-systems",
-      "status": "error",
-      "error": "Server error '503 Service Unavailable' for url 'https://www.irec.cat/research-transfer/solar-energy-materials-systems'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/503"
+      "title": "IREC | Research & transfer | Solar energy materials & systems",
+      "status": "verified",
+      "signals": {
+        "research": [
+          "IREC | Research & transfer | Solar energy materials & systems Skip to content Newsletter Open science Work with us Home About us Mission & vision Organisation Transparency Institutional informati",
+          "identity World-class R&D&I labs PlemCat About us Platform Facilities Call for testing opportunities Research projects Platform Facilities Call for testing opportunities Research projects Events PRIMA About us Pilot plants & facilities Talent Projects & research groups Core partners & sta",
+          "Call for testing opportunities Research projects Platform Facilities Call for testing opportunities Research projects Events PRIMA About us Pilot plants & facilities Talent Projects & research groups Core partners & stakeholders Our activities & services Testing Validation Demonstration"
+        ],
+        "people_contact": [
+          "to market Strategic actions Platforms & associations Projects Publications Open science Facilities People News & outreach News Events Outreach Mad for science Gara-Fecyt Search for... EN Search for... Newsletter Open science Work with us EN Search for... Home About us Mission & vision",
+          "to market Strategic actions Platforms & associations Projects Publications Open science Facilities People News & outreach News Events Outreach Mad for science Gara-Fecyt Accelerating thin-film photovoltaic innovation through AI-powered materials research Home Research & transfer Solar",
+          "rch contexts (including self-driving laboratory concepts) and industrial and societal applications. People A skilled team dedicated to advancing the energy transition. More info Projects Competitive and industrial projects from lab to real-world scale. More info Publications Peer-revie"
+        ]
+      },
+      "content_hash": "ff7da22f328311e8d774467679ef27c569239dc8f64fd046d345d46a726373d1"
     },
     {
       "agent": "nova",
       "kind": "tfg",
       "entity": "IREC Energy Storage",
       "url": "https://www.irec.cat/research-transfer/energy-storage-harvesting-catalysis",
-      "status": "error",
-      "error": "Server error '503 Service Unavailable' for url 'https://www.irec.cat/research-transfer/energy-storage-harvesting-catalysis'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/503"
+      "title": "IREC | Research & transfer | Energy storage, harvesting & catalysis",
+      "status": "verified",
+      "signals": {
+        "research": [
+          "IREC | Research & transfer | Energy storage, harvesting & catalysis Skip to content Newsletter Open science Work with us Home About us Mission & vision Organisation Transparency Institutional inf",
+          "identity World-class R&D&I labs PlemCat About us Platform Facilities Call for testing opportunities Research projects Platform Facilities Call for testing opportunities Research projects Events PRIMA About us Pilot plants & facilities Talent Projects & research groups Core partners & sta",
+          "Call for testing opportunities Research projects Platform Facilities Call for testing opportunities Research projects Events PRIMA About us Pilot plants & facilities Talent Projects & research groups Core partners & stakeholders Our activities & services Testing Validation Demonstration"
+        ],
+        "people_contact": [
+          "to market Strategic actions Platforms & associations Projects Publications Open science Facilities People News & outreach News Events Outreach Mad for science Gara-Fecyt Search for... EN Search for... Newsletter Open science Work with us EN Search for... Home About us Mission & vision",
+          "to market Strategic actions Platforms & associations Projects Publications Open science Facilities People News & outreach News Events Outreach Mad for science Gara-Fecyt Advancing batteries, sustainable fuels and autonomous energy systems for a decarbonised future Home Research & tran",
+          "laboratory advances into viable production processes for renewable and synthetic fuel applications. People A skilled team dedicated to advancing the energy transition. More info Projects Competitive and industrial projects from lab to real-world scale. More info Publications Peer-revie"
+        ]
+      },
+      "content_hash": "85446aba960c48c9e81448af7bff9f4e6b5ce74312b7490e4377c4f9c4b9f75d"
     },
     {
       "agent": "nova",
@@ -690,7 +896,7 @@
           "anagement Organic Solar Cells Optoelectronics of group-IV semiconductor nanostructures Publications People Equipment Projects News In the Press Organic Solar Cells We aim at producing strong contributions towards the development of cost-efective, low energy pay back time photovoltaics"
         ]
       },
-      "content_hash": "2142c6a9a8cc760406825c5421dd502a486d36e9cb39fd3001809edceb935282"
+      "content_hash": "3a375f67674a6650a85536ef3e3317a62a0f00f87f963b7d9fe99b68f237c27f"
     },
     {
       "agent": "nova",
@@ -710,7 +916,7 @@
           "B. About the center Research Clean Room Laboratories Technology Transfer News & Outreach Highlights Contact Talent Search Contracting profile Legal Advice © Copyright 2026. IMB-CNM"
         ]
       },
-      "content_hash": "e038ee884d00faa19012d5fa2985a319d9a4e4b7464a7091c6e91926e35b572b"
+      "content_hash": "a0b590b80e452ff69435a9787001bfbaec43d9aee7c163f92eaebae47d9862b7"
     }
   ]
 }
