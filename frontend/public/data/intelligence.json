@@ -1,16 +1,28 @@
 {
-  "generated_at": "2026-10-05T12:20:34.046268+00:00",
+  "generated_at": "2026-10-06T12:04:42.043807+00:00",
   "summary": {
     "targets": 8,
     "verified": 8,
     "discoveries": 24,
-    "changes": 3
+    "changes": 5
   },
   "changes": [
     {
       "agent": "atlas",
       "entity": "i-MESC",
       "url": "https://i-mesc.eu/",
+      "message": "La página oficial cambió desde la última revisión."
+    },
+    {
+      "agent": "atlas",
+      "entity": "Politecnico di Milano Materials",
+      "url": "https://www.polimi.it/en/education/laurea-magistrale-programmes/programme-detail/materials-engineering-and-nanotechnology",
+      "message": "La página oficial cambió desde la última revisión."
+    },
+    {
+      "agent": "atlas",
+      "entity": "UPC Semiconductor Engineering",
+      "url": "https://www.upc.edu/en/masters/semiconductor-engineering-and-microelectronic-design",
       "message": "La página oficial cambió desde la última revisión."
     },
     {
@@ -194,7 +206,7 @@
           "national dimension Learning development Welfare Sustainability and inclusion Hospitality and living Professors Tenure-track researchers Visiting professors Call for expression of interest Other resources Integrity and beyond Intranet di Ateneo Normativa di Ateneo Staff Sustainability and"
         ]
       },
-      "content_hash": "afa6103c81fc39870183e1489d1233f5f377b6f375c156c1852da4b428d6f548"
+      "content_hash": "56275a92d5720f25b2911034c3b8de5cbebb70909f045bb21fdf0e4c16e57e4f"
     },
     {
       "agent": "atlas",
@@ -229,7 +241,7 @@
           "national dimension Learning development Welfare Sustainability and inclusion Hospitality and living Professors Tenure-track researchers Visiting professors Call for expression of interest Other resources Integrity and beyond Intranet di Ateneo Normativa di Ateneo Staff Sustainability and"
         ]
       },
-      "content_hash": "f812971dd2e16efd4da07c1856dd5c0fb984f98ef139a7eaf7c2965e60f97b55"
+      "content_hash": "ec0eadb746c860d5fbda56fbf8b0ce78e6c1186e657857c7716f2396a104e9c5"
     },
     {
       "agent": "atlas",
@@ -264,7 +276,7 @@
           "national dimension Learning development Welfare Sustainability and inclusion Hospitality and living Professors Tenure-track researchers Visiting professors Call for expression of interest Other resources Integrity and beyond Intranet di Ateneo Normativa di Ateneo Staff Sustainability and"
         ]
       },
-      "content_hash": "892b1c943e2c213f690dd8161e9245449d65f3766c053c89e60abe6614d61665"
+      "content_hash": "9c3abbad93e9ae990bbc40de47d7a3d3b0ddf4a11025ea0f4322f6dc1a1f4d6d"
     },
     {
       "agent": "atlas",
@@ -299,7 +311,7 @@
           "national dimension Learning development Welfare Sustainability and inclusion Hospitality and living Professors Tenure-track researchers Visiting professors Call for expression of interest Other resources Integrity and beyond Intranet di Ateneo Normativa di Ateneo Staff Sustainability and"
         ]
       },
-      "content_hash": "90e76218761c8b7e4e4079d47f6bcee143781a453fd9fbaf6dfbca52ebefdcff"
+      "content_hash": "aa83f639f65142b4de1cb88f6fe43f22ce8988cdec95216bf7fe3227f6d78437"
     },
     {
       "agent": "atlas",
@@ -332,7 +344,7 @@
           "anding UPCshop, merchandising Press room © UPC Universitat Politècnica de Catalunya - BarcelonaTech Contact Site map Accessibility Disclaimer Privacy settings"
         ]
       },
-      "content_hash": "bf43966e5acd091c99414839dbc543589509d934ff31ac982d860d23b5ca3e6e"
+      "content_hash": "6cd03bbadfd5aa9e80cb4f9cc17630a2362780053a1c008817afc938b2ae2b83"
     },
     {
       "agent": "atlas",
@@ -390,7 +402,7 @@
           "anding UPCshop, merchandising Press room © UPC Universitat Politècnica de Catalunya - BarcelonaTech Contact Site map Accessibility Disclaimer Privacy settings"
         ]
       },
-      "content_hash": "afcbf85bdb83dd76c066287ec3d8f4140c6e4cbd36f69ad3ef667576414df769"
+      "content_hash": "b44997079c6e2cbb086d504d5fd8a4e278dc184516ada04639cc86df5e3f90e0"
     },
     {
       "agent": "atlas",
@@ -419,7 +431,7 @@
           "anding UPCshop, merchandising Press room © UPC Universitat Politècnica de Catalunya - BarcelonaTech Contact Site map Accessibility Disclaimer Privacy settings"
         ]
       },
-      "content_hash": "e79f12677ddd9dc1732288e0d8eb5897e5f6501316adf09f3fce28ad67d31a2e"
+      "content_hash": "24ef9d8ac509d88761a890b845a64bf4c3b89315e1f4d0f169f1f933dadb2df9"
     },
     {
       "agent": "nova",
@@ -625,7 +637,7 @@
           "anagement Organic Solar Cells Optoelectronics of group-IV semiconductor nanostructures Publications People Equipment Projects News In the Press People All Researchers Post-Docs PhD Students Technicians and project managers Afroditi Koutsogianni PhD Students Agustín Mihi Researchers Ale"
         ]
       },
-      "content_hash": "993315bdae1b56c99309cec4d73a1477461ca738a5f45f54be5d4649025532c9"
+      "content_hash": "4ba8f78bd9b9ff3dc92e0194e95a3ff0920089d789e4193c5c4db0c87e312cc1"
     },
     {
       "agent": "nova",
@@ -648,7 +660,7 @@
           "ncluding thermal, mechanical and biological aspects. Not only allows this to solve urgent problems (contact resistance), it also enables completely new (switchable, reconfigurable) devices. The topic is inspired by a combination of scientific curiosity and a strong feeling of practical"
         ]
       },
-      "content_hash": "aa4855f533c167316ea38f94fdc0339610b56f9528819e5566e9aa674c61910e"
+      "content_hash": "bbebfcd1e18afb95d3912da5718efada95fa55a49a03cee3ca8130d44ffb9d5b"
     },
     {
       "agent": "nova",
@@ -667,7 +679,7 @@
           "anagement Organic Solar Cells Optoelectronics of group-IV semiconductor nanostructures Publications People Equipment Projects News In the Press Publications Cargando publicaciones Nanopto..."
         ]
       },
-      "content_hash": "a779d4cd9b7d24860b05672df11deeba0295aab13aa541db2824b014a30d100b"
+      "content_hash": "ab979dc5e6273cdec25215609c9519ded601db24e58b51312caf37fd1c3116aa"
     },
     {
       "agent": "nova",
@@ -691,7 +703,7 @@
           "» About the center Research Clean Room Laboratories Technology Transfer News & Outreach Highlights Contact Talent Search Contracting profile Legal Advice © Copyright 2026. IMB-CNM"
         ]
       },
-      "content_hash": "f2eab1db766cab9235194d35ea131a0a26f5c1a95cb35d00f995669443594f9e"
+      "content_hash": "2201fe2622737e7810194c6abffc9897ed8c4d9df7db816935c4bae10b019039"
     }
   ],
   "sources": [
@@ -729,7 +741,7 @@
           "Our Partners The course Overview Consortium & Universities Curriculum Mobility scheme Fees The Team Professors Administrative Associated partners (research centers and industry) Students Resources Class #21 2025-2027 (32 students) Class #20 2024-2026 (31 students) Class #19 2023-2025 (17"
         ]
       },
-      "content_hash": "dae22a18a5d0a9470ed70fecfe424188316bd8cc52fe485b1a3b13d39583dc0c"
+      "content_hash": "623911059bfc26eaa569e0886ce12dc2ff3da346d21c9e194227981da232d784"
     },
     {
       "agent": "atlas",
@@ -800,7 +812,7 @@
           "national dimension Learning development Welfare Sustainability and inclusion Hospitality and living Professors Tenure-track researchers Visiting professors Call for expression of interest Other resources Integrity and beyond Intranet di Ateneo Normativa di Ateneo Staff Sustainability and"
         ]
       },
-      "content_hash": "33407f8e5ff0af03b1268415bbddf17549da3771677e5780bf6865ab028d9fd3"
+      "content_hash": "af9e7e5a473423752c6be89a66b5771d890701ecaba872041b1736f5abbd0830"
     },
     {
       "agent": "atlas",
@@ -834,7 +846,7 @@
           "anding UPCshop, merchandising Press room © UPC Universitat Politècnica de Catalunya - BarcelonaTech Contact Site map Accessibility Disclaimer Privacy settings"
         ]
       },
-      "content_hash": "c244f6663cbc2995939efe9403c6935efa067048905592c435cae87ef75837fa"
+      "content_hash": "774a96673425dd9a7a9ab553230ff116fbac7f4c9bf0dddf3c722af3da3944fa"
     },
     {
       "agent": "nova",
@@ -896,7 +908,7 @@
           "anagement Organic Solar Cells Optoelectronics of group-IV semiconductor nanostructures Publications People Equipment Projects News In the Press Organic Solar Cells We aim at producing strong contributions towards the development of cost-efective, low energy pay back time photovoltaics"
         ]
       },
-      "content_hash": "12860119e23aa71b8a8f7632589740642631affafc827a58597757b60579c00a"
+      "content_hash": "ab4f0cbd6ecc7f1bc1c8c96ac891a9ce129dccecef39248d5e38621e4bdea52d"
     },
     {
       "agent": "nova",
@@ -916,7 +928,7 @@
           "B. About the center Research Clean Room Laboratories Technology Transfer News & Outreach Highlights Contact Talent Search Contracting profile Legal Advice © Copyright 2026. IMB-CNM"
         ]
       },
-      "content_hash": "09ae0ca4f734423e1b3eb704081f8c886c7adda6904dbd0cb20a845c30894ff9"
+      "content_hash": "fc13e6ccbe4e7ee8286b65e7c95b6399fb9d7828d463ea2a10e104bcabe2e1d3"
     }
   ]
 }
