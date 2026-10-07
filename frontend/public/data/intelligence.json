@@ -1,10 +1,10 @@
 {
-  "generated_at": "2026-10-06T12:04:42.043807+00:00",
+  "generated_at": "2026-10-07T11:50:12.171419+00:00",
   "summary": {
     "targets": 8,
     "verified": 8,
     "discoveries": 24,
-    "changes": 5
+    "changes": 6
   },
   "changes": [
     {
@@ -20,9 +20,15 @@
       "message": "La página oficial cambió desde la última revisión."
     },
     {
-      "agent": "atlas",
-      "entity": "UPC Semiconductor Engineering",
-      "url": "https://www.upc.edu/en/masters/semiconductor-engineering-and-microelectronic-design",
+      "agent": "nova",
+      "entity": "IREC Solar Energy Materials",
+      "url": "https://www.irec.cat/research-transfer/solar-energy-materials-systems",
+      "message": "La página oficial cambió desde la última revisión."
+    },
+    {
+      "agent": "nova",
+      "entity": "IREC Energy Storage",
+      "url": "https://www.irec.cat/research-transfer/energy-storage-harvesting-catalysis",
       "message": "La página oficial cambió desde la última revisión."
     },
     {
@@ -206,7 +212,7 @@
           "national dimension Learning development Welfare Sustainability and inclusion Hospitality and living Professors Tenure-track researchers Visiting professors Call for expression of interest Other resources Integrity and beyond Intranet di Ateneo Normativa di Ateneo Staff Sustainability and"
         ]
       },
-      "content_hash": "56275a92d5720f25b2911034c3b8de5cbebb70909f045bb21fdf0e4c16e57e4f"
+      "content_hash": "8829acb7d8ba5efe9a50c0a79a370f07151ff8b7ef057c5346c493a310aac099"
     },
     {
       "agent": "atlas",
@@ -241,7 +247,7 @@
           "national dimension Learning development Welfare Sustainability and inclusion Hospitality and living Professors Tenure-track researchers Visiting professors Call for expression of interest Other resources Integrity and beyond Intranet di Ateneo Normativa di Ateneo Staff Sustainability and"
         ]
       },
-      "content_hash": "ec0eadb746c860d5fbda56fbf8b0ce78e6c1186e657857c7716f2396a104e9c5"
+      "content_hash": "e6a73e3ee59256e9618e1b032c1483d5d87e0c4a456c1734acd4dd16071bd852"
     },
     {
       "agent": "atlas",
@@ -276,7 +282,7 @@
           "national dimension Learning development Welfare Sustainability and inclusion Hospitality and living Professors Tenure-track researchers Visiting professors Call for expression of interest Other resources Integrity and beyond Intranet di Ateneo Normativa di Ateneo Staff Sustainability and"
         ]
       },
-      "content_hash": "9c3abbad93e9ae990bbc40de47d7a3d3b0ddf4a11025ea0f4322f6dc1a1f4d6d"
+      "content_hash": "deb0ea11cac1015fcf09c21aad06558a8be134fca26de8635927008cb5df3aba"
     },
     {
       "agent": "atlas",
@@ -311,7 +317,7 @@
           "national dimension Learning development Welfare Sustainability and inclusion Hospitality and living Professors Tenure-track researchers Visiting professors Call for expression of interest Other resources Integrity and beyond Intranet di Ateneo Normativa di Ateneo Staff Sustainability and"
         ]
       },
-      "content_hash": "aa83f639f65142b4de1cb88f6fe43f22ce8988cdec95216bf7fe3227f6d78437"
+      "content_hash": "f51b11cce87824d262427a8f99c8896c382591f94a258a033fa971f1126fbde0"
     },
     {
       "agent": "atlas",
@@ -456,7 +462,7 @@
           "ndates and supporting data management plans across all departments. sgilabert@irec.cat See all IREC people Trustees Supported by Member of Center Awarded by Contact us Barcelona Sant Adrià +34 933 562 615 Carrer Jardins de les Dones de Negre, 1, 2a planta | 08930 Sant Adrià de Besòs (B"
         ]
       },
-      "content_hash": "e667baf62c58ae954692770629c3d604eb8f9543882abae46baf0857eeaec9ac"
+      "content_hash": "c1f23ebcd9830b23002001efbc84e9e6c2ca38e69092a801fbec64b3a6177d70"
     },
     {
       "agent": "nova",
@@ -476,7 +482,7 @@
           "silient buildings & communities Corporate development & technology transfer Knowledge tech transfer team Portfolio Lab to market Strategic actions Platforms & associations Projects Publications Open science Facilities People News & outreach News Events Outreach Mad for science Gara-F"
         ]
       },
-      "content_hash": "260c0c5892a818deeb3fd27f58b5a21fa3910ddf53b2ae92c2b5d45cb98bb7c6"
+      "content_hash": "b6b8ec2f8c00963463aa2a9de29b47875fbef7e9ca11ca3dfc16bd561121d23c"
     },
     {
       "agent": "nova",
@@ -549,7 +555,7 @@
           "ndates and supporting data management plans across all departments. sgilabert@irec.cat See all IREC people Trustees Supported by Member of Center Awarded by Contact us Barcelona Sant Adrià +34 933 562 615 Carrer Jardins de les Dones de Negre, 1, 2a planta | 08930 Sant Adrià de Besòs (B"
         ]
       },
-      "content_hash": "e667baf62c58ae954692770629c3d604eb8f9543882abae46baf0857eeaec9ac"
+      "content_hash": "c1f23ebcd9830b23002001efbc84e9e6c2ca38e69092a801fbec64b3a6177d70"
     },
     {
       "agent": "nova",
@@ -569,7 +575,7 @@
           "silient buildings & communities Corporate development & technology transfer Knowledge tech transfer team Portfolio Lab to market Strategic actions Platforms & associations Projects Publications Open science Facilities People News & outreach News Events Outreach Mad for science Gara-F"
         ]
       },
-      "content_hash": "260c0c5892a818deeb3fd27f58b5a21fa3910ddf53b2ae92c2b5d45cb98bb7c6"
+      "content_hash": "b6b8ec2f8c00963463aa2a9de29b47875fbef7e9ca11ca3dfc16bd561121d23c"
     },
     {
       "agent": "nova",
@@ -637,7 +643,7 @@
           "anagement Organic Solar Cells Optoelectronics of group-IV semiconductor nanostructures Publications People Equipment Projects News In the Press People All Researchers Post-Docs PhD Students Technicians and project managers Afroditi Koutsogianni PhD Students Agustín Mihi Researchers Ale"
         ]
       },
-      "content_hash": "4ba8f78bd9b9ff3dc92e0194e95a3ff0920089d789e4193c5c4db0c87e312cc1"
+      "content_hash": "ebed814934978a0b1a57b579d1d2205b39cd7cb7ff501b1574c4c207334f5efd"
     },
     {
       "agent": "nova",
@@ -660,7 +666,7 @@
           "ncluding thermal, mechanical and biological aspects. Not only allows this to solve urgent problems (contact resistance), it also enables completely new (switchable, reconfigurable) devices. The topic is inspired by a combination of scientific curiosity and a strong feeling of practical"
         ]
       },
-      "content_hash": "bbebfcd1e18afb95d3912da5718efada95fa55a49a03cee3ca8130d44ffb9d5b"
+      "content_hash": "de4da8570948d74d3ce7814f671273a2a6405e5c7ba91f23460d34c10867ee48"
     },
     {
       "agent": "nova",
@@ -679,7 +685,7 @@
           "anagement Organic Solar Cells Optoelectronics of group-IV semiconductor nanostructures Publications People Equipment Projects News In the Press Publications Cargando publicaciones Nanopto..."
         ]
       },
-      "content_hash": "ab979dc5e6273cdec25215609c9519ded601db24e58b51312caf37fd1c3116aa"
+      "content_hash": "718575c07a1e0b4a276b72100c5a3635c66d8672362a495c1d7078067bcf4046"
     },
     {
       "agent": "nova",
@@ -703,7 +709,7 @@
           "» About the center Research Clean Room Laboratories Technology Transfer News & Outreach Highlights Contact Talent Search Contracting profile Legal Advice © Copyright 2026. IMB-CNM"
         ]
       },
-      "content_hash": "2201fe2622737e7810194c6abffc9897ed8c4d9df7db816935c4bae10b019039"
+      "content_hash": "ea624bf3db3887f5f217160de923ec5a4faa2ef641e933ffa3ce149945a765b8"
     }
   ],
   "sources": [
@@ -741,7 +747,7 @@
           "Our Partners The course Overview Consortium & Universities Curriculum Mobility scheme Fees The Team Professors Administrative Associated partners (research centers and industry) Students Resources Class #21 2025-2027 (32 students) Class #20 2024-2026 (31 students) Class #19 2023-2025 (17"
         ]
       },
-      "content_hash": "623911059bfc26eaa569e0886ce12dc2ff3da346d21c9e194227981da232d784"
+      "content_hash": "abcec521a5e04ff54f160303210a330e68b50a838da6f31f8deb0addfaa6ca06"
     },
     {
       "agent": "atlas",
@@ -812,7 +818,7 @@
           "national dimension Learning development Welfare Sustainability and inclusion Hospitality and living Professors Tenure-track researchers Visiting professors Call for expression of interest Other resources Integrity and beyond Intranet di Ateneo Normativa di Ateneo Staff Sustainability and"
         ]
       },
-      "content_hash": "af9e7e5a473423752c6be89a66b5771d890701ecaba872041b1736f5abbd0830"
+      "content_hash": "defe6d5fd141fb215d1d830f27ba98eee41ebb071f4b68c331e34d46c9e8efe0"
     },
     {
       "agent": "atlas",
@@ -867,7 +873,7 @@
           "rch contexts (including self-driving laboratory concepts) and industrial and societal applications. People A skilled team dedicated to advancing the energy transition. More info Projects Competitive and industrial projects from lab to real-world scale. More info Publications Peer-revie"
         ]
       },
-      "content_hash": "ff7da22f328311e8d774467679ef27c569239dc8f64fd046d345d46a726373d1"
+      "content_hash": "10a1b856c92ce675f1c3a801e0ecf20c6d3aab059bf36cb018cc6dc1f5f38c4b"
     },
     {
       "agent": "nova",
@@ -888,7 +894,7 @@
           "laboratory advances into viable production processes for renewable and synthetic fuel applications. People A skilled team dedicated to advancing the energy transition. More info Projects Competitive and industrial projects from lab to real-world scale. More info Publications Peer-revie"
         ]
       },
-      "content_hash": "85446aba960c48c9e81448af7bff9f4e6b5ce74312b7490e4377c4f9c4b9f75d"
+      "content_hash": "1a99edec0d9d845a744f4c67dc97d769c3c69a92484fea5b7e7a1d8fcf30c85d"
     },
     {
       "agent": "nova",
@@ -908,7 +914,7 @@
           "anagement Organic Solar Cells Optoelectronics of group-IV semiconductor nanostructures Publications People Equipment Projects News In the Press Organic Solar Cells We aim at producing strong contributions towards the development of cost-efective, low energy pay back time photovoltaics"
         ]
       },
-      "content_hash": "ab4f0cbd6ecc7f1bc1c8c96ac891a9ce129dccecef39248d5e38621e4bdea52d"
+      "content_hash": "a3d5e41b1da7621b56e77a136fbcc25f2f54829da19e766608e3bb5a0ffc686f"
     },
     {
       "agent": "nova",
@@ -928,7 +934,7 @@
           "B. About the center Research Clean Room Laboratories Technology Transfer News & Outreach Highlights Contact Talent Search Contracting profile Legal Advice © Copyright 2026. IMB-CNM"
         ]
       },
-      "content_hash": "fc13e6ccbe4e7ee8286b65e7c95b6399fb9d7828d463ea2a10e104bcabe2e1d3"
+      "content_hash": "f9170fd5bcddf5da8c98e5e16c6232f47bcecbdd07e40c3232d052a2c618db48"
     }
   ]
 }
