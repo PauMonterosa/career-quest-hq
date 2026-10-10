@@ -1,10 +1,10 @@
 {
-  "generated_at": "2026-10-09T11:57:03.849151+00:00",
+  "generated_at": "2026-10-10T11:13:37.536011+00:00",
   "summary": {
     "targets": 8,
     "verified": 8,
     "discoveries": 24,
-    "changes": 4
+    "changes": 3
   },
   "changes": [
     {
@@ -23,12 +23,6 @@
       "agent": "nova",
       "entity": "ICMAB Nanopto",
       "url": "https://nanopto.icmab.es/index.php/research/organic-solar-cells",
-      "message": "La página oficial cambió desde la última revisión."
-    },
-    {
-      "agent": "nova",
-      "entity": "IMB-CNM Research Groups",
-      "url": "https://www.imb-cnm.csic.es/en/research/research-groups",
       "message": "La página oficial cambió desde la última revisión."
     }
   ],
@@ -200,7 +194,7 @@
           "national dimension Learning development Welfare Sustainability and inclusion Hospitality and living Professors Tenure-track researchers Visiting professors Call for expression of interest Other resources Integrity and beyond Intranet di Ateneo Normativa di Ateneo Staff Sustainability and"
         ]
       },
-      "content_hash": "8829acb7d8ba5efe9a50c0a79a370f07151ff8b7ef057c5346c493a310aac099"
+      "content_hash": "db455fc8f1b543d56307dcbbfdee0aea6f00c0412e14a982093e9654d45c91d2"
     },
     {
       "agent": "atlas",
@@ -631,7 +625,7 @@
           "anagement Organic Solar Cells Optoelectronics of group-IV semiconductor nanostructures Publications People Equipment Projects News In the Press People All Researchers Post-Docs PhD Students Technicians and project managers Afroditi Koutsogianni PhD Students Agustín Mihi Researchers Ale"
         ]
       },
-      "content_hash": "0bcea1b6750cc4f6097389b837757e3fc259003300af5280c89b5b44ec959044"
+      "content_hash": "f57989304feccbec57eb13862edbf2fce2f146d4a60ec4209e0aa8ea710e42fd"
     },
     {
       "agent": "nova",
@@ -654,7 +648,7 @@
           "ncluding thermal, mechanical and biological aspects. Not only allows this to solve urgent problems (contact resistance), it also enables completely new (switchable, reconfigurable) devices. The topic is inspired by a combination of scientific curiosity and a strong feeling of practical"
         ]
       },
-      "content_hash": "447bda17c0bec925e5a3d095a40516259f506790d445f75bbf434364817be05c"
+      "content_hash": "6b503c29a14c31e1fcaff0a910b51ab40922849b2155356748561d9aa3ab45e3"
     },
     {
       "agent": "nova",
@@ -673,7 +667,7 @@
           "anagement Organic Solar Cells Optoelectronics of group-IV semiconductor nanostructures Publications People Equipment Projects News In the Press Publications Cargando publicaciones Nanopto..."
         ]
       },
-      "content_hash": "1d6ca990b3794571c6fa9b8372d96671810444fb10d8a285b981af01e9701670"
+      "content_hash": "75bb90572482d81b061673a513b0a021559183ad9f4039c07789ef5029bf05be"
     },
     {
       "agent": "nova",
@@ -735,7 +729,7 @@
           "Our Partners The course Overview Consortium & Universities Curriculum Mobility scheme Fees The Team Professors Administrative Associated partners (research centers and industry) Students Resources Class #21 2025-2027 (32 students) Class #20 2024-2026 (31 students) Class #19 2023-2025 (17"
         ]
       },
-      "content_hash": "4a5116c73f190e3e69050eb4d45a228f0ae682de0e303e3b792912ce77a3cd0b"
+      "content_hash": "72c4e09d93c753e81240026f0fc6a4d786880e9455c284dd1f9ecf3bba4cbc63"
     },
     {
       "agent": "atlas",
@@ -806,7 +800,7 @@
           "national dimension Learning development Welfare Sustainability and inclusion Hospitality and living Professors Tenure-track researchers Visiting professors Call for expression of interest Other resources Integrity and beyond Intranet di Ateneo Normativa di Ateneo Staff Sustainability and"
         ]
       },
-      "content_hash": "a0722d4c1e4c9eb0c41d0fb7365af77e8ee1ec3fdf88a863755aec06b2f934ea"
+      "content_hash": "defe6d5fd141fb215d1d830f27ba98eee41ebb071f4b68c331e34d46c9e8efe0"
     },
     {
       "agent": "atlas",
@@ -902,7 +896,7 @@
           "anagement Organic Solar Cells Optoelectronics of group-IV semiconductor nanostructures Publications People Equipment Projects News In the Press Organic Solar Cells We aim at producing strong contributions towards the development of cost-efective, low energy pay back time photovoltaics"
         ]
       },
-      "content_hash": "155a5e181409475e6146e35cc12d74b363b7f884846cc146dd8bf31ac52ee0cf"
+      "content_hash": "41e65a2aa1560952c1e399755971bf8eb7111ae71f8c5eac4aaab351cbd49db9"
     },
     {
       "agent": "nova",
