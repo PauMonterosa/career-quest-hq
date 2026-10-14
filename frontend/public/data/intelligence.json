@@ -1,10 +1,10 @@
 {
-  "generated_at": "2026-10-13T12:46:01.852896+00:00",
+  "generated_at": "2026-10-14T10:17:56.395280+00:00",
   "summary": {
     "targets": 8,
     "verified": 8,
-    "discoveries": 23,
-    "changes": 4
+    "discoveries": 24,
+    "changes": 8
   },
   "changes": [
     {
@@ -26,9 +26,33 @@
       "message": "La página oficial cambió desde la última revisión."
     },
     {
+      "agent": "atlas",
+      "entity": "UPC Semiconductor Engineering",
+      "url": "https://www.upc.edu/en/masters/semiconductor-engineering-and-microelectronic-design",
+      "message": "La página oficial cambió desde la última revisión."
+    },
+    {
+      "agent": "nova",
+      "entity": "IREC Solar Energy Materials",
+      "url": "https://www.irec.cat/research-transfer/solar-energy-materials-systems",
+      "message": "La página oficial cambió desde la última revisión."
+    },
+    {
+      "agent": "nova",
+      "entity": "IREC Energy Storage",
+      "url": "https://www.irec.cat/research-transfer/energy-storage-harvesting-catalysis",
+      "message": "La página oficial cambió desde la última revisión."
+    },
+    {
       "agent": "nova",
       "entity": "ICMAB Nanopto",
       "url": "https://nanopto.icmab.es/index.php/research/organic-solar-cells",
+      "message": "La página oficial cambió desde la última revisión."
+    },
+    {
+      "agent": "nova",
+      "entity": "IMB-CNM Research Groups",
+      "url": "https://www.imb-cnm.csic.es/en/research/research-groups",
       "message": "La página oficial cambió desde la última revisión."
     }
   ],
@@ -53,7 +77,7 @@
         "fees_funding": [
           "der au contenu menu mobile The course Overview Consortium & Universities Curriculum Mobility scheme Fees The Team Professors Administrative Associated partners (research centers and industry) Students Resources Class #21 2025-2027 (32 students) Class #20 2024-2026 (31 students) Clas",
           "f origin 3 15 Our Partners The course Overview Consortium & Universities Curriculum Mobility scheme Fees The Team Professors Administrative Associated partners (research centers and industry) Students Resources Class #21 2025-2027 (32 students) Class #20 2024-2026 (31 students) Clas",
-          "s#22 are now closed. Apply The course Overview Consortium & Universities Curriculum Mobility scheme Fees The Team Professors Administrative Associated partners (research centers and industry) Students Resources Class #21 2025-2027 (32 students) Class #20 2024-2026 (31 students) Clas"
+          "are not opened yet. Apply The course Overview Consortium & Universities Curriculum Mobility scheme Fees The Team Professors Administrative Associated partners (research centers and industry) Students Resources Class #21 2025-2027 (32 students) Class #20 2024-2026 (31 students) Clas"
         ],
         "research": [
           "niversities Curriculum Mobility scheme Fees The Team Professors Administrative Associated partners (research centers and industry) Students Resources Class #21 2025-2027 (32 students) Class #20 2024-2026 (31 students) Class #19 2023-2025 (17 students) Class #18 2022-2024 (34 students) Al"
@@ -61,10 +85,10 @@
         "people_contact": [
           "menu mobile The course Overview Consortium & Universities Curriculum Mobility scheme Fees The Team Professors Administrative Associated partners (research centers and industry) Students Resources Class #21 2025-2027 (32 students) Class #20 2024-2026 (31 students) Class #19 2023-2025 (17",
           "Our Partners The course Overview Consortium & Universities Curriculum Mobility scheme Fees The Team Professors Administrative Associated partners (research centers and industry) Students Resources Class #21 2025-2027 (32 students) Class #20 2024-2026 (31 students) Class #19 2023-2025 (17",
-          "losed. Apply The course Overview Consortium & Universities Curriculum Mobility scheme Fees The Team Professors Administrative Associated partners (research centers and industry) Students Resources Class #21 2025-2027 (32 students) Class #20 2024-2026 (31 students) Class #19 2023-2025 (17"
+          "d yet. Apply The course Overview Consortium & Universities Curriculum Mobility scheme Fees The Team Professors Administrative Associated partners (research centers and industry) Students Resources Class #21 2025-2027 (32 students) Class #20 2024-2026 (31 students) Class #19 2023-2025 (17"
         ]
       },
-      "content_hash": "968d3cc423ea7c087b3a3f677e7896eb4951abc9fffb3e76d61762b3d36d216f"
+      "content_hash": "db5d30bfcc40fadbd933cc14e3720adffc271b5392b9943c9ec113acabb1a3c6"
     },
     {
       "agent": "atlas",
@@ -80,13 +104,13 @@
         ],
         "admission": [
           "2026 (31 students) Class #19 2023-2025 (17 students) Class #18 2022-2024 (34 students) Alumni Apply Admission criteria Apply as a student As a scholar Scholarships For students For scholars Gallery Login Home Apply As a scholar As a scholar Partagez sur facebook Partagez sur twitter CALL",
-          "2026 (31 students) Class #19 2023-2025 (17 students) Class #18 2022-2024 (34 students) Alumni Apply Admission criteria Apply as a student As a scholar Scholarships For students For scholars FAQ Contact Us LinkedIn i-MESC Privacy policy I would like to apply to i-MESC Class#22 (2026-2028)",
+          "2026 (31 students) Class #19 2023-2025 (17 students) Class #18 2022-2024 (34 students) Alumni Apply Admission criteria Apply as a student As a scholar Scholarships For students For scholars FAQ Contact Us LinkedIn i-MESC Privacy policy I would like to apply to i-MESC Class#23 (2027-2029)",
           "2026 (31 students) Class #19 2023-2025 (17 students) Class #18 2022-2024 (34 students) Alumni Apply Admission criteria Apply as a student As a scholar Scholarships For students For scholars Gallery Login fermer"
         ],
         "fees_funding": [
           "der au contenu menu mobile The course Overview Consortium & Universities Curriculum Mobility scheme Fees The Team Professors Administrative Associated partners (research centers and industry) Students Resources Class #21 2025-2027 (32 students) Class #20 2024-2026 (31 students) Clas",
           "de Toulouse. Our Partners The course Overview Consortium & Universities Curriculum Mobility scheme Fees The Team Professors Administrative Associated partners (research centers and industry) Students Resources Class #21 2025-2027 (32 students) Class #20 2024-2026 (31 students) Clas",
-          "s#22 are now closed. Apply The course Overview Consortium & Universities Curriculum Mobility scheme Fees The Team Professors Administrative Associated partners (research centers and industry) Students Resources Class #21 2025-2027 (32 students) Class #20 2024-2026 (31 students) Clas"
+          "are not opened yet. Apply The course Overview Consortium & Universities Curriculum Mobility scheme Fees The Team Professors Administrative Associated partners (research centers and industry) Students Resources Class #21 2025-2027 (32 students) Class #20 2024-2026 (31 students) Clas"
         ],
         "research": [
           "niversities Curriculum Mobility scheme Fees The Team Professors Administrative Associated partners (research centers and industry) Students Resources Class #21 2025-2027 (32 students) Class #20 2024-2026 (31 students) Class #19 2023-2025 (17 students) Class #18 2022-2024 (34 students) Al",
@@ -96,10 +120,10 @@
         "people_contact": [
           "menu mobile The course Overview Consortium & Universities Curriculum Mobility scheme Fees The Team Professors Administrative Associated partners (research centers and industry) Students Resources Class #21 2025-2027 (32 students) Class #20 2024-2026 (31 students) Class #19 2023-2025 (17",
           "Our Partners The course Overview Consortium & Universities Curriculum Mobility scheme Fees The Team Professors Administrative Associated partners (research centers and industry) Students Resources Class #21 2025-2027 (32 students) Class #20 2024-2026 (31 students) Class #19 2023-2025 (17",
-          "losed. Apply The course Overview Consortium & Universities Curriculum Mobility scheme Fees The Team Professors Administrative Associated partners (research centers and industry) Students Resources Class #21 2025-2027 (32 students) Class #20 2024-2026 (31 students) Class #19 2023-2025 (17"
+          "d yet. Apply The course Overview Consortium & Universities Curriculum Mobility scheme Fees The Team Professors Administrative Associated partners (research centers and industry) Students Resources Class #21 2025-2027 (32 students) Class #20 2024-2026 (31 students) Class #19 2023-2025 (17"
         ]
       },
-      "content_hash": "a74906f0c4f1dc4a06d372127288131aae3e5d19fdfff1326f8640dd38b14a52"
+      "content_hash": "59a337cdba4b037dd6f1783c18391c93082d3ced8a6eac366b2de939ec4c8a04"
     },
     {
       "agent": "atlas",
@@ -129,10 +153,10 @@
         "people_contact": [
           "menu mobile The course Overview Consortium & Universities Curriculum Mobility scheme Fees The Team Professors Administrative Associated partners (research centers and industry) Students Resources Class #21 2025-2027 (32 students) Class #20 2024-2026 (31 students) Class #19 2023-2025 (17",
           "Our Partners The course Overview Consortium & Universities Curriculum Mobility scheme Fees The Team Professors Administrative Associated partners (research centers and industry) Students Resources Class #21 2025-2027 (32 students) Class #20 2024-2026 (31 students) Class #19 2023-2025 (17",
-          "losed. Apply The course Overview Consortium & Universities Curriculum Mobility scheme Fees The Team Professors Administrative Associated partners (research centers and industry) Students Resources Class #21 2025-2027 (32 students) Class #20 2024-2026 (31 students) Class #19 2023-2025 (17"
+          "d yet. Apply The course Overview Consortium & Universities Curriculum Mobility scheme Fees The Team Professors Administrative Associated partners (research centers and industry) Students Resources Class #21 2025-2027 (32 students) Class #20 2024-2026 (31 students) Class #19 2023-2025 (17"
         ]
       },
-      "content_hash": "1d191b6dd64cc02e05c6fe016128bbb27a475a823a3af07a8ea6e424c9a474ac"
+      "content_hash": "396d70542cfe10e0b4b689f66f09c6c1d3265451af02e85391e5133d452634a4"
     },
     {
       "agent": "atlas",
@@ -144,17 +168,17 @@
         "deadlines": [
           "2024-2026 (31 students) Class #19 2023-2025 (17 students) Class #18 2022-2024 (34 students) Alumni Apply Admission criteria Apply as a student As a scholar Scholarships For students For scholars Gallery Login Home Scholarships For students For students Partagez sur facebook Partagez",
           "Class #19 2023-2025 (17 students) Class #18 2022-2024 (34 students) Alumni Apply Admission criteria Apply as a student As a scholar Scholarships For students For scholars Gallery Login Home Scholarships For students For students Partagez sur facebook Partagez sur twitter Erasmus Mundu",
-          "2024-2026 (31 students) Class #19 2023-2025 (17 students) Class #18 2022-2024 (34 students) Alumni Apply Admission criteria Apply as a student As a scholar Scholarships For students For scholars FAQ Contact Us LinkedIn i-MESC Privacy policy I would like to apply to i-MESC Class#22 (2"
+          "2024-2026 (31 students) Class #19 2023-2025 (17 students) Class #18 2022-2024 (34 students) Alumni Apply Admission criteria Apply as a student As a scholar Scholarships For students For scholars FAQ Contact Us LinkedIn i-MESC Privacy policy I would like to apply to i-MESC Class#23 (2"
         ],
         "admission": [
           "2026 (31 students) Class #19 2023-2025 (17 students) Class #18 2022-2024 (34 students) Alumni Apply Admission criteria Apply as a student As a scholar Scholarships For students For scholars Gallery Login Home Scholarships For students For students Partagez sur facebook Partagez sur twitte",
-          "2026 (31 students) Class #19 2023-2025 (17 students) Class #18 2022-2024 (34 students) Alumni Apply Admission criteria Apply as a student As a scholar Scholarships For students For scholars FAQ Contact Us LinkedIn i-MESC Privacy policy I would like to apply to i-MESC Class#22 (2026-2028)",
+          "2026 (31 students) Class #19 2023-2025 (17 students) Class #18 2022-2024 (34 students) Alumni Apply Admission criteria Apply as a student As a scholar Scholarships For students For scholars FAQ Contact Us LinkedIn i-MESC Privacy policy I would like to apply to i-MESC Class#23 (2027-2029)",
           "2026 (31 students) Class #19 2023-2025 (17 students) Class #18 2022-2024 (34 students) Alumni Apply Admission criteria Apply as a student As a scholar Scholarships For students For scholars Gallery Login fermer"
         ],
         "fees_funding": [
           "der au contenu menu mobile The course Overview Consortium & Universities Curriculum Mobility scheme Fees The Team Professors Administrative Associated partners (research centers and industry) Students Resources Class #21 2025-2027 (32 students) Class #20 2024-2026 (31 students) Clas",
           "of 24 months. Our Partners The course Overview Consortium & Universities Curriculum Mobility scheme Fees The Team Professors Administrative Associated partners (research centers and industry) Students Resources Class #21 2025-2027 (32 students) Class #20 2024-2026 (31 students) Clas",
-          "s#22 are now closed. Apply The course Overview Consortium & Universities Curriculum Mobility scheme Fees The Team Professors Administrative Associated partners (research centers and industry) Students Resources Class #21 2025-2027 (32 students) Class #20 2024-2026 (31 students) Clas"
+          "are not opened yet. Apply The course Overview Consortium & Universities Curriculum Mobility scheme Fees The Team Professors Administrative Associated partners (research centers and industry) Students Resources Class #21 2025-2027 (32 students) Class #20 2024-2026 (31 students) Clas"
         ],
         "research": [
           "niversities Curriculum Mobility scheme Fees The Team Professors Administrative Associated partners (research centers and industry) Students Resources Class #21 2025-2027 (32 students) Class #20 2024-2026 (31 students) Class #19 2023-2025 (17 students) Class #18 2022-2024 (34 students) Al"
@@ -162,10 +186,10 @@
         "people_contact": [
           "menu mobile The course Overview Consortium & Universities Curriculum Mobility scheme Fees The Team Professors Administrative Associated partners (research centers and industry) Students Resources Class #21 2025-2027 (32 students) Class #20 2024-2026 (31 students) Class #19 2023-2025 (17",
           "Our Partners The course Overview Consortium & Universities Curriculum Mobility scheme Fees The Team Professors Administrative Associated partners (research centers and industry) Students Resources Class #21 2025-2027 (32 students) Class #20 2024-2026 (31 students) Class #19 2023-2025 (17",
-          "losed. Apply The course Overview Consortium & Universities Curriculum Mobility scheme Fees The Team Professors Administrative Associated partners (research centers and industry) Students Resources Class #21 2025-2027 (32 students) Class #20 2024-2026 (31 students) Class #19 2023-2025 (17"
+          "d yet. Apply The course Overview Consortium & Universities Curriculum Mobility scheme Fees The Team Professors Administrative Associated partners (research centers and industry) Students Resources Class #21 2025-2027 (32 students) Class #20 2024-2026 (31 students) Class #19 2023-2025 (17"
         ]
       },
-      "content_hash": "44d0c08a220baaafff53a4dbb4640b15aa317c0ae125c5cd937d8f25e97ea4d6"
+      "content_hash": "60499b49e4ea67972882e811f7a2ddc93c42f20601fb7616435ea88fac14986d"
     },
     {
       "agent": "atlas",
@@ -200,7 +224,7 @@
           "national dimension Learning development Welfare Sustainability and inclusion Hospitality and living Professors Tenure-track researchers Visiting professors Call for expression of interest Other resources Integrity and beyond Intranet di Ateneo Normativa di Ateneo Staff Sustainability and"
         ]
       },
-      "content_hash": "1318f44cccaa71c0b600d3665efcdb8e5b12682960621ece7922ad9b8f10e605"
+      "content_hash": "91b7a3cd21a3572fa62aecbec0146c4555512e67f7892ee4971eb08b62753fe3"
     },
     {
       "agent": "atlas",
@@ -235,7 +259,7 @@
           "national dimension Learning development Welfare Sustainability and inclusion Hospitality and living Professors Tenure-track researchers Visiting professors Call for expression of interest Other resources Integrity and beyond Intranet di Ateneo Normativa di Ateneo Staff Sustainability and"
         ]
       },
-      "content_hash": "fc876f490869568f2c9eb234be71d81f4f3650be9fdbb88fee92bde9b0633c9f"
+      "content_hash": "aebcb5f94a1231b2d9c5ea11defdcf2c54762327ad15d7952906d04b4727ce2a"
     },
     {
       "agent": "atlas",
@@ -270,7 +294,7 @@
           "national dimension Learning development Welfare Sustainability and inclusion Hospitality and living Professors Tenure-track researchers Visiting professors Call for expression of interest Other resources Integrity and beyond Intranet di Ateneo Normativa di Ateneo Staff Sustainability and"
         ]
       },
-      "content_hash": "6655ca62ab8efdef6f8373a4b140ef74b5fa6bfd1d1ade216c5834e0b5c342f3"
+      "content_hash": "0a266374210d8ffb1725fd2891571eb76fd3f608872b5fd7e6d029c17a4af943"
     },
     {
       "agent": "atlas",
@@ -305,7 +329,7 @@
           "national dimension Learning development Welfare Sustainability and inclusion Hospitality and living Professors Tenure-track researchers Visiting professors Call for expression of interest Other resources Integrity and beyond Intranet di Ateneo Normativa di Ateneo Staff Sustainability and"
         ]
       },
-      "content_hash": "681a950f60f853c7d3c6fbc240ec40b0ade7cd9e6cd9df50ee689aa5c3895e0e"
+      "content_hash": "48b731645bd101ff488a3b18cebefd08156aa4a14ddb054da9ee51782410c42a"
     },
     {
       "agent": "atlas",
@@ -338,7 +362,7 @@
           "anding UPCshop, merchandising Press room © UPC Universitat Politècnica de Catalunya - BarcelonaTech Contact Site map Accessibility Disclaimer Privacy settings"
         ]
       },
-      "content_hash": "6cd03bbadfd5aa9e80cb4f9cc17630a2362780053a1c008817afc938b2ae2b83"
+      "content_hash": "e9ee0634bc24b1eadcb901f01b988ce9047f842eb468c6208230575930c420a3"
     },
     {
       "agent": "atlas",
@@ -367,7 +391,7 @@
           "anding UPCshop, merchandising Press room © UPC Universitat Politècnica de Catalunya - BarcelonaTech Contact Site map Accessibility Disclaimer Privacy settings"
         ]
       },
-      "content_hash": "b44997079c6e2cbb086d504d5fd8a4e278dc184516ada04639cc86df5e3f90e0"
+      "content_hash": "6fe16ffdfc6df3046a18d50d54d91683778aab787980538826c781021ae83428"
     },
     {
       "agent": "atlas",
@@ -425,7 +449,7 @@
           "anding UPCshop, merchandising Press room © UPC Universitat Politècnica de Catalunya - BarcelonaTech Contact Site map Accessibility Disclaimer Privacy settings"
         ]
       },
-      "content_hash": "24ef9d8ac509d88761a890b845a64bf4c3b89315e1f4d0f169f1f933dadb2df9"
+      "content_hash": "c332d913f1bedfb5753063e3e7311fb39246aceb9c0d92fef8a9c7e6a5a89029"
     },
     {
       "agent": "nova",
@@ -450,7 +474,7 @@
           "ndates and supporting data management plans across all departments. sgilabert@irec.cat See all IREC people Trustees Supported by Member of Center Awarded by Contact us Barcelona Sant Adrià +34 933 562 615 Carrer Jardins de les Dones de Negre, 1, 2a planta | 08930 Sant Adrià de Besòs (B"
         ]
       },
-      "content_hash": "c1f23ebcd9830b23002001efbc84e9e6c2ca38e69092a801fbec64b3a6177d70"
+      "content_hash": "b812878999a8a275a18817e53f1339853bdf35b29b49f0fc547dc45fd61f530f"
     },
     {
       "agent": "nova",
@@ -470,7 +494,7 @@
           "silient buildings & communities Corporate development & technology transfer Knowledge tech transfer team Portfolio Lab to market Strategic actions Platforms & associations Projects Publications Open science Facilities People News & outreach News Events Outreach Mad for science Gara-F"
         ]
       },
-      "content_hash": "b6b8ec2f8c00963463aa2a9de29b47875fbef7e9ca11ca3dfc16bd561121d23c"
+      "content_hash": "2aab9ce769cc0a541f9f63de9aed8437cd75e625adda6919f96538a5514401dc"
     },
     {
       "agent": "nova",
@@ -498,7 +522,7 @@
           "silient buildings & communities Corporate development & technology transfer Knowledge tech transfer team Portfolio Lab to market Strategic actions Platforms & associations Projects Publications Open science Facilities People News & outreach News Events Outreach Mad for science Gara-F"
         ]
       },
-      "content_hash": "d1f7ada74ca53bd4ba57bb6b3f4f1f11149b5fd4fe19ea487aafe93e00ce9de8"
+      "content_hash": "bb27554b061f0ac2a22fa6c3cb52de4c95968a2f97c259f4de903f6a93327c5c"
     },
     {
       "agent": "nova",
@@ -518,7 +542,7 @@
           "silient buildings & communities Corporate development & technology transfer Knowledge tech transfer team Portfolio Lab to market Strategic actions Platforms & associations Projects Publications Open science Facilities People News & outreach News Events Outreach Mad for science Gara-F"
         ]
       },
-      "content_hash": "8c1fb216fc4a380e19b851eca0bb2ffdc7d38a970b67d7e305a5d40c0bb1ced4"
+      "content_hash": "a32d72ba89be33297c22329ecafcc3493bde4fb0ff12f1142b6406c812bb1bc5"
     },
     {
       "agent": "nova",
@@ -543,7 +567,7 @@
           "ndates and supporting data management plans across all departments. sgilabert@irec.cat See all IREC people Trustees Supported by Member of Center Awarded by Contact us Barcelona Sant Adrià +34 933 562 615 Carrer Jardins de les Dones de Negre, 1, 2a planta | 08930 Sant Adrià de Besòs (B"
         ]
       },
-      "content_hash": "c1f23ebcd9830b23002001efbc84e9e6c2ca38e69092a801fbec64b3a6177d70"
+      "content_hash": "b812878999a8a275a18817e53f1339853bdf35b29b49f0fc547dc45fd61f530f"
     },
     {
       "agent": "nova",
@@ -563,7 +587,7 @@
           "silient buildings & communities Corporate development & technology transfer Knowledge tech transfer team Portfolio Lab to market Strategic actions Platforms & associations Projects Publications Open science Facilities People News & outreach News Events Outreach Mad for science Gara-F"
         ]
       },
-      "content_hash": "b6b8ec2f8c00963463aa2a9de29b47875fbef7e9ca11ca3dfc16bd561121d23c"
+      "content_hash": "2aab9ce769cc0a541f9f63de9aed8437cd75e625adda6919f96538a5514401dc"
     },
     {
       "agent": "nova",
@@ -591,7 +615,7 @@
           "silient buildings & communities Corporate development & technology transfer Knowledge tech transfer team Portfolio Lab to market Strategic actions Platforms & associations Projects Publications Open science Facilities People News & outreach News Events Outreach Mad for science Gara-F"
         ]
       },
-      "content_hash": "d1f7ada74ca53bd4ba57bb6b3f4f1f11149b5fd4fe19ea487aafe93e00ce9de8"
+      "content_hash": "bb27554b061f0ac2a22fa6c3cb52de4c95968a2f97c259f4de903f6a93327c5c"
     },
     {
       "agent": "nova",
@@ -611,15 +635,27 @@
           "silient buildings & communities Corporate development & technology transfer Knowledge tech transfer team Portfolio Lab to market Strategic actions Platforms & associations Projects Publications Open science Facilities People News & outreach News Events Outreach Mad for science Gara-F"
         ]
       },
-      "content_hash": "8c1fb216fc4a380e19b851eca0bb2ffdc7d38a970b67d7e305a5d40c0bb1ced4"
+      "content_hash": "a32d72ba89be33297c22329ecafcc3493bde4fb0ff12f1142b6406c812bb1bc5"
     },
     {
       "agent": "nova",
       "kind": "tfg",
       "entity": "ICMAB Nanopto",
       "url": "https://nanopto.icmab.es/index.php/people",
-      "status": "error",
-      "error": "The read operation timed out"
+      "title": "People",
+      "signals": {
+        "research": [
+          "R QRIS234 SITUS QRIS234 LOGIN QRIS234 SLOT QRIS234 WEBSITE QRIS234 LINK People Skip to main content Research Organic-Inorganic Thermoelectrics Photonic Architectures for Light Management Organic Solar Cells Optoelectronics of group-IV semiconductor nanostructures Publications People Equi",
+          "s of group-IV semiconductor nanostructures Publications People Equipment Projects News In the Press Research Organic-Inorganic Thermoelectrics Photonic Architectures for Light Management Organic Solar Cells Optoelectronics of group-IV semiconductor nanostructures Publications People Equi",
+          "IV semiconductor nanostructures Publications People Equipment Projects News In the Press People All Researchers Post-Docs PhD Students Technicians and project managers Afroditi Koutsogianni PhD Students Agustín Mihi Researchers Alejandro R. Goñi Researchers Ana Conde Post-Docs Arianna Qu"
+        ],
+        "people_contact": [
+          "GEL 4D QRIS234 QRIS234 DAFTAR QRIS234 SITUS QRIS234 LOGIN QRIS234 SLOT QRIS234 WEBSITE QRIS234 LINK People Skip to main content Research Organic-Inorganic Thermoelectrics Photonic Architectures for Light Management Organic Solar Cells Optoelectronics of group-IV semiconductor nanostruc",
+          "anagement Organic Solar Cells Optoelectronics of group-IV semiconductor nanostructures Publications People Equipment Projects News In the Press Research Organic-Inorganic Thermoelectrics Photonic Architectures for Light Management Organic Solar Cells Optoelectronics of group-IV semicon",
+          "anagement Organic Solar Cells Optoelectronics of group-IV semiconductor nanostructures Publications People Equipment Projects News In the Press People All Researchers Post-Docs PhD Students Technicians and project managers Afroditi Koutsogianni PhD Students Agustín Mihi Researchers Ale"
+        ]
+      },
+      "content_hash": "abdb7465f63e03dea38a0cfdbd5bc967130e6c0758a11b51ef3836182a86cfd8"
     },
     {
       "agent": "nova",
@@ -642,7 +678,7 @@
           "ncluding thermal, mechanical and biological aspects. Not only allows this to solve urgent problems (contact resistance), it also enables completely new (switchable, reconfigurable) devices. The topic is inspired by a combination of scientific curiosity and a strong feeling of practical"
         ]
       },
-      "content_hash": "2130282525adf484f5cb0874bbac582245d24d4b1a5fef965931faf467021339"
+      "content_hash": "140325a0cda156944f498dec40fa42e34c54819dc3d1b8a075daf692022674a7"
     },
     {
       "agent": "nova",
@@ -661,7 +697,7 @@
           "anagement Organic Solar Cells Optoelectronics of group-IV semiconductor nanostructures Publications People Equipment Projects News In the Press Publications Cargando publicaciones Nanopto..."
         ]
       },
-      "content_hash": "32ad8d6e2186c85da2b5ffa7520d965d1a5ba6d4990ad178c8239f90d646a431"
+      "content_hash": "c51ba59c9a153967222db3c99a77ec754030c2a25118bf3f5c7c31600ad0eab0"
     },
     {
       "agent": "nova",
@@ -685,7 +721,7 @@
           "» About the center Research Clean Room Laboratories Technology Transfer News & Outreach Highlights Contact Talent Search Contracting profile Legal Advice © Copyright 2026. IMB-CNM"
         ]
       },
-      "content_hash": "8eae3cd04fdfe97cbda763dc9969d0430d1c39e91f22b7d28e34b4b8dfbe1e8d"
+      "content_hash": "f7b8de0f7301cef090cee88e2738ae46477f27a92cc672f9caf4dad40b867ea0"
     }
   ],
   "sources": [
@@ -700,17 +736,17 @@
         "deadlines": [
           "2024-2026 (31 students) Class #19 2023-2025 (17 students) Class #18 2022-2024 (34 students) Alumni Apply Admission criteria Apply as a student As a scholar Scholarships For students For scholars Gallery Login G i v e E n e r g y t o y o u r s t u d i e s MESC20 Graduation A big miles",
           "Class #19 2023-2025 (17 students) Class #18 2022-2024 (34 students) Alumni Apply Admission criteria Apply as a student As a scholar Scholarships For students For scholars Gallery Login G i v e E n e r g y t o y o u r s t u d i e s MESC20 Graduation A big milestone for the programme: t",
-          "2024-2026 (31 students) Class #19 2023-2025 (17 students) Class #18 2022-2024 (34 students) Alumni Apply Admission criteria Apply as a student As a scholar Scholarships For students For scholars FAQ Contact Us LinkedIn i-MESC Privacy policy I would like to apply to i-MESC Class#22 (2"
+          "2024-2026 (31 students) Class #19 2023-2025 (17 students) Class #18 2022-2024 (34 students) Alumni Apply Admission criteria Apply as a student As a scholar Scholarships For students For scholars FAQ Contact Us LinkedIn i-MESC Privacy policy I would like to apply to i-MESC Class#23 (2"
         ],
         "admission": [
           "2026 (31 students) Class #19 2023-2025 (17 students) Class #18 2022-2024 (34 students) Alumni Apply Admission criteria Apply as a student As a scholar Scholarships For students For scholars Gallery Login G i v e E n e r g y t o y o u r s t u d i e s MESC20 Graduation A big milestone for t",
-          "2026 (31 students) Class #19 2023-2025 (17 students) Class #18 2022-2024 (34 students) Alumni Apply Admission criteria Apply as a student As a scholar Scholarships For students For scholars FAQ Contact Us LinkedIn i-MESC Privacy policy I would like to apply to i-MESC Class#22 (2026-2028)",
+          "2026 (31 students) Class #19 2023-2025 (17 students) Class #18 2022-2024 (34 students) Alumni Apply Admission criteria Apply as a student As a scholar Scholarships For students For scholars FAQ Contact Us LinkedIn i-MESC Privacy policy I would like to apply to i-MESC Class#23 (2027-2029)",
           "2026 (31 students) Class #19 2023-2025 (17 students) Class #18 2022-2024 (34 students) Alumni Apply Admission criteria Apply as a student As a scholar Scholarships For students For scholars Gallery Login fermer"
         ],
         "fees_funding": [
           "der au contenu menu mobile The course Overview Consortium & Universities Curriculum Mobility scheme Fees The Team Professors Administrative Associated partners (research centers and industry) Students Resources Class #21 2025-2027 (32 students) Class #20 2024-2026 (31 students) Clas",
           "Spain More Our Partners The course Overview Consortium & Universities Curriculum Mobility scheme Fees The Team Professors Administrative Associated partners (research centers and industry) Students Resources Class #21 2025-2027 (32 students) Class #20 2024-2026 (31 students) Clas",
-          "s#22 are now closed. Apply The course Overview Consortium & Universities Curriculum Mobility scheme Fees The Team Professors Administrative Associated partners (research centers and industry) Students Resources Class #21 2025-2027 (32 students) Class #20 2024-2026 (31 students) Clas"
+          "are not opened yet. Apply The course Overview Consortium & Universities Curriculum Mobility scheme Fees The Team Professors Administrative Associated partners (research centers and industry) Students Resources Class #21 2025-2027 (32 students) Class #20 2024-2026 (31 students) Clas"
         ],
         "research": [
           "niversities Curriculum Mobility scheme Fees The Team Professors Administrative Associated partners (research centers and industry) Students Resources Class #21 2025-2027 (32 students) Class #20 2024-2026 (31 students) Class #19 2023-2025 (17 students) Class #18 2022-2024 (34 students) Al",
@@ -723,7 +759,7 @@
           "Our Partners The course Overview Consortium & Universities Curriculum Mobility scheme Fees The Team Professors Administrative Associated partners (research centers and industry) Students Resources Class #21 2025-2027 (32 students) Class #20 2024-2026 (31 students) Class #19 2023-2025 (17"
         ]
       },
-      "content_hash": "8596d0671e99fa58840041f9e5e3dc7b97e96469b13b3e9ae235ebb1ee417e51"
+      "content_hash": "2c6c946fe09d5313900bf20c877037d78acaef0e43dc1b4524516948f909f7e2"
     },
     {
       "agent": "atlas",
@@ -758,7 +794,7 @@
           "Engineering Science website Discover all the programmes of the faculty More on our campus in Leuven Contact Questions about the programme? You can ask about which classes you will take, the subjects you will study, the campus where you will be spending your time and much more. Questions"
         ]
       },
-      "content_hash": "fdf577acbada91a6aa925c860c0a3436d854c4cdf176277c8b717fab8c55500f"
+      "content_hash": "1841da970781e3b5db4e4cc690549d19bd0b3884d6b76484542d605d3670e8bb"
     },
     {
       "agent": "atlas",
@@ -794,7 +830,7 @@
           "national dimension Learning development Welfare Sustainability and inclusion Hospitality and living Professors Tenure-track researchers Visiting professors Call for expression of interest Other resources Integrity and beyond Intranet di Ateneo Normativa di Ateneo Staff Sustainability and"
         ]
       },
-      "content_hash": "62b71fbade5ac1190bc786c5e819a9631121951f9fc2ec10f4c0689400d9ed20"
+      "content_hash": "795def53ae0dc0ab088b799047a6bdee690daf1edbdfa2f745f56e5a4a5fec59"
     },
     {
       "agent": "atlas",
@@ -828,7 +864,7 @@
           "anding UPCshop, merchandising Press room © UPC Universitat Politècnica de Catalunya - BarcelonaTech Contact Site map Accessibility Disclaimer Privacy settings"
         ]
       },
-      "content_hash": "774a96673425dd9a7a9ab553230ff116fbac7f4c9bf0dddf3c722af3da3944fa"
+      "content_hash": "c0729b6557b3cef3930ea25e1566f745d9075b5f12b977d44975033aaed2306c"
     },
     {
       "agent": "nova",
@@ -849,7 +885,7 @@
           "rch contexts (including self-driving laboratory concepts) and industrial and societal applications. People A skilled team dedicated to advancing the energy transition. More info Projects Competitive and industrial projects from lab to real-world scale. More info Publications Peer-revie"
         ]
       },
-      "content_hash": "10a1b856c92ce675f1c3a801e0ecf20c6d3aab059bf36cb018cc6dc1f5f38c4b"
+      "content_hash": "77f06eca317ff1714203b8a2ceb0925f071bc47ed95d8c3b2f5aee1ba442f335"
     },
     {
       "agent": "nova",
@@ -870,7 +906,7 @@
           "laboratory advances into viable production processes for renewable and synthetic fuel applications. People A skilled team dedicated to advancing the energy transition. More info Projects Competitive and industrial projects from lab to real-world scale. More info Publications Peer-revie"
         ]
       },
-      "content_hash": "1a99edec0d9d845a744f4c67dc97d769c3c69a92484fea5b7e7a1d8fcf30c85d"
+      "content_hash": "745a03923425ce17c5972f24320ba6b0c0632ae06add6eeaebd300e66d14f769"
     },
     {
       "agent": "nova",
@@ -890,7 +926,7 @@
           "anagement Organic Solar Cells Optoelectronics of group-IV semiconductor nanostructures Publications People Equipment Projects News In the Press Organic Solar Cells We aim at producing strong contributions towards the development of cost-efective, low energy pay back time photovoltaics"
         ]
       },
-      "content_hash": "d8eca3f44365047102c6487d4238080a7edd42131042e2c638778af29f850378"
+      "content_hash": "3e7ec306f87608d7219ba69b8dc287de85432b729d20df0d3b4881f00afa8898"
     },
     {
       "agent": "nova",
@@ -910,7 +946,7 @@
           "B. About the center Research Clean Room Laboratories Technology Transfer News & Outreach Highlights Contact Talent Search Contracting profile Legal Advice © Copyright 2026. IMB-CNM"
         ]
       },
-      "content_hash": "939a3cffc471be788dc0118c47967442ebf0b43bb2a06b1e3a42c868c2ff0b30"
+      "content_hash": "bdf108443972e85f2ffa2f26fa3b57f5335b62995e664246cc413d598d27e954"
     }
   ]
 }
