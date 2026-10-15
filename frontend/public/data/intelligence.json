@@ -1,34 +1,16 @@
 {
-  "generated_at": "2026-10-14T10:17:56.395280+00:00",
+  "generated_at": "2026-10-15T10:01:28.895831+00:00",
   "summary": {
     "targets": 8,
     "verified": 8,
     "discoveries": 24,
-    "changes": 8
+    "changes": 5
   },
   "changes": [
     {
       "agent": "atlas",
       "entity": "i-MESC",
       "url": "https://i-mesc.eu/",
-      "message": "La página oficial cambió desde la última revisión."
-    },
-    {
-      "agent": "atlas",
-      "entity": "KU Leuven Nanoscience",
-      "url": "https://onderwijsaanbod.kuleuven.be/opleidingen/e/SC_58449463/diploma_omschrijving",
-      "message": "La página oficial cambió desde la última revisión."
-    },
-    {
-      "agent": "atlas",
-      "entity": "Politecnico di Milano Materials",
-      "url": "https://www.polimi.it/en/education/laurea-magistrale-programmes/programme-detail/materials-engineering-and-nanotechnology",
-      "message": "La página oficial cambió desde la última revisión."
-    },
-    {
-      "agent": "atlas",
-      "entity": "UPC Semiconductor Engineering",
-      "url": "https://www.upc.edu/en/masters/semiconductor-engineering-and-microelectronic-design",
       "message": "La página oficial cambió desde la última revisión."
     },
     {
@@ -224,7 +206,7 @@
           "national dimension Learning development Welfare Sustainability and inclusion Hospitality and living Professors Tenure-track researchers Visiting professors Call for expression of interest Other resources Integrity and beyond Intranet di Ateneo Normativa di Ateneo Staff Sustainability and"
         ]
       },
-      "content_hash": "91b7a3cd21a3572fa62aecbec0146c4555512e67f7892ee4971eb08b62753fe3"
+      "content_hash": "fce5617884f9854cb90526855f7da33a3fda17c09af75f03b3fd7fc8926d090d"
     },
     {
       "agent": "atlas",
@@ -259,7 +241,7 @@
           "national dimension Learning development Welfare Sustainability and inclusion Hospitality and living Professors Tenure-track researchers Visiting professors Call for expression of interest Other resources Integrity and beyond Intranet di Ateneo Normativa di Ateneo Staff Sustainability and"
         ]
       },
-      "content_hash": "aebcb5f94a1231b2d9c5ea11defdcf2c54762327ad15d7952906d04b4727ce2a"
+      "content_hash": "38757c9e9f9c4ac3b6c283eb44ec68d506ea1628ea23b512a0af195c645b1ef4"
     },
     {
       "agent": "atlas",
@@ -294,7 +276,7 @@
           "national dimension Learning development Welfare Sustainability and inclusion Hospitality and living Professors Tenure-track researchers Visiting professors Call for expression of interest Other resources Integrity and beyond Intranet di Ateneo Normativa di Ateneo Staff Sustainability and"
         ]
       },
-      "content_hash": "0a266374210d8ffb1725fd2891571eb76fd3f608872b5fd7e6d029c17a4af943"
+      "content_hash": "44fdf63556d1dda42bf09eba5ed569c78234077f647c44f2963b77858e7452fd"
     },
     {
       "agent": "atlas",
@@ -329,7 +311,7 @@
           "national dimension Learning development Welfare Sustainability and inclusion Hospitality and living Professors Tenure-track researchers Visiting professors Call for expression of interest Other resources Integrity and beyond Intranet di Ateneo Normativa di Ateneo Staff Sustainability and"
         ]
       },
-      "content_hash": "48b731645bd101ff488a3b18cebefd08156aa4a14ddb054da9ee51782410c42a"
+      "content_hash": "8f337556e81233ba8d41d21ece2ecc551c7d87222421c2be6f1800645fc9c438"
     },
     {
       "agent": "atlas",
@@ -420,7 +402,7 @@
           "anding UPCshop, merchandising Press room © UPC Universitat Politècnica de Catalunya - BarcelonaTech Contact Site map Accessibility Disclaimer Privacy settings"
         ]
       },
-      "content_hash": "b44997079c6e2cbb086d504d5fd8a4e278dc184516ada04639cc86df5e3f90e0"
+      "content_hash": "6fe16ffdfc6df3046a18d50d54d91683778aab787980538826c781021ae83428"
     },
     {
       "agent": "atlas",
@@ -474,7 +456,7 @@
           "ndates and supporting data management plans across all departments. sgilabert@irec.cat See all IREC people Trustees Supported by Member of Center Awarded by Contact us Barcelona Sant Adrià +34 933 562 615 Carrer Jardins de les Dones de Negre, 1, 2a planta | 08930 Sant Adrià de Besòs (B"
         ]
       },
-      "content_hash": "b812878999a8a275a18817e53f1339853bdf35b29b49f0fc547dc45fd61f530f"
+      "content_hash": "fafb89fe88a0a19920b765c196b82d9a06cdc66ead8b8f3858553edf7c0277f7"
     },
     {
       "agent": "nova",
@@ -494,7 +476,7 @@
           "silient buildings & communities Corporate development & technology transfer Knowledge tech transfer team Portfolio Lab to market Strategic actions Platforms & associations Projects Publications Open science Facilities People News & outreach News Events Outreach Mad for science Gara-F"
         ]
       },
-      "content_hash": "2aab9ce769cc0a541f9f63de9aed8437cd75e625adda6919f96538a5514401dc"
+      "content_hash": "8606b6ddaa864ca54fa4d35019cfb8ad707eeeb40dd55ae3917b64fb6370f1c0"
     },
     {
       "agent": "nova",
@@ -522,7 +504,7 @@
           "silient buildings & communities Corporate development & technology transfer Knowledge tech transfer team Portfolio Lab to market Strategic actions Platforms & associations Projects Publications Open science Facilities People News & outreach News Events Outreach Mad for science Gara-F"
         ]
       },
-      "content_hash": "bb27554b061f0ac2a22fa6c3cb52de4c95968a2f97c259f4de903f6a93327c5c"
+      "content_hash": "55f31f3ff10b5f001d6dde22de99259d1faadaaf629011b93857c37418625dd4"
     },
     {
       "agent": "nova",
@@ -542,7 +524,7 @@
           "silient buildings & communities Corporate development & technology transfer Knowledge tech transfer team Portfolio Lab to market Strategic actions Platforms & associations Projects Publications Open science Facilities People News & outreach News Events Outreach Mad for science Gara-F"
         ]
       },
-      "content_hash": "a32d72ba89be33297c22329ecafcc3493bde4fb0ff12f1142b6406c812bb1bc5"
+      "content_hash": "9ce52b7d02331a4b541dfdf1ce96e6a225d135af6520e8a209ebf1fdbec22552"
     },
     {
       "agent": "nova",
@@ -567,7 +549,7 @@
           "ndates and supporting data management plans across all departments. sgilabert@irec.cat See all IREC people Trustees Supported by Member of Center Awarded by Contact us Barcelona Sant Adrià +34 933 562 615 Carrer Jardins de les Dones de Negre, 1, 2a planta | 08930 Sant Adrià de Besòs (B"
         ]
       },
-      "content_hash": "b812878999a8a275a18817e53f1339853bdf35b29b49f0fc547dc45fd61f530f"
+      "content_hash": "b8c2b255b3c0f29673fedee80e7c09538cdc769545e4d78fb4b3424fc5cad5a5"
     },
     {
       "agent": "nova",
@@ -587,7 +569,7 @@
           "silient buildings & communities Corporate development & technology transfer Knowledge tech transfer team Portfolio Lab to market Strategic actions Platforms & associations Projects Publications Open science Facilities People News & outreach News Events Outreach Mad for science Gara-F"
         ]
       },
-      "content_hash": "2aab9ce769cc0a541f9f63de9aed8437cd75e625adda6919f96538a5514401dc"
+      "content_hash": "8606b6ddaa864ca54fa4d35019cfb8ad707eeeb40dd55ae3917b64fb6370f1c0"
     },
     {
       "agent": "nova",
@@ -615,7 +597,7 @@
           "silient buildings & communities Corporate development & technology transfer Knowledge tech transfer team Portfolio Lab to market Strategic actions Platforms & associations Projects Publications Open science Facilities People News & outreach News Events Outreach Mad for science Gara-F"
         ]
       },
-      "content_hash": "bb27554b061f0ac2a22fa6c3cb52de4c95968a2f97c259f4de903f6a93327c5c"
+      "content_hash": "bcdf5db771f51802124926e52e92a111a41008fc46f5cdf74e5db8f207deeda0"
     },
     {
       "agent": "nova",
@@ -635,7 +617,7 @@
           "silient buildings & communities Corporate development & technology transfer Knowledge tech transfer team Portfolio Lab to market Strategic actions Platforms & associations Projects Publications Open science Facilities People News & outreach News Events Outreach Mad for science Gara-F"
         ]
       },
-      "content_hash": "a32d72ba89be33297c22329ecafcc3493bde4fb0ff12f1142b6406c812bb1bc5"
+      "content_hash": "87f30f7a8e769befadb24f1d8906f36cf4287531d197984e4e5976a9f8832416"
     },
     {
       "agent": "nova",
@@ -655,7 +637,7 @@
           "anagement Organic Solar Cells Optoelectronics of group-IV semiconductor nanostructures Publications People Equipment Projects News In the Press People All Researchers Post-Docs PhD Students Technicians and project managers Afroditi Koutsogianni PhD Students Agustín Mihi Researchers Ale"
         ]
       },
-      "content_hash": "abdb7465f63e03dea38a0cfdbd5bc967130e6c0758a11b51ef3836182a86cfd8"
+      "content_hash": "94cf035ca467e5c90a30ef9ea211e541e3c5d319f292f6261b707876323f0e69"
     },
     {
       "agent": "nova",
@@ -678,7 +660,7 @@
           "ncluding thermal, mechanical and biological aspects. Not only allows this to solve urgent problems (contact resistance), it also enables completely new (switchable, reconfigurable) devices. The topic is inspired by a combination of scientific curiosity and a strong feeling of practical"
         ]
       },
-      "content_hash": "140325a0cda156944f498dec40fa42e34c54819dc3d1b8a075daf692022674a7"
+      "content_hash": "670bad7ebf2d7c396e65c8603db578d280bad68c8226de698755324bbab581ed"
     },
     {
       "agent": "nova",
@@ -697,7 +679,7 @@
           "anagement Organic Solar Cells Optoelectronics of group-IV semiconductor nanostructures Publications People Equipment Projects News In the Press Publications Cargando publicaciones Nanopto..."
         ]
       },
-      "content_hash": "c51ba59c9a153967222db3c99a77ec754030c2a25118bf3f5c7c31600ad0eab0"
+      "content_hash": "f57f00c658bf6be24d8b885361d40614cc52a7113eebe90d7223a4db21c47722"
     },
     {
       "agent": "nova",
@@ -721,7 +703,7 @@
           "» About the center Research Clean Room Laboratories Technology Transfer News & Outreach Highlights Contact Talent Search Contracting profile Legal Advice © Copyright 2026. IMB-CNM"
         ]
       },
-      "content_hash": "f7b8de0f7301cef090cee88e2738ae46477f27a92cc672f9caf4dad40b867ea0"
+      "content_hash": "248beb5da01528d016dda138913df8b095e18bc254d6f96cba9c44ff6ab4cbab"
     }
   ],
   "sources": [
@@ -745,7 +727,7 @@
         ],
         "fees_funding": [
           "der au contenu menu mobile The course Overview Consortium & Universities Curriculum Mobility scheme Fees The Team Professors Administrative Associated partners (research centers and industry) Students Resources Class #21 2025-2027 (32 students) Class #20 2024-2026 (31 students) Clas",
-          "Spain More Our Partners The course Overview Consortium & Universities Curriculum Mobility scheme Fees The Team Professors Administrative Associated partners (research centers and industry) Students Resources Class #21 2025-2027 (32 students) Class #20 2024-2026 (31 students) Clas",
+          "Slovenia More Our Partners The course Overview Consortium & Universities Curriculum Mobility scheme Fees The Team Professors Administrative Associated partners (research centers and industry) Students Resources Class #21 2025-2027 (32 students) Class #20 2024-2026 (31 students) Clas",
           "are not opened yet. Apply The course Overview Consortium & Universities Curriculum Mobility scheme Fees The Team Professors Administrative Associated partners (research centers and industry) Students Resources Class #21 2025-2027 (32 students) Class #20 2024-2026 (31 students) Clas"
         ],
         "research": [
@@ -759,7 +741,7 @@
           "Our Partners The course Overview Consortium & Universities Curriculum Mobility scheme Fees The Team Professors Administrative Associated partners (research centers and industry) Students Resources Class #21 2025-2027 (32 students) Class #20 2024-2026 (31 students) Class #19 2023-2025 (17"
         ]
       },
-      "content_hash": "2c6c946fe09d5313900bf20c877037d78acaef0e43dc1b4524516948f909f7e2"
+      "content_hash": "ec52787c5c5bfecd5cfe3ca30e3d5d7e5b3fb50c4a1546d00c4a21c3780e0b4b"
     },
     {
       "agent": "atlas",
@@ -885,7 +867,7 @@
           "rch contexts (including self-driving laboratory concepts) and industrial and societal applications. People A skilled team dedicated to advancing the energy transition. More info Projects Competitive and industrial projects from lab to real-world scale. More info Publications Peer-revie"
         ]
       },
-      "content_hash": "77f06eca317ff1714203b8a2ceb0925f071bc47ed95d8c3b2f5aee1ba442f335"
+      "content_hash": "0cb15aee4e11b124d675dabec64f5cab8460ab93518696ff9ab344e120cf209e"
     },
     {
       "agent": "nova",
@@ -906,7 +888,7 @@
           "laboratory advances into viable production processes for renewable and synthetic fuel applications. People A skilled team dedicated to advancing the energy transition. More info Projects Competitive and industrial projects from lab to real-world scale. More info Publications Peer-revie"
         ]
       },
-      "content_hash": "745a03923425ce17c5972f24320ba6b0c0632ae06add6eeaebd300e66d14f769"
+      "content_hash": "216b95f4ae80b835eda312af4eb0be9169627aab7f2883cf06cc9993e11e277c"
     },
     {
       "agent": "nova",
@@ -926,7 +908,7 @@
           "anagement Organic Solar Cells Optoelectronics of group-IV semiconductor nanostructures Publications People Equipment Projects News In the Press Organic Solar Cells We aim at producing strong contributions towards the development of cost-efective, low energy pay back time photovoltaics"
         ]
       },
-      "content_hash": "3e7ec306f87608d7219ba69b8dc287de85432b729d20df0d3b4881f00afa8898"
+      "content_hash": "70ebfd7c628879f7873adfa577bc72da70bd6a751017b969aebf9f5431e0e835"
     },
     {
       "agent": "nova",
@@ -946,7 +928,7 @@
           "B. About the center Research Clean Room Laboratories Technology Transfer News & Outreach Highlights Contact Talent Search Contracting profile Legal Advice © Copyright 2026. IMB-CNM"
         ]
       },
-      "content_hash": "bdf108443972e85f2ffa2f26fa3b57f5335b62995e664246cc413d598d27e954"
+      "content_hash": "1b270634266cf31256a7f3da2cb9dac7ed94c72aa63e6373a30103430553f2e6"
     }
   ]
 }
