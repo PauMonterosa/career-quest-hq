@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-10-21T10:15:36.110654+00:00",
+  "generated_at": "2026-10-22T10:16:39.142464+00:00",
   "summary": {
     "targets": 8,
     "verified": 8,
-    "discoveries": 25,
+    "discoveries": 24,
     "changes": 4
   },
   "changes": [
@@ -132,7 +132,7 @@
           "d yet. Apply The course Overview Consortium & Universities Curriculum Mobility scheme Fees The Team Professors Administrative Associated partners (research centers and industry) Students Resources Class #21 2025-2027 (32 students) Class #20 2024-2026 (31 students) Class #19 2023-2025 (17"
         ]
       },
-      "content_hash": "396d70542cfe10e0b4b689f66f09c6c1d3265451af02e85391e5133d452634a4"
+      "content_hash": "bab9be0296e741b82d93871550556e5010f438e61272afcbaf603b9cba53b9f1"
     },
     {
       "agent": "atlas",
@@ -170,28 +170,19 @@
     {
       "agent": "atlas",
       "kind": "master",
-      "entity": "KU Leuven Nanoscience",
-      "url": "https://status.kuleuven.io/search?applications=web-apps",
-      "title": "Statuspagina ICTS",
-      "signals": {},
-      "content_hash": "7e987023e32386e24d72dc48c6615a5a27cbe33744068f502ce97355ee0459bb"
-    },
-    {
-      "agent": "atlas",
-      "kind": "master",
       "entity": "Politecnico di Milano Materials",
       "url": "https://www.polimi.it/en/students/tuition-fees-scholarships-and-financial-aid",
       "title": "Tuition fees, scholarships and financial aid - polimi",
       "signals": {
         "deadlines": [
-          "and OFA Didactic Activities and Degree Examination Language requirements Special cases Calendar and deadlines Certificates and forms Contacts Student Ombuds Office Associations and cultural activities Opportunità International Mobility Italian National Erasmus Mobility Altre risorse Admi",
+          "and OFA Didactic Activities and Degree Examination Language requirements Special cases Calendar and deadlines Certificates and forms Contacts Student Ombuds Office Associations and cultural activities Opportunities International Mobility Italian National Erasmus Mobility More resources A",
           ", scholarships and financial aid Student contribution Tuition fees Calculate the cost and check the deadlines to be up to date with your enrolment Explore Extraordinary Grants Benefits for students who are in a difficult situation Explore Scholarships and graduation awards University Fin",
-          "co di Milano Programmes Tools for your study choice Student life Toward the world of careers How to apply Costs and scholarships Transfers and other specific cases Contacts Entra al Politecnico come Studente di mobilità internazionale Esplora Servizi e opportunità Student accommodatio"
+          "Passion in action Moocs - Polimi Open Knowledge Towards your future career Language courses How to apply More Other resources Schools WeBeep Polimi Learning Innovation Libreria Zero Degree programme Search a Lecturer Search a course Documents about didactic PhD Explore our offer of P"
         ],
         "admission": [
-          "tural activities Opportunità International Mobility Italian National Erasmus Mobility Altre risorse Admission to laurea magistrale Esami di Stato Health service and medical emergency Explore information for Alumni Learn more Alumni Community The initiatives Contacts and FAQs Vai a Sito Al",
-          "tural activities Opportunità International Mobility Italian National Erasmus Mobility Altre risorse Admission to laurea magistrale Esami di Stato Health service and medical emergency Alumni Alumni Community The initiatives Contacts and FAQs Vai a Sito Alumni Vai Faculty and Researchers Sc",
-          "holarships and financial aid Study Plan and OFA Didactic Activities and Degree Examination Language requirements Special cases Calendar and deadlines Certificates and forms Contacts Student Ombuds Office Associations and cultural activities Opportunità International Mobility Italian Nationa"
+          "al activities Opportunities International Mobility Italian National Erasmus Mobility More resources Admission to laurea magistrale Health service and medical emergency Explore information for Alumni Learn more Alumni Community The initiatives Contacts and FAQs Visit Alumni website Go Expl",
+          "al activities Opportunities International Mobility Italian National Erasmus Mobility More resources Admission to laurea magistrale Health service and medical emergency Alumni Alumni Community The initiatives Contacts and FAQs Visit Alumni website Go Faculty and Researchers Scientific rigo",
+          "holarships and financial aid Study Plan and OFA Didactic Activities and Degree Examination Language requirements Special cases Calendar and deadlines Certificates and forms Contacts Student Ombuds Office Associations and cultural activities Opportunities International Mobility Italian Natio"
         ],
         "fees_funding": [
           "Tuition fees, scholarships and financial aid - polimi Skip to main content Skip to page footer IT EN Access Online services Support Polimi Skip to Content (Press Enter) The Politecnico Ex",
@@ -199,17 +190,17 @@
           "d benefits Equal opportunities and inclusion Sport and leisure Students Notices After the enrolment Tuition fees, scholarships and financial aid Study Plan and OFA Didactic Activities and Degree Examination Language requirements Special cases Calendar and deadlines Certificates and form"
         ],
         "research": [
-          ", contacts and PhD Handbook News Dottorato di Ricerca Vai alle news Corsi di Dottorato Vai ai corsi Research Explore our Research Learn more News How we do research at Politecnico Research projects Il PNRR e il Politecnico Partnerships with companies (JRP) Technology Transfer Polimi Inno",
-          "ndbook News Dottorato di Ricerca Vai alle news Corsi di Dottorato Vai ai corsi Research Explore our Research Learn more News How we do research at Politecnico Research projects Il PNRR e il Politecnico Partnerships with companies (JRP) Technology Transfer Polimi Innovators Departments La",
-          "i alle news Corsi di Dottorato Vai ai corsi Research Explore our Research Learn more News How we do research at Politecnico Research projects Il PNRR e il Politecnico Partnerships with companies (JRP) Technology Transfer Polimi Innovators Departments Laboratories Contacts In evidenza Pol"
+          "Companies PhD School FAQs, contacts and PhD Handbook PhD News Visit the news PhD Programmes Explore Research Explore our Research Learn more News How we do research at Politecnico Research projects Il PNRR e il Politecnico Partnerships with companies (JRP) Technology Transfer Polimi Inno",
+          "FAQs, contacts and PhD Handbook PhD News Visit the news PhD Programmes Explore Research Explore our Research Learn more News How we do research at Politecnico Research projects Il PNRR e il Politecnico Partnerships with companies (JRP) Technology Transfer Polimi Innovators Departments La",
+          "News Visit the news PhD Programmes Explore Research Explore our Research Learn more News How we do research at Politecnico Research projects Il PNRR e il Politecnico Partnerships with companies (JRP) Technology Transfer Polimi Innovators Departments Laboratories Contacts Focus on Polimi"
         ],
         "people_contact": [
-          "national dimension Learning development Welfare Sustainability and inclusion Hospitality and living Professors Tenure-track researchers Visiting professors Call for expression of interest Altre risorse Integrity and beyond Intranet di Ateneo Normativa di Ateneo Explore information for Sta",
-          "re Sustainability and inclusion Hospitality and living Professors Tenure-track researchers Visiting professors Call for expression of interest Altre risorse Integrity and beyond Intranet di Ateneo Normativa di Ateneo Explore information for Staff Learn more Sustainability and inclusion Or",
-          "national dimension Learning development Welfare Sustainability and inclusion Hospitality and living Professors Tenure-track researchers Visiting professors Call for expression of interest Altre risorse Integrity and beyond Intranet di Ateneo Normativa di Ateneo Staff Sustainability and in"
+          "national dimension Learning development Welfare Sustainability and inclusion Hospitality and living Professors Tenure-track researchers Visiting professors Call for expression of interest Other resources Integrity and beyond Intranet di Ateneo Normativa di Ateneo Explore information for S",
+          "re Sustainability and inclusion Hospitality and living Professors Tenure-track researchers Visiting professors Call for expression of interest Other resources Integrity and beyond Intranet di Ateneo Normativa di Ateneo Explore information for Staff Learn more Sustainability and inclusion",
+          "national dimension Learning development Welfare Sustainability and inclusion Hospitality and living Professors Tenure-track researchers Visiting professors Call for expression of interest Other resources Integrity and beyond Intranet di Ateneo Normativa di Ateneo Staff Sustainability and"
         ]
       },
-      "content_hash": "c9381ba9eb972a19efd889d5e027789bc774f97b8931c4dc19b5f6869ae58a63"
+      "content_hash": "e131711ca60e4774af12abaad3778813312116c6b942deffc942d0298a8e829c"
     },
     {
       "agent": "atlas",
@@ -219,12 +210,13 @@
       "title": "Fees - polimi",
       "signals": {
         "deadlines": [
-          "and OFA Didactic Activities and Degree Examination Language requirements Special cases Calendar and deadlines Certificates and forms Contacts Student Ombuds Office Associations and cultural activities Opportunità International Mobility Italian National Erasmus Mobility Altre risorse Admi",
-          "co di Milano Programmes Tools for your study choice Student life Toward the world of careers How to apply Costs and scholarships Transfers and other specific cases Contacts Entra al Politecnico come Studente di mobilità internazionale Esplora Servizi e opportunità Student accommodatio"
+          "and OFA Didactic Activities and Degree Examination Language requirements Special cases Calendar and deadlines Certificates and forms Contacts Student Ombuds Office Associations and cultural activities Opportunities International Mobility Italian National Erasmus Mobility More resources A",
+          "Passion in action Moocs - Polimi Open Knowledge Towards your future career Language courses How to apply More Other resources Schools WeBeep Polimi Learning Innovation Libreria Zero Degree programme Search a Lecturer Search a course Documents about didactic PhD Explore our offer of P",
+          "co di Milano Programmes Tools for your study choice Student life Toward the world of careers How to apply Costs and scholarships Transfers and other specific cases Contacts Apply to Polimi as Exchange student (incoming) Explore Services and opportunities Student accommodation Conventi"
         ],
         "admission": [
-          "tural activities Opportunità International Mobility Italian National Erasmus Mobility Altre risorse Admission to laurea magistrale Esami di Stato Health service and medical emergency Explore information for Alumni Learn more Alumni Community The initiatives Contacts and FAQs Vai a Sito Al",
-          "tural activities Opportunità International Mobility Italian National Erasmus Mobility Altre risorse Admission to laurea magistrale Esami di Stato Health service and medical emergency Alumni Alumni Community The initiatives Contacts and FAQs Vai a Sito Alumni Vai Faculty and Researchers Sc",
+          "al activities Opportunities International Mobility Italian National Erasmus Mobility More resources Admission to laurea magistrale Health service and medical emergency Explore information for Alumni Learn more Alumni Community The initiatives Contacts and FAQs Visit Alumni website Go Expl",
+          "al activities Opportunities International Mobility Italian National Erasmus Mobility More resources Admission to laurea magistrale Health service and medical emergency Alumni Alumni Community The initiatives Contacts and FAQs Visit Alumni website Go Faculty and Researchers Scientific rigo",
           "efits to reduce the cost of studies. University fees Fees for Degree programmes University fees for admission to Laurea (equivalent to BSc) programmes, to Laurea Magistrale (equivalent to MSc) programmes and to Single-cycle programmes More Fees for Curricular integrations and single cours"
         ],
         "fees_funding": [
@@ -233,17 +225,17 @@
           "students Costs and scholarships The cost of studies In this section you can find all details about tuition fees for Bachelor of Science degrees, Master of Science degrees, single-cycle Master's degree and single courses. The Polytecnico provides scholarships and benefits to reduce the"
         ],
         "research": [
-          ", contacts and PhD Handbook News Dottorato di Ricerca Vai alle news Corsi di Dottorato Vai ai corsi Research Explore our Research Learn more News How we do research at Politecnico Research projects Il PNRR e il Politecnico Partnerships with companies (JRP) Technology Transfer Polimi Inno",
-          "ndbook News Dottorato di Ricerca Vai alle news Corsi di Dottorato Vai ai corsi Research Explore our Research Learn more News How we do research at Politecnico Research projects Il PNRR e il Politecnico Partnerships with companies (JRP) Technology Transfer Polimi Innovators Departments La",
-          "i alle news Corsi di Dottorato Vai ai corsi Research Explore our Research Learn more News How we do research at Politecnico Research projects Il PNRR e il Politecnico Partnerships with companies (JRP) Technology Transfer Polimi Innovators Departments Laboratories Contacts In evidenza Pol"
+          "Companies PhD School FAQs, contacts and PhD Handbook PhD News Visit the news PhD Programmes Explore Research Explore our Research Learn more News How we do research at Politecnico Research projects Il PNRR e il Politecnico Partnerships with companies (JRP) Technology Transfer Polimi Inno",
+          "FAQs, contacts and PhD Handbook PhD News Visit the news PhD Programmes Explore Research Explore our Research Learn more News How we do research at Politecnico Research projects Il PNRR e il Politecnico Partnerships with companies (JRP) Technology Transfer Polimi Innovators Departments La",
+          "News Visit the news PhD Programmes Explore Research Explore our Research Learn more News How we do research at Politecnico Research projects Il PNRR e il Politecnico Partnerships with companies (JRP) Technology Transfer Polimi Innovators Departments Laboratories Contacts Focus on Polimi"
         ],
         "people_contact": [
-          "national dimension Learning development Welfare Sustainability and inclusion Hospitality and living Professors Tenure-track researchers Visiting professors Call for expression of interest Altre risorse Integrity and beyond Intranet di Ateneo Normativa di Ateneo Explore information for Sta",
-          "re Sustainability and inclusion Hospitality and living Professors Tenure-track researchers Visiting professors Call for expression of interest Altre risorse Integrity and beyond Intranet di Ateneo Normativa di Ateneo Explore information for Staff Learn more Sustainability and inclusion Or",
-          "national dimension Learning development Welfare Sustainability and inclusion Hospitality and living Professors Tenure-track researchers Visiting professors Call for expression of interest Altre risorse Integrity and beyond Intranet di Ateneo Normativa di Ateneo Staff Sustainability and in"
+          "national dimension Learning development Welfare Sustainability and inclusion Hospitality and living Professors Tenure-track researchers Visiting professors Call for expression of interest Other resources Integrity and beyond Intranet di Ateneo Normativa di Ateneo Explore information for S",
+          "re Sustainability and inclusion Hospitality and living Professors Tenure-track researchers Visiting professors Call for expression of interest Other resources Integrity and beyond Intranet di Ateneo Normativa di Ateneo Explore information for Staff Learn more Sustainability and inclusion",
+          "national dimension Learning development Welfare Sustainability and inclusion Hospitality and living Professors Tenure-track researchers Visiting professors Call for expression of interest Other resources Integrity and beyond Intranet di Ateneo Normativa di Ateneo Staff Sustainability and"
         ]
       },
-      "content_hash": "ab412fef8578fea99bcadbd0399ddab84ce47a65e90a916d00fd19da696c35a1"
+      "content_hash": "ed538c53e32a5831988508364cf421890ef7b664f7e586235d7ed04cd554c172"
     },
     {
       "agent": "atlas",
@@ -253,12 +245,13 @@
       "title": "Laurea, Laurea Magistrale and Single-cycle programmes - polimi",
       "signals": {
         "deadlines": [
-          "and OFA Didactic Activities and Degree Examination Language requirements Special cases Calendar and deadlines Certificates and forms Contacts Student Ombuds Office Associations and cultural activities Opportunità International Mobility Italian National Erasmus Mobility Altre risorse Admi",
-          "co di Milano Programmes Tools for your study choice Student life Toward the world of careers How to apply Costs and scholarships Transfers and other specific cases Contacts Entra al Politecnico come Studente di mobilità internazionale Esplora Servizi e opportunità Student accommodatio"
+          "and OFA Didactic Activities and Degree Examination Language requirements Special cases Calendar and deadlines Certificates and forms Contacts Student Ombuds Office Associations and cultural activities Opportunities International Mobility Italian National Erasmus Mobility More resources A",
+          "Passion in action Moocs - Polimi Open Knowledge Towards your future career Language courses How to apply More Other resources Schools WeBeep Polimi Learning Innovation Libreria Zero Degree programme Search a Lecturer Search a course Documents about didactic PhD Explore our offer of P",
+          "co di Milano Programmes Tools for your study choice Student life Toward the world of careers How to apply Costs and scholarships Transfers and other specific cases Contacts Apply to Polimi as Exchange student (incoming) Explore Services and opportunities Student accommodation Conventi"
         ],
         "admission": [
-          "tural activities Opportunità International Mobility Italian National Erasmus Mobility Altre risorse Admission to laurea magistrale Esami di Stato Health service and medical emergency Explore information for Alumni Learn more Alumni Community The initiatives Contacts and FAQs Vai a Sito Al",
-          "tural activities Opportunità International Mobility Italian National Erasmus Mobility Altre risorse Admission to laurea magistrale Esami di Stato Health service and medical emergency Alumni Alumni Community The initiatives Contacts and FAQs Vai a Sito Alumni Vai Faculty and Researchers Sc",
+          "al activities Opportunities International Mobility Italian National Erasmus Mobility More resources Admission to laurea magistrale Health service and medical emergency Explore information for Alumni Learn more Alumni Community The initiatives Contacts and FAQs Visit Alumni website Go Expl",
+          "al activities Opportunities International Mobility Italian National Erasmus Mobility More resources Admission to laurea magistrale Health service and medical emergency Alumni Alumni Community The initiatives Contacts and FAQs Visit Alumni website Go Faculty and Researchers Scientific rigo",
           "nature of the Dichiarazione Sostitutiva Unica (DSU) in the Online Services , in the reserved area ( Admission applications > ISEE entry for enrolment ) Timing: enter the date at least 10 working days before the enrolment date, so that you do not have to pay the first instalment. This adva"
         ],
         "fees_funding": [
@@ -267,17 +260,17 @@
           "programmes Costs and scholarships Degree courses, master's degrees, five-year single-cycle courses Tuition fees Fee amount for one academic year You are a future student of the 2026/2027 academic year Second instalment of the 2026/2027 academic year Financial aid for disability Deducti"
         ],
         "research": [
-          ", contacts and PhD Handbook News Dottorato di Ricerca Vai alle news Corsi di Dottorato Vai ai corsi Research Explore our Research Learn more News How we do research at Politecnico Research projects Il PNRR e il Politecnico Partnerships with companies (JRP) Technology Transfer Polimi Inno",
-          "ndbook News Dottorato di Ricerca Vai alle news Corsi di Dottorato Vai ai corsi Research Explore our Research Learn more News How we do research at Politecnico Research projects Il PNRR e il Politecnico Partnerships with companies (JRP) Technology Transfer Polimi Innovators Departments La",
-          "i alle news Corsi di Dottorato Vai ai corsi Research Explore our Research Learn more News How we do research at Politecnico Research projects Il PNRR e il Politecnico Partnerships with companies (JRP) Technology Transfer Polimi Innovators Departments Laboratories Contacts In evidenza Pol"
+          "Companies PhD School FAQs, contacts and PhD Handbook PhD News Visit the news PhD Programmes Explore Research Explore our Research Learn more News How we do research at Politecnico Research projects Il PNRR e il Politecnico Partnerships with companies (JRP) Technology Transfer Polimi Inno",
+          "FAQs, contacts and PhD Handbook PhD News Visit the news PhD Programmes Explore Research Explore our Research Learn more News How we do research at Politecnico Research projects Il PNRR e il Politecnico Partnerships with companies (JRP) Technology Transfer Polimi Innovators Departments La",
+          "News Visit the news PhD Programmes Explore Research Explore our Research Learn more News How we do research at Politecnico Research projects Il PNRR e il Politecnico Partnerships with companies (JRP) Technology Transfer Polimi Innovators Departments Laboratories Contacts Focus on Polimi"
         ],
         "people_contact": [
-          "national dimension Learning development Welfare Sustainability and inclusion Hospitality and living Professors Tenure-track researchers Visiting professors Call for expression of interest Altre risorse Integrity and beyond Intranet di Ateneo Normativa di Ateneo Explore information for Sta",
-          "re Sustainability and inclusion Hospitality and living Professors Tenure-track researchers Visiting professors Call for expression of interest Altre risorse Integrity and beyond Intranet di Ateneo Normativa di Ateneo Explore information for Staff Learn more Sustainability and inclusion Or",
-          "national dimension Learning development Welfare Sustainability and inclusion Hospitality and living Professors Tenure-track researchers Visiting professors Call for expression of interest Altre risorse Integrity and beyond Intranet di Ateneo Normativa di Ateneo Staff Sustainability and in"
+          "national dimension Learning development Welfare Sustainability and inclusion Hospitality and living Professors Tenure-track researchers Visiting professors Call for expression of interest Other resources Integrity and beyond Intranet di Ateneo Normativa di Ateneo Explore information for S",
+          "re Sustainability and inclusion Hospitality and living Professors Tenure-track researchers Visiting professors Call for expression of interest Other resources Integrity and beyond Intranet di Ateneo Normativa di Ateneo Explore information for Staff Learn more Sustainability and inclusion",
+          "national dimension Learning development Welfare Sustainability and inclusion Hospitality and living Professors Tenure-track researchers Visiting professors Call for expression of interest Other resources Integrity and beyond Intranet di Ateneo Normativa di Ateneo Staff Sustainability and"
         ]
       },
-      "content_hash": "4854cde46019aef440cefef0f35e7ea3704d21f26d149aa4324a6e5fea88478f"
+      "content_hash": "6a9b61c9be649eea5925ecf75cf801bb17fefc62efe225438d8210e14e86948b"
     },
     {
       "agent": "atlas",
@@ -287,14 +280,14 @@
       "title": "Laurea Magistrale Programmes (equivalent to Master of Science) - polimi",
       "signals": {
         "deadlines": [
-          "and OFA Didactic Activities and Degree Examination Language requirements Special cases Calendar and deadlines Certificates and forms Contacts Student Ombuds Office Associations and cultural activities Opportunità International Mobility Italian National Erasmus Mobility Altre risorse Admi",
-          "co di Milano Programmes Tools for your study choice Student life Toward the world of careers How to apply Costs and scholarships Transfers and other specific cases Contacts Entra al Politecnico come Studente di mobilità internazionale Esplora Servizi e opportunità Student accommodatio",
-          "Frontiere Viaggio nella ricerca Scopri Work with us You are here: Home Prospective students How to apply Admission to laurea magistrale How to apply Admission to Master of Science programmes A.Y. 2026/2027 Information for Students with an Italian qualification More Students with a fo"
+          "and OFA Didactic Activities and Degree Examination Language requirements Special cases Calendar and deadlines Certificates and forms Contacts Student Ombuds Office Associations and cultural activities Opportunities International Mobility Italian National Erasmus Mobility More resources A",
+          "Passion in action Moocs - Polimi Open Knowledge Towards your future career Language courses How to apply More Other resources Schools WeBeep Polimi Learning Innovation Libreria Zero Degree programme Search a Lecturer Search a course Documents about didactic PhD Explore our offer of P",
+          "co di Milano Programmes Tools for your study choice Student life Toward the world of careers How to apply Costs and scholarships Transfers and other specific cases Contacts Apply to Polimi as Exchange student (incoming) Explore Services and opportunities Student accommodation Conventi"
         ],
         "admission": [
-          "tural activities Opportunità International Mobility Italian National Erasmus Mobility Altre risorse Admission to laurea magistrale Esami di Stato Health service and medical emergency Explore information for Alumni Learn more Alumni Community The initiatives Contacts and FAQs Vai a Sito Al",
-          "tural activities Opportunità International Mobility Italian National Erasmus Mobility Altre risorse Admission to laurea magistrale Esami di Stato Health service and medical emergency Alumni Alumni Community The initiatives Contacts and FAQs Vai a Sito Alumni Vai Faculty and Researchers Sc",
-          "iere Viaggio nella ricerca Scopri Work with us You are here: Home Prospective students How to apply Admission to laurea magistrale How to apply Admission to Master of Science programmes A.Y. 2026/2027 Information for Students with an Italian qualification More Students with a foreign qual"
+          "al activities Opportunities International Mobility Italian National Erasmus Mobility More resources Admission to laurea magistrale Health service and medical emergency Explore information for Alumni Learn more Alumni Community The initiatives Contacts and FAQs Visit Alumni website Go Expl",
+          "al activities Opportunities International Mobility Italian National Erasmus Mobility More resources Admission to laurea magistrale Health service and medical emergency Alumni Alumni Community The initiatives Contacts and FAQs Visit Alumni website Go Faculty and Researchers Scientific rigo",
+          "ourney into the research world Go Work with us You are here: Home Prospective students How to apply Admission to laurea magistrale How to apply Admission to Master of Science programmes A.Y. 2026/2027 Information for Students with an Italian qualification More Students with a foreign qual"
         ],
         "fees_funding": [
           "inclusion Sport and leisure Explore information for Students Learn more Notices After the enrolment Tuition fees, scholarships and financial aid Study Plan and OFA Didactic Activities and Degree Examination Language requirements Special cases Calendar and deadlines Certificates and form",
@@ -302,17 +295,17 @@
           "n Sport and leisure Explore information for Students Learn more Notices After the enrolment Tuition fees, scholarships and financial aid Study Plan and OFA Didactic Activities and Degree Examination Language requirements Special cases Calendar and deadlines Certificates and forms Co"
         ],
         "research": [
-          ", contacts and PhD Handbook News Dottorato di Ricerca Vai alle news Corsi di Dottorato Vai ai corsi Research Explore our Research Learn more News How we do research at Politecnico Research projects Il PNRR e il Politecnico Partnerships with companies (JRP) Technology Transfer Polimi Inno",
-          "ndbook News Dottorato di Ricerca Vai alle news Corsi di Dottorato Vai ai corsi Research Explore our Research Learn more News How we do research at Politecnico Research projects Il PNRR e il Politecnico Partnerships with companies (JRP) Technology Transfer Polimi Innovators Departments La",
-          "i alle news Corsi di Dottorato Vai ai corsi Research Explore our Research Learn more News How we do research at Politecnico Research projects Il PNRR e il Politecnico Partnerships with companies (JRP) Technology Transfer Polimi Innovators Departments Laboratories Contacts In evidenza Pol"
+          "Companies PhD School FAQs, contacts and PhD Handbook PhD News Visit the news PhD Programmes Explore Research Explore our Research Learn more News How we do research at Politecnico Research projects Il PNRR e il Politecnico Partnerships with companies (JRP) Technology Transfer Polimi Inno",
+          "FAQs, contacts and PhD Handbook PhD News Visit the news PhD Programmes Explore Research Explore our Research Learn more News How we do research at Politecnico Research projects Il PNRR e il Politecnico Partnerships with companies (JRP) Technology Transfer Polimi Innovators Departments La",
+          "News Visit the news PhD Programmes Explore Research Explore our Research Learn more News How we do research at Politecnico Research projects Il PNRR e il Politecnico Partnerships with companies (JRP) Technology Transfer Polimi Innovators Departments Laboratories Contacts Focus on Polimi"
         ],
         "people_contact": [
-          "national dimension Learning development Welfare Sustainability and inclusion Hospitality and living Professors Tenure-track researchers Visiting professors Call for expression of interest Altre risorse Integrity and beyond Intranet di Ateneo Normativa di Ateneo Explore information for Sta",
-          "re Sustainability and inclusion Hospitality and living Professors Tenure-track researchers Visiting professors Call for expression of interest Altre risorse Integrity and beyond Intranet di Ateneo Normativa di Ateneo Explore information for Staff Learn more Sustainability and inclusion Or",
-          "national dimension Learning development Welfare Sustainability and inclusion Hospitality and living Professors Tenure-track researchers Visiting professors Call for expression of interest Altre risorse Integrity and beyond Intranet di Ateneo Normativa di Ateneo Staff Sustainability and in"
+          "national dimension Learning development Welfare Sustainability and inclusion Hospitality and living Professors Tenure-track researchers Visiting professors Call for expression of interest Other resources Integrity and beyond Intranet di Ateneo Normativa di Ateneo Explore information for S",
+          "re Sustainability and inclusion Hospitality and living Professors Tenure-track researchers Visiting professors Call for expression of interest Other resources Integrity and beyond Intranet di Ateneo Normativa di Ateneo Explore information for Staff Learn more Sustainability and inclusion",
+          "national dimension Learning development Welfare Sustainability and inclusion Hospitality and living Professors Tenure-track researchers Visiting professors Call for expression of interest Other resources Integrity and beyond Intranet di Ateneo Normativa di Ateneo Staff Sustainability and"
         ]
       },
-      "content_hash": "0975e67b74cd921916df05dc1ff632ef6244258a879c44646e56e56bebc37f2b"
+      "content_hash": "e67b9a689badcb02e6fb475178a69b8f9fbeb0585f121d057d720251233cb32c"
     },
     {
       "agent": "atlas",
@@ -374,7 +367,7 @@
           "anding UPCshop, merchandising Press room © UPC Universitat Politècnica de Catalunya - BarcelonaTech Contact Site map Accessibility Disclaimer Privacy settings"
         ]
       },
-      "content_hash": "6fe16ffdfc6df3046a18d50d54d91683778aab787980538826c781021ae83428"
+      "content_hash": "cf86aa999928189e35a70c455c2e9a5a0c7a84e1661fa85f765626fc3e7b63ae"
     },
     {
       "agent": "atlas",
@@ -403,7 +396,7 @@
           "anding UPCshop, merchandising Press room © UPC Universitat Politècnica de Catalunya - BarcelonaTech Contact Site map Accessibility Disclaimer Privacy settings"
         ]
       },
-      "content_hash": "6fe16ffdfc6df3046a18d50d54d91683778aab787980538826c781021ae83428"
+      "content_hash": "cf86aa999928189e35a70c455c2e9a5a0c7a84e1661fa85f765626fc3e7b63ae"
     },
     {
       "agent": "atlas",
@@ -638,7 +631,7 @@
           "anagement Organic Solar Cells Optoelectronics of group-IV semiconductor nanostructures Publications People Equipment Projects News In the Press People All Researchers Post-Docs PhD Students Technicians and project managers Afroditi Koutsogianni PhD Students Agustín Mihi Researchers Ale"
         ]
       },
-      "content_hash": "f58bd4a542ef3d3e12252398a6dc8d737b4072c56e93b4dd296d9ed3b40edd6e"
+      "content_hash": "9c53c9758a13b9d34bea51c0f68e161e38bf21c04ac7483f6f3d215a6b4a62b7"
     },
     {
       "agent": "nova",
@@ -661,7 +654,7 @@
           "ncluding thermal, mechanical and biological aspects. Not only allows this to solve urgent problems (contact resistance), it also enables completely new (switchable, reconfigurable) devices. The topic is inspired by a combination of scientific curiosity and a strong feeling of practical"
         ]
       },
-      "content_hash": "01f73f002c00e9cde5a0ce6cdfb188b020cb5693c129614f895621dfd3831bee"
+      "content_hash": "fd70cc10764a347f66854c529e90874e21bd2a0c9da95ce4525e04d3242a107b"
     },
     {
       "agent": "nova",
@@ -680,7 +673,7 @@
           "anagement Organic Solar Cells Optoelectronics of group-IV semiconductor nanostructures Publications People Equipment Projects News In the Press Publications Cargando publicaciones Nanopto..."
         ]
       },
-      "content_hash": "100639669aa52d8c939a265f4cef8c5ceb02f4212b9b56107ce07b3ebfd4ca61"
+      "content_hash": "7ca4ab2e1a7f4e7d022618e2614966f228b8682277e7106197dac604a121f1c2"
     },
     {
       "agent": "nova",
@@ -704,7 +697,7 @@
           "» About the center Research Clean Room Laboratories Technology Transfer News & Outreach Highlights Contact Talent Search Contracting profile Legal Advice © Copyright 2026. IMB-CNM"
         ]
       },
-      "content_hash": "e0d71bee79d0782237386151ad25337f6718053f19b470af58f663bd73fbb849"
+      "content_hash": "0ef2bd8e5135fa2bd7e2d45d1229af5f38c20ac492146dce49e49b4d2e151de7"
     }
   ],
   "sources": [
@@ -742,21 +735,42 @@
           "Our Partners The course Overview Consortium & Universities Curriculum Mobility scheme Fees The Team Professors Administrative Associated partners (research centers and industry) Students Resources Class #21 2025-2027 (32 students) Class #20 2024-2026 (31 students) Class #19 2023-2025 (17"
         ]
       },
-      "content_hash": "81fb809d9a05cc4b7668a214e1a8fc20defb9310ee170b1ddc41185b43838c48"
+      "content_hash": "38986819cc07829254f3d19212a25698fcb5117afce74211bf3e39b90e1efce2"
     },
     {
       "agent": "atlas",
       "kind": "master",
       "entity": "KU Leuven Nanoscience",
-      "url": "https://status.kuleuven.io/posts/01m5ev2r2apv9adt2n52pf2rg5",
-      "title": "Statuspagina ICTS - Websites en toepassingen enkel bereikbaar via KU Leuven-netwerken",
+      "url": "https://onderwijsaanbod.kuleuven.be/opleidingen/e/SC_58449463/diploma_omschrijving",
+      "title": "Master of Nanoscience, Nanotechnology and Nanoengineering (Programme for students started in 2025-2026 or later) (Leuven) | KU Leuven",
       "status": "verified",
       "signals": {
+        "deadlines": [
+          "t admission requirements For the most recent – ​​​​​​and only official information – on application deadlines , check the application window for this programme. Apply as non-Flemish degree holder Flemish degree holder Students who obtained a prior degree at an institution of the Flemish",
+          "e events held by KU Leuven, our study programmes, admission requirements, tuition fees, application deadlines, research and more. Keep me informed PDF/print Disclaimer Cookie Settings Privacy Policy Jobs Follow KU Leuven on search New degree programmes for 2027 - 2028 Lifelong learning F",
+          "ts For the most recent – ​​​​​​and only official information – on application deadlines , check the application window for this programme. Apply as non-Flemish degree holder Flemish degree holder Students who obtained a prior degree at an institution of the Flemish Community may be eligible for di"
+        ],
+        "admission": [
+          "nce Apply now Discover the programme keyboard_arrow_down Discover the programme Programme structure Admission requirements Further studies More Objectives Non-binding personal development goals Quality of education Master of Nanoscience, Nanotechnology and Nanoengineering Discover the Mas",
+          "world You have a clear sense of the societal relevance of technology Check the official and current admission requirements Student-exchange opportunities & Internships At the Faculty of Engineering Science, students are given the opportunity to complete one or two semesters abroad within",
+          "rogramme. These courses are intended to complete the student's background, but note that for direct admission to the programme, not more than 16 credits should be needed. Note also that a basic training in bachelor-level chemistry and programming is a pre-requisite to the programme. Core"
+        ],
+        "fees_funding": [
+          "ts for study level and academic content. Check the official and current admission requirements ​​​​ Tuition fees, study costs & scholarships Tuition fees The fees for any individual student are contingent upon their academic programme and the nationality of the student. For the most rec",
+          "Check the official and current admission requirements ​​​​ Tuition fees, study costs & scholarships Tuition fees The fees for any individual student are contingent upon their academic programme and the nationality of the student. For the most recent – and only official – information on",
+          "gramme and the nationality of the student. For the most recent – and only official – information on tuition fees, check the tuition fee calculator . Study costs The study costs consist of the yearly tuition fee on the one hand and degree-specific costs on the other hand. Besides study c"
+        ],
         "research": [
-          "ssociatie KU Leuven-locatie te begeven. Onze excuses voor het ongemak. apps Web- & applicatiebeheer groups Alle doelgroepen Personeel Studenten Externen school KU Leuven Associatie Anderen Bericht geplaatst op : 21-10-2026 | 11:01 Laatste update op : 21-10-2026 | 11:52 keyboard_arrow_"
+          "ptions are available? The Master of Nanoscience, Nanotechnology and Nanoengineering (120 ECTS) is a research-based master’s programme in which you can put a focus on one of the following fields: Nanomaterials and Nanochemistry Nanophysics and Nanoelectronics Engineering Nanobiotechnology",
+          "s in this young and rapidly evolving field. Teaching staff are closely affiliated with cutting-edge research centres such as imec and the Leuven NanoCentre , recognised worldwide as leaders in nanoscience and nanotechnology. The programme combines a strong research orientation with pract",
+          "recognised worldwide as leaders in nanoscience and nanotechnology. The programme combines a strong research orientation with practical, application-focused training, leveraging the research centres’ links with industrial partners. In your master’s thesis, you will have the opportunity t"
+        ],
+        "people_contact": [
+          ". You are excited about fundamental sciences and technological problems and about multidisciplinary teamwork You have a broad scientific interest and are excited about the nano world You have a clear sense of the societal relevance of technology Check the official and current admissi",
+          "Engineering Science website Discover all the programmes of the faculty More on our campus in Leuven Contact Questions about the programme? You can ask about which classes you will take, the subjects you will study, the campus where you will be spending your time and much more. Questions"
         ]
       },
-      "content_hash": "1b94ad26cecfd588004eab0b86abd9ceb990b19b23090a813acf1a77e8c15245"
+      "content_hash": "1841da970781e3b5db4e4cc690549d19bd0b3884d6b76484542d605d3670e8bb"
     },
     {
       "agent": "atlas",
@@ -767,13 +781,13 @@
       "status": "verified",
       "signals": {
         "deadlines": [
-          "and OFA Didactic Activities and Degree Examination Language requirements Special cases Calendar and deadlines Certificates and forms Contacts Student Ombuds Office Associations and cultural activities Opportunità International Mobility Italian National Erasmus Mobility Altre risorse Admi",
-          "co di Milano Programmes Tools for your study choice Student life Toward the world of careers How to apply Costs and scholarships Transfers and other specific cases Contacts Entra al Politecnico come Studente di mobilità internazionale Esplora Servizi e opportunità Student accommodatio",
-          "otechnology Level Master of Science Duration 2 Years Language English Campus Milano Leonardo How to apply Find more Costs and scholarships Find more If you enrolled before the 2026/2027 academic year, consult the list of Programmes and Regulations available on your School website. The"
+          "and OFA Didactic Activities and Degree Examination Language requirements Special cases Calendar and deadlines Certificates and forms Contacts Student Ombuds Office Associations and cultural activities Opportunities International Mobility Italian National Erasmus Mobility More resources A",
+          "Passion in action Moocs - Polimi Open Knowledge Towards your future career Language courses How to apply More Other resources Schools WeBeep Polimi Learning Innovation Libreria Zero Degree programme Search a Lecturer Search a course Documents about didactic PhD Explore our offer of P",
+          "co di Milano Programmes Tools for your study choice Student life Toward the world of careers How to apply Costs and scholarships Transfers and other specific cases Contacts Apply to Polimi as Exchange student (incoming) Explore Services and opportunities Student accommodation Conventi"
         ],
         "admission": [
-          "tural activities Opportunità International Mobility Italian National Erasmus Mobility Altre risorse Admission to laurea magistrale Esami di Stato Health service and medical emergency Explore information for Alumni Learn more Alumni Community The initiatives Contacts and FAQs Vai a Sito Al",
-          "tural activities Opportunità International Mobility Italian National Erasmus Mobility Altre risorse Admission to laurea magistrale Esami di Stato Health service and medical emergency Alumni Alumni Community The initiatives Contacts and FAQs Vai a Sito Alumni Vai Faculty and Researchers Sc",
+          "al activities Opportunities International Mobility Italian National Erasmus Mobility More resources Admission to laurea magistrale Health service and medical emergency Explore information for Alumni Learn more Alumni Community The initiatives Contacts and FAQs Visit Alumni website Go Expl",
+          "al activities Opportunities International Mobility Italian National Erasmus Mobility More resources Admission to laurea magistrale Health service and medical emergency Alumni Alumni Community The initiatives Contacts and FAQs Visit Alumni website Go Faculty and Researchers Scientific rigo",
           "amme refers to the academic year 2025/26 and may be subject to change in the academic year 2026/27. Eligibility A Bachelor Degree in Industrial Engineering or in other material-related Degrees (e.g. Applied Physics and Chemistry). Mission and goals This Laurea Magistrale (equivalent to Mast"
         ],
         "fees_funding": [
@@ -782,17 +796,17 @@
           "n Sport and leisure Explore information for Students Learn more Notices After the enrolment Tuition fees, scholarships and financial aid Study Plan and OFA Didactic Activities and Degree Examination Language requirements Special cases Calendar and deadlines Certificates and forms Co"
         ],
         "research": [
-          ", contacts and PhD Handbook News Dottorato di Ricerca Vai alle news Corsi di Dottorato Vai ai corsi Research Explore our Research Learn more News How we do research at Politecnico Research projects Il PNRR e il Politecnico Partnerships with companies (JRP) Technology Transfer Polimi Inno",
-          "ndbook News Dottorato di Ricerca Vai alle news Corsi di Dottorato Vai ai corsi Research Explore our Research Learn more News How we do research at Politecnico Research projects Il PNRR e il Politecnico Partnerships with companies (JRP) Technology Transfer Polimi Innovators Departments La",
-          "i alle news Corsi di Dottorato Vai ai corsi Research Explore our Research Learn more News How we do research at Politecnico Research projects Il PNRR e il Politecnico Partnerships with companies (JRP) Technology Transfer Polimi Innovators Departments Laboratories Contacts In evidenza Pol"
+          "Companies PhD School FAQs, contacts and PhD Handbook PhD News Visit the news PhD Programmes Explore Research Explore our Research Learn more News How we do research at Politecnico Research projects Il PNRR e il Politecnico Partnerships with companies (JRP) Technology Transfer Polimi Inno",
+          "FAQs, contacts and PhD Handbook PhD News Visit the news PhD Programmes Explore Research Explore our Research Learn more News How we do research at Politecnico Research projects Il PNRR e il Politecnico Partnerships with companies (JRP) Technology Transfer Polimi Innovators Departments La",
+          "News Visit the news PhD Programmes Explore Research Explore our Research Learn more News How we do research at Politecnico Research projects Il PNRR e il Politecnico Partnerships with companies (JRP) Technology Transfer Polimi Innovators Departments Laboratories Contacts Focus on Polimi"
         ],
         "people_contact": [
-          "national dimension Learning development Welfare Sustainability and inclusion Hospitality and living Professors Tenure-track researchers Visiting professors Call for expression of interest Altre risorse Integrity and beyond Intranet di Ateneo Normativa di Ateneo Explore information for Sta",
-          "re Sustainability and inclusion Hospitality and living Professors Tenure-track researchers Visiting professors Call for expression of interest Altre risorse Integrity and beyond Intranet di Ateneo Normativa di Ateneo Explore information for Staff Learn more Sustainability and inclusion Or",
-          "national dimension Learning development Welfare Sustainability and inclusion Hospitality and living Professors Tenure-track researchers Visiting professors Call for expression of interest Altre risorse Integrity and beyond Intranet di Ateneo Normativa di Ateneo Staff Sustainability and in"
+          "national dimension Learning development Welfare Sustainability and inclusion Hospitality and living Professors Tenure-track researchers Visiting professors Call for expression of interest Other resources Integrity and beyond Intranet di Ateneo Normativa di Ateneo Explore information for S",
+          "re Sustainability and inclusion Hospitality and living Professors Tenure-track researchers Visiting professors Call for expression of interest Other resources Integrity and beyond Intranet di Ateneo Normativa di Ateneo Explore information for Staff Learn more Sustainability and inclusion",
+          "national dimension Learning development Welfare Sustainability and inclusion Hospitality and living Professors Tenure-track researchers Visiting professors Call for expression of interest Other resources Integrity and beyond Intranet di Ateneo Normativa di Ateneo Staff Sustainability and"
         ]
       },
-      "content_hash": "2328176f2faba477fd372fd6c5f0764ee15e2d316b6a7092be9e4ef79c9d9c30"
+      "content_hash": "ba0947d46293745f15910de4b12334dc7546a7df293cc4e63c31bc56b83d4a58"
     },
     {
       "agent": "atlas",
@@ -888,7 +902,7 @@
           "anagement Organic Solar Cells Optoelectronics of group-IV semiconductor nanostructures Publications People Equipment Projects News In the Press Organic Solar Cells We aim at producing strong contributions towards the development of cost-efective, low energy pay back time photovoltaics"
         ]
       },
-      "content_hash": "4899f65938dae32661b8a235017c0abf0092277f017804eff809d236762fd835"
+      "content_hash": "fed5bf594077b6e6b6bad67410a63c163e0eee29e3749d4d6ca2f060f8bdee48"
     },
     {
       "agent": "nova",
@@ -908,7 +922,7 @@
           "B. About the center Research Clean Room Laboratories Technology Transfer News & Outreach Highlights Contact Talent Search Contracting profile Legal Advice © Copyright 2026. IMB-CNM"
         ]
       },
-      "content_hash": "a17065f3d584399aab2d4001caefc84670fdbb18811ef3b4a3f42af125078b6f"
+      "content_hash": "41941b55e03466fd8fc5bb91333e830d704f444f15ab12deda466d355de1cfa1"
     }
   ]
 }
