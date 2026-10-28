@@ -1,10 +1,10 @@
 {
-  "generated_at": "2026-10-27T10:39:28.024793+00:00",
+  "generated_at": "2026-10-28T11:24:13.205401+00:00",
   "summary": {
     "targets": 8,
     "verified": 8,
     "discoveries": 24,
-    "changes": 3
+    "changes": 5
   },
   "changes": [
     {
@@ -14,15 +14,27 @@
       "message": "La página oficial cambió desde la última revisión."
     },
     {
-      "agent": "nova",
-      "entity": "ICMAB Nanopto",
-      "url": "https://nanopto.icmab.es/index.php/research/organic-solar-cells",
+      "agent": "atlas",
+      "entity": "Politecnico di Milano Materials",
+      "url": "https://www.polimi.it/en/education/laurea-magistrale-programmes/programme-detail/materials-engineering-and-nanotechnology",
       "message": "La página oficial cambió desde la última revisión."
     },
     {
       "agent": "nova",
-      "entity": "IMB-CNM Research Groups",
-      "url": "https://www.imb-cnm.csic.es/en/research/research-groups",
+      "entity": "IREC Solar Energy Materials",
+      "url": "https://www.irec.cat/research-transfer/solar-energy-materials-systems",
+      "message": "La página oficial cambió desde la última revisión."
+    },
+    {
+      "agent": "nova",
+      "entity": "IREC Energy Storage",
+      "url": "https://www.irec.cat/research-transfer/energy-storage-harvesting-catalysis",
+      "message": "La página oficial cambió desde la última revisión."
+    },
+    {
+      "agent": "nova",
+      "entity": "ICMAB Nanopto",
+      "url": "https://nanopto.icmab.es/index.php/research/organic-solar-cells",
       "message": "La página oficial cambió desde la última revisión."
     }
   ],
@@ -47,7 +59,7 @@
         "fees_funding": [
           "der au contenu menu mobile The course Overview Consortium & Universities Curriculum Mobility scheme Fees The Team Professors Administrative Associated partners (research centers and industry) Students Resources Class #21 2025-2027 (32 students) Class #20 2024-2026 (31 students) Clas",
           "f origin 3 15 Our Partners The course Overview Consortium & Universities Curriculum Mobility scheme Fees The Team Professors Administrative Associated partners (research centers and industry) Students Resources Class #21 2025-2027 (32 students) Class #20 2024-2026 (31 students) Clas",
-          "are not opened yet. Apply The course Overview Consortium & Universities Curriculum Mobility scheme Fees The Team Professors Administrative Associated partners (research centers and industry) Students Resources Class #21 2025-2027 (32 students) Class #20 2024-2026 (31 students) Clas"
+          "me) indicative dates Apply The course Overview Consortium & Universities Curriculum Mobility scheme Fees The Team Professors Administrative Associated partners (research centers and industry) Students Resources Class #21 2025-2027 (32 students) Class #20 2024-2026 (31 students) Clas"
         ],
         "research": [
           "niversities Curriculum Mobility scheme Fees The Team Professors Administrative Associated partners (research centers and industry) Students Resources Class #21 2025-2027 (32 students) Class #20 2024-2026 (31 students) Class #19 2023-2025 (17 students) Class #18 2022-2024 (34 students) Al"
@@ -55,10 +67,10 @@
         "people_contact": [
           "menu mobile The course Overview Consortium & Universities Curriculum Mobility scheme Fees The Team Professors Administrative Associated partners (research centers and industry) Students Resources Class #21 2025-2027 (32 students) Class #20 2024-2026 (31 students) Class #19 2023-2025 (17",
           "Our Partners The course Overview Consortium & Universities Curriculum Mobility scheme Fees The Team Professors Administrative Associated partners (research centers and industry) Students Resources Class #21 2025-2027 (32 students) Class #20 2024-2026 (31 students) Class #19 2023-2025 (17",
-          "d yet. Apply The course Overview Consortium & Universities Curriculum Mobility scheme Fees The Team Professors Administrative Associated partners (research centers and industry) Students Resources Class #21 2025-2027 (32 students) Class #20 2024-2026 (31 students) Class #19 2023-2025 (17"
+          "dates Apply The course Overview Consortium & Universities Curriculum Mobility scheme Fees The Team Professors Administrative Associated partners (research centers and industry) Students Resources Class #21 2025-2027 (32 students) Class #20 2024-2026 (31 students) Class #19 2023-2025 (17"
         ]
       },
-      "content_hash": "db5d30bfcc40fadbd933cc14e3720adffc271b5392b9943c9ec113acabb1a3c6"
+      "content_hash": "161880d1a3dd74ce06da94f56eff6b76c0512ebfb94b4db4c35723de9a4689db"
     },
     {
       "agent": "atlas",
@@ -80,7 +92,7 @@
         "fees_funding": [
           "der au contenu menu mobile The course Overview Consortium & Universities Curriculum Mobility scheme Fees The Team Professors Administrative Associated partners (research centers and industry) Students Resources Class #21 2025-2027 (32 students) Class #20 2024-2026 (31 students) Clas",
           "de Toulouse. Our Partners The course Overview Consortium & Universities Curriculum Mobility scheme Fees The Team Professors Administrative Associated partners (research centers and industry) Students Resources Class #21 2025-2027 (32 students) Class #20 2024-2026 (31 students) Clas",
-          "are not opened yet. Apply The course Overview Consortium & Universities Curriculum Mobility scheme Fees The Team Professors Administrative Associated partners (research centers and industry) Students Resources Class #21 2025-2027 (32 students) Class #20 2024-2026 (31 students) Clas"
+          "me) indicative dates Apply The course Overview Consortium & Universities Curriculum Mobility scheme Fees The Team Professors Administrative Associated partners (research centers and industry) Students Resources Class #21 2025-2027 (32 students) Class #20 2024-2026 (31 students) Clas"
         ],
         "research": [
           "niversities Curriculum Mobility scheme Fees The Team Professors Administrative Associated partners (research centers and industry) Students Resources Class #21 2025-2027 (32 students) Class #20 2024-2026 (31 students) Class #19 2023-2025 (17 students) Class #18 2022-2024 (34 students) Al",
@@ -90,10 +102,10 @@
         "people_contact": [
           "menu mobile The course Overview Consortium & Universities Curriculum Mobility scheme Fees The Team Professors Administrative Associated partners (research centers and industry) Students Resources Class #21 2025-2027 (32 students) Class #20 2024-2026 (31 students) Class #19 2023-2025 (17",
           "Our Partners The course Overview Consortium & Universities Curriculum Mobility scheme Fees The Team Professors Administrative Associated partners (research centers and industry) Students Resources Class #21 2025-2027 (32 students) Class #20 2024-2026 (31 students) Class #19 2023-2025 (17",
-          "d yet. Apply The course Overview Consortium & Universities Curriculum Mobility scheme Fees The Team Professors Administrative Associated partners (research centers and industry) Students Resources Class #21 2025-2027 (32 students) Class #20 2024-2026 (31 students) Class #19 2023-2025 (17"
+          "dates Apply The course Overview Consortium & Universities Curriculum Mobility scheme Fees The Team Professors Administrative Associated partners (research centers and industry) Students Resources Class #21 2025-2027 (32 students) Class #20 2024-2026 (31 students) Class #19 2023-2025 (17"
         ]
       },
-      "content_hash": "59a337cdba4b037dd6f1783c18391c93082d3ced8a6eac366b2de939ec4c8a04"
+      "content_hash": "95718342239f3a8eb6c99ce0492af6014e75783a5c7b65fb5731b04e5c94a07f"
     },
     {
       "agent": "atlas",
@@ -123,10 +135,10 @@
         "people_contact": [
           "menu mobile The course Overview Consortium & Universities Curriculum Mobility scheme Fees The Team Professors Administrative Associated partners (research centers and industry) Students Resources Class #21 2025-2027 (32 students) Class #20 2024-2026 (31 students) Class #19 2023-2025 (17",
           "Our Partners The course Overview Consortium & Universities Curriculum Mobility scheme Fees The Team Professors Administrative Associated partners (research centers and industry) Students Resources Class #21 2025-2027 (32 students) Class #20 2024-2026 (31 students) Class #19 2023-2025 (17",
-          "d yet. Apply The course Overview Consortium & Universities Curriculum Mobility scheme Fees The Team Professors Administrative Associated partners (research centers and industry) Students Resources Class #21 2025-2027 (32 students) Class #20 2024-2026 (31 students) Class #19 2023-2025 (17"
+          "dates Apply The course Overview Consortium & Universities Curriculum Mobility scheme Fees The Team Professors Administrative Associated partners (research centers and industry) Students Resources Class #21 2025-2027 (32 students) Class #20 2024-2026 (31 students) Class #19 2023-2025 (17"
         ]
       },
-      "content_hash": "bab9be0296e741b82d93871550556e5010f438e61272afcbaf603b9cba53b9f1"
+      "content_hash": "d81812cb01459b5dfad8d5e93d21134e086e8e7079325b0c12b8bcd1574d06c1"
     },
     {
       "agent": "atlas",
@@ -148,7 +160,7 @@
         "fees_funding": [
           "der au contenu menu mobile The course Overview Consortium & Universities Curriculum Mobility scheme Fees The Team Professors Administrative Associated partners (research centers and industry) Students Resources Class #21 2025-2027 (32 students) Class #20 2024-2026 (31 students) Clas",
           "of 24 months. Our Partners The course Overview Consortium & Universities Curriculum Mobility scheme Fees The Team Professors Administrative Associated partners (research centers and industry) Students Resources Class #21 2025-2027 (32 students) Class #20 2024-2026 (31 students) Clas",
-          "are not opened yet. Apply The course Overview Consortium & Universities Curriculum Mobility scheme Fees The Team Professors Administrative Associated partners (research centers and industry) Students Resources Class #21 2025-2027 (32 students) Class #20 2024-2026 (31 students) Clas"
+          "me) indicative dates Apply The course Overview Consortium & Universities Curriculum Mobility scheme Fees The Team Professors Administrative Associated partners (research centers and industry) Students Resources Class #21 2025-2027 (32 students) Class #20 2024-2026 (31 students) Clas"
         ],
         "research": [
           "niversities Curriculum Mobility scheme Fees The Team Professors Administrative Associated partners (research centers and industry) Students Resources Class #21 2025-2027 (32 students) Class #20 2024-2026 (31 students) Class #19 2023-2025 (17 students) Class #18 2022-2024 (34 students) Al"
@@ -156,10 +168,10 @@
         "people_contact": [
           "menu mobile The course Overview Consortium & Universities Curriculum Mobility scheme Fees The Team Professors Administrative Associated partners (research centers and industry) Students Resources Class #21 2025-2027 (32 students) Class #20 2024-2026 (31 students) Class #19 2023-2025 (17",
           "Our Partners The course Overview Consortium & Universities Curriculum Mobility scheme Fees The Team Professors Administrative Associated partners (research centers and industry) Students Resources Class #21 2025-2027 (32 students) Class #20 2024-2026 (31 students) Class #19 2023-2025 (17",
-          "d yet. Apply The course Overview Consortium & Universities Curriculum Mobility scheme Fees The Team Professors Administrative Associated partners (research centers and industry) Students Resources Class #21 2025-2027 (32 students) Class #20 2024-2026 (31 students) Class #19 2023-2025 (17"
+          "dates Apply The course Overview Consortium & Universities Curriculum Mobility scheme Fees The Team Professors Administrative Associated partners (research centers and industry) Students Resources Class #21 2025-2027 (32 students) Class #20 2024-2026 (31 students) Class #19 2023-2025 (17"
         ]
       },
-      "content_hash": "60499b49e4ea67972882e811f7a2ddc93c42f20601fb7616435ea88fac14986d"
+      "content_hash": "d363cfb839c2d16857e862405fe2d9e900ef0267eeeb576576a1608d32f53b67"
     },
     {
       "agent": "atlas",
@@ -194,7 +206,7 @@
           "national dimension Learning development Welfare Sustainability and inclusion Hospitality and living Professors Tenure-track researchers Visiting professors Call for expression of interest Other resources Integrity and beyond Intranet di Ateneo Normativa di Ateneo Staff Sustainability and"
         ]
       },
-      "content_hash": "e131711ca60e4774af12abaad3778813312116c6b942deffc942d0298a8e829c"
+      "content_hash": "48c7befc374d576c9eedbbb6ce029c61ac8b61a980010fa19a8589bd1346b8ea"
     },
     {
       "agent": "atlas",
@@ -229,7 +241,7 @@
           "national dimension Learning development Welfare Sustainability and inclusion Hospitality and living Professors Tenure-track researchers Visiting professors Call for expression of interest Other resources Integrity and beyond Intranet di Ateneo Normativa di Ateneo Staff Sustainability and"
         ]
       },
-      "content_hash": "ed538c53e32a5831988508364cf421890ef7b664f7e586235d7ed04cd554c172"
+      "content_hash": "4c80c254e20c56330fc89b740a947cfd8d490980bdabece0adf588851325fb8c"
     },
     {
       "agent": "atlas",
@@ -264,7 +276,7 @@
           "national dimension Learning development Welfare Sustainability and inclusion Hospitality and living Professors Tenure-track researchers Visiting professors Call for expression of interest Other resources Integrity and beyond Intranet di Ateneo Normativa di Ateneo Staff Sustainability and"
         ]
       },
-      "content_hash": "6a9b61c9be649eea5925ecf75cf801bb17fefc62efe225438d8210e14e86948b"
+      "content_hash": "956ac671273a0c06eb559f8bbbef5b6d00ac5d073e6bf365a406f43346093caa"
     },
     {
       "agent": "atlas",
@@ -299,7 +311,7 @@
           "national dimension Learning development Welfare Sustainability and inclusion Hospitality and living Professors Tenure-track researchers Visiting professors Call for expression of interest Other resources Integrity and beyond Intranet di Ateneo Normativa di Ateneo Staff Sustainability and"
         ]
       },
-      "content_hash": "e67b9a689badcb02e6fb475178a69b8f9fbeb0585f121d057d720251233cb32c"
+      "content_hash": "0bf86ee222e30b35d9bb35a5956d7629f4b30485e64d456adc032994643091a6"
     },
     {
       "agent": "atlas",
@@ -439,12 +451,12 @@
           "g opportunities Research projects Events PRIMA About us Pilot plants & facilities Talent Projects & research groups Core partners & stakeholders Our activities & services Testing Validation Demonstration & divulgation Collaborative projects Entrepreneurship & start-ups Training & qualifi"
         ],
         "people_contact": [
-          "to market Strategic actions Platforms & associations Projects Publications Open science Facilities People News & outreach News Events Outreach Mad for science Gara-Fecyt Search for... EN Search for... Newsletter Open science Work with us EN Search for... Home About us Mission & vision",
-          "to market Strategic actions Platforms & associations Projects Publications Open science Facilities People News & outreach News Events Outreach Mad for science Gara-Fecyt Meet the KTT Team Home Research & transfer Corporate development & technology transfer Knowledge tech transfer team",
+          "Portfolio Lab to market Strategic actions Platforms & associations Projects Publications Facilities People News & outreach News Events Outreach Mad for science Gara-Fecyt Search for... EN Search for... Newsletter Work with us EN Search for... Home About us Mission & vision Organisation",
+          "Portfolio Lab to market Strategic actions Platforms & associations Projects Publications Facilities People News & outreach News Events Outreach Mad for science Gara-Fecyt Meet the KTT Team Home Research & transfer Corporate development & technology transfer Knowledge tech transfer team",
           "ndates and supporting data management plans across all departments. sgilabert@irec.cat See all IREC people Trustees Supported by Member of Center Awarded by Contact us Barcelona Sant Adrià +34 933 562 615 Carrer Jardins de les Dones de Negre, 1, 2a planta | 08930 Sant Adrià de Besòs (B"
         ]
       },
-      "content_hash": "6ec0bcd5bcbd086c18acdf5389bd573514e7765c0093e6117b2a00635f1615e2"
+      "content_hash": "8e73f431ff956cd235d9247eaa2940424e82f0eadbffc4c7641ba8e6c9ec05e4"
     },
     {
       "agent": "nova",
@@ -464,7 +476,7 @@
           "silient buildings & communities Corporate development & technology transfer Knowledge tech transfer team Portfolio Lab to market Strategic actions Platforms & associations Projects Publications Facilities People News & outreach News Events Outreach Mad for science Gara-Fecyt Search f"
         ]
       },
-      "content_hash": "634c8c28282cb1b29a5ec245ddeeb800e92852ab7625838c8eabbc3328d00616"
+      "content_hash": "e20ad189b39ed71179e7035f74a2c335d645268865bdc85749fdbb1c30fd01fd"
     },
     {
       "agent": "nova",
@@ -482,17 +494,17 @@
           "t de Recerca en Energia de Catalunya) under the mandate of the Generalitat de Catalunya and with co-funding from MITECO/IDAE (Ministerio para la Transición Ecológica y el Reto Demográfico) through the RENMARINAS DEMOS programme and the Next Generation EU instrument. The platform is bein"
         ],
         "research": [
-          "IREC | PlemCat | Research projects Skip to content Newsletter Open science Work with us Home About us Mission & vision Organisation Transparency Institutional information & governance Public procurement &",
+          "IREC | PlemCat | Research projects Skip to content Newsletter Work with us Home About us Mission & vision Organisation Transparency Institutional information & governance Public procurement & tenders Finan",
           "identity World-class R&D&I labs PlemCat About us Platform Facilities Call for testing opportunities Research projects Platform Facilities Call for testing opportunities Research projects Events PRIMA About us Pilot plants & facilities Talent Projects & research groups Core partners & sta",
           "Call for testing opportunities Research projects Platform Facilities Call for testing opportunities Research projects Events PRIMA About us Pilot plants & facilities Talent Projects & research groups Core partners & stakeholders Our activities & services Testing Validation Demonstration"
         ],
         "people_contact": [
-          "to market Strategic actions Platforms & associations Projects Publications Open science Facilities People News & outreach News Events Outreach Mad for science Gara-Fecyt Search for... EN CA ES Search for... Newsletter Open science Work with us EN CA ES Search for... Home About us Miss",
-          "to market Strategic actions Platforms & associations Projects Publications Open science Facilities People News & outreach News Events Outreach Mad for science Gara-Fecyt Four pillars: environment, engineering, innovation, and society Home World-class R&D&I labs PlemCat Research projec",
-          "silient buildings & communities Corporate development & technology transfer Knowledge tech transfer team Portfolio Lab to market Strategic actions Platforms & associations Projects Publications Open science Facilities People News & outreach News Events Outreach Mad for science Gara-F"
+          "Portfolio Lab to market Strategic actions Platforms & associations Projects Publications Facilities People News & outreach News Events Outreach Mad for science Gara-Fecyt Search for... EN CA ES Search for... Newsletter Work with us EN CA ES Search for... Home About us Mission & vision",
+          "Portfolio Lab to market Strategic actions Platforms & associations Projects Publications Facilities People News & outreach News Events Outreach Mad for science Gara-Fecyt Four pillars: environment, engineering, innovation, and society Home World-class R&D&I labs PlemCat Research projec",
+          "silient buildings & communities Corporate development & technology transfer Knowledge tech transfer team Portfolio Lab to market Strategic actions Platforms & associations Projects Publications Facilities People News & outreach News Events Outreach Mad for science Gara-Fecyt Search f"
         ]
       },
-      "content_hash": "a7a2b291a9c780de1d94bbd7b6d75b61d1e5b6c6db8489efbdf4da4d6b2284bf"
+      "content_hash": "dd769003316aeedad5ced1302dbe57a933d53b94aafd9db13487a383eb91fb7e"
     },
     {
       "agent": "nova",
@@ -502,17 +514,17 @@
       "title": "IREC | PRIMA | Projects & research groups",
       "signals": {
         "research": [
-          "IREC | PRIMA | Projects & research groups Skip to content Newsletter Open science Work with us Home About us Mission & vision Organisation Transparency Institutional information & governance Public procurement & te",
+          "IREC | PRIMA | Projects & research groups Skip to content Newsletter Work with us Home About us Mission & vision Organisation Transparency Institutional information & governance Public procurement & tenders Financi",
           "identity World-class R&D&I labs PlemCat About us Platform Facilities Call for testing opportunities Research projects Platform Facilities Call for testing opportunities Research projects Events PRIMA About us Pilot plants & facilities Talent Projects & research groups Core partners & sta",
           "Call for testing opportunities Research projects Platform Facilities Call for testing opportunities Research projects Events PRIMA About us Pilot plants & facilities Talent Projects & research groups Core partners & stakeholders Our activities & services Testing Validation Demonstration"
         ],
         "people_contact": [
-          "to market Strategic actions Platforms & associations Projects Publications Open science Facilities People News & outreach News Events Outreach Mad for science Gara-Fecyt Search for... EN Search for... Newsletter Open science Work with us EN Search for... Home About us Mission & vision",
-          "to market Strategic actions Platforms & associations Projects Publications Open science Facilities People News & outreach News Events Outreach Mad for science Gara-Fecyt Home World-class R&D&I labs Prima Projects & research groups Trustees Supported by Member of Center Awarded by Cont",
-          "silient buildings & communities Corporate development & technology transfer Knowledge tech transfer team Portfolio Lab to market Strategic actions Platforms & associations Projects Publications Open science Facilities People News & outreach News Events Outreach Mad for science Gara-F"
+          "Portfolio Lab to market Strategic actions Platforms & associations Projects Publications Facilities People News & outreach News Events Outreach Mad for science Gara-Fecyt Search for... EN Search for... Newsletter Work with us EN Search for... Home About us Mission & vision Organisation",
+          "Portfolio Lab to market Strategic actions Platforms & associations Projects Publications Facilities People News & outreach News Events Outreach Mad for science Gara-Fecyt Home World-class R&D&I labs Prima Projects & research groups Trustees Supported by Member of Center Awarded by Cont",
+          "silient buildings & communities Corporate development & technology transfer Knowledge tech transfer team Portfolio Lab to market Strategic actions Platforms & associations Projects Publications Facilities People News & outreach News Events Outreach Mad for science Gara-Fecyt Search f"
         ]
       },
-      "content_hash": "294ed36996adbd305af4ce12d36e4ceff7c4db8191067f98d0d0bc2a8c7257b1"
+      "content_hash": "d17d84243824c82c16cda3ac4e3be64dd504781f279218cfab8a86e8e715ffc1"
     },
     {
       "agent": "nova",
@@ -532,12 +544,12 @@
           "g opportunities Research projects Events PRIMA About us Pilot plants & facilities Talent Projects & research groups Core partners & stakeholders Our activities & services Testing Validation Demonstration & divulgation Collaborative projects Entrepreneurship & start-ups Training & qualifi"
         ],
         "people_contact": [
-          "to market Strategic actions Platforms & associations Projects Publications Open science Facilities People News & outreach News Events Outreach Mad for science Gara-Fecyt Search for... EN Search for... Newsletter Open science Work with us EN Search for... Home About us Mission & vision",
-          "to market Strategic actions Platforms & associations Projects Publications Open science Facilities People News & outreach News Events Outreach Mad for science Gara-Fecyt Meet the KTT Team Home Research & transfer Corporate development & technology transfer Knowledge tech transfer team",
+          "Portfolio Lab to market Strategic actions Platforms & associations Projects Publications Facilities People News & outreach News Events Outreach Mad for science Gara-Fecyt Search for... EN Search for... Newsletter Work with us EN Search for... Home About us Mission & vision Organisation",
+          "Portfolio Lab to market Strategic actions Platforms & associations Projects Publications Facilities People News & outreach News Events Outreach Mad for science Gara-Fecyt Meet the KTT Team Home Research & transfer Corporate development & technology transfer Knowledge tech transfer team",
           "ndates and supporting data management plans across all departments. sgilabert@irec.cat See all IREC people Trustees Supported by Member of Center Awarded by Contact us Barcelona Sant Adrià +34 933 562 615 Carrer Jardins de les Dones de Negre, 1, 2a planta | 08930 Sant Adrià de Besòs (B"
         ]
       },
-      "content_hash": "6ec0bcd5bcbd086c18acdf5389bd573514e7765c0093e6117b2a00635f1615e2"
+      "content_hash": "8e73f431ff956cd235d9247eaa2940424e82f0eadbffc4c7641ba8e6c9ec05e4"
     },
     {
       "agent": "nova",
@@ -557,7 +569,7 @@
           "silient buildings & communities Corporate development & technology transfer Knowledge tech transfer team Portfolio Lab to market Strategic actions Platforms & associations Projects Publications Facilities People News & outreach News Events Outreach Mad for science Gara-Fecyt Search f"
         ]
       },
-      "content_hash": "634c8c28282cb1b29a5ec245ddeeb800e92852ab7625838c8eabbc3328d00616"
+      "content_hash": "4a738997e954928b5075d159917ac797c1f5a9af0a91b5e1513ad053b1f183aa"
     },
     {
       "agent": "nova",
@@ -575,17 +587,17 @@
           "t de Recerca en Energia de Catalunya) under the mandate of the Generalitat de Catalunya and with co-funding from MITECO/IDAE (Ministerio para la Transición Ecológica y el Reto Demográfico) through the RENMARINAS DEMOS programme and the Next Generation EU instrument. The platform is bein"
         ],
         "research": [
-          "IREC | PlemCat | Research projects Skip to content Newsletter Open science Work with us Home About us Mission & vision Organisation Transparency Institutional information & governance Public procurement &",
+          "IREC | PlemCat | Research projects Skip to content Newsletter Work with us Home About us Mission & vision Organisation Transparency Institutional information & governance Public procurement & tenders Finan",
           "identity World-class R&D&I labs PlemCat About us Platform Facilities Call for testing opportunities Research projects Platform Facilities Call for testing opportunities Research projects Events PRIMA About us Pilot plants & facilities Talent Projects & research groups Core partners & sta",
           "Call for testing opportunities Research projects Platform Facilities Call for testing opportunities Research projects Events PRIMA About us Pilot plants & facilities Talent Projects & research groups Core partners & stakeholders Our activities & services Testing Validation Demonstration"
         ],
         "people_contact": [
-          "to market Strategic actions Platforms & associations Projects Publications Open science Facilities People News & outreach News Events Outreach Mad for science Gara-Fecyt Search for... EN CA ES Search for... Newsletter Open science Work with us EN CA ES Search for... Home About us Miss",
-          "to market Strategic actions Platforms & associations Projects Publications Open science Facilities People News & outreach News Events Outreach Mad for science Gara-Fecyt Four pillars: environment, engineering, innovation, and society Home World-class R&D&I labs PlemCat Research projec",
-          "silient buildings & communities Corporate development & technology transfer Knowledge tech transfer team Portfolio Lab to market Strategic actions Platforms & associations Projects Publications Open science Facilities People News & outreach News Events Outreach Mad for science Gara-F"
+          "Portfolio Lab to market Strategic actions Platforms & associations Projects Publications Facilities People News & outreach News Events Outreach Mad for science Gara-Fecyt Search for... EN CA ES Search for... Newsletter Work with us EN CA ES Search for... Home About us Mission & vision",
+          "Portfolio Lab to market Strategic actions Platforms & associations Projects Publications Facilities People News & outreach News Events Outreach Mad for science Gara-Fecyt Four pillars: environment, engineering, innovation, and society Home World-class R&D&I labs PlemCat Research projec",
+          "silient buildings & communities Corporate development & technology transfer Knowledge tech transfer team Portfolio Lab to market Strategic actions Platforms & associations Projects Publications Facilities People News & outreach News Events Outreach Mad for science Gara-Fecyt Search f"
         ]
       },
-      "content_hash": "a7a2b291a9c780de1d94bbd7b6d75b61d1e5b6c6db8489efbdf4da4d6b2284bf"
+      "content_hash": "dd769003316aeedad5ced1302dbe57a933d53b94aafd9db13487a383eb91fb7e"
     },
     {
       "agent": "nova",
@@ -595,17 +607,17 @@
       "title": "IREC | PRIMA | Projects & research groups",
       "signals": {
         "research": [
-          "IREC | PRIMA | Projects & research groups Skip to content Newsletter Open science Work with us Home About us Mission & vision Organisation Transparency Institutional information & governance Public procurement & te",
+          "IREC | PRIMA | Projects & research groups Skip to content Newsletter Work with us Home About us Mission & vision Organisation Transparency Institutional information & governance Public procurement & tenders Financi",
           "identity World-class R&D&I labs PlemCat About us Platform Facilities Call for testing opportunities Research projects Platform Facilities Call for testing opportunities Research projects Events PRIMA About us Pilot plants & facilities Talent Projects & research groups Core partners & sta",
           "Call for testing opportunities Research projects Platform Facilities Call for testing opportunities Research projects Events PRIMA About us Pilot plants & facilities Talent Projects & research groups Core partners & stakeholders Our activities & services Testing Validation Demonstration"
         ],
         "people_contact": [
-          "to market Strategic actions Platforms & associations Projects Publications Open science Facilities People News & outreach News Events Outreach Mad for science Gara-Fecyt Search for... EN Search for... Newsletter Open science Work with us EN Search for... Home About us Mission & vision",
-          "to market Strategic actions Platforms & associations Projects Publications Open science Facilities People News & outreach News Events Outreach Mad for science Gara-Fecyt Home World-class R&D&I labs Prima Projects & research groups Trustees Supported by Member of Center Awarded by Cont",
-          "silient buildings & communities Corporate development & technology transfer Knowledge tech transfer team Portfolio Lab to market Strategic actions Platforms & associations Projects Publications Open science Facilities People News & outreach News Events Outreach Mad for science Gara-F"
+          "Portfolio Lab to market Strategic actions Platforms & associations Projects Publications Facilities People News & outreach News Events Outreach Mad for science Gara-Fecyt Search for... EN Search for... Newsletter Work with us EN Search for... Home About us Mission & vision Organisation",
+          "Portfolio Lab to market Strategic actions Platforms & associations Projects Publications Facilities People News & outreach News Events Outreach Mad for science Gara-Fecyt Home World-class R&D&I labs Prima Projects & research groups Trustees Supported by Member of Center Awarded by Cont",
+          "silient buildings & communities Corporate development & technology transfer Knowledge tech transfer team Portfolio Lab to market Strategic actions Platforms & associations Projects Publications Facilities People News & outreach News Events Outreach Mad for science Gara-Fecyt Search f"
         ]
       },
-      "content_hash": "294ed36996adbd305af4ce12d36e4ceff7c4db8191067f98d0d0bc2a8c7257b1"
+      "content_hash": "28dc58a469d5541b0c28668c2df149a2a8c802ed9b499c69c00a2e8e52123030"
     },
     {
       "agent": "nova",
@@ -625,7 +637,7 @@
           "anagement Organic Solar Cells Optoelectronics of group-IV semiconductor nanostructures Publications People Equipment Projects News In the Press People All Researchers Post-Docs PhD Students Technicians and project managers Afroditi Koutsogianni PhD Students Agustín Mihi Researchers Ale"
         ]
       },
-      "content_hash": "b7172900649dbbf4fcb9c1123a2d8d98cfc590f73cf0bb93c57ca68cce6e75dd"
+      "content_hash": "832f4ef718a3721400b61b75e6052713f39e217ab0e192555d8a78729ce2d67d"
     },
     {
       "agent": "nova",
@@ -648,7 +660,7 @@
           "ncluding thermal, mechanical and biological aspects. Not only allows this to solve urgent problems (contact resistance), it also enables completely new (switchable, reconfigurable) devices. The topic is inspired by a combination of scientific curiosity and a strong feeling of practical"
         ]
       },
-      "content_hash": "db8314c36ce81f46b0d54b156214309fe75a125d79878fb8e35e9a07ddd58c21"
+      "content_hash": "c3a0d1e47a10d8a3fb7a4d0794457319e5b5a613a9429bb52e56ae2e8e00f6bd"
     },
     {
       "agent": "nova",
@@ -667,7 +679,7 @@
           "anagement Organic Solar Cells Optoelectronics of group-IV semiconductor nanostructures Publications People Equipment Projects News In the Press Publications Cargando publicaciones Nanopto..."
         ]
       },
-      "content_hash": "5f3c949ee9bebd762e814a26be1b3546ede73842a1fd7b8e24389cc64bb5cd1e"
+      "content_hash": "05a9f9e691a9c295b41005ce927b1c9da50c7577ebf019b28fb927f989f61c20"
     },
     {
       "agent": "nova",
@@ -715,8 +727,8 @@
         ],
         "fees_funding": [
           "der au contenu menu mobile The course Overview Consortium & Universities Curriculum Mobility scheme Fees The Team Professors Administrative Associated partners (research centers and industry) Students Resources Class #21 2025-2027 (32 students) Class #20 2024-2026 (31 students) Clas",
-          "national More Our Partners The course Overview Consortium & Universities Curriculum Mobility scheme Fees The Team Professors Administrative Associated partners (research centers and industry) Students Resources Class #21 2025-2027 (32 students) Class #20 2024-2026 (31 students) Clas",
-          "are not opened yet. Apply The course Overview Consortium & Universities Curriculum Mobility scheme Fees The Team Professors Administrative Associated partners (research centers and industry) Students Resources Class #21 2025-2027 (32 students) Class #20 2024-2026 (31 students) Clas"
+          "Spain More Our Partners The course Overview Consortium & Universities Curriculum Mobility scheme Fees The Team Professors Administrative Associated partners (research centers and industry) Students Resources Class #21 2025-2027 (32 students) Class #20 2024-2026 (31 students) Clas",
+          "me) indicative dates Apply The course Overview Consortium & Universities Curriculum Mobility scheme Fees The Team Professors Administrative Associated partners (research centers and industry) Students Resources Class #21 2025-2027 (32 students) Class #20 2024-2026 (31 students) Clas"
         ],
         "research": [
           "niversities Curriculum Mobility scheme Fees The Team Professors Administrative Associated partners (research centers and industry) Students Resources Class #21 2025-2027 (32 students) Class #20 2024-2026 (31 students) Class #19 2023-2025 (17 students) Class #18 2022-2024 (34 students) Al",
@@ -729,7 +741,7 @@
           "Our Partners The course Overview Consortium & Universities Curriculum Mobility scheme Fees The Team Professors Administrative Associated partners (research centers and industry) Students Resources Class #21 2025-2027 (32 students) Class #20 2024-2026 (31 students) Class #19 2023-2025 (17"
         ]
       },
-      "content_hash": "63e3874580a3da851ed5bd108bb658cce81b8b1f85331a860983e1986f42c2cc"
+      "content_hash": "a09c59454f05d1c9e0375b99cb652fb453d82d529979fbd9a85ee3788ad14163"
     },
     {
       "agent": "atlas",
@@ -800,7 +812,7 @@
           "national dimension Learning development Welfare Sustainability and inclusion Hospitality and living Professors Tenure-track researchers Visiting professors Call for expression of interest Other resources Integrity and beyond Intranet di Ateneo Normativa di Ateneo Staff Sustainability and"
         ]
       },
-      "content_hash": "ba0947d46293745f15910de4b12334dc7546a7df293cc4e63c31bc56b83d4a58"
+      "content_hash": "933a9f72ded5143740d365ccf8aab8cbab1c8d6e9f845e69a4a490a860b8447e"
     },
     {
       "agent": "atlas",
@@ -845,17 +857,17 @@
       "status": "verified",
       "signals": {
         "research": [
-          "IREC | Research & transfer | Solar energy materials & systems Skip to content Newsletter Open science Work with us Home About us Mission & vision Organisation Transparency Institutional informati",
+          "IREC | Research & transfer | Solar energy materials & systems Skip to content Newsletter Work with us Home About us Mission & vision Organisation Transparency Institutional information & governan",
           "identity World-class R&D&I labs PlemCat About us Platform Facilities Call for testing opportunities Research projects Platform Facilities Call for testing opportunities Research projects Events PRIMA About us Pilot plants & facilities Talent Projects & research groups Core partners & sta",
           "Call for testing opportunities Research projects Platform Facilities Call for testing opportunities Research projects Events PRIMA About us Pilot plants & facilities Talent Projects & research groups Core partners & stakeholders Our activities & services Testing Validation Demonstration"
         ],
         "people_contact": [
-          "to market Strategic actions Platforms & associations Projects Publications Open science Facilities People News & outreach News Events Outreach Mad for science Gara-Fecyt Search for... EN Search for... Newsletter Open science Work with us EN Search for... Home About us Mission & vision",
-          "to market Strategic actions Platforms & associations Projects Publications Open science Facilities People News & outreach News Events Outreach Mad for science Gara-Fecyt Accelerating thin-film photovoltaic innovation through AI-powered materials research Home Research & transfer Solar",
+          "Portfolio Lab to market Strategic actions Platforms & associations Projects Publications Facilities People News & outreach News Events Outreach Mad for science Gara-Fecyt Search for... EN Search for... Newsletter Work with us EN Search for... Home About us Mission & vision Organisation",
+          "Portfolio Lab to market Strategic actions Platforms & associations Projects Publications Facilities People News & outreach News Events Outreach Mad for science Gara-Fecyt Accelerating thin-film photovoltaic innovation through AI-powered materials research Home Research & transfer Solar",
           "rch contexts (including self-driving laboratory concepts) and industrial and societal applications. People A skilled team dedicated to advancing the energy transition. More info Projects Competitive and industrial projects from lab to real-world scale. More info Publications Peer-revie"
         ]
       },
-      "content_hash": "a758e70add401137d6ecedd3d88006995d1e262d040010f4abcfc96ab52e76e1"
+      "content_hash": "c9e9622c7dc0c71ee1d06c224b542ad8fa1722ced95d1caa0d1b6080c49f370a"
     },
     {
       "agent": "nova",
@@ -866,17 +878,17 @@
       "status": "verified",
       "signals": {
         "research": [
-          "IREC | Research & transfer | Energy storage, harvesting & catalysis Skip to content Newsletter Open science Work with us Home About us Mission & vision Organisation Transparency Institutional inf",
+          "IREC | Research & transfer | Energy storage, harvesting & catalysis Skip to content Newsletter Work with us Home About us Mission & vision Organisation Transparency Institutional information & go",
           "identity World-class R&D&I labs PlemCat About us Platform Facilities Call for testing opportunities Research projects Platform Facilities Call for testing opportunities Research projects Events PRIMA About us Pilot plants & facilities Talent Projects & research groups Core partners & sta",
           "Call for testing opportunities Research projects Platform Facilities Call for testing opportunities Research projects Events PRIMA About us Pilot plants & facilities Talent Projects & research groups Core partners & stakeholders Our activities & services Testing Validation Demonstration"
         ],
         "people_contact": [
-          "to market Strategic actions Platforms & associations Projects Publications Open science Facilities People News & outreach News Events Outreach Mad for science Gara-Fecyt Search for... EN Search for... Newsletter Open science Work with us EN Search for... Home About us Mission & vision",
-          "to market Strategic actions Platforms & associations Projects Publications Open science Facilities People News & outreach News Events Outreach Mad for science Gara-Fecyt Advancing batteries, sustainable fuels and autonomous energy systems for a decarbonised future Home Research & tran",
+          "Portfolio Lab to market Strategic actions Platforms & associations Projects Publications Facilities People News & outreach News Events Outreach Mad for science Gara-Fecyt Search for... EN Search for... Newsletter Work with us EN Search for... Home About us Mission & vision Organisation",
+          "Portfolio Lab to market Strategic actions Platforms & associations Projects Publications Facilities People News & outreach News Events Outreach Mad for science Gara-Fecyt Advancing batteries, sustainable fuels and autonomous energy systems for a decarbonised future Home Research & tran",
           "laboratory advances into viable production processes for renewable and synthetic fuel applications. People A skilled team dedicated to advancing the energy transition. More info Projects Competitive and industrial projects from lab to real-world scale. More info Publications Peer-revie"
         ]
       },
-      "content_hash": "375deec26205a483178054738a3bffbcced03f2ec9e7d9d2d64ad6b012c03b54"
+      "content_hash": "57a6487f5c567b9b2368797322056533ffc2c5040850f5734e235d75b0ff1c06"
     },
     {
       "agent": "nova",
@@ -896,7 +908,7 @@
           "anagement Organic Solar Cells Optoelectronics of group-IV semiconductor nanostructures Publications People Equipment Projects News In the Press Organic Solar Cells We aim at producing strong contributions towards the development of cost-efective, low energy pay back time photovoltaics"
         ]
       },
-      "content_hash": "462428d3d28a340eb35e8aa4a21e97b35391101efa48ae632047701ed82888e5"
+      "content_hash": "37059529d3026e2cf1447106f0af50f6c0a6e94fd46b5531def1d97fee14a358"
     },
     {
       "agent": "nova",
