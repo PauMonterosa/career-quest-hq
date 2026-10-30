@@ -1,10 +1,10 @@
 {
-  "generated_at": "2026-10-29T11:34:39.327114+00:00",
+  "generated_at": "2026-10-30T11:27:04.513824+00:00",
   "summary": {
     "targets": 8,
     "verified": 8,
     "discoveries": 24,
-    "changes": 6
+    "changes": 4
   },
   "changes": [
     {
@@ -17,18 +17,6 @@
       "agent": "atlas",
       "entity": "Politecnico di Milano Materials",
       "url": "https://www.polimi.it/en/education/laurea-magistrale-programmes/programme-detail/materials-engineering-and-nanotechnology",
-      "message": "La página oficial cambió desde la última revisión."
-    },
-    {
-      "agent": "nova",
-      "entity": "IREC Solar Energy Materials",
-      "url": "https://www.irec.cat/research-transfer/solar-energy-materials-systems",
-      "message": "La página oficial cambió desde la última revisión."
-    },
-    {
-      "agent": "nova",
-      "entity": "IREC Energy Storage",
-      "url": "https://www.irec.cat/research-transfer/energy-storage-harvesting-catalysis",
       "message": "La página oficial cambió desde la última revisión."
     },
     {
@@ -643,7 +631,7 @@
           "anagement Organic Solar Cells Optoelectronics of group-IV semiconductor nanostructures Publications People Equipment Projects News In the Press People All Researchers Post-Docs PhD Students Technicians and project managers Afroditi Koutsogianni PhD Students Agustín Mihi Researchers Ale"
         ]
       },
-      "content_hash": "163c60d34a788239ae4af28fb2c7d343052255c9a2ee04e72b0cf70d7c91b350"
+      "content_hash": "9cd280c3503df91ef03b35b95645cd651fd00508ff797a9dc79248519cc431c9"
     },
     {
       "agent": "nova",
@@ -666,7 +654,7 @@
           "ncluding thermal, mechanical and biological aspects. Not only allows this to solve urgent problems (contact resistance), it also enables completely new (switchable, reconfigurable) devices. The topic is inspired by a combination of scientific curiosity and a strong feeling of practical"
         ]
       },
-      "content_hash": "bc47a15ac09e14fb55aed4b26837b40d2826c487569a6adbaa3e74052932408f"
+      "content_hash": "516f3a00aca328be8b18a94f7309822dcfedf19f5ad12ea155fcbcc71670f040"
     },
     {
       "agent": "nova",
@@ -685,7 +673,7 @@
           "anagement Organic Solar Cells Optoelectronics of group-IV semiconductor nanostructures Publications People Equipment Projects News In the Press Publications Cargando publicaciones Nanopto..."
         ]
       },
-      "content_hash": "753a0403270945534082e8a1d44c305b984311d9852f71454cc028aa622b6659"
+      "content_hash": "dd9230fd89dca4f08a869942044a1455fd628d64364e5b9fc10fdcecfb0683ce"
     },
     {
       "agent": "nova",
@@ -709,7 +697,7 @@
           "» About the center Research Clean Room Laboratories Technology Transfer News & Outreach Highlights Contact Talent Search Contracting profile Legal Advice © Copyright 2026. IMB-CNM"
         ]
       },
-      "content_hash": "eae101468812173e58affd4a4099de88d27092dd013dc79d84fd1b67f38a9c73"
+      "content_hash": "58110be330d26be0189cc8baa79bd3c4db9f32fbe83fb01bda178a6c6ede6376"
     }
   ],
   "sources": [
@@ -747,7 +735,7 @@
           "Our Partners The course Overview Consortium & Universities Curriculum Mobility scheme Fees The Team Professors Administrative Associated partners (research centers and industry) Students Resources Class #21 2025-2027 (32 students) Class #20 2024-2026 (31 students) Class #19 2023-2025 (17"
         ]
       },
-      "content_hash": "ec9c2bf21b8716992732b492bc7d55a7430a6293a0e8cd205a445887fe719418"
+      "content_hash": "d01e92d480a44c2015563e2f65957854eb8e22fa108064dc6e2f9e474a17b3a1"
     },
     {
       "agent": "atlas",
@@ -818,7 +806,7 @@
           "national dimension Learning development Welfare Sustainability and inclusion Hospitality and living Professors Tenure-track researchers Visiting professors Call for expression of interest Other resources Integrity and beyond Intranet di Ateneo Normativa di Ateneo Staff Sustainability and"
         ]
       },
-      "content_hash": "005d297fe7c50f4dc9fed400e75d4a90b7a7a6adbd091047986379b9e7ab40b0"
+      "content_hash": "933a9f72ded5143740d365ccf8aab8cbab1c8d6e9f845e69a4a490a860b8447e"
     },
     {
       "agent": "atlas",
@@ -914,7 +902,7 @@
           "anagement Organic Solar Cells Optoelectronics of group-IV semiconductor nanostructures Publications People Equipment Projects News In the Press Organic Solar Cells We aim at producing strong contributions towards the development of cost-efective, low energy pay back time photovoltaics"
         ]
       },
-      "content_hash": "39f8c3d984eab696bdc8e6f74828696549ed86f408957ff229f31650c950affe"
+      "content_hash": "0f62c5cfa95872d72a5fa9d6e282c2073b882da9aeb09e0e1d2efe703abe9d74"
     },
     {
       "agent": "nova",
@@ -934,7 +922,7 @@
           "B. About the center Research Clean Room Laboratories Technology Transfer News & Outreach Highlights Contact Talent Search Contracting profile Legal Advice © Copyright 2026. IMB-CNM"
         ]
       },
-      "content_hash": "28c20deb2ed9584a5c60ee80c9e58ea106451dfb2281e6bbb542a05a8151ad73"
+      "content_hash": "25bc9a0108ba97d6b92fe1a36c14ed3aa77bae62ab0f0b0cd1305213f5ed93e6"
     }
   ]
 }
