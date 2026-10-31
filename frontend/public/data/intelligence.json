@@ -1,22 +1,16 @@
 {
-  "generated_at": "2026-10-30T11:27:04.513824+00:00",
+  "generated_at": "2026-10-31T10:57:54.342443+00:00",
   "summary": {
     "targets": 8,
     "verified": 8,
     "discoveries": 24,
-    "changes": 4
+    "changes": 3
   },
   "changes": [
     {
       "agent": "atlas",
       "entity": "i-MESC",
       "url": "https://i-mesc.eu/",
-      "message": "La página oficial cambió desde la última revisión."
-    },
-    {
-      "agent": "atlas",
-      "entity": "Politecnico di Milano Materials",
-      "url": "https://www.polimi.it/en/education/laurea-magistrale-programmes/programme-detail/materials-engineering-and-nanotechnology",
       "message": "La página oficial cambió desde la última revisión."
     },
     {
@@ -110,29 +104,29 @@
       "signals": {
         "deadlines": [
           "Apply as a student - i-MESC an Erasmus Mundus Joint Master Accéder au contenu menu mobile The course Overview Consortium & Universities Curriculum Mobility scheme Fees The Team Professo",
-          "2024-2026 (31 students) Class #19 2023-2025 (17 students) Class #18 2022-2024 (34 students) Alumni Apply Admission criteria Apply as a student As a scholar Scholarships For students For scholars Gallery Login Home Apply Apply as a student Apply as a student Partagez sur facebook Part",
-          "Class #19 2023-2025 (17 students) Class #18 2022-2024 (34 students) Alumni Apply Admission criteria Apply as a student As a scholar Scholarships For students For scholars Gallery Login Home Apply Apply as a student Apply as a student Partagez sur facebook Partagez sur twitter IMPORTAN"
+          "(31 students) Class #19 2023-2025 (17 students) Class #18 2022-2024 (34 students) Resources Alumni Apply Admission criteria Apply as a student As a scholar Scholarships For students For scholars Gallery Login Home Apply Apply as a student Apply as a student Partagez sur facebook Part",
+          "2023-2025 (17 students) Class #18 2022-2024 (34 students) Resources Alumni Apply Admission criteria Apply as a student As a scholar Scholarships For students For scholars Gallery Login Home Apply Apply as a student Apply as a student Partagez sur facebook Partagez sur twitter IMPORTAN"
         ],
         "admission": [
-          "2026 (31 students) Class #19 2023-2025 (17 students) Class #18 2022-2024 (34 students) Alumni Apply Admission criteria Apply as a student As a scholar Scholarships For students For scholars Gallery Login Home Apply Apply as a student Apply as a student Partagez sur facebook Partagez sur t",
+          "tudents) Class #19 2023-2025 (17 students) Class #18 2022-2024 (34 students) Resources Alumni Apply Admission criteria Apply as a student As a scholar Scholarships For students For scholars Gallery Login Home Apply Apply as a student Apply as a student Partagez sur facebook Partagez sur t",
           "ormation before starting your application (Guide for applicants 2025 - FAQ - Apply as a student and Admission criteria pages). When you apply to join i-MESC, you apply automatically for an EMJM or an industrial scholarship granted by our associated partners (ALISTORE-ERI, CIC ENERGIGUNE,",
-          "format (coming soon) Template for recommendation letters 2025 Frequently asked questions (FAQ) Fees Admission criteria Appeal procedure Selection process timetable (Intake 2026) Please note that these dates are given as an indication only, and might be slightly modified. Opening of online"
+          "format (coming soon) Template for recommendation letters 2025 Frequently asked questions (FAQ) Fees Admission criteria Appeal procedure Selection process timetable (Intake 2027) Please note that these dates are given as an indication only, and might be slightly modified. Opening of online"
         ],
         "fees_funding": [
-          "der au contenu menu mobile The course Overview Consortium & Universities Curriculum Mobility scheme Fees The Team Professors Administrative Associated partners (research centers and industry) Students Resources Class #21 2025-2027 (32 students) Class #20 2024-2026 (31 students) Clas",
-          "ible format (coming soon) Template for recommendation letters 2025 Frequently asked questions (FAQ) Fees Admission criteria Appeal procedure Selection process timetable (Intake 2026) Please note that these dates are given as an indication only, and might be slightly modified. Openin",
-          "Visa process: Our Partners The course Overview Consortium & Universities Curriculum Mobility scheme Fees The Team Professors Administrative Associated partners (research centers and industry) Students Resources Class #21 2025-2027 (32 students) Class #20 2024-2026 (31 students) Clas"
+          "der au contenu menu mobile The course Overview Consortium & Universities Curriculum Mobility scheme Fees The Team Professors Administrative Associated partners (research centers and industry) Students Class #21 2025-2027 (32 students) Class #20 2024-2026 (31 students) Class #19 2023",
+          "ible format (coming soon) Template for recommendation letters 2025 Frequently asked questions (FAQ) Fees Admission criteria Appeal procedure Selection process timetable (Intake 2027) Please note that these dates are given as an indication only, and might be slightly modified. Openin",
+          "Visa process: Our Partners The course Overview Consortium & Universities Curriculum Mobility scheme Fees The Team Professors Administrative Associated partners (research centers and industry) Students Class #21 2025-2027 (32 students) Class #20 2024-2026 (31 students) Class #19 2023"
         ],
         "research": [
-          "niversities Curriculum Mobility scheme Fees The Team Professors Administrative Associated partners (research centers and industry) Students Resources Class #21 2025-2027 (32 students) Class #20 2024-2026 (31 students) Class #19 2023-2025 (17 students) Class #18 2022-2024 (34 students) Al"
+          "niversities Curriculum Mobility scheme Fees The Team Professors Administrative Associated partners (research centers and industry) Students Class #21 2025-2027 (32 students) Class #20 2024-2026 (31 students) Class #19 2023-2025 (17 students) Class #18 2022-2024 (34 students) Resources Al"
         ],
         "people_contact": [
-          "menu mobile The course Overview Consortium & Universities Curriculum Mobility scheme Fees The Team Professors Administrative Associated partners (research centers and industry) Students Resources Class #21 2025-2027 (32 students) Class #20 2024-2026 (31 students) Class #19 2023-2025 (17",
-          "Our Partners The course Overview Consortium & Universities Curriculum Mobility scheme Fees The Team Professors Administrative Associated partners (research centers and industry) Students Resources Class #21 2025-2027 (32 students) Class #20 2024-2026 (31 students) Class #19 2023-2025 (17",
-          "dates Apply The course Overview Consortium & Universities Curriculum Mobility scheme Fees The Team Professors Administrative Associated partners (research centers and industry) Students Resources Class #21 2025-2027 (32 students) Class #20 2024-2026 (31 students) Class #19 2023-2025 (17"
+          "menu mobile The course Overview Consortium & Universities Curriculum Mobility scheme Fees The Team Professors Administrative Associated partners (research centers and industry) Students Class #21 2025-2027 (32 students) Class #20 2024-2026 (31 students) Class #19 2023-2025 (17 students)",
+          "Our Partners The course Overview Consortium & Universities Curriculum Mobility scheme Fees The Team Professors Administrative Associated partners (research centers and industry) Students Class #21 2025-2027 (32 students) Class #20 2024-2026 (31 students) Class #19 2023-2025 (17 students)",
+          "dates Apply The course Overview Consortium & Universities Curriculum Mobility scheme Fees The Team Professors Administrative Associated partners (research centers and industry) Students Class #21 2025-2027 (32 students) Class #20 2024-2026 (31 students) Class #19 2023-2025 (17 students)"
         ]
       },
-      "content_hash": "d81812cb01459b5dfad8d5e93d21134e086e8e7079325b0c12b8bcd1574d06c1"
+      "content_hash": "461c2a7d9c3bb278de49e5cbec65600a4f26e930e6e25400ea1f43afc0554ade"
     },
     {
       "agent": "atlas",
@@ -631,7 +625,7 @@
           "anagement Organic Solar Cells Optoelectronics of group-IV semiconductor nanostructures Publications People Equipment Projects News In the Press People All Researchers Post-Docs PhD Students Technicians and project managers Afroditi Koutsogianni PhD Students Agustín Mihi Researchers Ale"
         ]
       },
-      "content_hash": "9cd280c3503df91ef03b35b95645cd651fd00508ff797a9dc79248519cc431c9"
+      "content_hash": "ec7d32ac68ccb8a78391306abd59fdbcbdb208d3df8611a8513225c15e961a15"
     },
     {
       "agent": "nova",
@@ -654,7 +648,7 @@
           "ncluding thermal, mechanical and biological aspects. Not only allows this to solve urgent problems (contact resistance), it also enables completely new (switchable, reconfigurable) devices. The topic is inspired by a combination of scientific curiosity and a strong feeling of practical"
         ]
       },
-      "content_hash": "516f3a00aca328be8b18a94f7309822dcfedf19f5ad12ea155fcbcc71670f040"
+      "content_hash": "024b9b75d2fb0390b1befb2afb69888734a5e6eaa6e211d47a77016d1c87c25b"
     },
     {
       "agent": "nova",
@@ -673,7 +667,7 @@
           "anagement Organic Solar Cells Optoelectronics of group-IV semiconductor nanostructures Publications People Equipment Projects News In the Press Publications Cargando publicaciones Nanopto..."
         ]
       },
-      "content_hash": "dd9230fd89dca4f08a869942044a1455fd628d64364e5b9fc10fdcecfb0683ce"
+      "content_hash": "b9d666cf3f4f41179d5d02624a35413a080164cf772b02eba5707b2703b111c3"
     },
     {
       "agent": "nova",
@@ -697,7 +691,7 @@
           "» About the center Research Clean Room Laboratories Technology Transfer News & Outreach Highlights Contact Talent Search Contracting profile Legal Advice © Copyright 2026. IMB-CNM"
         ]
       },
-      "content_hash": "58110be330d26be0189cc8baa79bd3c4db9f32fbe83fb01bda178a6c6ede6376"
+      "content_hash": "1c07f71753de8d0b3a255a1d42f29c33f6cc0fd7b77c8673795bf04de6f3f08c"
     }
   ],
   "sources": [
@@ -735,7 +729,7 @@
           "Our Partners The course Overview Consortium & Universities Curriculum Mobility scheme Fees The Team Professors Administrative Associated partners (research centers and industry) Students Resources Class #21 2025-2027 (32 students) Class #20 2024-2026 (31 students) Class #19 2023-2025 (17"
         ]
       },
-      "content_hash": "d01e92d480a44c2015563e2f65957854eb8e22fa108064dc6e2f9e474a17b3a1"
+      "content_hash": "a08e454dc86fbb413d7d2f3e275ea5f4dda75abf41c4b7689b80b3c7fe4d32c6"
     },
     {
       "agent": "atlas",
@@ -902,7 +896,7 @@
           "anagement Organic Solar Cells Optoelectronics of group-IV semiconductor nanostructures Publications People Equipment Projects News In the Press Organic Solar Cells We aim at producing strong contributions towards the development of cost-efective, low energy pay back time photovoltaics"
         ]
       },
-      "content_hash": "0f62c5cfa95872d72a5fa9d6e282c2073b882da9aeb09e0e1d2efe703abe9d74"
+      "content_hash": "51e9c38c15c3b38e6e20f46b2209c2bc49187642b3478ebb83268cb2df8095cd"
     },
     {
       "agent": "nova",
@@ -922,7 +916,7 @@
           "B. About the center Research Clean Room Laboratories Technology Transfer News & Outreach Highlights Contact Talent Search Contracting profile Legal Advice © Copyright 2026. IMB-CNM"
         ]
       },
-      "content_hash": "25bc9a0108ba97d6b92fe1a36c14ed3aa77bae62ab0f0b0cd1305213f5ed93e6"
+      "content_hash": "80ea1072d3d263e3a8bf38e52a3386bdc0556482daf26f9faaf7d661a2fc8a4e"
     }
   ]
 }
