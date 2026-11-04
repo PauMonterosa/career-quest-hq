@@ -1,28 +1,16 @@
 {
-  "generated_at": "2026-11-03T12:51:35.150045+00:00",
+  "generated_at": "2026-11-04T13:02:37.090469+00:00",
   "summary": {
     "targets": 8,
     "verified": 8,
-    "discoveries": 24,
-    "changes": 5
+    "discoveries": 23,
+    "changes": 3
   },
   "changes": [
     {
       "agent": "atlas",
       "entity": "i-MESC",
       "url": "https://i-mesc.eu/",
-      "message": "La página oficial cambió desde la última revisión."
-    },
-    {
-      "agent": "atlas",
-      "entity": "Politecnico di Milano Materials",
-      "url": "https://www.polimi.it/en/education/laurea-magistrale-programmes/programme-detail/materials-engineering-and-nanotechnology",
-      "message": "La página oficial cambió desde la última revisión."
-    },
-    {
-      "agent": "atlas",
-      "entity": "UPC Semiconductor Engineering",
-      "url": "https://www.upc.edu/en/masters/semiconductor-engineering-and-microelectronic-design",
       "message": "La página oficial cambió desde la última revisión."
     },
     {
@@ -53,24 +41,24 @@
         ],
         "admission": [
           "Admission criteria - i-MESC an Erasmus Mundus Joint Master Accéder au contenu menu mobile The course Overview Consortium & Universities Curriculum Mobility scheme Fees The Team Professors A",
-          "2026 (31 students) Class #19 2023-2025 (17 students) Class #18 2022-2024 (34 students) Alumni Apply Admission criteria Apply as a student As a scholar Scholarships For students For scholars Gallery Login Home Apply Admission criteria Admission criteria Partagez sur facebook Partagez sur t",
+          "tudents) Class #19 2023-2025 (17 students) Class #18 2022-2024 (34 students) Resources Alumni Apply Admission criteria Apply as a student As a scholar Scholarships For students For scholars Gallery Login Home Apply Admission criteria Admission criteria Partagez sur facebook Partagez sur t",
           "ria Apply as a student As a scholar Scholarships For students For scholars Gallery Login Home Apply Admission criteria Admission criteria Partagez sur facebook Partagez sur twitter Eligibility criteria Nationality Students from all over the world can apply for the i-MESC EMJM. Students wi"
         ],
         "fees_funding": [
-          "der au contenu menu mobile The course Overview Consortium & Universities Curriculum Mobility scheme Fees The Team Professors Administrative Associated partners (research centers and industry) Students Resources Class #21 2025-2027 (32 students) Class #20 2024-2026 (31 students) Clas",
-          "f origin 3 15 Our Partners The course Overview Consortium & Universities Curriculum Mobility scheme Fees The Team Professors Administrative Associated partners (research centers and industry) Students Resources Class #21 2025-2027 (32 students) Class #20 2024-2026 (31 students) Clas",
-          "me) indicative dates Apply The course Overview Consortium & Universities Curriculum Mobility scheme Fees The Team Professors Administrative Associated partners (research centers and industry) Students Resources Class #21 2025-2027 (32 students) Class #20 2024-2026 (31 students) Clas"
+          "der au contenu menu mobile The course Overview Consortium & Universities Curriculum Mobility scheme Fees The Team Professors Administrative Associated partners (research centers and industry) Students Class #21 2025-2027 (32 students) Class #20 2024-2026 (31 students) Class #19 2023",
+          "f origin 3 15 Our Partners The course Overview Consortium & Universities Curriculum Mobility scheme Fees The Team Professors Administrative Associated partners (research centers and industry) Students Class #21 2025-2027 (32 students) Class #20 2024-2026 (31 students) Class #19 2023",
+          "me) indicative dates Apply The course Overview Consortium & Universities Curriculum Mobility scheme Fees The Team Professors Administrative Associated partners (research centers and industry) Students Class #21 2025-2027 (32 students) Class #20 2024-2026 (31 students) Class #19 2023"
         ],
         "research": [
-          "niversities Curriculum Mobility scheme Fees The Team Professors Administrative Associated partners (research centers and industry) Students Resources Class #21 2025-2027 (32 students) Class #20 2024-2026 (31 students) Class #19 2023-2025 (17 students) Class #18 2022-2024 (34 students) Al"
+          "niversities Curriculum Mobility scheme Fees The Team Professors Administrative Associated partners (research centers and industry) Students Class #21 2025-2027 (32 students) Class #20 2024-2026 (31 students) Class #19 2023-2025 (17 students) Class #18 2022-2024 (34 students) Resources Al"
         ],
         "people_contact": [
-          "menu mobile The course Overview Consortium & Universities Curriculum Mobility scheme Fees The Team Professors Administrative Associated partners (research centers and industry) Students Resources Class #21 2025-2027 (32 students) Class #20 2024-2026 (31 students) Class #19 2023-2025 (17",
-          "Our Partners The course Overview Consortium & Universities Curriculum Mobility scheme Fees The Team Professors Administrative Associated partners (research centers and industry) Students Resources Class #21 2025-2027 (32 students) Class #20 2024-2026 (31 students) Class #19 2023-2025 (17",
-          "dates Apply The course Overview Consortium & Universities Curriculum Mobility scheme Fees The Team Professors Administrative Associated partners (research centers and industry) Students Resources Class #21 2025-2027 (32 students) Class #20 2024-2026 (31 students) Class #19 2023-2025 (17"
+          "menu mobile The course Overview Consortium & Universities Curriculum Mobility scheme Fees The Team Professors Administrative Associated partners (research centers and industry) Students Class #21 2025-2027 (32 students) Class #20 2024-2026 (31 students) Class #19 2023-2025 (17 students)",
+          "Our Partners The course Overview Consortium & Universities Curriculum Mobility scheme Fees The Team Professors Administrative Associated partners (research centers and industry) Students Class #21 2025-2027 (32 students) Class #20 2024-2026 (31 students) Class #19 2023-2025 (17 students)",
+          "dates Apply The course Overview Consortium & Universities Curriculum Mobility scheme Fees The Team Professors Administrative Associated partners (research centers and industry) Students Class #21 2025-2027 (32 students) Class #20 2024-2026 (31 students) Class #19 2023-2025 (17 students)"
         ]
       },
-      "content_hash": "161880d1a3dd74ce06da94f56eff6b76c0512ebfb94b4db4c35723de9a4689db"
+      "content_hash": "a26eb15a2e0edced31140f738cb4007b4bd93282a38bb2a547eafd6452f71557"
     },
     {
       "agent": "atlas",
@@ -80,32 +68,32 @@
       "title": "As a scholar - i-MESC an Erasmus Mundus Joint Master",
       "signals": {
         "deadlines": [
-          "2024-2026 (31 students) Class #19 2023-2025 (17 students) Class #18 2022-2024 (34 students) Alumni Apply Admission criteria Apply as a student As a scholar Scholarships For students For scholars Gallery Login Home Apply As a scholar As a scholar Partagez sur facebook Partagez sur twi",
-          "Class #19 2023-2025 (17 students) Class #18 2022-2024 (34 students) Alumni Apply Admission criteria Apply as a student As a scholar Scholarships For students For scholars Gallery Login Home Apply As a scholar As a scholar Partagez sur facebook Partagez sur twitter CALL FOR SCHOLARS CL",
+          "(31 students) Class #19 2023-2025 (17 students) Class #18 2022-2024 (34 students) Resources Alumni Apply Admission criteria Apply as a student As a scholar Scholarships For students For scholars Gallery Login Home Apply As a scholar As a scholar Partagez sur facebook Partagez sur twi",
+          "2023-2025 (17 students) Class #18 2022-2024 (34 students) Resources Alumni Apply Admission criteria Apply as a student As a scholar Scholarships For students For scholars Gallery Login Home Apply As a scholar As a scholar Partagez sur facebook Partagez sur twitter CALL FOR SCHOLARS CL",
           "criteria Apply as a student As a scholar Scholarships For students For scholars Gallery Login Home Apply As a scholar As a scholar Partagez sur facebook Partagez sur twitter CALL FOR SCHOLARS CLASS21 Through this call, the i-MESC Consortium can award EMJM grant up to 3 visting schola"
         ],
         "admission": [
-          "2026 (31 students) Class #19 2023-2025 (17 students) Class #18 2022-2024 (34 students) Alumni Apply Admission criteria Apply as a student As a scholar Scholarships For students For scholars Gallery Login Home Apply As a scholar As a scholar Partagez sur facebook Partagez sur twitter CALL",
-          "2026 (31 students) Class #19 2023-2025 (17 students) Class #18 2022-2024 (34 students) Alumni Apply Admission criteria Apply as a student As a scholar Scholarships For students For scholars FAQ Contact Us LinkedIn i-MESC Privacy policy I would like to apply to i-MESC Class#23 (2027-2029)",
-          "2026 (31 students) Class #19 2023-2025 (17 students) Class #18 2022-2024 (34 students) Alumni Apply Admission criteria Apply as a student As a scholar Scholarships For students For scholars Gallery Login fermer"
+          "tudents) Class #19 2023-2025 (17 students) Class #18 2022-2024 (34 students) Resources Alumni Apply Admission criteria Apply as a student As a scholar Scholarships For students For scholars Gallery Login Home Apply As a scholar As a scholar Partagez sur facebook Partagez sur twitter CALL",
+          "tudents) Class #19 2023-2025 (17 students) Class #18 2022-2024 (34 students) Resources Alumni Apply Admission criteria Apply as a student As a scholar Scholarships For students For scholars FAQ Contact Us LinkedIn i-MESC Privacy policy I would like to apply to i-MESC Class#23 (2027-2029)",
+          "tudents) Class #19 2023-2025 (17 students) Class #18 2022-2024 (34 students) Resources Alumni Apply Admission criteria Apply as a student As a scholar Scholarships For students For scholars Gallery Login fermer"
         ],
         "fees_funding": [
-          "der au contenu menu mobile The course Overview Consortium & Universities Curriculum Mobility scheme Fees The Team Professors Administrative Associated partners (research centers and industry) Students Resources Class #21 2025-2027 (32 students) Class #20 2024-2026 (31 students) Clas",
-          "de Toulouse. Our Partners The course Overview Consortium & Universities Curriculum Mobility scheme Fees The Team Professors Administrative Associated partners (research centers and industry) Students Resources Class #21 2025-2027 (32 students) Class #20 2024-2026 (31 students) Clas",
-          "me) indicative dates Apply The course Overview Consortium & Universities Curriculum Mobility scheme Fees The Team Professors Administrative Associated partners (research centers and industry) Students Resources Class #21 2025-2027 (32 students) Class #20 2024-2026 (31 students) Clas"
+          "der au contenu menu mobile The course Overview Consortium & Universities Curriculum Mobility scheme Fees The Team Professors Administrative Associated partners (research centers and industry) Students Class #21 2025-2027 (32 students) Class #20 2024-2026 (31 students) Class #19 2023",
+          "de Toulouse. Our Partners The course Overview Consortium & Universities Curriculum Mobility scheme Fees The Team Professors Administrative Associated partners (research centers and industry) Students Class #21 2025-2027 (32 students) Class #20 2024-2026 (31 students) Class #19 2023",
+          "me) indicative dates Apply The course Overview Consortium & Universities Curriculum Mobility scheme Fees The Team Professors Administrative Associated partners (research centers and industry) Students Class #21 2025-2027 (32 students) Class #20 2024-2026 (31 students) Class #19 2023"
         ],
         "research": [
-          "niversities Curriculum Mobility scheme Fees The Team Professors Administrative Associated partners (research centers and industry) Students Resources Class #21 2025-2027 (32 students) Class #20 2024-2026 (31 students) Class #19 2023-2025 (17 students) Class #18 2022-2024 (34 students) Al",
+          "niversities Curriculum Mobility scheme Fees The Team Professors Administrative Associated partners (research centers and industry) Students Class #21 2025-2027 (32 students) Class #20 2024-2026 (31 students) Class #19 2023-2025 (17 students) Class #18 2022-2024 (34 students) Resources Al",
           "s must be submitted for the 30th of November 2025 at the latest . Scholars Objectives Collaborative research work within i-MESC laboratories Give seminars and/or lectures to i-MESC students Advice students on professional scientific career Application process In order to understand your",
           "ith the required documents listed below: Your career Copy of passport CV in extended format List of publication Certificate of current employment Copy of last diploma Statement letter Indicating the proposed work to be done within MESC+ Select one or several Scholars objectives Preferred lo"
         ],
         "people_contact": [
-          "menu mobile The course Overview Consortium & Universities Curriculum Mobility scheme Fees The Team Professors Administrative Associated partners (research centers and industry) Students Resources Class #21 2025-2027 (32 students) Class #20 2024-2026 (31 students) Class #19 2023-2025 (17",
-          "Our Partners The course Overview Consortium & Universities Curriculum Mobility scheme Fees The Team Professors Administrative Associated partners (research centers and industry) Students Resources Class #21 2025-2027 (32 students) Class #20 2024-2026 (31 students) Class #19 2023-2025 (17",
-          "dates Apply The course Overview Consortium & Universities Curriculum Mobility scheme Fees The Team Professors Administrative Associated partners (research centers and industry) Students Resources Class #21 2025-2027 (32 students) Class #20 2024-2026 (31 students) Class #19 2023-2025 (17"
+          "menu mobile The course Overview Consortium & Universities Curriculum Mobility scheme Fees The Team Professors Administrative Associated partners (research centers and industry) Students Class #21 2025-2027 (32 students) Class #20 2024-2026 (31 students) Class #19 2023-2025 (17 students)",
+          "Our Partners The course Overview Consortium & Universities Curriculum Mobility scheme Fees The Team Professors Administrative Associated partners (research centers and industry) Students Class #21 2025-2027 (32 students) Class #20 2024-2026 (31 students) Class #19 2023-2025 (17 students)",
+          "dates Apply The course Overview Consortium & Universities Curriculum Mobility scheme Fees The Team Professors Administrative Associated partners (research centers and industry) Students Class #21 2025-2027 (32 students) Class #20 2024-2026 (31 students) Class #19 2023-2025 (17 students)"
         ]
       },
-      "content_hash": "95718342239f3a8eb6c99ce0492af6014e75783a5c7b65fb5731b04e5c94a07f"
+      "content_hash": "b87848938d157463bf67f6321b682700c2458e09daeace19dd3da4c664c98615"
     },
     {
       "agent": "atlas",
@@ -148,30 +136,30 @@
       "title": "For students - i-MESC an Erasmus Mundus Joint Master",
       "signals": {
         "deadlines": [
-          "2024-2026 (31 students) Class #19 2023-2025 (17 students) Class #18 2022-2024 (34 students) Alumni Apply Admission criteria Apply as a student As a scholar Scholarships For students For scholars Gallery Login Home Scholarships For students For students Partagez sur facebook Partagez",
-          "Class #19 2023-2025 (17 students) Class #18 2022-2024 (34 students) Alumni Apply Admission criteria Apply as a student As a scholar Scholarships For students For scholars Gallery Login Home Scholarships For students For students Partagez sur facebook Partagez sur twitter Erasmus Mundu",
-          "2024-2026 (31 students) Class #19 2023-2025 (17 students) Class #18 2022-2024 (34 students) Alumni Apply Admission criteria Apply as a student As a scholar Scholarships For students For scholars FAQ Contact Us LinkedIn i-MESC Privacy policy I would like to apply to i-MESC Class#23 (2"
+          "(31 students) Class #19 2023-2025 (17 students) Class #18 2022-2024 (34 students) Resources Alumni Apply Admission criteria Apply as a student As a scholar Scholarships For students For scholars Gallery Login Home Scholarships For students For students Partagez sur facebook Partagez",
+          "2023-2025 (17 students) Class #18 2022-2024 (34 students) Resources Alumni Apply Admission criteria Apply as a student As a scholar Scholarships For students For scholars Gallery Login Home Scholarships For students For students Partagez sur facebook Partagez sur twitter Erasmus Mundu",
+          "(31 students) Class #19 2023-2025 (17 students) Class #18 2022-2024 (34 students) Resources Alumni Apply Admission criteria Apply as a student As a scholar Scholarships For students For scholars FAQ Contact Us LinkedIn i-MESC Privacy policy I would like to apply to i-MESC Class#23 (2"
         ],
         "admission": [
-          "2026 (31 students) Class #19 2023-2025 (17 students) Class #18 2022-2024 (34 students) Alumni Apply Admission criteria Apply as a student As a scholar Scholarships For students For scholars Gallery Login Home Scholarships For students For students Partagez sur facebook Partagez sur twitte",
-          "2026 (31 students) Class #19 2023-2025 (17 students) Class #18 2022-2024 (34 students) Alumni Apply Admission criteria Apply as a student As a scholar Scholarships For students For scholars FAQ Contact Us LinkedIn i-MESC Privacy policy I would like to apply to i-MESC Class#23 (2027-2029)",
-          "2026 (31 students) Class #19 2023-2025 (17 students) Class #18 2022-2024 (34 students) Alumni Apply Admission criteria Apply as a student As a scholar Scholarships For students For scholars Gallery Login fermer"
+          "tudents) Class #19 2023-2025 (17 students) Class #18 2022-2024 (34 students) Resources Alumni Apply Admission criteria Apply as a student As a scholar Scholarships For students For scholars Gallery Login Home Scholarships For students For students Partagez sur facebook Partagez sur twitte",
+          "tudents) Class #19 2023-2025 (17 students) Class #18 2022-2024 (34 students) Resources Alumni Apply Admission criteria Apply as a student As a scholar Scholarships For students For scholars FAQ Contact Us LinkedIn i-MESC Privacy policy I would like to apply to i-MESC Class#23 (2027-2029)",
+          "tudents) Class #19 2023-2025 (17 students) Class #18 2022-2024 (34 students) Resources Alumni Apply Admission criteria Apply as a student As a scholar Scholarships For students For scholars Gallery Login fermer"
         ],
         "fees_funding": [
-          "der au contenu menu mobile The course Overview Consortium & Universities Curriculum Mobility scheme Fees The Team Professors Administrative Associated partners (research centers and industry) Students Resources Class #21 2025-2027 (32 students) Class #20 2024-2026 (31 students) Clas",
-          "of 24 months. Our Partners The course Overview Consortium & Universities Curriculum Mobility scheme Fees The Team Professors Administrative Associated partners (research centers and industry) Students Resources Class #21 2025-2027 (32 students) Class #20 2024-2026 (31 students) Clas",
-          "me) indicative dates Apply The course Overview Consortium & Universities Curriculum Mobility scheme Fees The Team Professors Administrative Associated partners (research centers and industry) Students Resources Class #21 2025-2027 (32 students) Class #20 2024-2026 (31 students) Clas"
+          "der au contenu menu mobile The course Overview Consortium & Universities Curriculum Mobility scheme Fees The Team Professors Administrative Associated partners (research centers and industry) Students Class #21 2025-2027 (32 students) Class #20 2024-2026 (31 students) Class #19 2023",
+          "of 24 months. Our Partners The course Overview Consortium & Universities Curriculum Mobility scheme Fees The Team Professors Administrative Associated partners (research centers and industry) Students Class #21 2025-2027 (32 students) Class #20 2024-2026 (31 students) Class #19 2023",
+          "me) indicative dates Apply The course Overview Consortium & Universities Curriculum Mobility scheme Fees The Team Professors Administrative Associated partners (research centers and industry) Students Class #21 2025-2027 (32 students) Class #20 2024-2026 (31 students) Class #19 2023"
         ],
         "research": [
-          "niversities Curriculum Mobility scheme Fees The Team Professors Administrative Associated partners (research centers and industry) Students Resources Class #21 2025-2027 (32 students) Class #20 2024-2026 (31 students) Class #19 2023-2025 (17 students) Class #18 2022-2024 (34 students) Al"
+          "niversities Curriculum Mobility scheme Fees The Team Professors Administrative Associated partners (research centers and industry) Students Class #21 2025-2027 (32 students) Class #20 2024-2026 (31 students) Class #19 2023-2025 (17 students) Class #18 2022-2024 (34 students) Resources Al"
         ],
         "people_contact": [
-          "menu mobile The course Overview Consortium & Universities Curriculum Mobility scheme Fees The Team Professors Administrative Associated partners (research centers and industry) Students Resources Class #21 2025-2027 (32 students) Class #20 2024-2026 (31 students) Class #19 2023-2025 (17",
-          "Our Partners The course Overview Consortium & Universities Curriculum Mobility scheme Fees The Team Professors Administrative Associated partners (research centers and industry) Students Resources Class #21 2025-2027 (32 students) Class #20 2024-2026 (31 students) Class #19 2023-2025 (17",
-          "dates Apply The course Overview Consortium & Universities Curriculum Mobility scheme Fees The Team Professors Administrative Associated partners (research centers and industry) Students Resources Class #21 2025-2027 (32 students) Class #20 2024-2026 (31 students) Class #19 2023-2025 (17"
+          "menu mobile The course Overview Consortium & Universities Curriculum Mobility scheme Fees The Team Professors Administrative Associated partners (research centers and industry) Students Class #21 2025-2027 (32 students) Class #20 2024-2026 (31 students) Class #19 2023-2025 (17 students)",
+          "Our Partners The course Overview Consortium & Universities Curriculum Mobility scheme Fees The Team Professors Administrative Associated partners (research centers and industry) Students Class #21 2025-2027 (32 students) Class #20 2024-2026 (31 students) Class #19 2023-2025 (17 students)",
+          "dates Apply The course Overview Consortium & Universities Curriculum Mobility scheme Fees The Team Professors Administrative Associated partners (research centers and industry) Students Class #21 2025-2027 (32 students) Class #20 2024-2026 (31 students) Class #19 2023-2025 (17 students)"
         ]
       },
-      "content_hash": "d363cfb839c2d16857e862405fe2d9e900ef0267eeeb576576a1608d32f53b67"
+      "content_hash": "a9f881115c8be5326b37bdd1e937de9c3c248220754fd957b0f2ecafd57cbbfe"
     },
     {
       "agent": "atlas",
@@ -241,7 +229,7 @@
           "national dimension Learning development Welfare Sustainability and inclusion Hospitality and living Professors Tenure-track researchers Visiting professors Call for expression of interest Other resources Integrity and beyond Intranet di Ateneo Normativa di Ateneo Staff Sustainability and"
         ]
       },
-      "content_hash": "4c80c254e20c56330fc89b740a947cfd8d490980bdabece0adf588851325fb8c"
+      "content_hash": "02c1b39a72e1d781cb2c1c27ec13780c33b8effdf190d4227b17a68d97e2fce0"
     },
     {
       "agent": "atlas",
@@ -311,7 +299,7 @@
           "national dimension Learning development Welfare Sustainability and inclusion Hospitality and living Professors Tenure-track researchers Visiting professors Call for expression of interest Other resources Integrity and beyond Intranet di Ateneo Normativa di Ateneo Staff Sustainability and"
         ]
       },
-      "content_hash": "0bf86ee222e30b35d9bb35a5956d7629f4b30485e64d456adc032994643091a6"
+      "content_hash": "d3111a6e66b57a0ece500a562acebb5c7bc872d4cbfd52e69e9c2545ac3af25b"
     },
     {
       "agent": "atlas",
@@ -380,29 +368,8 @@
       "kind": "master",
       "entity": "UPC Semiconductor Engineering",
       "url": "https://www.upc.edu/en/bachelors/access-and-admission/access-and-admission",
-      "title": "Access and admission - UPC Universitat Politècnica de Catalunya",
-      "signals": {
-        "admission": [
-          "Access and admission - UPC Universitat Politècnica de Catalunya UPC. Universitat Politècnica de Catalunya Menu Menu Tools Skip to content Skip to menu Information for... International students and aca",
-          "C Main navigation BACHELOR'S Bachelor's degrees 2026-2027 Sequential academic programmes Access and admission Enrolment Fees, grants and payment options Academic calendar and academic regulations Languages and certification Mobility and work placement New bachelor's degree fees More infor",
-          "More information MASTER'S Master's degrees 2026-2027 Why take a master's degree at the UPC? Access, admission and enrolment Fees, grants and payment options Academic calendar and academic regulations Languages and certification Mobility and work placement Lifelong learning master's and po"
-        ],
-        "fees_funding": [
-          "CHELOR'S Bachelor's degrees 2026-2027 Sequential academic programmes Access and admission Enrolment Fees, grants and payment options Academic calendar and academic regulations Languages and certification Mobility and work placement New bachelor's degree fees More information MASTER'",
-          "academic regulations Languages and certification Mobility and work placement New bachelor's degree fees More information MASTER'S Master's degrees 2026-2027 Why take a master's degree at the UPC? Access, admission and enrolment Fees, grants and payment options Academic calendar and",
-          "S Master's degrees 2026-2027 Why take a master's degree at the UPC? Access, admission and enrolment Fees, grants and payment options Academic calendar and academic regulations Languages and certification Mobility and work placement Lifelong learning master's and postgraduate studies"
-        ],
-        "research": [
-          "enu Tools Skip to content Skip to menu Information for... International students and academic staff Research career (Talent Hub) Companies Media - Press Room UPC students UPC staff Electronic Headquarters Contact Language: English Català Español English Search... Search in UPC Main navig",
-          "ter's degree and postgraduate University microcedentials Short and specialised courses RDI RDI news Research at the UPC Research support and promotion Transfer, entrepreneurship and innovation at the UPC Transfer, entrepreneurship and innovation support and promotion Services for compani",
-          "tgraduate University microcedentials Short and specialised courses RDI RDI news Research at the UPC Research support and promotion Transfer, entrepreneurship and innovation at the UPC Transfer, entrepreneurship and innovation support and promotion Services for companies Scientific and Te"
-        ],
-        "people_contact": [
-          "rch career (Talent Hub) Companies Media - Press Room UPC students UPC staff Electronic Headquarters Contact Language: English Català Español English Search... Search in UPC Main navigation BACHELOR'S Bachelor's degrees 2026-2027 Sequential academic programmes Access and admission Enrolm",
-          "anding UPCshop, merchandising Press room © UPC Universitat Politècnica de Catalunya - BarcelonaTech Contact Site map Accessibility Disclaimer Privacy settings"
-        ]
-      },
-      "content_hash": "88c232a4282f24262de5f3be8d82ac59988fb4d0578cb3f8a2fb292f994a2e49"
+      "status": "error",
+      "error": "The read operation timed out"
     },
     {
       "agent": "atlas",
@@ -431,7 +398,7 @@
           "anding UPCshop, merchandising Press room © UPC Universitat Politècnica de Catalunya - BarcelonaTech Contact Site map Accessibility Disclaimer Privacy settings"
         ]
       },
-      "content_hash": "53890611c58159f4c8819fc5d8c0174ca15b81e432c8e9e929e5138be04f6ed7"
+      "content_hash": "c4bac9096fd7245067e24db91223f6d60744000a3fc74330a02c6eace8f7c2a3"
     },
     {
       "agent": "nova",
@@ -637,7 +604,7 @@
           "anagement Organic Solar Cells Optoelectronics of group-IV semiconductor nanostructures Publications People Equipment Projects News In the Press People All Researchers Post-Docs PhD Students Technicians and project managers Afroditi Koutsogianni PhD Students Agustín Mihi Researchers Ale"
         ]
       },
-      "content_hash": "848e8505bec09a7ca43100d2480bcf926796cfcb819aeabbc846cdaf7771ec49"
+      "content_hash": "fb67a5a47c2d645e430dfa80d69b233b6cf6f90451c4fa81046f805ec86cbf5a"
     },
     {
       "agent": "nova",
@@ -660,7 +627,7 @@
           "ncluding thermal, mechanical and biological aspects. Not only allows this to solve urgent problems (contact resistance), it also enables completely new (switchable, reconfigurable) devices. The topic is inspired by a combination of scientific curiosity and a strong feeling of practical"
         ]
       },
-      "content_hash": "cf167773c238a9ed5eadf223e4324b2128ba7078bcd35f79669123f9830ff8a7"
+      "content_hash": "7ea9c3696124804bdc7c255ce98bb603621b18d909a8c133ce6ca788c7429723"
     },
     {
       "agent": "nova",
@@ -679,7 +646,7 @@
           "anagement Organic Solar Cells Optoelectronics of group-IV semiconductor nanostructures Publications People Equipment Projects News In the Press Publications Cargando publicaciones Nanopto..."
         ]
       },
-      "content_hash": "7f1b65ce26ca7ac78394546f74648d5e649ea825dfad61ff77bc70ca2a88efd8"
+      "content_hash": "70a33067856d41bb736ef2a6e8c736f6f00d679358c27df9c21618a30a768bba"
     },
     {
       "agent": "nova",
@@ -703,7 +670,7 @@
           "» About the center Research Clean Room Laboratories Technology Transfer News & Outreach Highlights Contact Talent Search Contracting profile Legal Advice © Copyright 2026. IMB-CNM"
         ]
       },
-      "content_hash": "57d7697b5dc48ca1a84a8aedf500bfb61b2fc39c197bff8a4b4e68c6aacf09a4"
+      "content_hash": "cb79b77eb91976efd9231764ad669666d3cb61a7ef54279d6d4140924a88be15"
     }
   ],
   "sources": [
@@ -716,32 +683,32 @@
       "status": "verified",
       "signals": {
         "deadlines": [
-          "2024-2026 (31 students) Class #19 2023-2025 (17 students) Class #18 2022-2024 (34 students) Alumni Apply Admission criteria Apply as a student As a scholar Scholarships For students For scholars Gallery Login G i v e E n e r g y t o y o u r s t u d i e s MESC20 Graduation A big miles",
-          "Class #19 2023-2025 (17 students) Class #18 2022-2024 (34 students) Alumni Apply Admission criteria Apply as a student As a scholar Scholarships For students For scholars Gallery Login G i v e E n e r g y t o y o u r s t u d i e s MESC20 Graduation A big milestone for the programme: t",
-          "2024-2026 (31 students) Class #19 2023-2025 (17 students) Class #18 2022-2024 (34 students) Alumni Apply Admission criteria Apply as a student As a scholar Scholarships For students For scholars FAQ Contact Us LinkedIn i-MESC Privacy policy I would like to apply to i-MESC Class#23 (2"
+          "(31 students) Class #19 2023-2025 (17 students) Class #18 2022-2024 (34 students) Resources Alumni Apply Admission criteria Apply as a student As a scholar Scholarships For students For scholars Gallery Login G i v e E n e r g y t o y o u r s t u d i e s MESC20 Graduation A big miles",
+          "2023-2025 (17 students) Class #18 2022-2024 (34 students) Resources Alumni Apply Admission criteria Apply as a student As a scholar Scholarships For students For scholars Gallery Login G i v e E n e r g y t o y o u r s t u d i e s MESC20 Graduation A big milestone for the programme: t",
+          "(31 students) Class #19 2023-2025 (17 students) Class #18 2022-2024 (34 students) Resources Alumni Apply Admission criteria Apply as a student As a scholar Scholarships For students For scholars FAQ Contact Us LinkedIn i-MESC Privacy policy I would like to apply to i-MESC Class#23 (2"
         ],
         "admission": [
-          "2026 (31 students) Class #19 2023-2025 (17 students) Class #18 2022-2024 (34 students) Alumni Apply Admission criteria Apply as a student As a scholar Scholarships For students For scholars Gallery Login G i v e E n e r g y t o y o u r s t u d i e s MESC20 Graduation A big milestone for t",
-          "2026 (31 students) Class #19 2023-2025 (17 students) Class #18 2022-2024 (34 students) Alumni Apply Admission criteria Apply as a student As a scholar Scholarships For students For scholars FAQ Contact Us LinkedIn i-MESC Privacy policy I would like to apply to i-MESC Class#23 (2027-2029)",
-          "2026 (31 students) Class #19 2023-2025 (17 students) Class #18 2022-2024 (34 students) Alumni Apply Admission criteria Apply as a student As a scholar Scholarships For students For scholars Gallery Login fermer"
+          "tudents) Class #19 2023-2025 (17 students) Class #18 2022-2024 (34 students) Resources Alumni Apply Admission criteria Apply as a student As a scholar Scholarships For students For scholars Gallery Login G i v e E n e r g y t o y o u r s t u d i e s MESC20 Graduation A big milestone for t",
+          "tudents) Class #19 2023-2025 (17 students) Class #18 2022-2024 (34 students) Resources Alumni Apply Admission criteria Apply as a student As a scholar Scholarships For students For scholars FAQ Contact Us LinkedIn i-MESC Privacy policy I would like to apply to i-MESC Class#23 (2027-2029)",
+          "tudents) Class #19 2023-2025 (17 students) Class #18 2022-2024 (34 students) Resources Alumni Apply Admission criteria Apply as a student As a scholar Scholarships For students For scholars Gallery Login fermer"
         ],
         "fees_funding": [
-          "der au contenu menu mobile The course Overview Consortium & Universities Curriculum Mobility scheme Fees The Team Professors Administrative Associated partners (research centers and industry) Students Resources Class #21 2025-2027 (32 students) Class #20 2024-2026 (31 students) Clas",
-          "Slovenia More Our Partners The course Overview Consortium & Universities Curriculum Mobility scheme Fees The Team Professors Administrative Associated partners (research centers and industry) Students Resources Class #21 2025-2027 (32 students) Class #20 2024-2026 (31 students) Clas",
-          "me) indicative dates Apply The course Overview Consortium & Universities Curriculum Mobility scheme Fees The Team Professors Administrative Associated partners (research centers and industry) Students Resources Class #21 2025-2027 (32 students) Class #20 2024-2026 (31 students) Clas"
+          "der au contenu menu mobile The course Overview Consortium & Universities Curriculum Mobility scheme Fees The Team Professors Administrative Associated partners (research centers and industry) Students Class #21 2025-2027 (32 students) Class #20 2024-2026 (31 students) Class #19 2023",
+          "national More Our Partners The course Overview Consortium & Universities Curriculum Mobility scheme Fees The Team Professors Administrative Associated partners (research centers and industry) Students Class #21 2025-2027 (32 students) Class #20 2024-2026 (31 students) Class #19 2023",
+          "me) indicative dates Apply The course Overview Consortium & Universities Curriculum Mobility scheme Fees The Team Professors Administrative Associated partners (research centers and industry) Students Class #21 2025-2027 (32 students) Class #20 2024-2026 (31 students) Class #19 2023"
         ],
         "research": [
-          "niversities Curriculum Mobility scheme Fees The Team Professors Administrative Associated partners (research centers and industry) Students Resources Class #21 2025-2027 (32 students) Class #20 2024-2026 (31 students) Class #19 2023-2025 (17 students) Class #18 2022-2024 (34 students) Al",
+          "niversities Curriculum Mobility scheme Fees The Team Professors Administrative Associated partners (research centers and industry) Students Class #21 2025-2027 (32 students) Class #20 2024-2026 (31 students) Class #19 2023-2025 (17 students) Class #18 2022-2024 (34 students) Resources Al",
           "divided into four semesters: three semesters of classes (30 ECTS each) plus a fourth semester in a research laboratory in Europe, USA, or Australia for a six months Master’s thesis (30 ECTS). i-MESC students (~36/ year) will be offered, depending on their individual mobility choices, to",
           "BILITY SCHEME i-MESC is composed of three semesters of classes and a mandatory fourth semester in a research laboratory for the Master thesis. i-MESC students will therefore be offered to study in up to four different countries within 2 years. The team: PROFESSORS Maria Forsyth Deakin Un"
         ],
         "people_contact": [
-          "menu mobile The course Overview Consortium & Universities Curriculum Mobility scheme Fees The Team Professors Administrative Associated partners (research centers and industry) Students Resources Class #21 2025-2027 (32 students) Class #20 2024-2026 (31 students) Class #19 2023-2025 (17",
+          "menu mobile The course Overview Consortium & Universities Curriculum Mobility scheme Fees The Team Professors Administrative Associated partners (research centers and industry) Students Class #21 2025-2027 (32 students) Class #20 2024-2026 (31 students) Class #19 2023-2025 (17 students)",
           "ents will therefore be offered to study in up to four different countries within 2 years. The team: PROFESSORS Maria Forsyth Deakin University Melbourne - Australia More Alejandro A. Franco i-MESC Coordinator - Université Picardie Jules Verne Amiens - France More Iñaki Gandarias Goikoetxe",
-          "Our Partners The course Overview Consortium & Universities Curriculum Mobility scheme Fees The Team Professors Administrative Associated partners (research centers and industry) Students Resources Class #21 2025-2027 (32 students) Class #20 2024-2026 (31 students) Class #19 2023-2025 (17"
+          "Our Partners The course Overview Consortium & Universities Curriculum Mobility scheme Fees The Team Professors Administrative Associated partners (research centers and industry) Students Class #21 2025-2027 (32 students) Class #20 2024-2026 (31 students) Class #19 2023-2025 (17 students)"
         ]
       },
-      "content_hash": "d55905f5413b623d6b2218172c1e0f7e6aa6ea456d49f4ea6531e62912717d31"
+      "content_hash": "1820751a52f36875d57ab2b999430a4c69b2fc629701d94c5fd2a5bae719f14e"
     },
     {
       "agent": "atlas",
@@ -908,7 +875,7 @@
           "anagement Organic Solar Cells Optoelectronics of group-IV semiconductor nanostructures Publications People Equipment Projects News In the Press Organic Solar Cells We aim at producing strong contributions towards the development of cost-efective, low energy pay back time photovoltaics"
         ]
       },
-      "content_hash": "bfd8f7b8596cef7f8165e81a9bcf6c1f1b807e7871bee77d851a6a08d39a6ffa"
+      "content_hash": "f0380747e37d97fe1c608113a56ddc3e9445cb3b5f45b82ac8d20fbfddbe5766"
     },
     {
       "agent": "nova",
@@ -928,7 +895,7 @@
           "B. About the center Research Clean Room Laboratories Technology Transfer News & Outreach Highlights Contact Talent Search Contracting profile Legal Advice © Copyright 2026. IMB-CNM"
         ]
       },
-      "content_hash": "98e5e39440fef8fdb98b99023e2bdd5c189d8d8f0b1225fa19a0cbfbca9859b8"
+      "content_hash": "522bd0b4dbfcdf1da5670afd5c10673046459d98e86acd28adede71e4325d0d2"
     }
   ]
 }
