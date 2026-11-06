@@ -1,10 +1,10 @@
 {
-  "generated_at": "2026-11-05T13:16:12.558787+00:00",
+  "generated_at": "2026-11-06T13:00:03.778597+00:00",
   "summary": {
     "targets": 8,
-    "verified": 7,
-    "discoveries": 21,
-    "changes": 4
+    "verified": 8,
+    "discoveries": 24,
+    "changes": 6
   },
   "changes": [
     {
@@ -23,6 +23,18 @@
       "agent": "atlas",
       "entity": "UPC Semiconductor Engineering",
       "url": "https://www.upc.edu/en/masters/semiconductor-engineering-and-microelectronic-design",
+      "message": "La página oficial cambió desde la última revisión."
+    },
+    {
+      "agent": "nova",
+      "entity": "IREC Solar Energy Materials",
+      "url": "https://www.irec.cat/research-transfer/solar-energy-materials-systems",
+      "message": "La página oficial cambió desde la última revisión."
+    },
+    {
+      "agent": "nova",
+      "entity": "IREC Energy Storage",
+      "url": "https://www.irec.cat/research-transfer/energy-storage-harvesting-catalysis",
       "message": "La página oficial cambió desde la última revisión."
     },
     {
@@ -450,7 +462,7 @@
           "ndates and supporting data management plans across all departments. sgilabert@irec.cat See all IREC people Trustees Supported by Member of Center Awarded by Contact us Barcelona Sant Adrià +34 933 562 615 Carrer Jardins de les Dones de Negre, 1, 2a planta | 08930 Sant Adrià de Besòs (B"
         ]
       },
-      "content_hash": "9b65b8682b98f17d09390077bf259b438ade38a18daf7e2e89c5c3e40f8ccc5b"
+      "content_hash": "cb54b0c83cbc4fbd0b3570b952d81c43d108c112d3171b30b4a736c017a5cc3e"
     },
     {
       "agent": "nova",
@@ -470,7 +482,7 @@
           "silient buildings & communities Corporate development & technology transfer Knowledge tech transfer team Portfolio Lab to market Strategic actions Platforms & associations Projects Publications Facilities People News & outreach News Events Outreach Mad for science Gara-Fecyt Search f"
         ]
       },
-      "content_hash": "a30ca8890c09dbb0dd68b251be9274fcdd060c527999c439bd82d25c3660c12f"
+      "content_hash": "0cd6ce300a8eecb15404e0ff53cc3eb7b0dfe8ed3fd42636096bc1dda5562adc"
     },
     {
       "agent": "nova",
@@ -498,7 +510,7 @@
           "silient buildings & communities Corporate development & technology transfer Knowledge tech transfer team Portfolio Lab to market Strategic actions Platforms & associations Projects Publications Facilities People News & outreach News Events Outreach Mad for science Gara-Fecyt Search f"
         ]
       },
-      "content_hash": "6d707cfb6b70b991562df67b23d3c1097b2a0e0f341767e2c1187ee892e9ea57"
+      "content_hash": "01c37ec74d6a663f881dea3f04783613f9bf621d254838933bc01412574d96b9"
     },
     {
       "agent": "nova",
@@ -518,7 +530,7 @@
           "silient buildings & communities Corporate development & technology transfer Knowledge tech transfer team Portfolio Lab to market Strategic actions Platforms & associations Projects Publications Facilities People News & outreach News Events Outreach Mad for science Gara-Fecyt Search f"
         ]
       },
-      "content_hash": "ae3e5b2af3936fb022aeda8971115980a0bb9b29059606f463a030252fd4bcd5"
+      "content_hash": "06d8af90fa812890f467eabf78fb862cd4e5afdf173c704d9f2099e128ff38f5"
     },
     {
       "agent": "nova",
@@ -543,7 +555,7 @@
           "ndates and supporting data management plans across all departments. sgilabert@irec.cat See all IREC people Trustees Supported by Member of Center Awarded by Contact us Barcelona Sant Adrià +34 933 562 615 Carrer Jardins de les Dones de Negre, 1, 2a planta | 08930 Sant Adrià de Besòs (B"
         ]
       },
-      "content_hash": "9b65b8682b98f17d09390077bf259b438ade38a18daf7e2e89c5c3e40f8ccc5b"
+      "content_hash": "18b87a2343b0a127a0efd655d1635f359d2930d76b5de4b7abafa4b2e9d716ac"
     },
     {
       "agent": "nova",
@@ -563,7 +575,7 @@
           "silient buildings & communities Corporate development & technology transfer Knowledge tech transfer team Portfolio Lab to market Strategic actions Platforms & associations Projects Publications Facilities People News & outreach News Events Outreach Mad for science Gara-Fecyt Search f"
         ]
       },
-      "content_hash": "a30ca8890c09dbb0dd68b251be9274fcdd060c527999c439bd82d25c3660c12f"
+      "content_hash": "5877155026eb48658e5b22129b937b0dd49c280ee26b4a3396248f533a073c1b"
     },
     {
       "agent": "nova",
@@ -591,7 +603,7 @@
           "silient buildings & communities Corporate development & technology transfer Knowledge tech transfer team Portfolio Lab to market Strategic actions Platforms & associations Projects Publications Facilities People News & outreach News Events Outreach Mad for science Gara-Fecyt Search f"
         ]
       },
-      "content_hash": "6d707cfb6b70b991562df67b23d3c1097b2a0e0f341767e2c1187ee892e9ea57"
+      "content_hash": "01c37ec74d6a663f881dea3f04783613f9bf621d254838933bc01412574d96b9"
     },
     {
       "agent": "nova",
@@ -611,7 +623,69 @@
           "silient buildings & communities Corporate development & technology transfer Knowledge tech transfer team Portfolio Lab to market Strategic actions Platforms & associations Projects Publications Facilities People News & outreach News Events Outreach Mad for science Gara-Fecyt Search f"
         ]
       },
-      "content_hash": "ae3e5b2af3936fb022aeda8971115980a0bb9b29059606f463a030252fd4bcd5"
+      "content_hash": "848add71d87241dc39d124dbb82dfbec2ca3f68d9b80c7f21badbf4fda2472a3"
+    },
+    {
+      "agent": "nova",
+      "kind": "tfg",
+      "entity": "ICMAB Nanopto",
+      "url": "https://nanopto.icmab.es/index.php/people",
+      "title": "People",
+      "signals": {
+        "research": [
+          "People Skip to main content Research Organic-Inorganic Thermoelectrics Photonic Architectures for Light Management Organic Solar Cells Optoelectronics of group-IV semiconductor nanostructures Publications People Equi",
+          "s of group-IV semiconductor nanostructures Publications People Equipment Projects News In the Press Research Organic-Inorganic Thermoelectrics Photonic Architectures for Light Management Organic Solar Cells Optoelectronics of group-IV semiconductor nanostructures Publications People Equi",
+          "IV semiconductor nanostructures Publications People Equipment Projects News In the Press People All Researchers Post-Docs PhD Students Technicians and project managers Afroditi Koutsogianni PhD Students Agustín Mihi Researchers Alejandro R. Goñi Researchers Ana Conde Post-Docs Arianna Qu"
+        ],
+        "people_contact": [
+          "People Skip to main content Research Organic-Inorganic Thermoelectrics Photonic Architectures for Light Management Organic Solar Cells Optoelectronics of group-IV semiconductor nanostruc",
+          "anagement Organic Solar Cells Optoelectronics of group-IV semiconductor nanostructures Publications People Equipment Projects News In the Press Research Organic-Inorganic Thermoelectrics Photonic Architectures for Light Management Organic Solar Cells Optoelectronics of group-IV semicon",
+          "anagement Organic Solar Cells Optoelectronics of group-IV semiconductor nanostructures Publications People Equipment Projects News In the Press People All Researchers Post-Docs PhD Students Technicians and project managers Afroditi Koutsogianni PhD Students Agustín Mihi Researchers Ale"
+        ]
+      },
+      "content_hash": "92e572977284aab3b551453d399d9ec64319948f502c80f19dcece7d87d97ad4"
+    },
+    {
+      "agent": "nova",
+      "kind": "tfg",
+      "entity": "ICMAB Nanopto",
+      "url": "https://nanopto.icmab.es/index.php/projects",
+      "title": "Projects",
+      "signals": {
+        "fees_funding": [
+          "econfigurable) devices. The topic is inspired by a combination of scientific curiosity and a strong feeling of practical urgency, as reflected by the consortium composition of 8 universities, 4 research institutes and 4 companies. The latter jointly cover all major application areas"
+        ],
+        "research": [
+          "Projects Skip to main content Research Organic-Inorganic Thermoelectrics Photonic Architectures for Light Management Organic Solar Cells Optoelectronics of group-IV semiconductor nanostructures Publications People Equi",
+          "s of group-IV semiconductor nanostructures Publications People Equipment Projects News In the Press Research Organic-Inorganic Thermoelectrics Photonic Architectures for Light Management Organic Solar Cells Optoelectronics of group-IV semiconductor nanostructures Publications People Equi",
+          "ción Conocimiento 2024', starting September 2025 Principal Investigators: Sergi Riera RELIANCE is a research project focused on improving the reliability and scalability of organic photovoltaic (OPV) technologies. The project aims to develop robust charge-transport layers and device arch"
+        ],
+        "people_contact": [
+          "anagement Organic Solar Cells Optoelectronics of group-IV semiconductor nanostructures Publications People Equipment Projects News In the Press Research Organic-Inorganic Thermoelectrics Photonic Architectures for Light Management Organic Solar Cells Optoelectronics of group-IV semicon",
+          "anagement Organic Solar Cells Optoelectronics of group-IV semiconductor nanostructures Publications People Equipment Projects News In the Press Projects Finished Projects Active Projects Project RELIANCE 'Selective Electrodes and Layers for Organic Photovoltaic Modules in Urban Environ",
+          "ncluding thermal, mechanical and biological aspects. Not only allows this to solve urgent problems (contact resistance), it also enables completely new (switchable, reconfigurable) devices. The topic is inspired by a combination of scientific curiosity and a strong feeling of practical"
+        ]
+      },
+      "content_hash": "add253b7f6567234fa4ad2db87bfb72336bf2630f96354a481409dadce3f4c7b"
+    },
+    {
+      "agent": "nova",
+      "kind": "tfg",
+      "entity": "ICMAB Nanopto",
+      "url": "https://nanopto.icmab.es/index.php/publications",
+      "title": "Publications",
+      "signals": {
+        "research": [
+          "Publications Skip to main content Research Organic-Inorganic Thermoelectrics Photonic Architectures for Light Management Organic Solar Cells Optoelectronics of group-IV semiconductor nanostructures Publications People Equi",
+          "s of group-IV semiconductor nanostructures Publications People Equipment Projects News In the Press Research Organic-Inorganic Thermoelectrics Photonic Architectures for Light Management Organic Solar Cells Optoelectronics of group-IV semiconductor nanostructures Publications People Equi",
+          "Solar Cells Optoelectronics of group-IV semiconductor nanostructures Publications People Equipment Projects News In the Press Research Organic-Inorganic Thermoelectrics Photonic Architectures for Light Management Organic Solar Cells Optoelectronics of group-IV semiconductor nanostructu"
+        ],
+        "people_contact": [
+          "anagement Organic Solar Cells Optoelectronics of group-IV semiconductor nanostructures Publications People Equipment Projects News In the Press Research Organic-Inorganic Thermoelectrics Photonic Architectures for Light Management Organic Solar Cells Optoelectronics of group-IV semicon",
+          "anagement Organic Solar Cells Optoelectronics of group-IV semiconductor nanostructures Publications People Equipment Projects News In the Press Publications Cargando publicaciones Nanopto..."
+        ]
+      },
+      "content_hash": "3ebc0b85d37b0b94099fd99c16ad9059af3e3648778851af9109673796c346d3"
     },
     {
       "agent": "nova",
@@ -635,7 +709,7 @@
           "» About the center Research Clean Room Laboratories Technology Transfer News & Outreach Highlights Contact Talent Search Contracting profile Legal Advice © Copyright 2026. IMB-CNM"
         ]
       },
-      "content_hash": "c2462e3fc17ec9fa133d473dd76d09780790f1c0055943dee214ed36c4bcd9ae"
+      "content_hash": "0d2ad0244c0104149d657e732b3d1822a573ca3cfac2ba15cb5ee2807dcee3f1"
     }
   ],
   "sources": [
@@ -659,7 +733,7 @@
         ],
         "fees_funding": [
           "der au contenu menu mobile The course Overview Consortium & Universities Curriculum Mobility scheme Fees The Team Professors Administrative Associated partners (research centers and industry) Students Class #21 2025-2027 (32 students) Class #20 2024-2026 (31 students) Class #19 2023",
-          "national More Our Partners The course Overview Consortium & Universities Curriculum Mobility scheme Fees The Team Professors Administrative Associated partners (research centers and industry) Students Class #21 2025-2027 (32 students) Class #20 2024-2026 (31 students) Class #19 2023",
+          "Spain More Our Partners The course Overview Consortium & Universities Curriculum Mobility scheme Fees The Team Professors Administrative Associated partners (research centers and industry) Students Class #21 2025-2027 (32 students) Class #20 2024-2026 (31 students) Class #19 2023",
           "me) indicative dates Apply The course Overview Consortium & Universities Curriculum Mobility scheme Fees The Team Professors Administrative Associated partners (research centers and industry) Students Class #21 2025-2027 (32 students) Class #20 2024-2026 (31 students) Class #19 2023"
         ],
         "research": [
@@ -673,7 +747,7 @@
           "Our Partners The course Overview Consortium & Universities Curriculum Mobility scheme Fees The Team Professors Administrative Associated partners (research centers and industry) Students Class #21 2025-2027 (32 students) Class #20 2024-2026 (31 students) Class #19 2023-2025 (17 students)"
         ]
       },
-      "content_hash": "6094f3f0d6b75fd5d69accbef0f2caf96676c722615a5cba058e8319aed98161"
+      "content_hash": "437d4548cd687b02fa5add7b3cd7500046acf75e52ff8876defefcd51b6d2bca"
     },
     {
       "agent": "atlas",
@@ -744,7 +818,7 @@
           "national dimension Learning development Welfare Sustainability and inclusion Hospitality and living Professors Tenure-track researchers Visiting professors Call for expression of interest Other resources Integrity and beyond Intranet di Ateneo Normativa di Ateneo Staff Sustainability and"
         ]
       },
-      "content_hash": "6ace701c854bab48c190e3db506683d62a8e4207859ed964d85e726b1711b818"
+      "content_hash": "3edc3b45c38b9509f884e86c2916d8c89c9faa2a45de70ec6236ca441ef4f89b"
     },
     {
       "agent": "atlas",
@@ -778,7 +852,7 @@
           "anding UPCshop, merchandising Press room © UPC Universitat Politècnica de Catalunya - BarcelonaTech Contact Site map Accessibility Disclaimer Privacy settings"
         ]
       },
-      "content_hash": "eb051cf09757b808f0188f4706ebfe655a7fe26a6eb37bf205eae2577cf8086a"
+      "content_hash": "a488fa9e9927dd51be0234959500d88c7dc458a712d7f161acbd9030a4d15018"
     },
     {
       "agent": "nova",
@@ -799,7 +873,7 @@
           "rch contexts (including self-driving laboratory concepts) and industrial and societal applications. People A skilled team dedicated to advancing the energy transition. More info Projects Competitive and industrial projects from lab to real-world scale. More info Publications Peer-revie"
         ]
       },
-      "content_hash": "81365ea1c73271442c0dc2e0a5ea719f77795d97d947cbe980e5ade0677394e4"
+      "content_hash": "68cd2bc68d823c074872793cbaa8f24adc8baaf87e2f3c2bcea3872410414a1c"
     },
     {
       "agent": "nova",
@@ -820,15 +894,27 @@
           "laboratory advances into viable production processes for renewable and synthetic fuel applications. People A skilled team dedicated to advancing the energy transition. More info Projects Competitive and industrial projects from lab to real-world scale. More info Publications Peer-revie"
         ]
       },
-      "content_hash": "38c7e37602693d953d5c38a6fcf37604753fb5c5253c5c0322719e0ca368d12a"
+      "content_hash": "c7a0f9de3e169f6649f60e97fb6447da25ea0b90da01cb47c90ff191a648700c"
     },
     {
       "agent": "nova",
       "kind": "tfg",
       "entity": "ICMAB Nanopto",
       "url": "https://nanopto.icmab.es/index.php/research/organic-solar-cells",
-      "status": "error",
-      "error": "[Errno -2] Name or service not known"
+      "title": "Organic Solar Cells",
+      "status": "verified",
+      "signals": {
+        "research": [
+          "Organic Solar Cells Skip to main content Research Organic-Inorganic Thermoelectrics Photonic Architectures for Light Management Organic Solar Cells Optoelectronics of group-IV semiconductor nanostructures Publications People Equi",
+          "s of group-IV semiconductor nanostructures Publications People Equipment Projects News In the Press Research Organic-Inorganic Thermoelectrics Photonic Architectures for Light Management Organic Solar Cells Optoelectronics of group-IV semiconductor nanostructures Publications People Equi",
+          "nergy pay back time photovoltaics based on abundant and non-toxic materials. The two pillars of our research are the use of advanced spectroscopic techniques and targeted processing schemes. Our novel processing schemes enable fine control over desired properties, including crystallinity"
+        ],
+        "people_contact": [
+          "anagement Organic Solar Cells Optoelectronics of group-IV semiconductor nanostructures Publications People Equipment Projects News In the Press Research Organic-Inorganic Thermoelectrics Photonic Architectures for Light Management Organic Solar Cells Optoelectronics of group-IV semicon",
+          "anagement Organic Solar Cells Optoelectronics of group-IV semiconductor nanostructures Publications People Equipment Projects News In the Press Organic Solar Cells We aim at producing strong contributions towards the development of cost-efective, low energy pay back time photovoltaics"
+        ]
+      },
+      "content_hash": "f970d25957b89a8169556e428006c987be629b295b11d403ecf09d3123940419"
     },
     {
       "agent": "nova",
@@ -848,7 +934,7 @@
           "B. About the center Research Clean Room Laboratories Technology Transfer News & Outreach Highlights Contact Talent Search Contracting profile Legal Advice © Copyright 2026. IMB-CNM"
         ]
       },
-      "content_hash": "f00a72706c121158a02694509b93726fd482ce048f7949e6df8e2403058ba223"
+      "content_hash": "51fb2b899171cc4e2c7ccb954dcdef2f3330226994e852618343ff2f815bc141"
     }
   ]
 }
