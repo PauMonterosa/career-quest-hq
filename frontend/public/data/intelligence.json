@@ -1,28 +1,16 @@
 {
-  "generated_at": "2026-11-06T13:00:03.778597+00:00",
+  "generated_at": "2026-11-07T11:46:19.809986+00:00",
   "summary": {
     "targets": 8,
-    "verified": 8,
-    "discoveries": 24,
-    "changes": 6
+    "verified": 7,
+    "discoveries": 20,
+    "changes": 5
   },
   "changes": [
     {
       "agent": "atlas",
       "entity": "i-MESC",
       "url": "https://i-mesc.eu/",
-      "message": "La página oficial cambió desde la última revisión."
-    },
-    {
-      "agent": "atlas",
-      "entity": "Politecnico di Milano Materials",
-      "url": "https://www.polimi.it/en/education/laurea-magistrale-programmes/programme-detail/materials-engineering-and-nanotechnology",
-      "message": "La página oficial cambió desde la última revisión."
-    },
-    {
-      "agent": "atlas",
-      "entity": "UPC Semiconductor Engineering",
-      "url": "https://www.upc.edu/en/masters/semiconductor-engineering-and-microelectronic-design",
       "message": "La página oficial cambió desde la última revisión."
     },
     {
@@ -35,6 +23,12 @@
       "agent": "nova",
       "entity": "IREC Energy Storage",
       "url": "https://www.irec.cat/research-transfer/energy-storage-harvesting-catalysis",
+      "message": "La página oficial cambió desde la última revisión."
+    },
+    {
+      "agent": "nova",
+      "entity": "ICMAB Nanopto",
+      "url": "https://nanopto.icmab.es/index.php/research/organic-solar-cells",
       "message": "La página oficial cambió desde la última revisión."
     },
     {
@@ -59,8 +53,8 @@
         ],
         "admission": [
           "Admission criteria - i-MESC an Erasmus Mundus Joint Master Accéder au contenu menu mobile The course Overview Consortium & Universities Curriculum Mobility scheme Fees The Team Professors A",
-          "tudents) Class #19 2023-2025 (17 students) Class #18 2022-2024 (34 students) Resources Alumni Apply Admission criteria Apply as a student As a scholar Scholarships For students For scholars Gallery Home Apply Admission criteria Admission criteria Partagez sur facebook Partagez sur twitter",
-          "criteria Apply as a student As a scholar Scholarships For students For scholars Gallery Home Apply Admission criteria Admission criteria Partagez sur facebook Partagez sur twitter Eligibility criteria Nationality Students from all over the world can apply for the i-MESC EMJM. Students wi"
+          "tudents) Class #19 2023-2025 (17 students) Class #18 2022-2024 (34 students) Resources Alumni Apply Admission criteria Apply as a student As a scholar Scholarships For students For scholars Gallery Login Home Apply Admission criteria Admission criteria Partagez sur facebook Partagez sur t",
+          "ria Apply as a student As a scholar Scholarships For students For scholars Gallery Login Home Apply Admission criteria Admission criteria Partagez sur facebook Partagez sur twitter Eligibility criteria Nationality Students from all over the world can apply for the i-MESC EMJM. Students wi"
         ],
         "fees_funding": [
           "der au contenu menu mobile The course Overview Consortium & Universities Curriculum Mobility scheme Fees The Team Professors Administrative Associated partners (research centers and industry) Students Class #21 2025-2027 (32 students) Class #20 2024-2026 (31 students) Class #19 2023",
@@ -76,7 +70,7 @@
           "dates Apply The course Overview Consortium & Universities Curriculum Mobility scheme Fees The Team Professors Administrative Associated partners (research centers and industry) Students Class #21 2025-2027 (32 students) Class #20 2024-2026 (31 students) Class #19 2023-2025 (17 students)"
         ]
       },
-      "content_hash": "e75afbbcae4ec9eb5ab5b1d6ce2f73af08cda73f8459feef35a68aa05dece66d"
+      "content_hash": "2ca3ac4977c36b11d3c6337658769021a8284f44d07efed377f7552a5a6c1c8c"
     },
     {
       "agent": "atlas",
@@ -86,14 +80,14 @@
       "title": "As a scholar - i-MESC an Erasmus Mundus Joint Master",
       "signals": {
         "deadlines": [
-          "(31 students) Class #19 2023-2025 (17 students) Class #18 2022-2024 (34 students) Resources Alumni Apply Admission criteria Apply as a student As a scholar Scholarships For students For scholars Gallery Home Apply As a scholar As a scholar Partagez sur facebook Partagez sur twitter C",
-          "2023-2025 (17 students) Class #18 2022-2024 (34 students) Resources Alumni Apply Admission criteria Apply as a student As a scholar Scholarships For students For scholars Gallery Home Apply As a scholar As a scholar Partagez sur facebook Partagez sur twitter CALL FOR SCHOLARS CLASS21",
-          "ission criteria Apply as a student As a scholar Scholarships For students For scholars Gallery Home Apply As a scholar As a scholar Partagez sur facebook Partagez sur twitter CALL FOR SCHOLARS CLASS21 Through this call, the i-MESC Consortium can award EMJM grant up to 3 visting schola"
+          "(31 students) Class #19 2023-2025 (17 students) Class #18 2022-2024 (34 students) Resources Alumni Apply Admission criteria Apply as a student As a scholar Scholarships For students For scholars Gallery Login Home Apply As a scholar As a scholar Partagez sur facebook Partagez sur twi",
+          "2023-2025 (17 students) Class #18 2022-2024 (34 students) Resources Alumni Apply Admission criteria Apply as a student As a scholar Scholarships For students For scholars Gallery Login Home Apply As a scholar As a scholar Partagez sur facebook Partagez sur twitter CALL FOR SCHOLARS CL",
+          "criteria Apply as a student As a scholar Scholarships For students For scholars Gallery Login Home Apply As a scholar As a scholar Partagez sur facebook Partagez sur twitter CALL FOR SCHOLARS CLASS21 Through this call, the i-MESC Consortium can award EMJM grant up to 3 visting schola"
         ],
         "admission": [
-          "tudents) Class #19 2023-2025 (17 students) Class #18 2022-2024 (34 students) Resources Alumni Apply Admission criteria Apply as a student As a scholar Scholarships For students For scholars Gallery Home Apply As a scholar As a scholar Partagez sur facebook Partagez sur twitter CALL FOR SC",
+          "tudents) Class #19 2023-2025 (17 students) Class #18 2022-2024 (34 students) Resources Alumni Apply Admission criteria Apply as a student As a scholar Scholarships For students For scholars Gallery Login Home Apply As a scholar As a scholar Partagez sur facebook Partagez sur twitter CALL",
           "tudents) Class #19 2023-2025 (17 students) Class #18 2022-2024 (34 students) Resources Alumni Apply Admission criteria Apply as a student As a scholar Scholarships For students For scholars FAQ Contact Us LinkedIn i-MESC Privacy policy I would like to apply to i-MESC Class#23 (2027-2029)",
-          "tudents) Class #19 2023-2025 (17 students) Class #18 2022-2024 (34 students) Resources Alumni Apply Admission criteria Apply as a student As a scholar Scholarships For students For scholars Gallery fermer"
+          "tudents) Class #19 2023-2025 (17 students) Class #18 2022-2024 (34 students) Resources Alumni Apply Admission criteria Apply as a student As a scholar Scholarships For students For scholars Gallery Login fermer"
         ],
         "fees_funding": [
           "der au contenu menu mobile The course Overview Consortium & Universities Curriculum Mobility scheme Fees The Team Professors Administrative Associated partners (research centers and industry) Students Class #21 2025-2027 (32 students) Class #20 2024-2026 (31 students) Class #19 2023",
@@ -111,7 +105,7 @@
           "dates Apply The course Overview Consortium & Universities Curriculum Mobility scheme Fees The Team Professors Administrative Associated partners (research centers and industry) Students Class #21 2025-2027 (32 students) Class #20 2024-2026 (31 students) Class #19 2023-2025 (17 students)"
         ]
       },
-      "content_hash": "883221a9cd0be6c2bb86d807054e67f9b927fdb2157d9c9579c5e02e4262b102"
+      "content_hash": "e5049f7fb558e444d23719f1d8ae52ed55db6d7cf130a1503f82a82511cb976b"
     },
     {
       "agent": "atlas",
@@ -122,11 +116,11 @@
       "signals": {
         "deadlines": [
           "Apply as a student - i-MESC an Erasmus Mundus Joint Master Accéder au contenu menu mobile The course Overview Consortium & Universities Curriculum Mobility scheme Fees The Team Professo",
-          "(31 students) Class #19 2023-2025 (17 students) Class #18 2022-2024 (34 students) Resources Alumni Apply Admission criteria Apply as a student As a scholar Scholarships For students For scholars Gallery Home Apply Apply as a student Apply as a student Partagez sur facebook Partagez s",
-          "2023-2025 (17 students) Class #18 2022-2024 (34 students) Resources Alumni Apply Admission criteria Apply as a student As a scholar Scholarships For students For scholars Gallery Home Apply Apply as a student Apply as a student Partagez sur facebook Partagez sur twitter IMPORTANT: App"
+          "(31 students) Class #19 2023-2025 (17 students) Class #18 2022-2024 (34 students) Resources Alumni Apply Admission criteria Apply as a student As a scholar Scholarships For students For scholars Gallery Login Home Apply Apply as a student Apply as a student Partagez sur facebook Part",
+          "2023-2025 (17 students) Class #18 2022-2024 (34 students) Resources Alumni Apply Admission criteria Apply as a student As a scholar Scholarships For students For scholars Gallery Login Home Apply Apply as a student Apply as a student Partagez sur facebook Partagez sur twitter IMPORTAN"
         ],
         "admission": [
-          "tudents) Class #19 2023-2025 (17 students) Class #18 2022-2024 (34 students) Resources Alumni Apply Admission criteria Apply as a student As a scholar Scholarships For students For scholars Gallery Home Apply Apply as a student Apply as a student Partagez sur facebook Partagez sur twitter",
+          "tudents) Class #19 2023-2025 (17 students) Class #18 2022-2024 (34 students) Resources Alumni Apply Admission criteria Apply as a student As a scholar Scholarships For students For scholars Gallery Login Home Apply Apply as a student Apply as a student Partagez sur facebook Partagez sur t",
           "ormation before starting your application (Guide for applicants 2025 - FAQ - Apply as a student and Admission criteria pages). When you apply to join i-MESC, you apply automatically for an EMJM or an industrial scholarship granted by our associated partners (ALISTORE-ERI, CIC ENERGIGUNE,",
           "format (coming soon) Template for recommendation letters 2025 Frequently asked questions (FAQ) Fees Admission criteria Appeal procedure Selection process timetable (Intake 2027) Please note that these dates are given as an indication only, and might be slightly modified. Opening of online"
         ],
@@ -144,7 +138,7 @@
           "dates Apply The course Overview Consortium & Universities Curriculum Mobility scheme Fees The Team Professors Administrative Associated partners (research centers and industry) Students Class #21 2025-2027 (32 students) Class #20 2024-2026 (31 students) Class #19 2023-2025 (17 students)"
         ]
       },
-      "content_hash": "969fd3579972479701f5763c2a4eb59305b5eb4118632cb36e4d6b949d8c6da1"
+      "content_hash": "1d15db882b44fc24ebae7dda21b9658b7d845b260a899d8d0722f39a87bb1e7a"
     },
     {
       "agent": "atlas",
@@ -154,14 +148,14 @@
       "title": "For students - i-MESC an Erasmus Mundus Joint Master",
       "signals": {
         "deadlines": [
-          "(31 students) Class #19 2023-2025 (17 students) Class #18 2022-2024 (34 students) Resources Alumni Apply Admission criteria Apply as a student As a scholar Scholarships For students For scholars Gallery Home Scholarships For students For students Partagez sur facebook Partagez sur tw",
-          "2023-2025 (17 students) Class #18 2022-2024 (34 students) Resources Alumni Apply Admission criteria Apply as a student As a scholar Scholarships For students For scholars Gallery Home Scholarships For students For students Partagez sur facebook Partagez sur twitter Erasmus Mundus Join",
+          "(31 students) Class #19 2023-2025 (17 students) Class #18 2022-2024 (34 students) Resources Alumni Apply Admission criteria Apply as a student As a scholar Scholarships For students For scholars Gallery Login Home Scholarships For students For students Partagez sur facebook Partagez",
+          "2023-2025 (17 students) Class #18 2022-2024 (34 students) Resources Alumni Apply Admission criteria Apply as a student As a scholar Scholarships For students For scholars Gallery Login Home Scholarships For students For students Partagez sur facebook Partagez sur twitter Erasmus Mundu",
           "(31 students) Class #19 2023-2025 (17 students) Class #18 2022-2024 (34 students) Resources Alumni Apply Admission criteria Apply as a student As a scholar Scholarships For students For scholars FAQ Contact Us LinkedIn i-MESC Privacy policy I would like to apply to i-MESC Class#23 (2"
         ],
         "admission": [
-          "tudents) Class #19 2023-2025 (17 students) Class #18 2022-2024 (34 students) Resources Alumni Apply Admission criteria Apply as a student As a scholar Scholarships For students For scholars Gallery Home Scholarships For students For students Partagez sur facebook Partagez sur twitter Eras",
+          "tudents) Class #19 2023-2025 (17 students) Class #18 2022-2024 (34 students) Resources Alumni Apply Admission criteria Apply as a student As a scholar Scholarships For students For scholars Gallery Login Home Scholarships For students For students Partagez sur facebook Partagez sur twitte",
           "tudents) Class #19 2023-2025 (17 students) Class #18 2022-2024 (34 students) Resources Alumni Apply Admission criteria Apply as a student As a scholar Scholarships For students For scholars FAQ Contact Us LinkedIn i-MESC Privacy policy I would like to apply to i-MESC Class#23 (2027-2029)",
-          "tudents) Class #19 2023-2025 (17 students) Class #18 2022-2024 (34 students) Resources Alumni Apply Admission criteria Apply as a student As a scholar Scholarships For students For scholars Gallery fermer"
+          "tudents) Class #19 2023-2025 (17 students) Class #18 2022-2024 (34 students) Resources Alumni Apply Admission criteria Apply as a student As a scholar Scholarships For students For scholars Gallery Login fermer"
         ],
         "fees_funding": [
           "der au contenu menu mobile The course Overview Consortium & Universities Curriculum Mobility scheme Fees The Team Professors Administrative Associated partners (research centers and industry) Students Class #21 2025-2027 (32 students) Class #20 2024-2026 (31 students) Class #19 2023",
@@ -177,7 +171,7 @@
           "dates Apply The course Overview Consortium & Universities Curriculum Mobility scheme Fees The Team Professors Administrative Associated partners (research centers and industry) Students Class #21 2025-2027 (32 students) Class #20 2024-2026 (31 students) Class #19 2023-2025 (17 students)"
         ]
       },
-      "content_hash": "a78d20b2fad31fa76419b37747031e7d4f6b80d4413b1f897aa6706f2e78996c"
+      "content_hash": "ea5c15c6bb3bf08631d166c06386fe1c25c4a5c9a486e050a1ffccc7ecbeded5"
     },
     {
       "agent": "atlas",
@@ -320,126 +314,6 @@
       "content_hash": "d3111a6e66b57a0ece500a562acebb5c7bc872d4cbfd52e69e9c2545ac3af25b"
     },
     {
-      "agent": "atlas",
-      "kind": "master",
-      "entity": "UPC Semiconductor Engineering",
-      "url": "https://www.upc.edu/en/masters/access-admission-enrolment/pre-enrolment",
-      "title": "Pre-enrolment - UPC Universitat Politècnica de Catalunya",
-      "signals": {
-        "deadlines": [
-          "n checked. With the admission confirmation students from outside the EU can begin the procedure for applying for the visa that will cover their stay in the country while they are taking the master’s degree. You will be able to continue the process by following the instructions you wil",
-          "academic record, regardless of the date on the record for the university course qualifying them to apply. The average mark for the academic record will be calculated pursuant to the terms of Royal Decree 1892/2008, of 14 November, which amends Royal Decree 1267/1994, of 10 June, regu"
-        ],
-        "admission": [
-          "C Main navigation BACHELOR'S Bachelor's degrees 2026-2027 Sequential academic programmes Access and admission Enrolment Fees, grants and payment options Academic calendar and academic regulations Languages and certification Mobility and work placement New bachelor's degree fees More infor",
-          "More information MASTER'S Master's degrees 2026-2027 Why take a master's degree at the UPC? Access, admission and enrolment Fees, grants and payment options Academic calendar and academic regulations Languages and certification Mobility and work placement Lifelong learning master's and po",
-          "UPC Schools Schools in the service of learning and research MASTER'S You are here: MASTER'S Access, admission and enrolment Pre-enrolment https://www.upc.edu/en/masters/access-admission-enrolment/pre-enrolment /++theme++homeupc/assets/images/logomark.png Pre-enrolment UPC master's degree"
-        ],
-        "fees_funding": [
-          "CHELOR'S Bachelor's degrees 2026-2027 Sequential academic programmes Access and admission Enrolment Fees, grants and payment options Academic calendar and academic regulations Languages and certification Mobility and work placement New bachelor's degree fees More information MASTER'",
-          "academic regulations Languages and certification Mobility and work placement New bachelor's degree fees More information MASTER'S Master's degrees 2026-2027 Why take a master's degree at the UPC? Access, admission and enrolment Fees, grants and payment options Academic calendar and",
-          "S Master's degrees 2026-2027 Why take a master's degree at the UPC? Access, admission and enrolment Fees, grants and payment options Academic calendar and academic regulations Languages and certification Mobility and work placement Lifelong learning master's and postgraduate studies"
-        ],
-        "research": [
-          "enu Tools Skip to content Skip to menu Information for... International students and academic staff Research career (Talent Hub) Companies Media - Press Room UPC students UPC staff Electronic Headquarters Contact Language: English Català Español English Search... Search in UPC Main navig",
-          "ter's degree and postgraduate University microcedentials Short and specialised courses RDI RDI news Research at the UPC Research support and promotion Transfer, entrepreneurship and innovation at the UPC Transfer, entrepreneurship and innovation support and promotion Services for compani",
-          "tgraduate University microcedentials Short and specialised courses RDI RDI news Research at the UPC Research support and promotion Transfer, entrepreneurship and innovation at the UPC Transfer, entrepreneurship and innovation support and promotion Services for companies Scientific and Te"
-        ],
-        "people_contact": [
-          "rch career (Talent Hub) Companies Media - Press Room UPC students UPC staff Electronic Headquarters Contact Language: English Català Español English Search... Search in UPC Main navigation BACHELOR'S Bachelor's degrees 2026-2027 Sequential academic programmes Access and admission Enrolm",
-          "anding UPCshop, merchandising Press room © UPC Universitat Politècnica de Catalunya - BarcelonaTech Contact Site map Accessibility Disclaimer Privacy settings"
-        ]
-      },
-      "content_hash": "48c49e579397e585b156b1a2d0e748673ca13c9b4d9ebe76d3dd0cc662925679"
-    },
-    {
-      "agent": "atlas",
-      "kind": "master",
-      "entity": "UPC Semiconductor Engineering",
-      "url": "https://www.upc.edu/en/bachelors/access-and-admission",
-      "title": "Access and admission - UPC Universitat Politècnica de Catalunya",
-      "signals": {
-        "admission": [
-          "Access and admission - UPC Universitat Politècnica de Catalunya UPC. Universitat Politècnica de Catalunya Menu Menu Tools Skip to content Skip to menu Information for... International students and aca",
-          "C Main navigation BACHELOR'S Bachelor's degrees 2026-2027 Sequential academic programmes Access and admission Enrolment Fees, grants and payment options Academic calendar and academic regulations Languages and certification Mobility and work placement New bachelor's degree fees More infor",
-          "More information MASTER'S Master's degrees 2026-2027 Why take a master's degree at the UPC? Access, admission and enrolment Fees, grants and payment options Academic calendar and academic regulations Languages and certification Mobility and work placement Lifelong learning master's and po"
-        ],
-        "fees_funding": [
-          "CHELOR'S Bachelor's degrees 2026-2027 Sequential academic programmes Access and admission Enrolment Fees, grants and payment options Academic calendar and academic regulations Languages and certification Mobility and work placement New bachelor's degree fees More information MASTER'",
-          "academic regulations Languages and certification Mobility and work placement New bachelor's degree fees More information MASTER'S Master's degrees 2026-2027 Why take a master's degree at the UPC? Access, admission and enrolment Fees, grants and payment options Academic calendar and",
-          "S Master's degrees 2026-2027 Why take a master's degree at the UPC? Access, admission and enrolment Fees, grants and payment options Academic calendar and academic regulations Languages and certification Mobility and work placement Lifelong learning master's and postgraduate studies"
-        ],
-        "research": [
-          "enu Tools Skip to content Skip to menu Information for... International students and academic staff Research career (Talent Hub) Companies Media - Press Room UPC students UPC staff Electronic Headquarters Contact Language: English Català Español English Search... Search in UPC Main navig",
-          "ter's degree and postgraduate University microcedentials Short and specialised courses RDI RDI news Research at the UPC Research support and promotion Transfer, entrepreneurship and innovation at the UPC Transfer, entrepreneurship and innovation support and promotion Services for compani",
-          "tgraduate University microcedentials Short and specialised courses RDI RDI news Research at the UPC Research support and promotion Transfer, entrepreneurship and innovation at the UPC Transfer, entrepreneurship and innovation support and promotion Services for companies Scientific and Te"
-        ],
-        "people_contact": [
-          "rch career (Talent Hub) Companies Media - Press Room UPC students UPC staff Electronic Headquarters Contact Language: English Català Español English Search... Search in UPC Main navigation BACHELOR'S Bachelor's degrees 2026-2027 Sequential academic programmes Access and admission Enrolm",
-          "anding UPCshop, merchandising Press room © UPC Universitat Politècnica de Catalunya - BarcelonaTech Contact Site map Accessibility Disclaimer Privacy settings"
-        ]
-      },
-      "content_hash": "88c232a4282f24262de5f3be8d82ac59988fb4d0578cb3f8a2fb292f994a2e49"
-    },
-    {
-      "agent": "atlas",
-      "kind": "master",
-      "entity": "UPC Semiconductor Engineering",
-      "url": "https://www.upc.edu/en/bachelors/access-and-admission/access-and-admission",
-      "title": "Access and admission - UPC Universitat Politècnica de Catalunya",
-      "signals": {
-        "admission": [
-          "Access and admission - UPC Universitat Politècnica de Catalunya UPC. Universitat Politècnica de Catalunya Menu Menu Tools Skip to content Skip to menu Information for... International students and aca",
-          "C Main navigation BACHELOR'S Bachelor's degrees 2026-2027 Sequential academic programmes Access and admission Enrolment Fees, grants and payment options Academic calendar and academic regulations Languages and certification Mobility and work placement New bachelor's degree fees More infor",
-          "More information MASTER'S Master's degrees 2026-2027 Why take a master's degree at the UPC? Access, admission and enrolment Fees, grants and payment options Academic calendar and academic regulations Languages and certification Mobility and work placement Lifelong learning master's and po"
-        ],
-        "fees_funding": [
-          "CHELOR'S Bachelor's degrees 2026-2027 Sequential academic programmes Access and admission Enrolment Fees, grants and payment options Academic calendar and academic regulations Languages and certification Mobility and work placement New bachelor's degree fees More information MASTER'",
-          "academic regulations Languages and certification Mobility and work placement New bachelor's degree fees More information MASTER'S Master's degrees 2026-2027 Why take a master's degree at the UPC? Access, admission and enrolment Fees, grants and payment options Academic calendar and",
-          "S Master's degrees 2026-2027 Why take a master's degree at the UPC? Access, admission and enrolment Fees, grants and payment options Academic calendar and academic regulations Languages and certification Mobility and work placement Lifelong learning master's and postgraduate studies"
-        ],
-        "research": [
-          "enu Tools Skip to content Skip to menu Information for... International students and academic staff Research career (Talent Hub) Companies Media - Press Room UPC students UPC staff Electronic Headquarters Contact Language: English Català Español English Search... Search in UPC Main navig",
-          "ter's degree and postgraduate University microcedentials Short and specialised courses RDI RDI news Research at the UPC Research support and promotion Transfer, entrepreneurship and innovation at the UPC Transfer, entrepreneurship and innovation support and promotion Services for compani",
-          "tgraduate University microcedentials Short and specialised courses RDI RDI news Research at the UPC Research support and promotion Transfer, entrepreneurship and innovation at the UPC Transfer, entrepreneurship and innovation support and promotion Services for companies Scientific and Te"
-        ],
-        "people_contact": [
-          "rch career (Talent Hub) Companies Media - Press Room UPC students UPC staff Electronic Headquarters Contact Language: English Català Español English Search... Search in UPC Main navigation BACHELOR'S Bachelor's degrees 2026-2027 Sequential academic programmes Access and admission Enrolm",
-          "anding UPCshop, merchandising Press room © UPC Universitat Politècnica de Catalunya - BarcelonaTech Contact Site map Accessibility Disclaimer Privacy settings"
-        ]
-      },
-      "content_hash": "88c232a4282f24262de5f3be8d82ac59988fb4d0578cb3f8a2fb292f994a2e49"
-    },
-    {
-      "agent": "atlas",
-      "kind": "master",
-      "entity": "UPC Semiconductor Engineering",
-      "url": "https://www.upc.edu/en/masters/access-admission-enrolment",
-      "title": "Access, admission and enrolment - UPC Universitat Politècnica de Catalunya",
-      "signals": {
-        "admission": [
-          "Access, admission and enrolment - UPC Universitat Politècnica de Catalunya UPC. Universitat Politècnica de Catalunya Menu Menu Tools Skip to content Skip to menu Information for... International st",
-          "C Main navigation BACHELOR'S Bachelor's degrees 2026-2027 Sequential academic programmes Access and admission Enrolment Fees, grants and payment options Academic calendar and academic regulations Languages and certification Mobility and work placement New bachelor's degree fees More infor",
-          "More information MASTER'S Master's degrees 2026-2027 Why take a master's degree at the UPC? Access, admission and enrolment Fees, grants and payment options Academic calendar and academic regulations Languages and certification Mobility and work placement Lifelong learning master's and po"
-        ],
-        "fees_funding": [
-          "CHELOR'S Bachelor's degrees 2026-2027 Sequential academic programmes Access and admission Enrolment Fees, grants and payment options Academic calendar and academic regulations Languages and certification Mobility and work placement New bachelor's degree fees More information MASTER'",
-          "academic regulations Languages and certification Mobility and work placement New bachelor's degree fees More information MASTER'S Master's degrees 2026-2027 Why take a master's degree at the UPC? Access, admission and enrolment Fees, grants and payment options Academic calendar and",
-          "S Master's degrees 2026-2027 Why take a master's degree at the UPC? Access, admission and enrolment Fees, grants and payment options Academic calendar and academic regulations Languages and certification Mobility and work placement Lifelong learning master's and postgraduate studies"
-        ],
-        "research": [
-          "enu Tools Skip to content Skip to menu Information for... International students and academic staff Research career (Talent Hub) Companies Media - Press Room UPC students UPC staff Electronic Headquarters Contact Language: English Català Español English Search... Search in UPC Main navig",
-          "ter's degree and postgraduate University microcedentials Short and specialised courses RDI RDI news Research at the UPC Research support and promotion Transfer, entrepreneurship and innovation at the UPC Transfer, entrepreneurship and innovation support and promotion Services for compani",
-          "tgraduate University microcedentials Short and specialised courses RDI RDI news Research at the UPC Research support and promotion Transfer, entrepreneurship and innovation at the UPC Transfer, entrepreneurship and innovation support and promotion Services for companies Scientific and Te"
-        ],
-        "people_contact": [
-          "rch career (Talent Hub) Companies Media - Press Room UPC students UPC staff Electronic Headquarters Contact Language: English Català Español English Search... Search in UPC Main navigation BACHELOR'S Bachelor's degrees 2026-2027 Sequential academic programmes Access and admission Enrolm",
-          "anding UPCshop, merchandising Press room © UPC Universitat Politècnica de Catalunya - BarcelonaTech Contact Site map Accessibility Disclaimer Privacy settings"
-        ]
-      },
-      "content_hash": "53890611c58159f4c8819fc5d8c0174ca15b81e432c8e9e929e5138be04f6ed7"
-    },
-    {
       "agent": "nova",
       "kind": "tfg",
       "entity": "IREC Solar Energy Materials",
@@ -462,7 +336,7 @@
           "ndates and supporting data management plans across all departments. sgilabert@irec.cat See all IREC people Trustees Supported by Member of Center Awarded by Contact us Barcelona Sant Adrià +34 933 562 615 Carrer Jardins de les Dones de Negre, 1, 2a planta | 08930 Sant Adrià de Besòs (B"
         ]
       },
-      "content_hash": "cb54b0c83cbc4fbd0b3570b952d81c43d108c112d3171b30b4a736c017a5cc3e"
+      "content_hash": "18b87a2343b0a127a0efd655d1635f359d2930d76b5de4b7abafa4b2e9d716ac"
     },
     {
       "agent": "nova",
@@ -482,7 +356,7 @@
           "silient buildings & communities Corporate development & technology transfer Knowledge tech transfer team Portfolio Lab to market Strategic actions Platforms & associations Projects Publications Facilities People News & outreach News Events Outreach Mad for science Gara-Fecyt Search f"
         ]
       },
-      "content_hash": "0cd6ce300a8eecb15404e0ff53cc3eb7b0dfe8ed3fd42636096bc1dda5562adc"
+      "content_hash": "5877155026eb48658e5b22129b937b0dd49c280ee26b4a3396248f533a073c1b"
     },
     {
       "agent": "nova",
@@ -530,7 +404,7 @@
           "silient buildings & communities Corporate development & technology transfer Knowledge tech transfer team Portfolio Lab to market Strategic actions Platforms & associations Projects Publications Facilities People News & outreach News Events Outreach Mad for science Gara-Fecyt Search f"
         ]
       },
-      "content_hash": "06d8af90fa812890f467eabf78fb862cd4e5afdf173c704d9f2099e128ff38f5"
+      "content_hash": "848add71d87241dc39d124dbb82dfbec2ca3f68d9b80c7f21badbf4fda2472a3"
     },
     {
       "agent": "nova",
@@ -643,7 +517,7 @@
           "anagement Organic Solar Cells Optoelectronics of group-IV semiconductor nanostructures Publications People Equipment Projects News In the Press People All Researchers Post-Docs PhD Students Technicians and project managers Afroditi Koutsogianni PhD Students Agustín Mihi Researchers Ale"
         ]
       },
-      "content_hash": "92e572977284aab3b551453d399d9ec64319948f502c80f19dcece7d87d97ad4"
+      "content_hash": "76a79252405c6486d1cb8d12c42098ee3360a35cef29f0e3c50a004846c303d2"
     },
     {
       "agent": "nova",
@@ -666,7 +540,7 @@
           "ncluding thermal, mechanical and biological aspects. Not only allows this to solve urgent problems (contact resistance), it also enables completely new (switchable, reconfigurable) devices. The topic is inspired by a combination of scientific curiosity and a strong feeling of practical"
         ]
       },
-      "content_hash": "add253b7f6567234fa4ad2db87bfb72336bf2630f96354a481409dadce3f4c7b"
+      "content_hash": "71bda0e1f820c0301b89a793a3d67783a613d7a5511607dff5b0479859a60f6a"
     },
     {
       "agent": "nova",
@@ -685,7 +559,7 @@
           "anagement Organic Solar Cells Optoelectronics of group-IV semiconductor nanostructures Publications People Equipment Projects News In the Press Publications Cargando publicaciones Nanopto..."
         ]
       },
-      "content_hash": "3ebc0b85d37b0b94099fd99c16ad9059af3e3648778851af9109673796c346d3"
+      "content_hash": "064efbf507400bdb6ba19e468bbca8c311c3cb33aa3d8a4c52b419cf91908c48"
     },
     {
       "agent": "nova",
@@ -709,7 +583,7 @@
           "» About the center Research Clean Room Laboratories Technology Transfer News & Outreach Highlights Contact Talent Search Contracting profile Legal Advice © Copyright 2026. IMB-CNM"
         ]
       },
-      "content_hash": "0d2ad0244c0104149d657e732b3d1822a573ca3cfac2ba15cb5ee2807dcee3f1"
+      "content_hash": "e49f16cb66dd977218cecb1ed972c1913d2286d3b2415cdea2e16dcc856ff720"
     }
   ],
   "sources": [
@@ -722,14 +596,14 @@
       "status": "verified",
       "signals": {
         "deadlines": [
-          "(31 students) Class #19 2023-2025 (17 students) Class #18 2022-2024 (34 students) Resources Alumni Apply Admission criteria Apply as a student As a scholar Scholarships For students For scholars Gallery G i v e E n e r g y t o y o u r s t u d i e s MESC20 Graduation A big milestone f",
-          "2023-2025 (17 students) Class #18 2022-2024 (34 students) Resources Alumni Apply Admission criteria Apply as a student As a scholar Scholarships For students For scholars Gallery G i v e E n e r g y t o y o u r s t u d i e s MESC20 Graduation A big milestone for the programme: the fir",
+          "(31 students) Class #19 2023-2025 (17 students) Class #18 2022-2024 (34 students) Resources Alumni Apply Admission criteria Apply as a student As a scholar Scholarships For students For scholars Gallery Login G i v e E n e r g y t o y o u r s t u d i e s MESC20 Graduation A big miles",
+          "2023-2025 (17 students) Class #18 2022-2024 (34 students) Resources Alumni Apply Admission criteria Apply as a student As a scholar Scholarships For students For scholars Gallery Login G i v e E n e r g y t o y o u r s t u d i e s MESC20 Graduation A big milestone for the programme: t",
           "(31 students) Class #19 2023-2025 (17 students) Class #18 2022-2024 (34 students) Resources Alumni Apply Admission criteria Apply as a student As a scholar Scholarships For students For scholars FAQ Contact Us LinkedIn i-MESC Privacy policy I would like to apply to i-MESC Class#23 (2"
         ],
         "admission": [
-          "tudents) Class #19 2023-2025 (17 students) Class #18 2022-2024 (34 students) Resources Alumni Apply Admission criteria Apply as a student As a scholar Scholarships For students For scholars Gallery G i v e E n e r g y t o y o u r s t u d i e s MESC20 Graduation A big milestone for the pro",
+          "tudents) Class #19 2023-2025 (17 students) Class #18 2022-2024 (34 students) Resources Alumni Apply Admission criteria Apply as a student As a scholar Scholarships For students For scholars Gallery Login G i v e E n e r g y t o y o u r s t u d i e s MESC20 Graduation A big milestone for t",
           "tudents) Class #19 2023-2025 (17 students) Class #18 2022-2024 (34 students) Resources Alumni Apply Admission criteria Apply as a student As a scholar Scholarships For students For scholars FAQ Contact Us LinkedIn i-MESC Privacy policy I would like to apply to i-MESC Class#23 (2027-2029)",
-          "tudents) Class #19 2023-2025 (17 students) Class #18 2022-2024 (34 students) Resources Alumni Apply Admission criteria Apply as a student As a scholar Scholarships For students For scholars Gallery fermer"
+          "tudents) Class #19 2023-2025 (17 students) Class #18 2022-2024 (34 students) Resources Alumni Apply Admission criteria Apply as a student As a scholar Scholarships For students For scholars Gallery Login fermer"
         ],
         "fees_funding": [
           "der au contenu menu mobile The course Overview Consortium & Universities Curriculum Mobility scheme Fees The Team Professors Administrative Associated partners (research centers and industry) Students Class #21 2025-2027 (32 students) Class #20 2024-2026 (31 students) Class #19 2023",
@@ -747,7 +621,7 @@
           "Our Partners The course Overview Consortium & Universities Curriculum Mobility scheme Fees The Team Professors Administrative Associated partners (research centers and industry) Students Class #21 2025-2027 (32 students) Class #20 2024-2026 (31 students) Class #19 2023-2025 (17 students)"
         ]
       },
-      "content_hash": "437d4548cd687b02fa5add7b3cd7500046acf75e52ff8876defefcd51b6d2bca"
+      "content_hash": "3028d1453d0acf7f26f9851a6f08e8a99c3409aa72627b868007c5f6eb2a1ea6"
     },
     {
       "agent": "atlas",
@@ -825,34 +699,8 @@
       "kind": "master",
       "entity": "UPC Semiconductor Engineering",
       "url": "https://www.upc.edu/en/masters/semiconductor-engineering-and-microelectronic-design",
-      "title": "Master's degree in Semiconductor Engineering and Microelectronic Design - UPC Universitat Politècnica de Catalunya",
-      "status": "verified",
-      "signals": {
-        "deadlines": [
-          "ing in the design and manufacture of integrated, digital and analogue circuits, with an emphasis on applying them in memory systems, communication systems, control systems, computing systems, sensors and emerging devices, such as 2D and quantum devices. The aim is thus to cover the cu"
-        ],
-        "admission": [
-          "C Main navigation BACHELOR'S Bachelor's degrees 2026-2027 Sequential academic programmes Access and admission Enrolment Fees, grants and payment options Academic calendar and academic regulations Languages and certification Mobility and work placement New bachelor's degree fees More infor",
-          "More information MASTER'S Master's degrees 2026-2027 Why take a master's degree at the UPC? Access, admission and enrolment Fees, grants and payment options Academic calendar and academic regulations Languages and certification Mobility and work placement Lifelong learning master's and po",
-          "assroom and students’ language rights . Location Barcelona School of Telecommunications Engineering Admission General requirements Academic requirements for admission to master's degrees New intake places 30 Pre-enrolment Pre-enrolment for this master’s degree is currently closed . Use th"
-        ],
-        "fees_funding": [
-          "CHELOR'S Bachelor's degrees 2026-2027 Sequential academic programmes Access and admission Enrolment Fees, grants and payment options Academic calendar and academic regulations Languages and certification Mobility and work placement New bachelor's degree fees More information MASTER'",
-          "academic regulations Languages and certification Mobility and work placement New bachelor's degree fees More information MASTER'S Master's degrees 2026-2027 Why take a master's degree at the UPC? Access, admission and enrolment Fees, grants and payment options Academic calendar and",
-          "S Master's degrees 2026-2027 Why take a master's degree at the UPC? Access, admission and enrolment Fees, grants and payment options Academic calendar and academic regulations Languages and certification Mobility and work placement Lifelong learning master's and postgraduate studies"
-        ],
-        "research": [
-          "enu Tools Skip to content Skip to menu Information for... International students and academic staff Research career (Talent Hub) Companies Media - Press Room UPC students UPC staff Electronic Headquarters Contact Language: English Català Español English Search... Search in UPC Main navig",
-          "ter's degree and postgraduate University microcedentials Short and specialised courses RDI RDI news Research at the UPC Research support and promotion Transfer, entrepreneurship and innovation at the UPC Transfer, entrepreneurship and innovation support and promotion Services for compani",
-          "tgraduate University microcedentials Short and specialised courses RDI RDI news Research at the UPC Research support and promotion Transfer, entrepreneurship and innovation at the UPC Transfer, entrepreneurship and innovation support and promotion Services for companies Scientific and Te"
-        ],
-        "people_contact": [
-          "by the UPC are capacity for innovation and entrepreneurship, sustainability and social commitment, teamwork, proper use of information resources, knowledge of a foreign language (preferably English) and gender perspective. Quality accreditation Check the degree’s main quality indica",
-          "rch career (Talent Hub) Companies Media - Press Room UPC students UPC staff Electronic Headquarters Contact Language: English Català Español English Search... Search in UPC Main navigation BACHELOR'S Bachelor's degrees 2026-2027 Sequential academic programmes Access and admission Enrolm",
-          "anding UPCshop, merchandising Press room © UPC Universitat Politècnica de Catalunya - BarcelonaTech Contact Site map Accessibility Disclaimer Privacy settings"
-        ]
-      },
-      "content_hash": "a488fa9e9927dd51be0234959500d88c7dc458a712d7f161acbd9030a4d15018"
+      "status": "error",
+      "error": "Server error '503 Service Unavailable' for url 'https://www.upc.edu/en/masters/semiconductor-engineering-and-microelectronic-design'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/503"
     },
     {
       "agent": "nova",
@@ -873,7 +721,7 @@
           "rch contexts (including self-driving laboratory concepts) and industrial and societal applications. People A skilled team dedicated to advancing the energy transition. More info Projects Competitive and industrial projects from lab to real-world scale. More info Publications Peer-revie"
         ]
       },
-      "content_hash": "68cd2bc68d823c074872793cbaa8f24adc8baaf87e2f3c2bcea3872410414a1c"
+      "content_hash": "4c550bd95b1ec182f863c3dd3fe44999a823bce6d942975c6212b12b14ca9db4"
     },
     {
       "agent": "nova",
@@ -894,7 +742,7 @@
           "laboratory advances into viable production processes for renewable and synthetic fuel applications. People A skilled team dedicated to advancing the energy transition. More info Projects Competitive and industrial projects from lab to real-world scale. More info Publications Peer-revie"
         ]
       },
-      "content_hash": "c7a0f9de3e169f6649f60e97fb6447da25ea0b90da01cb47c90ff191a648700c"
+      "content_hash": "214bceb1dd532f133eb2bde7d2626510a2519645557c76dd11b12591a9bbd189"
     },
     {
       "agent": "nova",
@@ -914,7 +762,7 @@
           "anagement Organic Solar Cells Optoelectronics of group-IV semiconductor nanostructures Publications People Equipment Projects News In the Press Organic Solar Cells We aim at producing strong contributions towards the development of cost-efective, low energy pay back time photovoltaics"
         ]
       },
-      "content_hash": "f970d25957b89a8169556e428006c987be629b295b11d403ecf09d3123940419"
+      "content_hash": "a757bc6b7cb0b7edc6463f02a48f97d5db1f7bbd8cc4852bed78a5043be29108"
     },
     {
       "agent": "nova",
@@ -934,7 +782,7 @@
           "B. About the center Research Clean Room Laboratories Technology Transfer News & Outreach Highlights Contact Talent Search Contracting profile Legal Advice © Copyright 2026. IMB-CNM"
         ]
       },
-      "content_hash": "51fb2b899171cc4e2c7ccb954dcdef2f3330226994e852618343ff2f815bc141"
+      "content_hash": "8ba218042f246d9e589847a4fc8af1e5f34bc08d05d994a4ec400c8bdcd116c0"
     }
   ]
 }
