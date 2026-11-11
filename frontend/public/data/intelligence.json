@@ -1,10 +1,10 @@
 {
-  "generated_at": "2026-11-10T13:32:01.564947+00:00",
+  "generated_at": "2026-11-11T12:46:33.111463+00:00",
   "summary": {
     "targets": 8,
     "verified": 8,
     "discoveries": 24,
-    "changes": 4
+    "changes": 3
   },
   "changes": [
     {
@@ -23,12 +23,6 @@
       "agent": "nova",
       "entity": "ICMAB Nanopto",
       "url": "https://nanopto.icmab.es/index.php/research/organic-solar-cells",
-      "message": "La página oficial cambió desde la última revisión."
-    },
-    {
-      "agent": "nova",
-      "entity": "IMB-CNM Research Groups",
-      "url": "https://www.imb-cnm.csic.es/en/research/research-groups",
       "message": "La página oficial cambió desde la última revisión."
     }
   ],
@@ -200,7 +194,7 @@
           "national dimension Learning development Welfare Sustainability and inclusion Hospitality and living Professors Tenure-track researchers Visiting professors Call for expression of interest Other resources Integrity and beyond Intranet di Ateneo Normativa di Ateneo Staff Sustainability and"
         ]
       },
-      "content_hash": "3347a7c9cc4636fa14f77e2426b1374decb571d01c972cadc2ef815323ad9915"
+      "content_hash": "92469865a89122a30b0138cf17fb02a99ca49a93d0a6319df923bbe11ad0bfd5"
     },
     {
       "agent": "atlas",
@@ -235,7 +229,7 @@
           "national dimension Learning development Welfare Sustainability and inclusion Hospitality and living Professors Tenure-track researchers Visiting professors Call for expression of interest Other resources Integrity and beyond Intranet di Ateneo Normativa di Ateneo Staff Sustainability and"
         ]
       },
-      "content_hash": "02c1b39a72e1d781cb2c1c27ec13780c33b8effdf190d4227b17a68d97e2fce0"
+      "content_hash": "5f999356ebd84d93455408f1460277ce595e0408262314b472b787485130edbd"
     },
     {
       "agent": "atlas",
@@ -270,7 +264,7 @@
           "national dimension Learning development Welfare Sustainability and inclusion Hospitality and living Professors Tenure-track researchers Visiting professors Call for expression of interest Other resources Integrity and beyond Intranet di Ateneo Normativa di Ateneo Staff Sustainability and"
         ]
       },
-      "content_hash": "54da416f25918de71ff1108c5a22f853355122caad2995a50416593a2060fdf7"
+      "content_hash": "5f31ef7ed4a8e43652756a319a6738586fa642db75e9e1bd4169b25ecfc1905b"
     },
     {
       "agent": "atlas",
@@ -305,7 +299,7 @@
           "national dimension Learning development Welfare Sustainability and inclusion Hospitality and living Professors Tenure-track researchers Visiting professors Call for expression of interest Other resources Integrity and beyond Intranet di Ateneo Normativa di Ateneo Staff Sustainability and"
         ]
       },
-      "content_hash": "d3111a6e66b57a0ece500a562acebb5c7bc872d4cbfd52e69e9c2545ac3af25b"
+      "content_hash": "86520765ff9a90c40cc95a67390d69c3a8c7a6bcca3920fe36fcea18df2bd5b2"
     },
     {
       "agent": "atlas",
@@ -631,7 +625,7 @@
           "anagement Organic Solar Cells Optoelectronics of group-IV semiconductor nanostructures Publications People Equipment Projects News In the Press People All Researchers Post-Docs PhD Students Technicians and project managers Afroditi Koutsogianni PhD Students Agustín Mihi Researchers Ale"
         ]
       },
-      "content_hash": "66768bc6f7324d324a9653a45de69d5c3b74627ee76dcebb5d3796947f85081d"
+      "content_hash": "5f22e8914a50bb9c4460707963d5b1abb943c61b9522e7fa3409fec963cb13eb"
     },
     {
       "agent": "nova",
@@ -654,7 +648,7 @@
           "ncluding thermal, mechanical and biological aspects. Not only allows this to solve urgent problems (contact resistance), it also enables completely new (switchable, reconfigurable) devices. The topic is inspired by a combination of scientific curiosity and a strong feeling of practical"
         ]
       },
-      "content_hash": "c74ead61e3c2032b9da74c4ca48679355095ed6618dbb414e705270c68025621"
+      "content_hash": "4456557c7f6551fe4f92ea2cce719bf3a16b04cc519914556d35be3e0c2f4ca7"
     },
     {
       "agent": "nova",
@@ -673,7 +667,7 @@
           "anagement Organic Solar Cells Optoelectronics of group-IV semiconductor nanostructures Publications People Equipment Projects News In the Press Publications Cargando publicaciones Nanopto..."
         ]
       },
-      "content_hash": "67e97107eae76a2389c5df3c53c4f4da96659b2d6030f6f21fa8424c9485eff4"
+      "content_hash": "9e5972a2becf63d43b38300d89996254c53ffd0518efd6b1ef880d8ca4ce231f"
     },
     {
       "agent": "nova",
@@ -735,7 +729,7 @@
           "Our Partners The course Overview Consortium & Universities Curriculum Mobility scheme Fees The Team Professors Administrative Associated partners (research centers and industry) Students Class #21 2025-2027 (32 students) Class #20 2024-2026 (31 students) Class #19 2023-2025 (17 students)"
         ]
       },
-      "content_hash": "e569ec45d9f31aeda367cab6fe91ced2a3f07e7f2495b612c1b44419d56a8472"
+      "content_hash": "86680d5ab60097849504787ff8011d3cf850f112817f127e19c0930e8e63ce4c"
     },
     {
       "agent": "atlas",
@@ -806,7 +800,7 @@
           "national dimension Learning development Welfare Sustainability and inclusion Hospitality and living Professors Tenure-track researchers Visiting professors Call for expression of interest Other resources Integrity and beyond Intranet di Ateneo Normativa di Ateneo Staff Sustainability and"
         ]
       },
-      "content_hash": "3edc3b45c38b9509f884e86c2916d8c89c9faa2a45de70ec6236ca441ef4f89b"
+      "content_hash": "8d74a4b6b772f0c118131180998f30151a79abf153755e9445dcccaa605a15f3"
     },
     {
       "agent": "atlas",
@@ -902,7 +896,7 @@
           "anagement Organic Solar Cells Optoelectronics of group-IV semiconductor nanostructures Publications People Equipment Projects News In the Press Organic Solar Cells We aim at producing strong contributions towards the development of cost-efective, low energy pay back time photovoltaics"
         ]
       },
-      "content_hash": "26df9402354d92ba5d271215e8dc9379278cd8f444344ad366f5d90e2435195b"
+      "content_hash": "5fc1e7cc460358fd19cb31f94150ba04c638e4d837d66dbc506d0c16cd2ec42d"
     },
     {
       "agent": "nova",
