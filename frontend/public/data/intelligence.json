@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-11T12:46:33.111463+00:00",
+  "generated_at": "2026-11-12T13:49:11.102829+00:00",
   "summary": {
     "targets": 8,
     "verified": 8,
@@ -14,15 +14,15 @@
       "message": "La página oficial cambió desde la última revisión."
     },
     {
-      "agent": "atlas",
-      "entity": "Politecnico di Milano Materials",
-      "url": "https://www.polimi.it/en/education/laurea-magistrale-programmes/programme-detail/materials-engineering-and-nanotechnology",
+      "agent": "nova",
+      "entity": "ICMAB Nanopto",
+      "url": "https://nanopto.icmab.es/index.php/research/organic-solar-cells",
       "message": "La página oficial cambió desde la última revisión."
     },
     {
       "agent": "nova",
-      "entity": "ICMAB Nanopto",
-      "url": "https://nanopto.icmab.es/index.php/research/organic-solar-cells",
+      "entity": "IMB-CNM Research Groups",
+      "url": "https://www.imb-cnm.csic.es/en/research/research-groups",
       "message": "La página oficial cambió desde la última revisión."
     }
   ],
@@ -625,7 +625,7 @@
           "anagement Organic Solar Cells Optoelectronics of group-IV semiconductor nanostructures Publications People Equipment Projects News In the Press People All Researchers Post-Docs PhD Students Technicians and project managers Afroditi Koutsogianni PhD Students Agustín Mihi Researchers Ale"
         ]
       },
-      "content_hash": "5f22e8914a50bb9c4460707963d5b1abb943c61b9522e7fa3409fec963cb13eb"
+      "content_hash": "704d6d1aa40ec3dcdaac935b10be0b50ab32629b2c1dc12a995c216d76a1e680"
     },
     {
       "agent": "nova",
@@ -648,7 +648,7 @@
           "ncluding thermal, mechanical and biological aspects. Not only allows this to solve urgent problems (contact resistance), it also enables completely new (switchable, reconfigurable) devices. The topic is inspired by a combination of scientific curiosity and a strong feeling of practical"
         ]
       },
-      "content_hash": "4456557c7f6551fe4f92ea2cce719bf3a16b04cc519914556d35be3e0c2f4ca7"
+      "content_hash": "d2b9079e0949d1851d3e121a29e640c66aae2e065ef0fa02a6ba307e81ea5c4d"
     },
     {
       "agent": "nova",
@@ -667,7 +667,7 @@
           "anagement Organic Solar Cells Optoelectronics of group-IV semiconductor nanostructures Publications People Equipment Projects News In the Press Publications Cargando publicaciones Nanopto..."
         ]
       },
-      "content_hash": "9e5972a2becf63d43b38300d89996254c53ffd0518efd6b1ef880d8ca4ce231f"
+      "content_hash": "53f8d893a349285f691a9dd2590ebd04eafd58bd4c447d407b870c61c0fba68c"
     },
     {
       "agent": "nova",
@@ -691,7 +691,7 @@
           "» About the center Research Clean Room Laboratories Technology Transfer News & Outreach Highlights Contact Talent Search Contracting profile Legal Advice © Copyright 2026. IMB-CNM"
         ]
       },
-      "content_hash": "ec5bff1b3b43efd5981f240ff8bf0914cbfde0aa9d762c8ae20c08bb206b060e"
+      "content_hash": "57316e9b89ce7b390888b4b5c70404cb622e28349ed94c91cb8096158ebb8d33"
     }
   ],
   "sources": [
@@ -715,7 +715,7 @@
         ],
         "fees_funding": [
           "der au contenu menu mobile The course Overview Consortium & Universities Curriculum Mobility scheme Fees The Team Professors Administrative Associated partners (research centers and industry) Students Class #21 2025-2027 (32 students) Class #20 2024-2026 (31 students) Class #19 2023",
-          "national More Our Partners The course Overview Consortium & Universities Curriculum Mobility scheme Fees The Team Professors Administrative Associated partners (research centers and industry) Students Class #21 2025-2027 (32 students) Class #20 2024-2026 (31 students) Class #19 2023",
+          "Slovenia More Our Partners The course Overview Consortium & Universities Curriculum Mobility scheme Fees The Team Professors Administrative Associated partners (research centers and industry) Students Class #21 2025-2027 (32 students) Class #20 2024-2026 (31 students) Class #19 2023",
           "me) indicative dates Apply The course Overview Consortium & Universities Curriculum Mobility scheme Fees The Team Professors Administrative Associated partners (research centers and industry) Students Class #21 2025-2027 (32 students) Class #20 2024-2026 (31 students) Class #19 2023"
         ],
         "research": [
@@ -729,7 +729,7 @@
           "Our Partners The course Overview Consortium & Universities Curriculum Mobility scheme Fees The Team Professors Administrative Associated partners (research centers and industry) Students Class #21 2025-2027 (32 students) Class #20 2024-2026 (31 students) Class #19 2023-2025 (17 students)"
         ]
       },
-      "content_hash": "86680d5ab60097849504787ff8011d3cf850f112817f127e19c0930e8e63ce4c"
+      "content_hash": "7a4c77b4bb1f6883c572992855ba2c2ac9cafe0689263ba915cb264af1f94b1a"
     },
     {
       "agent": "atlas",
@@ -896,7 +896,7 @@
           "anagement Organic Solar Cells Optoelectronics of group-IV semiconductor nanostructures Publications People Equipment Projects News In the Press Organic Solar Cells We aim at producing strong contributions towards the development of cost-efective, low energy pay back time photovoltaics"
         ]
       },
-      "content_hash": "5fc1e7cc460358fd19cb31f94150ba04c638e4d837d66dbc506d0c16cd2ec42d"
+      "content_hash": "94149e79db0bbf34a2563444596d15b1b59926aa32ca7fc6eeeb5fa39290936d"
     },
     {
       "agent": "nova",
@@ -916,7 +916,7 @@
           "B. About the center Research Clean Room Laboratories Technology Transfer News & Outreach Highlights Contact Talent Search Contracting profile Legal Advice © Copyright 2026. IMB-CNM"
         ]
       },
-      "content_hash": "79593cfc3c8737396d0a100d10768b9e3baffc940eb1d88ba76dbafd6e489c70"
+      "content_hash": "eeffe61e5cd0bbf0c1d55377d2ffa8995f8a51cefb72da0ddf7ad59551aa628e"
     }
   ]
 }
