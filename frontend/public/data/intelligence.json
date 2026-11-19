@@ -1,16 +1,28 @@
 {
-  "generated_at": "2026-11-18T14:07:59.730128+00:00",
+  "generated_at": "2026-11-19T14:29:08.367764+00:00",
   "summary": {
     "targets": 8,
     "verified": 8,
     "discoveries": 24,
-    "changes": 3
+    "changes": 5
   },
   "changes": [
     {
       "agent": "atlas",
       "entity": "i-MESC",
       "url": "https://i-mesc.eu/",
+      "message": "La página oficial cambió desde la última revisión."
+    },
+    {
+      "agent": "atlas",
+      "entity": "Politecnico di Milano Materials",
+      "url": "https://www.polimi.it/en/education/laurea-magistrale-programmes/programme-detail/materials-engineering-and-nanotechnology",
+      "message": "La página oficial cambió desde la última revisión."
+    },
+    {
+      "agent": "atlas",
+      "entity": "UPC Semiconductor Engineering",
+      "url": "https://www.upc.edu/en/masters/semiconductor-engineering-and-microelectronic-design",
       "message": "La página oficial cambió desde la última revisión."
     },
     {
@@ -184,9 +196,9 @@
           "d benefits Equal opportunities and inclusion Sport and leisure Students Notices After the enrolment Tuition fees, scholarships and financial aid Study Plan and OFA Didactic Activities and Degree Examination Language requirements Special cases Calendar and deadlines Certificates and form"
         ],
         "research": [
-          "Companies PhD School FAQs, contacts and PhD Handbook PhD News Visit the news PhD Programmes Explore Research Explore our Research Learn more One Health Research opportunities News How we do research at Politecnico Research projects Il PNRR e il Politecnico Partnerships with companies (JR",
-          "FAQs, contacts and PhD Handbook PhD News Visit the news PhD Programmes Explore Research Explore our Research Learn more One Health Research opportunities News How we do research at Politecnico Research projects Il PNRR e il Politecnico Partnerships with companies (JRP) Technology Transfe",
-          "PhD News Visit the news PhD Programmes Explore Research Explore our Research Learn more One Health Research opportunities News How we do research at Politecnico Research projects Il PNRR e il Politecnico Partnerships with companies (JRP) Technology Transfer Polimi Innovators Departments"
+          "Companies PhD School FAQs, contacts and PhD Handbook PhD News Visit the news PhD Programmes Explore Research Explore our Research Learn more Research opportunities News How we do research at Politecnico Research projects Il PNRR e il Politecnico Partnerships with companies (JRP) Technolo",
+          "FAQs, contacts and PhD Handbook PhD News Visit the news PhD Programmes Explore Research Explore our Research Learn more Research opportunities News How we do research at Politecnico Research projects Il PNRR e il Politecnico Partnerships with companies (JRP) Technology Transfer Polimi In",
+          "hD Handbook PhD News Visit the news PhD Programmes Explore Research Explore our Research Learn more Research opportunities News How we do research at Politecnico Research projects Il PNRR e il Politecnico Partnerships with companies (JRP) Technology Transfer Polimi Innovators Departments"
         ],
         "people_contact": [
           "national dimension Learning development Welfare Sustainability and inclusion Hospitality and living Professors Tenure-track researchers Visiting professors Call for expression of interest Other resources Integrity and beyond Intranet di Ateneo Normativa di Ateneo Explore information for S",
@@ -194,7 +206,7 @@
           "national dimension Learning development Welfare Sustainability and inclusion Hospitality and living Professors Tenure-track researchers Visiting professors Call for expression of interest Other resources Integrity and beyond Intranet di Ateneo Normativa di Ateneo Staff Sustainability and"
         ]
       },
-      "content_hash": "8983412fa11d02ffe3ab5333b877762793d973eea96030582d45df31f32d4a6f"
+      "content_hash": "19336684143ef680109086b12b097abeb6f157a5366a76ff5a6524546a0a3120"
     },
     {
       "agent": "atlas",
@@ -219,9 +231,9 @@
           "students Costs and scholarships The cost of studies In this section you can find all details about tuition fees for Bachelor of Science degrees, Master of Science degrees, single-cycle Master's degree and single courses. The Polytecnico provides scholarships and benefits to reduce the"
         ],
         "research": [
-          "Companies PhD School FAQs, contacts and PhD Handbook PhD News Visit the news PhD Programmes Explore Research Explore our Research Learn more One Health Research opportunities News How we do research at Politecnico Research projects Il PNRR e il Politecnico Partnerships with companies (JR",
-          "FAQs, contacts and PhD Handbook PhD News Visit the news PhD Programmes Explore Research Explore our Research Learn more One Health Research opportunities News How we do research at Politecnico Research projects Il PNRR e il Politecnico Partnerships with companies (JRP) Technology Transfe",
-          "PhD News Visit the news PhD Programmes Explore Research Explore our Research Learn more One Health Research opportunities News How we do research at Politecnico Research projects Il PNRR e il Politecnico Partnerships with companies (JRP) Technology Transfer Polimi Innovators Departments"
+          "Companies PhD School FAQs, contacts and PhD Handbook PhD News Visit the news PhD Programmes Explore Research Explore our Research Learn more Research opportunities News How we do research at Politecnico Research projects Il PNRR e il Politecnico Partnerships with companies (JRP) Technolo",
+          "FAQs, contacts and PhD Handbook PhD News Visit the news PhD Programmes Explore Research Explore our Research Learn more Research opportunities News How we do research at Politecnico Research projects Il PNRR e il Politecnico Partnerships with companies (JRP) Technology Transfer Polimi In",
+          "hD Handbook PhD News Visit the news PhD Programmes Explore Research Explore our Research Learn more Research opportunities News How we do research at Politecnico Research projects Il PNRR e il Politecnico Partnerships with companies (JRP) Technology Transfer Polimi Innovators Departments"
         ],
         "people_contact": [
           "national dimension Learning development Welfare Sustainability and inclusion Hospitality and living Professors Tenure-track researchers Visiting professors Call for expression of interest Other resources Integrity and beyond Intranet di Ateneo Normativa di Ateneo Explore information for S",
@@ -229,7 +241,7 @@
           "national dimension Learning development Welfare Sustainability and inclusion Hospitality and living Professors Tenure-track researchers Visiting professors Call for expression of interest Other resources Integrity and beyond Intranet di Ateneo Normativa di Ateneo Staff Sustainability and"
         ]
       },
-      "content_hash": "4ab01d85dcd5b34cfba8480db3770e245663a9a0e02b8c5e5a0d4ce8ee127780"
+      "content_hash": "5e154d049a9a5db1096b79ea340b6f32d734ebe60ce60b245b401297d024c7b4"
     },
     {
       "agent": "atlas",
@@ -254,9 +266,9 @@
           "programmes Costs and scholarships Degree courses, master's degrees, five-year single-cycle courses Tuition fees Fee amount for one academic year You are a future student of the 2026/2027 academic year Second instalment of the 2026/2027 academic year Financial aid for disability Deducti"
         ],
         "research": [
-          "Companies PhD School FAQs, contacts and PhD Handbook PhD News Visit the news PhD Programmes Explore Research Explore our Research Learn more One Health Research opportunities News How we do research at Politecnico Research projects Il PNRR e il Politecnico Partnerships with companies (JR",
-          "FAQs, contacts and PhD Handbook PhD News Visit the news PhD Programmes Explore Research Explore our Research Learn more One Health Research opportunities News How we do research at Politecnico Research projects Il PNRR e il Politecnico Partnerships with companies (JRP) Technology Transfe",
-          "PhD News Visit the news PhD Programmes Explore Research Explore our Research Learn more One Health Research opportunities News How we do research at Politecnico Research projects Il PNRR e il Politecnico Partnerships with companies (JRP) Technology Transfer Polimi Innovators Departments"
+          "Companies PhD School FAQs, contacts and PhD Handbook PhD News Visit the news PhD Programmes Explore Research Explore our Research Learn more Research opportunities News How we do research at Politecnico Research projects Il PNRR e il Politecnico Partnerships with companies (JRP) Technolo",
+          "FAQs, contacts and PhD Handbook PhD News Visit the news PhD Programmes Explore Research Explore our Research Learn more Research opportunities News How we do research at Politecnico Research projects Il PNRR e il Politecnico Partnerships with companies (JRP) Technology Transfer Polimi In",
+          "hD Handbook PhD News Visit the news PhD Programmes Explore Research Explore our Research Learn more Research opportunities News How we do research at Politecnico Research projects Il PNRR e il Politecnico Partnerships with companies (JRP) Technology Transfer Polimi Innovators Departments"
         ],
         "people_contact": [
           "national dimension Learning development Welfare Sustainability and inclusion Hospitality and living Professors Tenure-track researchers Visiting professors Call for expression of interest Other resources Integrity and beyond Intranet di Ateneo Normativa di Ateneo Explore information for S",
@@ -264,7 +276,7 @@
           "national dimension Learning development Welfare Sustainability and inclusion Hospitality and living Professors Tenure-track researchers Visiting professors Call for expression of interest Other resources Integrity and beyond Intranet di Ateneo Normativa di Ateneo Staff Sustainability and"
         ]
       },
-      "content_hash": "486a72af056f0c8b4c56c9ce133c23d26b74d9399d9b90da06dfa98984d57e1f"
+      "content_hash": "49d4ce2a02e9eb4fd530faa3eed4b51380d27909d22072bd46f7b54fc5c0911a"
     },
     {
       "agent": "atlas",
@@ -289,9 +301,9 @@
           "n Sport and leisure Explore information for Students Learn more Notices After the enrolment Tuition fees, scholarships and financial aid Study Plan and OFA Didactic Activities and Degree Examination Language requirements Special cases Calendar and deadlines Certificates and forms Co"
         ],
         "research": [
-          "Companies PhD School FAQs, contacts and PhD Handbook PhD News Visit the news PhD Programmes Explore Research Explore our Research Learn more One Health Research opportunities News How we do research at Politecnico Research projects Il PNRR e il Politecnico Partnerships with companies (JR",
-          "FAQs, contacts and PhD Handbook PhD News Visit the news PhD Programmes Explore Research Explore our Research Learn more One Health Research opportunities News How we do research at Politecnico Research projects Il PNRR e il Politecnico Partnerships with companies (JRP) Technology Transfe",
-          "PhD News Visit the news PhD Programmes Explore Research Explore our Research Learn more One Health Research opportunities News How we do research at Politecnico Research projects Il PNRR e il Politecnico Partnerships with companies (JRP) Technology Transfer Polimi Innovators Departments"
+          "Companies PhD School FAQs, contacts and PhD Handbook PhD News Visit the news PhD Programmes Explore Research Explore our Research Learn more Research opportunities News How we do research at Politecnico Research projects Il PNRR e il Politecnico Partnerships with companies (JRP) Technolo",
+          "FAQs, contacts and PhD Handbook PhD News Visit the news PhD Programmes Explore Research Explore our Research Learn more Research opportunities News How we do research at Politecnico Research projects Il PNRR e il Politecnico Partnerships with companies (JRP) Technology Transfer Polimi In",
+          "hD Handbook PhD News Visit the news PhD Programmes Explore Research Explore our Research Learn more Research opportunities News How we do research at Politecnico Research projects Il PNRR e il Politecnico Partnerships with companies (JRP) Technology Transfer Polimi Innovators Departments"
         ],
         "people_contact": [
           "national dimension Learning development Welfare Sustainability and inclusion Hospitality and living Professors Tenure-track researchers Visiting professors Call for expression of interest Other resources Integrity and beyond Intranet di Ateneo Normativa di Ateneo Explore information for S",
@@ -299,7 +311,7 @@
           "national dimension Learning development Welfare Sustainability and inclusion Hospitality and living Professors Tenure-track researchers Visiting professors Call for expression of interest Other resources Integrity and beyond Intranet di Ateneo Normativa di Ateneo Staff Sustainability and"
         ]
       },
-      "content_hash": "d503525cf98e84c76f62c2bf45f4e48351a358afb42dd812d34e72c96c5231ef"
+      "content_hash": "fa835751fcf4de0ee2327e7f183eeb64064e936da9169b557016ef2eb7477f8d"
     },
     {
       "agent": "atlas",
@@ -625,7 +637,7 @@
           "anagement Organic Solar Cells Optoelectronics of group-IV semiconductor nanostructures Publications People Equipment Projects News In the Press People All Researchers Post-Docs PhD Students Technicians and project managers Afroditi Koutsogianni PhD Students Agustín Mihi Researchers Ale"
         ]
       },
-      "content_hash": "2565a9564fa3add33ea5ac569871c4c4ad1498510c54f6e5e333db952886b8e1"
+      "content_hash": "d7f685349f8c1e5701eacfebe08259cab427d6bcd8a7df1b4c678167ec9a6d39"
     },
     {
       "agent": "nova",
@@ -648,7 +660,7 @@
           "ncluding thermal, mechanical and biological aspects. Not only allows this to solve urgent problems (contact resistance), it also enables completely new (switchable, reconfigurable) devices. The topic is inspired by a combination of scientific curiosity and a strong feeling of practical"
         ]
       },
-      "content_hash": "fdab2e35a94299051f5609ac7832d139d420490ff01d61fbf7a87c33ed336dcc"
+      "content_hash": "e5bdda074198c26e9d24b1d4b15c3cc89e9c34ec600e3f9f25d09822c0c9fd97"
     },
     {
       "agent": "nova",
@@ -667,7 +679,7 @@
           "anagement Organic Solar Cells Optoelectronics of group-IV semiconductor nanostructures Publications People Equipment Projects News In the Press Publications Cargando publicaciones Nanopto..."
         ]
       },
-      "content_hash": "21c1dd17071d3e99d23d04947760702c3ad05903a1e5b811e32a5c8d7c53c036"
+      "content_hash": "a447171e04b7d7a12fbb0cf63ecaaf819349b29042067723f0601da9a6b68a0e"
     },
     {
       "agent": "nova",
@@ -691,7 +703,7 @@
           "» About the center Research Clean Room Laboratories Technology Transfer News & Outreach Highlights Contact Talent Search Contracting profile Legal Advice © Copyright 2026. IMB-CNM"
         ]
       },
-      "content_hash": "8ccb5bf9aa4a50a2534f8a2bb8ef47e7826836c78741da050c5c7bbb8912c61d"
+      "content_hash": "3c0606cb1ce0a6e29ff9e808b2050a5a0ff57849558c4d5c4ee4bb9fd05f7873"
     }
   ],
   "sources": [
@@ -729,7 +741,7 @@
           "Our Partners The course Overview Consortium & Universities Curriculum Mobility scheme Fees The Team Professors Administrative Associated partners (research centers and industry) Students Class #21 2025-2027 (32 students) Class #20 2024-2026 (31 students) Class #19 2023-2025 (17 students)"
         ]
       },
-      "content_hash": "184ad58d90aeb396ffa86576c1edddabb3f80891682c0b4e2076b3932ef6a32e"
+      "content_hash": "8e0d3aba589c8569da394c87c5948faab71d189dc99949f1ce4e1b1decbdf0cd"
     },
     {
       "agent": "atlas",
@@ -790,9 +802,9 @@
           "n Sport and leisure Explore information for Students Learn more Notices After the enrolment Tuition fees, scholarships and financial aid Study Plan and OFA Didactic Activities and Degree Examination Language requirements Special cases Calendar and deadlines Certificates and forms Co"
         ],
         "research": [
-          "Companies PhD School FAQs, contacts and PhD Handbook PhD News Visit the news PhD Programmes Explore Research Explore our Research Learn more One Health Research opportunities News How we do research at Politecnico Research projects Il PNRR e il Politecnico Partnerships with companies (JR",
-          "FAQs, contacts and PhD Handbook PhD News Visit the news PhD Programmes Explore Research Explore our Research Learn more One Health Research opportunities News How we do research at Politecnico Research projects Il PNRR e il Politecnico Partnerships with companies (JRP) Technology Transfe",
-          "PhD News Visit the news PhD Programmes Explore Research Explore our Research Learn more One Health Research opportunities News How we do research at Politecnico Research projects Il PNRR e il Politecnico Partnerships with companies (JRP) Technology Transfer Polimi Innovators Departments"
+          "Companies PhD School FAQs, contacts and PhD Handbook PhD News Visit the news PhD Programmes Explore Research Explore our Research Learn more Research opportunities News How we do research at Politecnico Research projects Il PNRR e il Politecnico Partnerships with companies (JRP) Technolo",
+          "FAQs, contacts and PhD Handbook PhD News Visit the news PhD Programmes Explore Research Explore our Research Learn more Research opportunities News How we do research at Politecnico Research projects Il PNRR e il Politecnico Partnerships with companies (JRP) Technology Transfer Polimi In",
+          "hD Handbook PhD News Visit the news PhD Programmes Explore Research Explore our Research Learn more Research opportunities News How we do research at Politecnico Research projects Il PNRR e il Politecnico Partnerships with companies (JRP) Technology Transfer Polimi Innovators Departments"
         ],
         "people_contact": [
           "national dimension Learning development Welfare Sustainability and inclusion Hospitality and living Professors Tenure-track researchers Visiting professors Call for expression of interest Other resources Integrity and beyond Intranet di Ateneo Normativa di Ateneo Explore information for S",
@@ -800,7 +812,7 @@
           "national dimension Learning development Welfare Sustainability and inclusion Hospitality and living Professors Tenure-track researchers Visiting professors Call for expression of interest Other resources Integrity and beyond Intranet di Ateneo Normativa di Ateneo Staff Sustainability and"
         ]
       },
-      "content_hash": "39b17c91d44f31de4065b73b6ff730a47213f3fa81e87bab917d2683490e9fca"
+      "content_hash": "e34b8a371b0f70b12b9582a955d86bbe100bb5996672a2d15b3ac06829e8ebbd"
     },
     {
       "agent": "atlas",
@@ -834,7 +846,7 @@
           "anding UPCshop, merchandising Press room © UPC Universitat Politècnica de Catalunya - BarcelonaTech Contact Site map Accessibility Disclaimer Privacy settings"
         ]
       },
-      "content_hash": "a488fa9e9927dd51be0234959500d88c7dc458a712d7f161acbd9030a4d15018"
+      "content_hash": "eb051cf09757b808f0188f4706ebfe655a7fe26a6eb37bf205eae2577cf8086a"
     },
     {
       "agent": "nova",
@@ -896,7 +908,7 @@
           "anagement Organic Solar Cells Optoelectronics of group-IV semiconductor nanostructures Publications People Equipment Projects News In the Press Organic Solar Cells We aim at producing strong contributions towards the development of cost-efective, low energy pay back time photovoltaics"
         ]
       },
-      "content_hash": "e7aa5ca26ffd7722ff75a916523e61364d6b52048e63f6c1e840a8f16615e985"
+      "content_hash": "aaabc2b95a2ad096043fdd0a86f0e4e26d198606d92ba3ae100df6ce94d9e0b7"
     },
     {
       "agent": "nova",
@@ -916,7 +928,7 @@
           "B. About the center Research Clean Room Laboratories Technology Transfer News & Outreach Highlights Contact Talent Search Contracting profile Legal Advice © Copyright 2026. IMB-CNM"
         ]
       },
-      "content_hash": "633687e84e2df04c152c96b5c97539bd2bbbe8c374d360fbf702c9d7ec61380c"
+      "content_hash": "d25efe846c9c7f9a18df7f6b99db9d8f8261f7bcee55a50996fab73da15bb345"
     }
   ]
 }
