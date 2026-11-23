@@ -1,10 +1,10 @@
 {
-  "generated_at": "2026-11-22T13:24:55.665815+00:00",
+  "generated_at": "2026-11-23T16:04:19.874162+00:00",
   "summary": {
     "targets": 8,
     "verified": 8,
     "discoveries": 24,
-    "changes": 2
+    "changes": 4
   },
   "changes": [
     {
@@ -14,9 +14,21 @@
       "message": "La página oficial cambió desde la última revisión."
     },
     {
+      "agent": "atlas",
+      "entity": "Politecnico di Milano Materials",
+      "url": "https://www.polimi.it/en/education/laurea-magistrale-programmes/programme-detail/materials-engineering-and-nanotechnology",
+      "message": "La página oficial cambió desde la última revisión."
+    },
+    {
       "agent": "nova",
       "entity": "ICMAB Nanopto",
       "url": "https://nanopto.icmab.es/index.php/research/organic-solar-cells",
+      "message": "La página oficial cambió desde la última revisión."
+    },
+    {
+      "agent": "nova",
+      "entity": "IMB-CNM Research Groups",
+      "url": "https://www.imb-cnm.csic.es/en/research/research-groups",
       "message": "La página oficial cambió desde la última revisión."
     }
   ],
@@ -52,7 +64,7 @@
           "dates Apply The course Overview Consortium & Universities Curriculum Mobility scheme Fees The Team Professors Administrative Associated partners (research centers and industry) Students Class #21 2025-2027 (32 students) Class #20 2024-2026 (31 students) Class #19 2023-2025 (17 students)"
         ]
       },
-      "content_hash": "f9f104cb3a9fdbaca26c4ea61d9a0ee40526c42528b2df936e6793c9c49a6dbe"
+      "content_hash": "e36315e2be2f96f96d97e023600a0d0c7ff4a1b030e942d88eb6e946e174079c"
     },
     {
       "agent": "atlas",
@@ -68,7 +80,7 @@
         ],
         "admission": [
           "tudents) Class #19 2023-2025 (17 students) Class #18 2022-2024 (34 students) Resources Alumni Apply Admission criteria Apply as a student As a scholar Scholarships For students For scholars Gallery Login Home Apply As a scholar As a scholar Partagez sur facebook Partagez sur twitter CALL",
-          "tudents) Class #19 2023-2025 (17 students) Class #18 2022-2024 (34 students) Resources Alumni Apply Admission criteria Apply as a student As a scholar Scholarships For students For scholars FAQ Contact Us LinkedIn i-MESC Privacy policy I would like to apply to i-MESC Class#23 (2027-2029)",
+          "tudents) Class #19 2023-2025 (17 students) Class #18 2022-2024 (34 students) Resources Alumni Apply Admission criteria Apply as a student As a scholar Scholarships For students For scholars FAQ LinkedIn i-MESC Privacy policy I would like to apply to i-MESC Class#23 (2027-2029) Application",
           "tudents) Class #19 2023-2025 (17 students) Class #18 2022-2024 (34 students) Resources Alumni Apply Admission criteria Apply as a student As a scholar Scholarships For students For scholars Gallery Login fermer"
         ],
         "fees_funding": [
@@ -87,7 +99,7 @@
           "dates Apply The course Overview Consortium & Universities Curriculum Mobility scheme Fees The Team Professors Administrative Associated partners (research centers and industry) Students Class #21 2025-2027 (32 students) Class #20 2024-2026 (31 students) Class #19 2023-2025 (17 students)"
         ]
       },
-      "content_hash": "f324e444ed59be9de36b0655b068324655a1e17b218813255403dc358253828b"
+      "content_hash": "bfe8bb7aeae8da372ae62ba4a6b42c68f0a22256bb712059ec7b9263d7dd1a50"
     },
     {
       "agent": "atlas",
@@ -120,7 +132,7 @@
           "dates Apply The course Overview Consortium & Universities Curriculum Mobility scheme Fees The Team Professors Administrative Associated partners (research centers and industry) Students Class #21 2025-2027 (32 students) Class #20 2024-2026 (31 students) Class #19 2023-2025 (17 students)"
         ]
       },
-      "content_hash": "084f18c2226234a2a0fbddc526d6de6a3178ddd96359e8cbca93bd0fae0c83b6"
+      "content_hash": "1456acbb5ab8b9b09f113ad32c0a627c4ddf04b4bc01d9d3e18a21b182388a6f"
     },
     {
       "agent": "atlas",
@@ -132,11 +144,11 @@
         "deadlines": [
           "(31 students) Class #19 2023-2025 (17 students) Class #18 2022-2024 (34 students) Resources Alumni Apply Admission criteria Apply as a student As a scholar Scholarships For students For scholars Gallery Login Home Scholarships For students For students Partagez sur facebook Partagez",
           "2023-2025 (17 students) Class #18 2022-2024 (34 students) Resources Alumni Apply Admission criteria Apply as a student As a scholar Scholarships For students For scholars Gallery Login Home Scholarships For students For students Partagez sur facebook Partagez sur twitter Erasmus Mundu",
-          "(31 students) Class #19 2023-2025 (17 students) Class #18 2022-2024 (34 students) Resources Alumni Apply Admission criteria Apply as a student As a scholar Scholarships For students For scholars FAQ Contact Us LinkedIn i-MESC Privacy policy I would like to apply to i-MESC Class#23 (2"
+          "(31 students) Class #19 2023-2025 (17 students) Class #18 2022-2024 (34 students) Resources Alumni Apply Admission criteria Apply as a student As a scholar Scholarships For students For scholars FAQ LinkedIn i-MESC Privacy policy I would like to apply to i-MESC Class#23 (2027-2029) A"
         ],
         "admission": [
           "tudents) Class #19 2023-2025 (17 students) Class #18 2022-2024 (34 students) Resources Alumni Apply Admission criteria Apply as a student As a scholar Scholarships For students For scholars Gallery Login Home Scholarships For students For students Partagez sur facebook Partagez sur twitte",
-          "tudents) Class #19 2023-2025 (17 students) Class #18 2022-2024 (34 students) Resources Alumni Apply Admission criteria Apply as a student As a scholar Scholarships For students For scholars FAQ Contact Us LinkedIn i-MESC Privacy policy I would like to apply to i-MESC Class#23 (2027-2029)",
+          "tudents) Class #19 2023-2025 (17 students) Class #18 2022-2024 (34 students) Resources Alumni Apply Admission criteria Apply as a student As a scholar Scholarships For students For scholars FAQ LinkedIn i-MESC Privacy policy I would like to apply to i-MESC Class#23 (2027-2029) Application",
           "tudents) Class #19 2023-2025 (17 students) Class #18 2022-2024 (34 students) Resources Alumni Apply Admission criteria Apply as a student As a scholar Scholarships For students For scholars Gallery Login fermer"
         ],
         "fees_funding": [
@@ -153,7 +165,7 @@
           "dates Apply The course Overview Consortium & Universities Curriculum Mobility scheme Fees The Team Professors Administrative Associated partners (research centers and industry) Students Class #21 2025-2027 (32 students) Class #20 2024-2026 (31 students) Class #19 2023-2025 (17 students)"
         ]
       },
-      "content_hash": "b66ab1f1ffb12edfdc4ab21c19e888b8c27d533b262d82c2f327727d9837412e"
+      "content_hash": "316c0930ff4ac553a476214c7e1a0f62f506ae2bb17eefa608000bd30b3cdf91"
     },
     {
       "agent": "atlas",
@@ -188,7 +200,7 @@
           "national dimension Learning development Welfare Sustainability and inclusion Hospitality and living Professors Tenure-track researchers Visiting professors Call for expression of interest Other resources Integrity and beyond Intranet di Ateneo Normativa di Ateneo Staff Sustainability and"
         ]
       },
-      "content_hash": "19336684143ef680109086b12b097abeb6f157a5366a76ff5a6524546a0a3120"
+      "content_hash": "92bd81eb04fca49d10e38fc0bc84ef472156990536ff4991c8b13efcc2a50526"
     },
     {
       "agent": "atlas",
@@ -223,7 +235,7 @@
           "national dimension Learning development Welfare Sustainability and inclusion Hospitality and living Professors Tenure-track researchers Visiting professors Call for expression of interest Other resources Integrity and beyond Intranet di Ateneo Normativa di Ateneo Staff Sustainability and"
         ]
       },
-      "content_hash": "5e154d049a9a5db1096b79ea340b6f32d734ebe60ce60b245b401297d024c7b4"
+      "content_hash": "cb114e47d92c154360258def3cfb75c5351229b5603e4d4f288f6553c7ce0d28"
     },
     {
       "agent": "atlas",
@@ -258,7 +270,7 @@
           "national dimension Learning development Welfare Sustainability and inclusion Hospitality and living Professors Tenure-track researchers Visiting professors Call for expression of interest Other resources Integrity and beyond Intranet di Ateneo Normativa di Ateneo Staff Sustainability and"
         ]
       },
-      "content_hash": "49d4ce2a02e9eb4fd530faa3eed4b51380d27909d22072bd46f7b54fc5c0911a"
+      "content_hash": "99bc59e517f13c9540810d89fd1d40f0997860077276583901954fa7fcbb5dc5"
     },
     {
       "agent": "atlas",
@@ -293,7 +305,7 @@
           "national dimension Learning development Welfare Sustainability and inclusion Hospitality and living Professors Tenure-track researchers Visiting professors Call for expression of interest Other resources Integrity and beyond Intranet di Ateneo Normativa di Ateneo Staff Sustainability and"
         ]
       },
-      "content_hash": "fa835751fcf4de0ee2327e7f183eeb64064e936da9169b557016ef2eb7477f8d"
+      "content_hash": "9dff99c6aeb40525abfe0bb408cf82af5c8465eb47bb9c40bec69ed9ab9c546f"
     },
     {
       "agent": "atlas",
@@ -384,7 +396,7 @@
           "anding UPCshop, merchandising Press room © UPC Universitat Politècnica de Catalunya - BarcelonaTech Contact Site map Accessibility Disclaimer Privacy settings"
         ]
       },
-      "content_hash": "dded7ebfd1e9804cdff551ecb740274329cf10c4642886badcba9a29b46623a0"
+      "content_hash": "eb1dc1df6f66d9870cfdd2759af0e4eb75b5244bf97b602d0444382e2aecaec3"
     },
     {
       "agent": "atlas",
@@ -619,7 +631,7 @@
           "anagement Organic Solar Cells Optoelectronics of group-IV semiconductor nanostructures Publications People Equipment Projects News In the Press People All Researchers Post-Docs PhD Students Technicians and project managers Afroditi Koutsogianni PhD Students Agustín Mihi Researchers Ale"
         ]
       },
-      "content_hash": "1355150f77292897cdec26ae31da7567c0a3c51a0f2412db480d250f95881adf"
+      "content_hash": "bbe200928231f49da5c95662fdbf35f38d17fceacb22a000f730f41f22182fd0"
     },
     {
       "agent": "nova",
@@ -642,7 +654,7 @@
           "ncluding thermal, mechanical and biological aspects. Not only allows this to solve urgent problems (contact resistance), it also enables completely new (switchable, reconfigurable) devices. The topic is inspired by a combination of scientific curiosity and a strong feeling of practical"
         ]
       },
-      "content_hash": "672e7b0332c861ab3a84c7a30b3f06f42f77618dc659a1e63a7e2046754c361d"
+      "content_hash": "41809645db8de5eb5eab01ba3fe0a9c3751f68b63913b975f47fb69116912974"
     },
     {
       "agent": "nova",
@@ -661,7 +673,7 @@
           "anagement Organic Solar Cells Optoelectronics of group-IV semiconductor nanostructures Publications People Equipment Projects News In the Press Publications Cargando publicaciones Nanopto..."
         ]
       },
-      "content_hash": "512aaa6ca2303b059cf524aaed556f7c6c85e5ef8e17c5eb7b1106f77ba3cbe9"
+      "content_hash": "fd7c02a00570999c87531c8ad406a9cdd5d0dfb11afbd390680af3aa1f2dee6d"
     },
     {
       "agent": "nova",
@@ -685,7 +697,7 @@
           "» About the center Research Clean Room Laboratories Technology Transfer News & Outreach Highlights Contact Talent Search Contracting profile Legal Advice © Copyright 2026. IMB-CNM"
         ]
       },
-      "content_hash": "e8f1a71bec25e6b163b74cf93e007756bb777faeec42405c0d47a0ed23dd151e"
+      "content_hash": "e43dee09dabc88f5558ebb27ad6f9d09dcea6254c7354f593cb448474513dd01"
     }
   ],
   "sources": [
@@ -700,16 +712,16 @@
         "deadlines": [
           "(31 students) Class #19 2023-2025 (17 students) Class #18 2022-2024 (34 students) Resources Alumni Apply Admission criteria Apply as a student As a scholar Scholarships For students For scholars Gallery Login G i v e E n e r g y t o y o u r s t u d i e s MESC20 Graduation A big miles",
           "2023-2025 (17 students) Class #18 2022-2024 (34 students) Resources Alumni Apply Admission criteria Apply as a student As a scholar Scholarships For students For scholars Gallery Login G i v e E n e r g y t o y o u r s t u d i e s MESC20 Graduation A big milestone for the programme: t",
-          "(31 students) Class #19 2023-2025 (17 students) Class #18 2022-2024 (34 students) Resources Alumni Apply Admission criteria Apply as a student As a scholar Scholarships For students For scholars FAQ Contact Us LinkedIn i-MESC Privacy policy I would like to apply to i-MESC Class#23 (2"
+          "(31 students) Class #19 2023-2025 (17 students) Class #18 2022-2024 (34 students) Resources Alumni Apply Admission criteria Apply as a student As a scholar Scholarships For students For scholars FAQ LinkedIn i-MESC Privacy policy I would like to apply to i-MESC Class#23 (2027-2029) A"
         ],
         "admission": [
           "tudents) Class #19 2023-2025 (17 students) Class #18 2022-2024 (34 students) Resources Alumni Apply Admission criteria Apply as a student As a scholar Scholarships For students For scholars Gallery Login G i v e E n e r g y t o y o u r s t u d i e s MESC20 Graduation A big milestone for t",
-          "tudents) Class #19 2023-2025 (17 students) Class #18 2022-2024 (34 students) Resources Alumni Apply Admission criteria Apply as a student As a scholar Scholarships For students For scholars FAQ Contact Us LinkedIn i-MESC Privacy policy I would like to apply to i-MESC Class#23 (2027-2029)",
+          "tudents) Class #19 2023-2025 (17 students) Class #18 2022-2024 (34 students) Resources Alumni Apply Admission criteria Apply as a student As a scholar Scholarships For students For scholars FAQ LinkedIn i-MESC Privacy policy I would like to apply to i-MESC Class#23 (2027-2029) Application",
           "tudents) Class #19 2023-2025 (17 students) Class #18 2022-2024 (34 students) Resources Alumni Apply Admission criteria Apply as a student As a scholar Scholarships For students For scholars Gallery Login fermer"
         ],
         "fees_funding": [
           "der au contenu menu mobile The course Overview Consortium & Universities Curriculum Mobility scheme Fees The Team Professors Administrative Associated partners (research centers and industry) Students Class #21 2025-2027 (32 students) Class #20 2024-2026 (31 students) Class #19 2023",
-          "Slovenia More Our Partners The course Overview Consortium & Universities Curriculum Mobility scheme Fees The Team Professors Administrative Associated partners (research centers and industry) Students Class #21 2025-2027 (32 students) Class #20 2024-2026 (31 students) Class #19 2023",
+          "Spain More Our Partners The course Overview Consortium & Universities Curriculum Mobility scheme Fees The Team Professors Administrative Associated partners (research centers and industry) Students Class #21 2025-2027 (32 students) Class #20 2024-2026 (31 students) Class #19 2023",
           "me) indicative dates Apply The course Overview Consortium & Universities Curriculum Mobility scheme Fees The Team Professors Administrative Associated partners (research centers and industry) Students Class #21 2025-2027 (32 students) Class #20 2024-2026 (31 students) Class #19 2023"
         ],
         "research": [
@@ -723,7 +735,7 @@
           "Our Partners The course Overview Consortium & Universities Curriculum Mobility scheme Fees The Team Professors Administrative Associated partners (research centers and industry) Students Class #21 2025-2027 (32 students) Class #20 2024-2026 (31 students) Class #19 2023-2025 (17 students)"
         ]
       },
-      "content_hash": "6a6137414760519830e62c1d7fda7f2c33c36132bcbaede88cb1482704b5f931"
+      "content_hash": "082c0eecb572592fc087405dca26101cbd9fe64d59ca3dc2b75bf646f2b0a99f"
     },
     {
       "agent": "atlas",
@@ -794,7 +806,7 @@
           "national dimension Learning development Welfare Sustainability and inclusion Hospitality and living Professors Tenure-track researchers Visiting professors Call for expression of interest Other resources Integrity and beyond Intranet di Ateneo Normativa di Ateneo Staff Sustainability and"
         ]
       },
-      "content_hash": "e34b8a371b0f70b12b9582a955d86bbe100bb5996672a2d15b3ac06829e8ebbd"
+      "content_hash": "68e614b136e78ec24c99f0a007ab07eaf42d8116956946dcf5de8ad2f524732f"
     },
     {
       "agent": "atlas",
@@ -890,7 +902,7 @@
           "anagement Organic Solar Cells Optoelectronics of group-IV semiconductor nanostructures Publications People Equipment Projects News In the Press Organic Solar Cells We aim at producing strong contributions towards the development of cost-efective, low energy pay back time photovoltaics"
         ]
       },
-      "content_hash": "dede449dfacf5f2bbfe448cdd690e44671df164c3199f4efa82aeee81e3fa56c"
+      "content_hash": "f15ce05db7a495805fa1c404e5aea32d037da51f449888443366f1a5589c3bbb"
     },
     {
       "agent": "nova",
@@ -910,7 +922,7 @@
           "B. About the center Research Clean Room Laboratories Technology Transfer News & Outreach Highlights Contact Talent Search Contracting profile Legal Advice © Copyright 2026. IMB-CNM"
         ]
       },
-      "content_hash": "7076aef41fcbc245425a6f97d43bd2fa294cdb00e982ec7badeb190672ddb402"
+      "content_hash": "3429caa826b76565399e784cfa8e001e607d262458bb0b7e9f8a295e861a27b8"
     }
   ]
 }
