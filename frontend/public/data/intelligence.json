@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-26T15:23:40.718454+00:00",
+  "generated_at": "2026-11-27T15:11:31.164856+00:00",
   "summary": {
     "targets": 8,
     "verified": 8,
@@ -15,8 +15,8 @@
     },
     {
       "agent": "atlas",
-      "entity": "Politecnico di Milano Materials",
-      "url": "https://www.polimi.it/en/education/laurea-magistrale-programmes/programme-detail/materials-engineering-and-nanotechnology",
+      "entity": "KU Leuven Nanoscience",
+      "url": "https://onderwijsaanbod.kuleuven.be/opleidingen/e/SC_58449463/diploma_omschrijving",
       "message": "La página oficial cambió desde la última revisión."
     },
     {
@@ -631,7 +631,7 @@
           "anagement Organic Solar Cells Optoelectronics of group-IV semiconductor nanostructures Publications People Equipment Projects News In the Press People All Researchers Post-Docs PhD Students Technicians and project managers Afroditi Koutsogianni PhD Students Agustín Mihi Researchers Ale"
         ]
       },
-      "content_hash": "30b4f036e62ea5c64fa272dbec4fb86064c6d19276f740c9a7d5db65d8f1ebf2"
+      "content_hash": "d0b57df903a0d673110a1a53a3d06eb83787b9e851727449d56ba55f9e3741f8"
     },
     {
       "agent": "nova",
@@ -654,7 +654,7 @@
           "ncluding thermal, mechanical and biological aspects. Not only allows this to solve urgent problems (contact resistance), it also enables completely new (switchable, reconfigurable) devices. The topic is inspired by a combination of scientific curiosity and a strong feeling of practical"
         ]
       },
-      "content_hash": "136b8891a3b0cd507c1604a09fc099520e51516eec651741a258616e13ecfda5"
+      "content_hash": "79b2e34be7e5b354f1d15152d35bf25ef024e8bdd969a64c462fa5e8b70416a4"
     },
     {
       "agent": "nova",
@@ -673,14 +673,14 @@
           "anagement Organic Solar Cells Optoelectronics of group-IV semiconductor nanostructures Publications People Equipment Projects News In the Press Publications Cargando publicaciones Nanopto..."
         ]
       },
-      "content_hash": "38d8dad21146f7a81ca6bd7a67a4a96a5b9cc6d99c8690df06c77cadaa03f5e0"
+      "content_hash": "a8906cbbfd13d8acc9b30af46c1064dd52b2951a0f8b39454d246f4515acd70f"
     },
     {
       "agent": "nova",
       "kind": "tfg",
       "entity": "IMB-CNM Research Groups",
       "url": "https://www.imb-cnm.csic.es/en/research/projects",
-      "title": "Projects | IMB CNM",
+      "title": "Projects | IMB-CNM",
       "signals": {
         "fees_funding": [
           "de nanodispositivos opto-eléctricos and opto-mecánicos y análisis de la respuesta anti-inflamatoria Funding agency MICIU/AEI/10.13039/501100011033 y por FEDER, UE Reference PID2025-173911OB-C21 Period 01/09/2026 - 31/08/2029 P.I. at IMB-CNM Sepúlveda Martínez, Borja / Álvarez Sánchez, M",
@@ -693,11 +693,11 @@
           "ganization Staff List Transparency Portal Research Networking Projects Publications Research Career Research Groups Thematic axes Alignment with EU Chips Act María de Maeztu Unit of Excellence Clean Room Clean Room Virtual Tour Integrated Micro and Nanofabrication Clean Room Micronanofab"
         ],
         "people_contact": [
-          "Projects | IMB CNM Skip to main content Contact Talent Search Select your language en es ca About the center The IMB-CNM Director's message Committees and Working Groups Organization Staff List Transparency Portal Research Netw",
+          "Projects | IMB-CNM Skip to main content Contact Talent Search Select your language en es ca About the center The IMB-CNM Director's message Committees and Working Groups Organization Staff List Transparency Portal Research Netw",
           "» About the center Research Clean Room Laboratories Technology Transfer News & Outreach Highlights Contact Talent Search Contracting profile Legal Advice © Copyright 2026. IMB-CNM"
         ]
       },
-      "content_hash": "69acdd95142807f196d868b05cd2bdca9ff2cc1bd0e420b99491c9a0a0aee4bd"
+      "content_hash": "a89fedeba08856c581084d094ededba3626270a81d5928fe3deb8778c71383e8"
     }
   ],
   "sources": [
@@ -721,7 +721,7 @@
         ],
         "fees_funding": [
           "der au contenu menu mobile The course Overview Consortium & Universities Curriculum Mobility scheme Fees The Team Professors Administrative Associated partners (research centers and industry) Students Class #21 2025-2027 (32 students) Class #20 2024-2026 (31 students) Class #19 2023",
-          "national More Our Partners The course Overview Consortium & Universities Curriculum Mobility scheme Fees The Team Professors Administrative Associated partners (research centers and industry) Students Class #21 2025-2027 (32 students) Class #20 2024-2026 (31 students) Class #19 2023",
+          "Slovenia More Our Partners The course Overview Consortium & Universities Curriculum Mobility scheme Fees The Team Professors Administrative Associated partners (research centers and industry) Students Class #21 2025-2027 (32 students) Class #20 2024-2026 (31 students) Class #19 2023",
           "me) indicative dates Apply The course Overview Consortium & Universities Curriculum Mobility scheme Fees The Team Professors Administrative Associated partners (research centers and industry) Students Class #21 2025-2027 (32 students) Class #20 2024-2026 (31 students) Class #19 2023"
         ],
         "research": [
@@ -735,7 +735,7 @@
           "Our Partners The course Overview Consortium & Universities Curriculum Mobility scheme Fees The Team Professors Administrative Associated partners (research centers and industry) Students Class #21 2025-2027 (32 students) Class #20 2024-2026 (31 students) Class #19 2023-2025 (17 students)"
         ]
       },
-      "content_hash": "0f92d893b955d9fe679a58667cb8fc7ea14f5c67edc838a041f8025e563c3555"
+      "content_hash": "88cb74c52961e10c3abcf81e24655efbb31c4be4bba0f3cd7eeddd4e25a17d0e"
     },
     {
       "agent": "atlas",
@@ -747,7 +747,7 @@
       "signals": {
         "deadlines": [
           "t admission requirements For the most recent – ​​​​​​and only official information – on application deadlines , check the application window for this programme. Apply as non-Flemish degree holder Flemish degree holder Students who obtained a prior degree at an institution of the Flemish",
-          "e events held by KU Leuven, our study programmes, admission requirements, tuition fees, application deadlines, research and more. Keep me informed PDF/print Disclaimer Cookie Settings Privacy Policy Jobs Follow KU Leuven on search New degree programmes for 2027 - 2028 Lifelong learning F",
+          "e events held by KU Leuven, our study programmes, admission requirements, tuition fees, application deadlines, research and more. Keep me informed PDF/print Disclaimer Cookie Settings Privacy Policy Jobs Follow KU Leuven on KU Leuven New degree programmes for 2027 - 2028 Lifelong learnin",
           "ts For the most recent – ​​​​​​and only official information – on application deadlines , check the application window for this programme. Apply as non-Flemish degree holder Flemish degree holder Students who obtained a prior degree at an institution of the Flemish Community may be eligible for di"
         ],
         "admission": [
@@ -770,7 +770,7 @@
           "Engineering Science website Discover all the programmes of the faculty More on our campus in Leuven Contact Questions about the programme? You can ask about which classes you will take, the subjects you will study, the campus where you will be spending your time and much more. Questions"
         ]
       },
-      "content_hash": "e85643c1bf07813c71e919761f9ce6addf41df669671739e2f4b8daa8e5996c0"
+      "content_hash": "9b57c7c1db8feffc5d13d252eeac906cec5c169a6c7b6b044bbd2a45fbc76cf6"
     },
     {
       "agent": "atlas",
@@ -902,27 +902,27 @@
           "anagement Organic Solar Cells Optoelectronics of group-IV semiconductor nanostructures Publications People Equipment Projects News In the Press Organic Solar Cells We aim at producing strong contributions towards the development of cost-efective, low energy pay back time photovoltaics"
         ]
       },
-      "content_hash": "1af3023e883dfb5135da9e23dd3e53d098ffab9d6a34927796542912387a5478"
+      "content_hash": "4aebe297dbc2c241b289e8325a8a580ba5f30f0a1684406c79435e674e6bf05b"
     },
     {
       "agent": "nova",
       "kind": "tfg",
       "entity": "IMB-CNM Research Groups",
       "url": "https://www.imb-cnm.csic.es/en/research/research-groups",
-      "title": "Research Groups | IMB CNM",
+      "title": "Research Groups | IMB-CNM",
       "status": "verified",
       "signals": {
         "research": [
-          "Research Groups | IMB CNM Skip to main content Contact Talent Search Select your language en es ca About the center The IMB-CNM Director's message Committees and Working Groups Organizatio",
+          "Research Groups | IMB-CNM Skip to main content Contact Talent Search Select your language en es ca About the center The IMB-CNM Director's message Committees and Working Groups Organizatio",
           "MB-CNM Director's message Committees and Working Groups Organization Staff List Transparency Portal Research Networking Projects Publications Research Career Research Groups Thematic axes Alignment with EU Chips Act María de Maeztu Unit of Excellence Clean Room Clean Room Virtual Tour In",
           "orking Groups Organization Staff List Transparency Portal Research Networking Projects Publications Research Career Research Groups Thematic axes Alignment with EU Chips Act María de Maeztu Unit of Excellence Clean Room Clean Room Virtual Tour Integrated Micro and Nanofabrication Clean R"
         ],
         "people_contact": [
-          "Research Groups | IMB CNM Skip to main content Contact Talent Search Select your language en es ca About the center The IMB-CNM Director's message Committees and Working Groups Organization Staff List Transparency Portal Research Netw",
+          "Research Groups | IMB-CNM Skip to main content Contact Talent Search Select your language en es ca About the center The IMB-CNM Director's message Committees and Working Groups Organization Staff List Transparency Portal Research Netw",
           "B. About the center Research Clean Room Laboratories Technology Transfer News & Outreach Highlights Contact Talent Search Contracting profile Legal Advice © Copyright 2026. IMB-CNM"
         ]
       },
-      "content_hash": "d648e5435761e41a796f25ab5495ed210ca9cdb74a4672ee8f3fd41c4fc038d7"
+      "content_hash": "4967f821a3ee4cbfd91acb6c9e58a71c1a73861744ebebb50b2e1c3b29cf7fde"
     }
   ]
 }
